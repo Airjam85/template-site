@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "simple-resignation-letter",
+    "title": "Simple Resignation Letter Template",
+    "description": "Professional resignation letter you can copy instantly.",
+    "body": "Dear [Manager],\n\nI am writing to formally resign...\n\nSincerely,\n[Name]"
+  },
+  {
+    "slug": "two-weeks-notice-letter",
+    "title": "Two Weeks Notice Letter Template",
+    "description": "Standard 2 weeks notice resignation letter.",
+    "body": "Dear [Manager],\n\nPlease accept this as my two weeks notice..."
+  },
+  {
+    "slug": "invoice-template",
+    "title": "Free Invoice Template",
+    "description": "Simple freelance invoice template.",
+    "body": "Invoice #:\nClient:\nAmount:\nDue date:"
+  },
+  {
+    "slug": "freelance-contract-template",
+    "title": "Freelance Contract Template",
+    "description": "Basic freelance agreement template.",
+    "body": "This agreement is between..."
+  },
+  {
+    "slug": "nda-template",
+    "title": "NDA Template",
+    "description": "Non-disclosure agreement template.",
+    "body": "This NDA is made between..."
+  },
+  {
+    "slug": "cover-letter-template",
+    "title": "Cover Letter Template",
+    "description": "Job application cover letter template.",
+    "body": "Dear Hiring Manager..."
+  },
+  {
+    "slug": "recommendation-letter-template",
+    "title": "Recommendation Letter Template",
+    "description": "Reference letter for employees or students.",
+    "body": "To Whom It May Concern..."
+  },
+  {
+    "slug": "employment-verification-letter",
+    "title": "Employment Verification Letter",
+    "description": "Proof of employment letter template.",
+    "body": "This letter confirms..."
+  },
+  {
+    "slug": "simple-business-plan-template",
+    "title": "Simple Business Plan Template",
+    "description": "One-page business plan format.",
+    "body": "Business overview:\nGoals:\nMarket:"
+  },
+  {
+    "slug": "termination-letter-template",
+    "title": "Termination Letter Template",
+    "description": "Employee termination letter format.",
+    "body": "We regret to inform you..."
+  }
+]
