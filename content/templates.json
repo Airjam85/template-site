@@ -3,60 +3,238 @@
     "slug": "simple-resignation-letter",
     "title": "Simple Resignation Letter Template",
     "description": "Professional resignation letter you can copy instantly.",
+    "intro": "Use this simple resignation letter template to formally notify your employer of your departure in a clear, professional way.",
     "body": "Dear [Manager],\n\nI am writing to formally resign...\n\nSincerely,\n[Name]"
   },
   {
     "slug": "two-weeks-notice-letter",
     "title": "Two Weeks Notice Letter Template",
     "description": "Standard 2 weeks notice resignation letter.",
+    "intro": "This two weeks notice letter template helps you professionally inform your employer while maintaining good relationships.",
     "body": "Dear [Manager],\n\nPlease accept this as my two weeks notice..."
   },
   {
     "slug": "invoice-template",
     "title": "Free Invoice Template",
     "description": "Simple freelance invoice template.",
+    "intro": "Use this simple invoice template to bill clients clearly and ensure timely payments for your freelance work.",
     "body": "Invoice #:\nClient:\nAmount:\nDue date:"
   },
   {
     "slug": "freelance-contract-template",
     "title": "Freelance Contract Template",
     "description": "Basic freelance agreement template.",
+    "intro": "This freelance contract template helps define scope, payment terms, and expectations between clients and freelancers.",
     "body": "This agreement is between..."
   },
   {
     "slug": "nda-template",
     "title": "NDA Template",
     "description": "Non-disclosure agreement template.",
+    "intro": "Use this NDA template to protect confidential business information when working with clients, contractors, or partners.",
     "body": "This NDA is made between..."
   },
   {
     "slug": "cover-letter-template",
     "title": "Cover Letter Template",
     "description": "Job application cover letter template.",
+    "intro": "This cover letter template helps you introduce yourself professionally and highlight your qualifications to employers.",
     "body": "Dear Hiring Manager..."
   },
   {
     "slug": "recommendation-letter-template",
     "title": "Recommendation Letter Template",
     "description": "Reference letter for employees or students.",
+    "intro": "Use this recommendation letter template to write strong references for employees, students, or colleagues.",
     "body": "To Whom It May Concern..."
   },
   {
     "slug": "employment-verification-letter",
     "title": "Employment Verification Letter",
     "description": "Proof of employment letter template.",
+    "intro": "This employment verification letter confirms an individual’s job status, role, and employment details.",
     "body": "This letter confirms..."
   },
   {
     "slug": "simple-business-plan-template",
     "title": "Simple Business Plan Template",
     "description": "One-page business plan format.",
+    "intro": "This simple business plan template helps you outline your goals, strategy, and market in a clear one-page format.",
     "body": "Business overview:\nGoals:\nMarket:"
   },
   {
     "slug": "termination-letter-template",
     "title": "Termination Letter Template",
     "description": "Employee termination letter format.",
+    "intro": "Use this termination letter template to formally communicate employment termination in a professional and compliant way.",
+    "body": "We regret to inform you..."
+  },
+  {
+    "slug": "invoice-template-for-photographers",
+    "title": "Invoice Template for Photographers",
+    "description": "Free photography invoice template.",
+    "intro": "This photography invoice template helps photographers bill clients for shoots, edits, and creative services.",
+    "body": "Invoice Number: ______"
+  },
+  {
+    "slug": "two-weeks-notice-letter-for-teachers",
+    "title": "Two Weeks Notice Letter Template for Teachers",
+    "description": "Standard 2 weeks notice resignation letter.",
+    "intro": "Teachers can use this two weeks notice letter template to formally resign while maintaining professionalism with school administration.",
+    "body": "Dear [Human Resources],\n\nPlease accept this as my two weeks notice..."
+  },
+  {
+    "slug": "invoice-template-for-consultants",
+    "title": "Invoice Template for Consultants",
+    "description": "Free consultant invoice template.",
+    "intro": "This consultant invoice template helps professionals bill clients for advisory services and project work.",
+    "body": "Invoice Number: ______"
+  },
+  {
+    "slug": "simple-resignation-letter-for-teachers",
+    "title": "Simple Resignation Letter Template for Teachers",
+    "description": "Professional resignation letter you can copy instantly.",
+    "intro": "Teachers can use this resignation letter template to formally step down while keeping communication respectful and clear.",
+    "body": "Dear [Principal],\n\nI am writing to formally resign...\n\nSincerely,\n[Name]"
+  },
+  {
+    "slug": "nda-template-for-freelancers",
+    "title": "NDA Template for Freelancers",
+    "description": "Non-disclosure agreement template for freelancers.",
+    "intro": "Freelancers can use this NDA template to protect client confidentiality and sensitive project information.",
+    "body": "This NDA is made between..."
+  },
+  {
+    "slug": "cover-letter-template-for-software-developers",
+    "title": "Cover Letter Template for Software Developers",
+    "description": "Job application cover letter template for software developers.",
+    "intro": "Software developers can use this cover letter template to highlight technical skills and project experience.",
+    "body": "Dear Hiring Manager..."
+  },
+  {
+    "slug": "recommendation-letter-template-for-students",
+    "title": "Recommendation Letter Template for Students",
+    "description": "Reference letter for students.",
+    "intro": "This student recommendation letter template helps teachers and mentors write strong academic references.",
+    "body": "To Whom It May Concern..."
+  },
+  {
+    "slug": "employment-verification-letter-for-visa-applications",
+    "title": "Employment Verification Letter for Visa Applications",
+    "description": "Proof of employment letter template for visa applications.",
+    "intro": "Use this employment verification letter template when applying for visas requiring proof of employment.",
+    "body": "This letter confirms..."
+  },
+  {
+    "slug": "simple-business-plan-template-for-startups",
+    "title": "Simple Business Plan Template for Startups",
+    "description": "One-page business plan format for startups.",
+    "intro": "Startups can use this business plan template to quickly outline strategy, goals, and market positioning.",
+    "body": "Business overview:\nGoals:\nMarket:"
+  },
+  {
+    "slug": "termination-letter-template-for-employees",
+    "title": "Termination Letter Template for Employees",
+    "description": "Employee termination letter format.",
+    "intro": "This employee termination letter template ensures clear, professional communication during job termination.",
+    "body": "We regret to inform you..."
+  },
+  {
+    "slug": "freelance-contract-template-for-designers",
+    "title": "Freelance Contract Template for Designers",
+    "description": "Basic freelance agreement template for designers.",
+    "intro": "Designers can use this freelance contract template to define project scope, revisions, and payment terms.",
+    "body": "This agreement is between..."
+  },
+  {
+    "slug": "nda-template-for-startups",
+    "title": "NDA Template for Startups",
+    "description": "Non-disclosure agreement template for startups.",
+    "intro": "Startups can use this NDA template to protect ideas, products, and confidential business information.",
+    "body": "This NDA is made between..."
+  },
+  {
+    "slug": "cover-letter-template-for-marketing-roles",
+    "title": "Cover Letter Template for Marketing Roles",
+    "description": "Job application cover letter template for marketing positions.",
+    "intro": "Marketing professionals can use this cover letter template to showcase campaigns, creativity, and results.",
+    "body": "Dear Hiring Manager..."
+  },
+  {
+    "slug": "recommendation-letter-template-for-employees",
+    "title": "Recommendation Letter Template for Employees",
+    "description": "Reference letter for employees.",
+    "intro": "This employee recommendation letter template helps managers provide strong professional references.",
+    "body": "To Whom It May Concern..."
+  },
+  {
+    "slug": "employment-verification-letter-for-loan-applications",
+    "title": "Employment Verification Letter for Loan Applications",
+    "description": "Proof of employment letter template for loan applications.",
+    "intro": "Use this employment verification letter when applying for loans that require income or employment proof.",
+    "body": "This letter confirms..."
+  },
+  {
+    "slug": "simple-business-plan-template-for-small-businesses",
+    "title": "Simple Business Plan Template for Small Businesses",
+    "description": "One-page business plan format for small businesses.",
+    "intro": "Small businesses can use this simple business plan template to organize goals, strategy, and operations.",
+    "body": "Business overview:\nGoals:\nMarket:"
+  },
+  {
+    "slug": "termination-letter-template-for-contractors",
+    "title": "Termination Letter Template for Contractors",
+    "description": "Contractor termination letter format.",
+    "intro": "This contractor termination letter template helps formally end service agreements professionally.",
+    "body": "We regret to inform you..."
+  },
+  {
+    "slug": "freelance-contract-template-for-writers",
+    "title": "Freelance Contract Template for Writers",
+    "description": "Basic freelance agreement template for writers.",
+    "intro": "Writers can use this freelance contract template to define scope, deadlines, and payment terms.",
+    "body": "This agreement is between..."
+  },
+  {
+    "slug": "nda-template-for-employees",
+    "title": "NDA Template for Employees",
+    "description": "Non-disclosure agreement template for employees.",
+    "intro": "Employees can use this NDA template to ensure confidentiality of company information and trade secrets.",
+    "body": "This NDA is made between..."
+  },
+  {
+    "slug": "cover-letter-template-for-teaching-positions",
+    "title": "Cover Letter Template for Teaching Positions",
+    "description": "Job application cover letter template for teaching roles.",
+    "intro": "Teachers can use this cover letter template to highlight classroom experience and teaching philosophy.",
+    "body": "Dear Hiring Manager..."
+  },
+  {
+    "slug": "recommendation-letter-template-for-teachers",
+    "title": "Recommendation Letter Template for Teachers",
+    "description": "Reference letter for teachers.",
+    "intro": "This teacher recommendation letter template helps write strong academic and professional references.",
+    "body": "To Whom It May Concern..."
+  },
+  {
+    "slug": "employment-verification-letter-for-rental-applications",
+    "title": "Employment Verification Letter for Rental Applications",
+    "description": "Proof of employment letter template for rental applications.",
+    "intro": "Use this employment verification letter when applying for rentals that require income proof.",
+    "body": "This letter confirms..."
+  },
+  {
+    "slug": "simple-business-plan-template-for-freelancers",
+    "title": "Simple Business Plan Template for Freelancers",
+    "description": "One-page business plan format for freelancers.",
+    "intro": "Freelancers can use this business plan template to define services, goals, and client strategy.",
+    "body": "Business overview:\nGoals:\nMarket:"
+  },
+  {
+    "slug": "termination-letter-template-for-employers",
+    "title": "Termination Letter Template for Employers",
+    "description": "Employer termination letter format.",
+    "intro": "Employers can use this termination letter template to formally communicate employee dismissal professionally.",
     "body": "We regret to inform you..."
   }
 ]
