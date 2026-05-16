@@ -7,6 +7,21 @@ export async function generateStaticParams() {
   }));
 }
 
+export async function generateMetadata({ params }) {
+  const { slug } = await params;
+
+  const template = templates.find((t) => t.slug === slug);
+
+  if (!template) {
+    return {};
+  }
+
+  return {
+    title: template.title,
+    description: template.description,
+  };
+}
+
 export default async function TemplatePage({ params }) {
   const { slug } = await params;
 
@@ -16,7 +31,6 @@ export default async function TemplatePage({ params }) {
     return <div>Not found</div>;
   }
 
-  // basic related templates
   const relatedTemplates = templates
     .filter((t) => t.slug !== slug)
     .slice(0, 5);
@@ -27,16 +41,40 @@ export default async function TemplatePage({ params }) {
         {template.title}
       </h1>
 
-      <p className="mb-6 text-gray-600">
+      <p className="mb-6 text-gray-600 text-lg">
         {template.description}
       </p>
 
+      {/* Helpful intro text */}
+      <section className="mb-8">
+        <p className="leading-7 text-gray-700">
+          Use this free template as a starting point and
+          customize it for your own needs. You can copy,
+          edit, and print this document for personal or
+          professional use.
+        </p>
+      </section>
+
+      {/* Main template */}
       <textarea
-        className="border w-full p-4 min-h-[300px]"
+        className="border w-full p-4 min-h-[350px] rounded-lg"
         defaultValue={template.body}
       />
 
-      {/* Internal Linking Section */}
+      {/* Usage section */}
+      <section className="mt-10">
+        <h2 className="text-2xl font-semibold mb-3">
+          How to Use This Template
+        </h2>
+
+        <p className="leading-7 text-gray-700">
+          Replace placeholder text with your own
+          information before downloading, printing,
+          or sending this document.
+        </p>
+      </section>
+
+      {/* Related links */}
       <section className="mt-10">
         <h2 className="text-2xl font-semibold mb-4">
           Related Templates
