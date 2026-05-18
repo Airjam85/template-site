@@ -1,7 +1,7 @@
 import templates from "../content/templates.json";
 
 export default function sitemap() {
-  const baseUrl = "https://template-site-pink.vercel.app";
+  const baseUrl = "https://mangogranola.com";
 
   return [
     {
