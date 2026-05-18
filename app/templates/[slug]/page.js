@@ -12,13 +12,11 @@ export async function generateStaticParams() {
   return templates
     .filter((t) => t.slug)
     .map((t) => ({
-      slug: t.slug.toString().trim(),
+      slug: normalize(t.slug),
     }));
 }
 
 export async function generateMetadata({ params }) {
-  const normalize = (s) => s?.toString().trim().toLowerCase();
-
   const template = templates.find(
     (t) => normalize(t.slug) === normalize(params.slug)
   );
@@ -55,8 +53,6 @@ export async function generateMetadata({ params }) {
 }
 
 export default function TemplatePage({ params }) {
-  const normalize = (s) => s?.toString().trim().toLowerCase();
-
   const template = templates.find(
     (t) => normalize(t.slug) === normalize(params.slug)
   );
