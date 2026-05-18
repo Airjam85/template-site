@@ -1,5 +1,10 @@
+"use client";
+
 import Link from "next/link";
+import { useState } from "react";
 import templates from "../../../content/templates.json";
+
+const SITE_URL = "https://mangogranola.com";
 
 export async function generateStaticParams() {
   return templates.map((t) => ({
@@ -8,7 +13,7 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }) {
-  const { slug } = await params;
+  const { slug } = params;
 
   const template = templates.find((t) => t.slug === slug);
 
@@ -17,30 +22,105 @@ export async function generateMetadata({ params }) {
   return {
     title: `${template.title} | Free Template`,
     description: template.description,
+
+    alternates: {
+      canonical: `${SITE_URL}/templates/${template.slug}`,
+    },
+
+    openGraph: {
+      title: template.title,
+      description: template.description,
+      url: `${SITE_URL}/templates/${template.slug}`,
+      siteName: "MangoGranola",
+      type: "article",
+    },
+
+    twitter: {
+      card: "summary_large_image",
+      title: template.title,
+      description: template.description,
+    },
+
+    keywords: [
+      template.title,
+      `${template.title} free`,
+      `${template.title} example`,
+      `${template.title} sample`,
+      "free templates",
+      "professional templates",
+    ],
   };
 }
 
-export default async function TemplatePage({ params }) {
-  const { slug } = await params;
+export default function TemplatePage({ params }) {
+  const { slug } = params;
+
+  const [copied, setCopied] = useState(false);
 
   const template = templates.find((t) => t.slug === slug);
 
   if (!template) {
-    return <div>Not found</div>;
+    return (
+      <main className="max-w-4xl mx-auto p-8">
+        <h1 className="text-3xl font-bold mb-4">
+          Template Not Found
+        </h1>
+
+        <p className="text-gray-600">
+          The requested template does not exist.
+        </p>
+      </main>
+    );
   }
 
+  const templateContent =
+    template.template || template.body || "";
+
+  // JSON-LD STRUCTURED DATA
+  const structuredData = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: template.title,
+    description: template.description,
+    url: `${SITE_URL}/templates/${template.slug}`,
+    author: {
+      "@type": "Organization",
+      name: "MangoGranola",
+    },
+  };
+
+  // SMART RELATED TEMPLATE ENGINE
   const relatedTemplates = templates
     .filter((t) => t.slug !== slug)
-    .filter((t) => {
-      const base = slug.split("-")[0];
-      return t.slug.includes(base);
+    .map((t) => {
+      const currentWords = slug.split("-");
+      const targetWords = t.slug.split("-");
+
+      const score = currentWords.filter((word) =>
+        targetWords.includes(word)
+      ).length;
+
+      return {
+        ...t,
+        score,
+      };
     })
-  .slice(0, 6);
+    .filter((t) => t.score > 0)
+    .sort((a, b) => b.score - a.score)
+    .slice(0, 6);
 
   return (
     <main className="max-w-4xl mx-auto p-8">
 
-      {/* HERO SECTION (SEO + CTR BOOST) */}
+      {/* JSON-LD */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(structuredData),
+        }}
+      />
+
+      {/* HERO SECTION */}
       <header className="mb-10">
         <h1 className="text-4xl font-bold mb-3">
           {template.title}
@@ -55,69 +135,146 @@ export default async function TemplatePage({ params }) {
         </p>
       </header>
 
-      {/* INTENT SECTION */}
+      {/* WHEN TO USE */}
       {template.whenToUse && (
         <section className="mb-10 p-5 border rounded-lg bg-gray-50">
           <h2 className="text-2xl font-semibold mb-2">
             When to Use This Template
           </h2>
+
           <p className="text-gray-700 leading-7">
             {template.whenToUse}
           </p>
         </section>
       )}
 
-      {/* MAIN TOOL / TEMPLATE BLOCK */}
+      {/* HOW TO USE */}
+      <section className="mb-10">
+        <h2 className="text-2xl font-semibold mb-3">
+          How to Use This Template
+        </h2>
+
+        <ul className="list-disc pl-6 space-y-2 text-gray-700 leading-7">
+          <li>
+            Replace all placeholder text with your information.
+          </li>
+
+          <li>
+            Customize wording to fit your situation.
+          </li>
+
+          <li>
+            Review formatting and spelling before sending.
+          </li>
+
+          <li>
+            Keep the tone professional and concise.
+          </li>
+        </ul>
+      </section>
+
+      {/* TEMPLATE BLOCK */}
       <section className="mb-10">
         <h2 className="text-2xl font-semibold mb-3">
           Copy This Template
         </h2>
 
         <p className="text-sm text-gray-500 mb-3">
-          Edit directly below or copy into your document.
+          Edit directly below or copy into your own document.
         </p>
 
         <textarea
           className="border w-full p-5 min-h-[400px] rounded-lg font-mono text-sm"
-          defaultValue={template.template || template.body}
+          defaultValue={templateContent}
         />
       </section>
 
-      {/* ACTION SECTION (THIS IS WHERE MONEY EVENTUALLY COMES FROM) */}
+      {/* ACTION BUTTONS */}
       <section className="mb-12 flex gap-3 flex-wrap">
-        <button className="bg-black text-white px-4 py-2 rounded">
-          Copy Template
+
+        <button
+          onClick={() => {
+            navigator.clipboard.writeText(templateContent);
+
+            setCopied(true);
+
+            setTimeout(() => {
+              setCopied(false);
+            }, 2000);
+          }}
+          className="bg-black text-white px-4 py-2 rounded hover:opacity-90"
+        >
+          {copied ? "Copied!" : "Copy Template"}
         </button>
 
-        <button className="border px-4 py-2 rounded">
-          Download PDF (future monetization slot)
+        <button className="border px-4 py-2 rounded hover:bg-gray-50">
+          Download PDF (coming soon)
         </button>
 
-        <button className="border px-4 py-2 rounded">
+        <button className="border px-4 py-2 rounded hover:bg-gray-50">
           Share
         </button>
+
       </section>
 
-      {/* EXAMPLE (HIGH SEO VALUE) */}
+      {/* EXAMPLE */}
       {template.example && (
         <section className="mb-12">
           <h2 className="text-2xl font-semibold mb-3">
             Example
           </h2>
 
-          <pre className="bg-gray-100 p-4 rounded whitespace-pre-wrap">
+          <pre className="bg-gray-100 p-4 rounded whitespace-pre-wrap text-sm leading-7">
             {template.example}
           </pre>
         </section>
       )}
 
-      {/* INTERNAL LINKING (CLUSTER ENGINE) */}
+      {/* FAQ SECTION */}
+      {template.faqs && template.faqs.length > 0 && (
+        <section className="mb-12">
+          <h2 className="text-2xl font-semibold mb-4">
+            Frequently Asked Questions
+          </h2>
+
+          <div className="space-y-6">
+            {template.faqs.map((faq, index) => (
+              <div key={index}>
+                <h3 className="font-semibold mb-2 text-lg">
+                  {faq.question}
+                </h3>
+
+                <p className="text-gray-700 leading-7">
+                  {faq.answer}
+                </p>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
+
+      {/* TIPS SECTION */}
+      {template.tips && (
+        <section className="mb-12">
+          <h2 className="text-2xl font-semibold mb-4">
+            Tips for Using This Template
+          </h2>
+
+          <ul className="list-disc pl-6 space-y-2 text-gray-700">
+            {template.tips.map((tip, index) => (
+              <li key={index}>{tip}</li>
+            ))}
+          </ul>
+        </section>
+      )}
+
+      {/* RELATED TEMPLATES */}
       <section className="mb-12">
         <h2 className="text-2xl font-semibold mb-4">
           Related Templates
         </h2>
 
-        <div className="grid gap-2">
+        <div className="grid gap-3">
           {relatedTemplates.map((t) => (
             <Link
               key={t.slug}
@@ -130,10 +287,11 @@ export default async function TemplatePage({ params }) {
         </div>
       </section>
 
-      {/* SEO FOOTER BLOCK (IMPORTANT FOR LONGTAIL RANKING) */}
-      <footer className="border-t pt-6 text-sm text-gray-500">
+      {/* SEO FOOTER */}
+      <footer className="border-t pt-6 text-sm text-gray-500 leading-7">
         Download free professional templates for contracts,
-        invoices, resignation letters, and business documents.
+        invoices, resignation letters, NDAs, business documents,
+        employment forms, and more.
       </footer>
 
     </main>

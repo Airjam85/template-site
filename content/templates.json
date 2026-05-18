@@ -2,239 +2,951 @@
   {
     "slug": "simple-resignation-letter",
     "title": "Simple Resignation Letter Template",
-    "description": "Professional resignation letter you can copy instantly.",
-    "intro": "Use this simple resignation letter template to formally notify your employer of your departure in a clear, professional way.",
-    "body": "Dear [Manager],\n\nI am writing to formally resign...\n\nSincerely,\n[Name]"
+    "description": "Free professional resignation letter template you can copy, edit, and use for leaving a job professionally.",
+    "category": "Resignation Letters",
+    "intro": "This simple resignation letter template helps employees formally resign from a position while keeping communication professional and respectful.",
+    "whenToUse": "Use this template when leaving a job and providing formal written notice.",
+    "template": "Dear [Manager Name],\n\nI am writing to formally resign from my position at [Company Name], effective [Last Working Day].\n\nThank you for the opportunities and support during my time with the company.\n\nSincerely,\n[Your Name]",
+    "example": "Dear Mr. Smith,\n\nI am writing to formally resign from my position at ABC Corp, effective March 30, 2026.\n\nSincerely,\nJohn Doe",
+    "faqs": [
+      {
+        "question": "Should a resignation letter be formal?",
+        "answer": "Yes. Professional resignation letters help maintain positive relationships with employers."
+      },
+      {
+        "question": "Can I resign by email?",
+        "answer": "Yes. Many employers accept resignation notices by email."
+      }
+    ]
   },
   {
     "slug": "two-weeks-notice-letter",
     "title": "Two Weeks Notice Letter Template",
-    "description": "Standard 2 weeks notice resignation letter.",
-    "intro": "This two weeks notice letter template helps you professionally inform your employer while maintaining good relationships.",
-    "body": "Dear [Manager],\n\nPlease accept this as my two weeks notice..."
+    "description": "Free two weeks notice letter template for professionally resigning from a job.",
+    "category": "Resignation Letters",
+    "intro": "This template helps employees formally communicate a resignation while providing a standard two weeks notice period.",
+    "whenToUse": "Use this template when resigning from a job and giving advance notice.",
+    "template": "Dear [Manager Name],\n\nPlease accept this letter as formal notice of my resignation from [Company Name]. My final working day will be [Last Working Day].\n\nThank you for the opportunity.\n\nSincerely,\n[Your Name]",
+    "example": "Dear Ms. Johnson,\n\nPlease accept this letter as formal notice of my resignation from Bright Solutions. My final working day will be April 14, 2026.\n\nSincerely,\nSarah Lee",
+    "faqs": [
+      {
+        "question": "What is a two weeks notice letter?",
+        "answer": "A two weeks notice letter informs an employer that you plan to leave your role in two weeks."
+      },
+      {
+        "question": "Do all jobs require two weeks notice?",
+        "answer": "Policies vary depending on the employer and employment agreement."
+      }
+    ]
   },
   {
     "slug": "invoice-template",
     "title": "Free Invoice Template",
-    "description": "Simple freelance invoice template.",
-    "intro": "Use this simple invoice template to bill clients clearly and ensure timely payments for your freelance work.",
-    "body": "Invoice #:\nClient:\nAmount:\nDue date:"
+    "description": "Simple invoice template for freelancers, consultants, and small businesses.",
+    "category": "Invoices",
+    "intro": "This free invoice template helps professionals create clear invoices for clients and completed projects.",
+    "whenToUse": "Use this invoice template when billing clients for products or services.",
+    "template": "Invoice Number: [Invoice Number]\nDate: [Date]\n\nBill To:\n[Client Name]\n\nServices:\n- [Service Description]: [Amount]\n\nTotal Due: [Total]\nDue Date: [Due Date]",
+    "example": "Invoice Number: INV-1001\nDate: March 10, 2026\n\nBill To:\nAcme Design Co\n\nServices:\n- Logo Design: $500\n\nTotal Due: $500",
+    "faqs": [
+      {
+        "question": "What should an invoice include?",
+        "answer": "Invoices should include payment amounts, due dates, client details, and services provided."
+      },
+      {
+        "question": "Can freelancers use this template?",
+        "answer": "Yes. This invoice template is ideal for freelancers and consultants."
+      }
+    ]
   },
   {
     "slug": "freelance-contract-template",
     "title": "Freelance Contract Template",
-    "description": "Basic freelance agreement template.",
-    "intro": "This freelance contract template helps define scope, payment terms, and expectations between clients and freelancers.",
-    "body": "This agreement is between..."
+    "description": "Free freelance contract template for independent contractor projects.",
+    "category": "Contracts",
+    "intro": "This freelance contract template helps freelancers and clients clearly define project expectations and payment terms.",
+    "whenToUse": "Use before starting freelance projects or client work.",
+    "template": "This agreement is between [Client Name] and [Freelancer Name].\n\nScope of Work:\n[Description]\n\nPayment Terms:\n[Terms]\n\nTimeline:\n[Dates]",
+    "example": "This agreement is between Acme Co and John Doe.\n\nScope of Work:\nWebsite redesign\n\nPayment Terms:\n$2000 total",
+    "faqs": [
+      {
+       "question": "What is a freelance contract?",
+        "answer": "A freelance contract is a legal agreement that outlines the terms of a freelance project."
+      },
+      {
+        "question": "Do freelancers need contracts?",
+        "answer": "Contracts help protect both freelancers and clients by clearly defining expectations."
+      }
+    ]
   },
   {
     "slug": "nda-template",
     "title": "NDA Template",
-    "description": "Non-disclosure agreement template.",
-    "intro": "Use this NDA template to protect confidential business information when working with clients, contractors, or partners.",
-    "body": "This NDA is made between..."
+    "description": "Free non-disclosure agreement template for protecting confidential information.",
+    "category": "Legal Documents",
+    "intro": "This NDA template helps businesses and freelancers protect confidential business information.",
+    "whenToUse": "Use before sharing sensitive business or project information.",
+    "template": "This NDA is made between [Party A] and [Party B].\n\nBoth parties agree not to disclose confidential information.\n\nDuration: [Time Period]",
+    "example": "This NDA is made between Startup X and Contractor Y.\n\nDuration: 2 years",
+    "faqs": [
+      {
+        "question": "What is an NDA?",
+        "answer": "An NDA is a legal agreement used to protect confidential information."
+      },
+      {
+        "question": "Who uses NDAs?",
+        "answer": "Businesses, startups, freelancers, and employees commonly use NDAs."
+      }
+    ]
   },
   {
     "slug": "cover-letter-template",
     "title": "Cover Letter Template",
-    "description": "Job application cover letter template.",
-    "intro": "This cover letter template helps you introduce yourself professionally and highlight your qualifications to employers.",
-    "body": "Dear Hiring Manager..."
+    "description": "Professional cover letter template for job applications.",
+    "category": "Resignation Letters",
+    "intro": "This cover letter template helps job applicants introduce themselves professionally and highlight qualifications.",
+    "whenToUse": "Use when applying for jobs and submitting resumes.",
+    "template": "Dear Hiring Manager,\n\nI am excited to apply for the [Position Name] role at [Company Name].\n\nThank you for your consideration.\n\nSincerely,\n[Your Name]",
+    "example": "Dear Hiring Manager,\n\nI am excited to apply for the Marketing Coordinator role at Bright Media.\n\nSincerely,\nJane Smith",
+    "faqs": [
+      {
+        "question": "Should every resume include a cover letter?",
+        "answer": "Many employers prefer cover letters because they provide additional context about your experience."
+      },
+      {
+        "question": "How long should a cover letter be?",
+        "answer": "Most cover letters should remain concise and fit on one page."
+      }
+    ]
   },
   {
     "slug": "recommendation-letter-template",
     "title": "Recommendation Letter Template",
-    "description": "Reference letter for employees or students.",
-    "intro": "Use this recommendation letter template to write strong references for employees, students, or colleagues.",
-    "body": "To Whom It May Concern..."
+    "description": "Professional recommendation letter template for employees and students.",
+    "category": "Resignation Letters",
+    "intro": "This recommendation letter template helps employers, teachers, and mentors write strong references.",
+    "whenToUse": "Use when writing references for jobs, schools, or applications.",
+    "template": "To Whom It May Concern,\n\nI highly recommend [Name] for [Position or Program].\n\nSincerely,\n[Your Name]",
+    "example": "To Whom It May Concern,\n\nI highly recommend Sarah Lee for your graduate program.\n\nSincerely,\nProfessor Adams",
+    "faqs": [
+      {
+        "question": "What should recommendation letters include?",
+        "answer": "Recommendation letters should include qualifications, strengths, and professional observations."
+      },
+      {
+        "question": "Who can write recommendation letters?",
+        "answer": "Managers, teachers, mentors, and supervisors commonly write recommendation letters."
+      }
+    ]
   },
   {
-    "slug": "employment-verification-letter",
-    "title": "Employment Verification Letter",
-    "description": "Proof of employment letter template.",
-    "intro": "This employment verification letter confirms an individual’s job status, role, and employment details.",
-    "body": "This letter confirms..."
+  "slug": "employment-verification-letter",
+  "title": "Employment Verification Letter Template",
+  "description": "Free employment verification letter template for confirming job status, income, and employment details.",
+  "category": "Legal Documents",
+  "intro": "This employment verification letter template is used by employers and HR departments to confirm an employee’s current or past employment status. It can be used for rental applications, loan applications, immigration processes, and background checks.",
+  "whenToUse": "Use this template when an employee, bank, landlord, or government agency requests official proof of employment.",
+  "template": "To Whom It May Concern,\n\nThis letter confirms that [Employee Name] is employed with [Company Name] as a [Job Title]. [Employee Name] has been employed with the company since [Start Date].\n\nCurrent employment status: [Full-Time/Part-Time]\nCurrent salary: [Salary Information]\n\nIf you require additional information, please contact us at [Phone Number] or [Email Address].\n\nSincerely,\n[Employer Name]\n[Company Name]",
+  "example": "To Whom It May Concern,\n\nThis letter confirms that Sarah Johnson is employed with ABC Solutions as a Marketing Manager. Sarah has been employed with the company since June 2022.\n\nCurrent employment status: Full-Time\nCurrent salary: $72,000 annually\n\nSincerely,\nMichael Brown\nABC Solutions",
+  "tips": [
+    "Use official company letterhead if possible.",
+    "Only include salary information if authorized by the employee.",
+    "Double-check employment dates for accuracy.",
+    "Keep the tone formal and professional."
+  ],
+  "faqs": [
+    {
+      "question": "What is an employment verification letter?",
+      "answer": "An employment verification letter confirms a person’s job status, role, and employment details."
+    },
+    {
+      "question": "Who requests employment verification letters?",
+      "answer": "Landlords, banks, immigration agencies, and lenders commonly request them."
+    },
+    {
+      "question": "Should salary information be included?",
+      "answer": "Salary details should only be included when necessary and authorized."
+    }
+  ]
+},
+{
+  "slug": "simple-business-plan-template",
+  "title": "Simple Business Plan Template",
+  "description": "Free one-page business plan template for startups, freelancers, and small businesses.",
+  "category": "Business Plans",
+  "intro": "This simple business plan template helps entrepreneurs organize their goals, services, target market, and financial strategy in a clear and professional format. It is designed for startups, freelancers, and small businesses that need a lightweight planning document.",
+  "whenToUse": "Use this template when launching a business, seeking funding, planning growth, or organizing business strategy.",
+  "template": "Business Name: [Business Name]\n\nBusiness Overview:\n[Describe your business]\n\nProducts or Services:\n[List products/services]\n\nTarget Market:\n[Describe your ideal customers]\n\nMarketing Strategy:\n[Explain how you will attract customers]\n\nFinancial Goals:\n[Revenue goals and projections]\n\nOperations Plan:\n[Daily operations and logistics]",
+  "example": "Business Name: Bright Pixel Studio\n\nBusiness Overview:\nA freelance design agency focused on branding and web design.\n\nProducts or Services:\nLogo design, website design, social media branding.\n\nTarget Market:\nSmall businesses and startups.\n\nMarketing Strategy:\nSEO, referrals, and LinkedIn outreach.",
+  "tips": [
+    "Keep your business plan concise and easy to understand.",
+    "Focus on clear goals and realistic projections.",
+    "Update your business plan regularly as the business evolves.",
+    "Tailor the plan to your audience if seeking funding."
+  ],
+  "faqs": [
+    {
+      "question": "What is a simple business plan?",
+      "answer": "A simple business plan outlines a company’s goals, strategy, target market, and financial overview in a concise format."
+    },
+    {
+      "question": "Can startups use this template?",
+      "answer": "Yes, this template works well for startups and early-stage businesses."
+    },
+    {
+      "question": "Do investors require business plans?",
+      "answer": "Many investors and lenders require business plans before providing funding."
+    }
+  ]
+},
+{
+  "slug": "termination-letter-template",
+  "title": "Termination Letter Template",
+  "description": "Free employee termination letter template for professional and compliant dismissal communication.",
+  "category": "Legal Documents",
+  "intro": "This termination letter template helps employers formally notify employees about termination of employment while maintaining professionalism and clear communication. It provides a documented record of the employment decision.",
+  "whenToUse": "Use this template when ending employment due to performance issues, restructuring, policy violations, or contract completion.",
+  "template": "Dear [Employee Name],\n\nThis letter is to inform you that your employment with [Company Name] will be terminated effective [Termination Date].\n\nReason for termination: [Reason]\n\nPlease return all company property by your final working day.\n\nWe appreciate your contributions and wish you the best in your future endeavors.\n\nSincerely,\n[Manager Name]\n[Company Name]",
+  "example": "Dear John Smith,\n\nThis letter is to inform you that your employment with ABC Logistics will be terminated effective April 30, 2026.\n\nReason for termination: Position restructuring.\n\nSincerely,\nKaren Lee\nABC Logistics",
+  "tips": [
+    "Keep the language professional and factual.",
+    "Avoid emotional or accusatory wording.",
+    "Consult HR or legal counsel if necessary.",
+    "Document all termination-related communication."
+  ],
+  "faqs": [
+    {
+      "question": "What is a termination letter?",
+      "answer": "A termination letter formally notifies an employee that their employment is ending."
+    },
+    {
+      "question": "Should termination letters include a reason?",
+      "answer": "Many employers include a brief reason for documentation purposes."
+    },
+    {
+      "question": "Is a termination letter legally required?",
+      "answer": "Requirements vary by jurisdiction and employer policies."
+    }
+  ]
+},
+{
+  "slug": "invoice-template-for-photographers",
+  "title": "Invoice Template for Photographers",
+  "description": "Free photography invoice template for freelance photographers and creative professionals.",
+  "category": "Invoices",
+  "intro": "This photography invoice template helps photographers bill clients professionally for photoshoots, editing services, events, and licensing work. It includes sections for services, pricing, payment terms, and client details.",
+  "whenToUse": "Use this template after completing photography work or when requesting deposits for upcoming projects.",
+  "template": "Invoice Number: [Invoice Number]\nDate: [Date]\n\nPhotographer:\n[Your Name or Studio]\n\nClient:\n[Client Name]\n\nServices:\n- Wedding Photography: [$Amount]\n- Editing Services: [$Amount]\n\nTotal Due: [$Total]\nPayment Due Date: [Date]\n\nPayment Method:\n[Payment Details]",
+  "example": "Invoice Number: PHOTO-102\nDate: March 12, 2026\n\nPhotographer:\nBright Lens Studio\n\nClient:\nEmily Davis\n\nServices:\n- Engagement Photoshoot: $600\n- Editing Services: $150\n\nTotal Due: $750",
+  "tips": [
+    "Clearly list all photography and editing services.",
+    "Include payment deadlines to avoid delays.",
+    "Use consistent invoice numbering.",
+    "Save copies of invoices for tax purposes."
+  ],
+  "faqs": [
+    {
+      "question": "What should a photography invoice include?",
+      "answer": "It should include services provided, pricing, payment terms, and client information."
+    },
+    {
+      "question": "Can photographers request deposits?",
+      "answer": "Yes, many photographers request partial upfront payments before shoots."
+    },
+    {
+      "question": "Should editing fees be separate?",
+      "answer": "Separating editing fees can make invoices clearer for clients."
+    }
+  ]
+},
+{
+  "slug": "two-weeks-notice-letter-for-teachers",
+  "title": "Two Weeks Notice Letter Template for Teachers",
+  "description": "Free two weeks notice letter template for teachers resigning professionally from schools or academic institutions.",
+  "category": "Resignation Letters",
+  "intro": "This teacher resignation letter template helps educators formally provide two weeks notice while maintaining professionalism with school administration, coworkers, parents, and students.",
+  "whenToUse": "Use this template when resigning from a teaching position and providing formal notice to your school or district.",
+  "template": "Dear [Principal or Administrator Name],\n\nPlease accept this letter as formal notice of my resignation from my teaching position at [School Name], effective two weeks from today.\n\nI appreciate the opportunities and experiences I have gained while working with the students and staff.\n\nI will do my best to assist with the transition process during my remaining time.\n\nSincerely,\n[Your Name]",
+  "example": "Dear Principal Johnson,\n\nPlease accept this letter as formal notice of my resignation from my teaching position at Green Valley High School, effective two weeks from today.\n\nI appreciate the support and opportunities provided during my time at the school.\n\nSincerely,\nSarah Williams",
+  "tips": [
+    "Provide adequate notice whenever possible.",
+    "Maintain a respectful and appreciative tone.",
+    "Offer to assist with transition planning.",
+    "Keep a signed copy for your records."
+  ],
+  "faqs": [
+    {
+      "question": "Do teachers need to give two weeks notice?",
+      "answer": "Policies vary by school district and employment contract."
+    },
+    {
+      "question": "Should teachers explain why they are resigning?",
+      "answer": "A detailed explanation is optional unless required by the employer."
+    },
+    {
+      "question": "Can teachers resign mid-year?",
+      "answer": "Yes, but contracts and district policies may affect the process."
+    }
+   ]
+  }, 
+  {
+  "slug": "invoice-template-for-consultants",
+  "title": "Invoice Template for Consultants",
+  "description": "Free consultant invoice template for billing advisory services, strategy sessions, and project work.",
+  "category": "Invoices",
+  "intro": "This consultant invoice template helps independent consultants and consulting agencies bill clients professionally for strategy, advisory, and project-based services. It includes sections for services rendered, payment terms, and client information.",
+  "whenToUse": "Use this template when invoicing clients for consulting services, retainers, project work, or hourly advisory sessions.",
+  "template": "Invoice Number: [Invoice Number]\nDate: [Date]\n\nConsultant:\n[Your Name or Company]\n\nClient:\n[Client Name]\n\nServices Provided:\n- Strategy Consultation: [$Amount]\n- Project Planning: [$Amount]\n\nTotal Due: [$Total]\nDue Date: [Date]\n\nPayment Instructions:\n[Payment Details]",
+  "example": "Invoice Number: CONS-104\nDate: April 12, 2026\n\nConsultant:\nGrowth Advisory Group\n\nClient:\nBluePeak Solutions\n\nServices Provided:\n- Business Strategy Session: $1,500\n- Market Research Analysis: $800\n\nTotal Due: $2,300",
+  "tips": [
+    "Clearly outline consulting services and deliverables.",
+    "Include payment deadlines and accepted payment methods.",
+    "Use professional invoice numbering for organization.",
+    "Keep records of invoices for accounting and taxes."
+  ],
+  "faqs": [
+    {
+      "question": "What should a consultant invoice include?",
+      "answer": "A consultant invoice should include services provided, pricing, payment terms, and client details."
+    },
+    {
+      "question": "Can consultants charge hourly rates?",
+      "answer": "Yes, consultants commonly bill hourly, daily, or per project."
+    },
+    {
+      "question": "Should payment terms be included?",
+      "answer": "Yes, clear payment terms help reduce delays and misunderstandings."
+    }
+  ]
+},
+{
+  "slug": "simple-resignation-letter-for-teachers",
+  "title": "Simple Resignation Letter Template for Teachers",
+  "description": "Free teacher resignation letter template for formally leaving a teaching position professionally.",
+  "category": "Resignation Letters",
+  "intro": "Teachers can use this resignation letter template to formally resign from a teaching position while maintaining professionalism and respectful communication with school administration and staff.",
+  "whenToUse": "Use this template when resigning from a school, district, or educational institution and providing formal written notice.",
+  "template": "Dear [Principal Name],\n\nI am writing to formally resign from my position as [Teaching Position] at [School Name], effective [Last Working Day].\n\nI appreciate the opportunities and support I have received during my time at the school.\n\nI will do my best to assist during the transition period.\n\nSincerely,\n[Your Name]",
+  "example": "Dear Principal Carter,\n\nI am writing to formally resign from my position as English Teacher at Riverside High School, effective May 30, 2026.\n\nI appreciate the support and opportunities provided during my time at the school.\n\nSincerely,\nEmily Johnson",
+  "tips": [
+    "Keep the resignation letter professional and respectful.",
+    "Provide sufficient notice if possible.",
+    "Thank the school administration for the opportunity.",
+    "Keep a signed copy for your records."
+  ],
+  "faqs": [
+    {
+      "question": "Do teachers need to submit resignation letters?",
+      "answer": "Most schools and districts require written resignation notices for documentation purposes."
+    },
+    {
+      "question": "Should teachers explain why they are leaving?",
+      "answer": "Providing a reason is optional unless required by contract or district policy."
+    },
+    {
+      "question": "Can teachers resign during the school year?",
+      "answer": "Yes, but employment contracts and district rules may affect the process."
+    }
+  ]
+},
+{
+  "slug": "nda-template-for-freelancers",
+  "title": "NDA Template for Freelancers",
+  "description": "Free freelance NDA template for protecting confidential client and project information.",
+  "category": "Legal Documents",
+  "intro": "This freelance NDA template helps freelancers protect confidential information shared during projects, contracts, and client collaborations. It establishes expectations regarding privacy and non-disclosure.",
+  "whenToUse": "Use this template before starting freelance work that involves confidential business information, trade secrets, or sensitive project details.",
+  "template": "This Non-Disclosure Agreement (NDA) is entered into between [Client Name] and [Freelancer Name].\n\nBoth parties agree not to disclose confidential information related to the project, including business strategies, client data, proprietary materials, and trade secrets.\n\nThis agreement remains in effect for [Time Period].\n\nSigned:\n[Client Name]\n[Freelancer Name]",
+  "example": "This Non-Disclosure Agreement (NDA) is entered into between BrightWave Media and Sarah Lee.\n\nBoth parties agree not to disclose confidential marketing strategies or internal project information.\n\nThis agreement remains in effect for 2 years.",
+  "tips": [
+    "Clearly define what information is considered confidential.",
+    "Include the duration of the agreement.",
+    "Have both parties sign the NDA before work begins.",
+    "Consult legal counsel for complex agreements."
+  ],
+  "faqs": [
+    {
+      "question": "What is a freelance NDA?",
+      "answer": "A freelance NDA is a confidentiality agreement between a freelancer and a client."
+    },
+    {
+      "question": "Do freelancers need NDAs?",
+      "answer": "NDAs help protect sensitive client information and reduce legal risk."
+    },
+    {
+      "question": "Can NDA templates be customized?",
+      "answer": "Yes, NDA templates are commonly customized for different industries and projects."
+    }
+  ]
+},
+{
+  "slug": "cover-letter-template-for-software-developers",
+  "title": "Cover Letter Template for Software Developers",
+  "description": "Free software developer cover letter template for tech job applications.",
+  "category": "Resignation Letters",
+  "intro": "This software developer cover letter template helps developers introduce themselves professionally and highlight technical skills, programming experience, and relevant projects when applying for technology roles.",
+  "whenToUse": "Use this template when applying for software engineering, web development, or technical programming positions.",
+  "template": "Dear Hiring Manager,\n\nI am excited to apply for the [Job Title] position at [Company Name]. With experience in [Programming Languages or Technologies], I have developed strong technical and problem-solving skills.\n\nIn my previous role at [Company], I contributed to projects involving [Key Achievements or Technologies]. I am confident my experience and passion for development would make me a valuable addition to your team.\n\nThank you for your consideration.\n\nSincerely,\n[Your Name]",
+  "example": "Dear Hiring Manager,\n\nI am excited to apply for the Front-End Developer position at TechNova. With experience in React, JavaScript, and TypeScript, I have built responsive web applications and improved user experiences.\n\nIn my previous role at BrightApps, I helped develop customer-facing dashboards used by over 20,000 users.\n\nSincerely,\nMichael Chen",
+  "tips": [
+    "Mention specific technologies and programming languages.",
+    "Highlight measurable achievements and projects.",
+    "Customize the letter for each company and role.",
+    "Keep the cover letter concise and professional."
+  ],
+  "faqs": [
+    {
+      "question": "Should software developers submit cover letters?",
+      "answer": "Many employers still value customized cover letters for technical roles."
+    },
+    {
+      "question": "What should a developer cover letter include?",
+      "answer": "It should include technical skills, relevant experience, and interest in the role."
+    },
+    {
+      "question": "Should projects be mentioned?",
+      "answer": "Yes, mentioning relevant projects can strengthen your application."
+    }
+  ]
+},
+{
+  "slug": "recommendation-letter-template-for-students",
+  "title": "Recommendation Letter Template for Students",
+  "description": "Free student recommendation letter template for academic and scholarship applications.",
+  "category": "Legal Documents",
+  "intro": "This student recommendation letter template helps teachers, mentors, and advisors write strong references for students applying to colleges, scholarships, internships, or academic programs.",
+  "whenToUse": "Use this template when recommending a student for educational opportunities, scholarships, leadership programs, or internships.",
+  "template": "To Whom It May Concern,\n\nI am pleased to recommend [Student Name] for [Program, Scholarship, or Opportunity]. During their time at [School or Organization], they demonstrated strong academic performance, leadership, and dedication.\n\n[Student Name] consistently showed responsibility, professionalism, and a positive attitude.\n\nI am confident they will succeed in future academic and professional endeavors.\n\nSincerely,\n[Your Name]\n[Title or Position]",
+  "example": "To Whom It May Concern,\n\nI am pleased to recommend Sarah Thompson for the Academic Excellence Scholarship. During her time at Westview High School, Sarah consistently demonstrated leadership, discipline, and academic achievement.\n\nShe would be an excellent candidate for your program.\n\nSincerely,\nJames Carter\nGuidance Counselor",
+  "tips": [
+    "Include specific examples of the student’s strengths.",
+    "Mention leadership, academic performance, or character.",
+    "Keep the tone supportive and professional.",
+    "Tailor the letter to the application purpose."
+  ],
+  "faqs": [
+    {
+      "question": "Who writes recommendation letters for students?",
+      "answer": "Teachers, counselors, coaches, and mentors commonly write them."
+    },
+    {
+      "question": "What should student recommendation letters include?",
+      "answer": "They should include academic strengths, character traits, and relevant achievements."
+    },
+    {
+      "question": "Can recommendation letters be reused?",
+      "answer": "They can be adapted for multiple applications, but customization is recommended."
+    }
+   ]
   },
   {
-    "slug": "simple-business-plan-template",
-    "title": "Simple Business Plan Template",
-    "description": "One-page business plan format.",
-    "intro": "This simple business plan template helps you outline your goals, strategy, and market in a clear one-page format.",
-    "body": "Business overview:\nGoals:\nMarket:"
-  },
-  {
-    "slug": "termination-letter-template",
-    "title": "Termination Letter Template",
-    "description": "Employee termination letter format.",
-    "intro": "Use this termination letter template to formally communicate employment termination in a professional and compliant way.",
-    "body": "We regret to inform you..."
-  },
-  {
-    "slug": "invoice-template-for-photographers",
-    "title": "Invoice Template for Photographers",
-    "description": "Free photography invoice template.",
-    "intro": "This photography invoice template helps photographers bill clients for shoots, edits, and creative services.",
-    "body": "Invoice Number: ______"
-  },
-  {
-    "slug": "two-weeks-notice-letter-for-teachers",
-    "title": "Two Weeks Notice Letter Template for Teachers",
-    "description": "Standard 2 weeks notice resignation letter.",
-    "intro": "Teachers can use this two weeks notice letter template to formally resign while maintaining professionalism with school administration.",
-    "body": "Dear [Human Resources],\n\nPlease accept this as my two weeks notice..."
-  },
-  {
-    "slug": "invoice-template-for-consultants",
-    "title": "Invoice Template for Consultants",
-    "description": "Free consultant invoice template.",
-    "intro": "This consultant invoice template helps professionals bill clients for advisory services and project work.",
-    "body": "Invoice Number: ______"
-  },
-  {
-    "slug": "simple-resignation-letter-for-teachers",
-    "title": "Simple Resignation Letter Template for Teachers",
-    "description": "Professional resignation letter you can copy instantly.",
-    "intro": "Teachers can use this resignation letter template to formally step down while keeping communication respectful and clear.",
-    "body": "Dear [Principal],\n\nI am writing to formally resign...\n\nSincerely,\n[Name]"
-  },
-  {
-    "slug": "nda-template-for-freelancers",
-    "title": "NDA Template for Freelancers",
-    "description": "Non-disclosure agreement template for freelancers.",
-    "intro": "Freelancers can use this NDA template to protect client confidentiality and sensitive project information.",
-    "body": "This NDA is made between..."
-  },
-  {
-    "slug": "cover-letter-template-for-software-developers",
-    "title": "Cover Letter Template for Software Developers",
-    "description": "Job application cover letter template for software developers.",
-    "intro": "Software developers can use this cover letter template to highlight technical skills and project experience.",
-    "body": "Dear Hiring Manager..."
-  },
-  {
-    "slug": "recommendation-letter-template-for-students",
-    "title": "Recommendation Letter Template for Students",
-    "description": "Reference letter for students.",
-    "intro": "This student recommendation letter template helps teachers and mentors write strong academic references.",
-    "body": "To Whom It May Concern..."
-  },
-  {
-    "slug": "employment-verification-letter-for-visa-applications",
-    "title": "Employment Verification Letter for Visa Applications",
-    "description": "Proof of employment letter template for visa applications.",
-    "intro": "Use this employment verification letter template when applying for visas requiring proof of employment.",
-    "body": "This letter confirms..."
-  },
-  {
-    "slug": "simple-business-plan-template-for-startups",
-    "title": "Simple Business Plan Template for Startups",
-    "description": "One-page business plan format for startups.",
-    "intro": "Startups can use this business plan template to quickly outline strategy, goals, and market positioning.",
-    "body": "Business overview:\nGoals:\nMarket:"
-  },
+  "slug": "employment-verification-letter-for-visa-applications",
+  "title": "Employment Verification Letter for Visa Applications",
+  "description": "Free employment verification letter template for visa applications and immigration documentation.",
+  "category": "Legal Documents",
+  "intro": "This employment verification letter template helps employees provide official proof of employment for visa applications, immigration requests, embassy interviews, and international travel documentation.",
+  "whenToUse": "Use this template when a visa application or immigration authority requires confirmation of employment, salary, or job position.",
+  "template": "To Whom It May Concern,\n\nThis letter confirms that [Employee Name] is currently employed with [Company Name] as a [Job Title]. [Employee Name] has been employed with the company since [Start Date].\n\nCurrent employment status: [Full-Time/Part-Time]\nAnnual salary: [Salary]\n\nThis verification is being provided upon the employee’s request for visa application purposes.\n\nIf additional information is required, please contact us at [Phone Number] or [Email Address].\n\nSincerely,\n[Employer Name]\n[Company Name]",
+  "example": "To Whom It May Concern,\n\nThis letter confirms that David Wilson is currently employed with BrightCore Technologies as a Software Engineer. David has been employed with the company since February 2023.\n\nCurrent employment status: Full-Time\nAnnual salary: $95,000\n\nSincerely,\nLaura Simmons\nBrightCore Technologies",
+  "tips": [
+    "Use official company letterhead whenever possible.",
+    "Ensure employment dates and salary information are accurate.",
+    "Include employer contact details for verification.",
+    "Review embassy or immigration requirements before submission."
+  ],
+  "faqs": [
+    {
+      "question": "What is an employment verification letter for visas?",
+      "answer": "It is a document confirming employment details for immigration or visa purposes."
+    },
+    {
+      "question": "Do visa applications require salary information?",
+      "answer": "Some visa applications may require proof of income or salary details."
+    },
+    {
+      "question": "Should the letter be signed?",
+      "answer": "Yes, signed employment verification letters appear more official and credible."
+    }
+  ]
+},
+{
+  "slug": "simple-business-plan-template-for-startups",
+  "title": "Simple Business Plan Template for Startups",
+  "description": "Free startup business plan template for outlining strategy, goals, funding, and growth plans.",
+  "category": "Business Plans",
+  "intro": "This startup business plan template helps founders organize their business strategy, market positioning, revenue goals, and operational plans in a concise format suitable for investors, partners, and internal planning.",
+  "whenToUse": "Use this template when launching a startup, preparing for investors, applying for funding, or organizing business operations.",
+  "template": "Startup Name: [Startup Name]\n\nBusiness Overview:\n[Describe your startup]\n\nProblem Being Solved:\n[Explain the problem]\n\nProducts or Services:\n[Describe your solution]\n\nTarget Market:\n[Ideal customers]\n\nRevenue Model:\n[How the business makes money]\n\nMarketing Strategy:\n[Customer acquisition plan]\n\nFunding Needs:\n[Investment or funding requirements]",
+  "example": "Startup Name: TaskFlow AI\n\nBusiness Overview:\nAn AI-powered productivity platform for remote teams.\n\nProblem Being Solved:\nRemote teams struggle with workflow management and communication.\n\nProducts or Services:\nAI-driven project management tools.\n\nRevenue Model:\nMonthly SaaS subscriptions.",
+  "tips": [
+    "Keep the business plan concise and investor-friendly.",
+    "Focus on the problem your startup solves.",
+    "Clearly explain your revenue model.",
+    "Update projections and strategy regularly."
+  ],
+  "faqs": [
+    {
+      "question": "Why do startups need business plans?",
+      "answer": "Business plans help startups organize strategy, attract investors, and guide operations."
+    },
+    {
+      "question": "Should startups include financial projections?",
+      "answer": "Yes, investors often expect realistic revenue and growth projections."
+    },
+    {
+      "question": "Can startup business plans be one page?",
+      "answer": "Yes, many startups begin with lightweight one-page business plans."
+    }
+  ]
+},
   {
     "slug": "termination-letter-template-for-employees",
     "title": "Termination Letter Template for Employees",
-    "description": "Employee termination letter format.",
-    "intro": "This employee termination letter template ensures clear, professional communication during job termination.",
-    "body": "We regret to inform you..."
+    "description": "Employee termination letter template for clearly communicating job termination.",
+    "category": "Legal Documents",
+    "intro": "This employee termination letter template ensures clear, professional communication during job termination while documenting the decision in writing.",
+    "whenToUse": "Use this template when terminating an employee for performance, policy violations, restructuring, or contract completion.",
+    "template": "Dear [Employee Name],\n\nThis letter is to inform you that your employment with [Company Name] will be terminated effective [Termination Date].\n\nReason for termination: [Reason]\n\nPlease return all company property by your final working day.\n\nWe appreciate your contributions and wish you the best in your future endeavors.\n\nSincerely,\n[Manager Name]\n[Company Name]",
+    "example": "Dear Maria Garcia,\n\nThis letter is to inform you that your employment with Oak Ridge Marketing will be terminated effective May 15, 2026.\n\nReason for termination: Repeated policy violations after prior warnings.\n\nPlease return all company property by your final working day.\n\nSincerely,\nDavid Cole\nOak Ridge Marketing",
+    "tips": [
+      "Keep the language factual and avoid emotion.",
+      "Provide the effective date clearly.",
+      "Confirm any final pay, benefits, or return-of-property requirements.",
+      "Review the letter with HR or legal counsel when needed."
+    ],
+    "faqs": [
+      {
+        "question": "Do termination letters need to include a reason?",
+        "answer": "Including a brief reason is helpful for documentation, though legal requirements vary by jurisdiction."
+      },
+      {
+        "question": "Should I send a termination letter by email?",
+        "answer": "Many employers provide a signed letter in person or email it after the in-person meeting."
+      },
+      {
+        "question": "Can a termination letter be revised afterward?",
+        "answer": "Yes, if the decision changes, update the letter and provide a corrected version."
+      }
+    ]
   },
   {
     "slug": "freelance-contract-template-for-designers",
     "title": "Freelance Contract Template for Designers",
-    "description": "Basic freelance agreement template for designers.",
-    "intro": "Designers can use this freelance contract template to define project scope, revisions, and payment terms.",
-    "body": "This agreement is between..."
+    "description": "Designer freelance contract template for creative service agreements.",
+    "category": "Contracts",
+    "intro": "This freelance contract template helps designers set clear expectations for project scope, revisions, timelines, and payment terms.",
+    "whenToUse": "Use this template before starting a design project or onboarding a new client.",
+    "template": "This agreement is between [Client Name] and [Designer Name].\n\nProject scope:\n[Describe design services]\n\nDeliverables:\n[List final deliverables]\n\nEstimated timeline:\n[Dates]\n\nPayment terms:\n[Amount and payment schedule]\n\nRevision policy:\n[Number of revisions included]",
+    "example": "This agreement is between Radiant Interiors and Anna Lee.\n\nProject scope:\nBrand identity and website design.\n\nDeliverables:\nLogo files, brand guidelines, website mockups.\n\nEstimated timeline:\nJune 1 to July 15, 2026.\n\nPayment terms:\n$4,000 total, 50% due up front and 50% on completion.\n\nRevision policy:\nTwo rounds of revisions included.",
+    "tips": [
+      "Specify the number of revisions included.",
+      "Include payment milestones and due dates.",
+      "Clarify ownership of final design files.",
+      "Ask the client to sign before beginning work."
+    ],
+    "faqs": [
+      {
+        "question": "Why do designers need a freelance contract?",
+        "answer": "A contract protects both the designer and client by defining scope, payment, and responsibilities."
+      },
+      {
+        "question": "Should I include revision limits?",
+        "answer": "Yes—revision limits help prevent scope creep and protect your time."
+      },
+      {
+        "question": "Can I use this contract for web design?",
+        "answer": "Yes, this template works well for branding, web design, and creative services."
+      }
+    ]
   },
   {
     "slug": "nda-template-for-startups",
     "title": "NDA Template for Startups",
-    "description": "Non-disclosure agreement template for startups.",
-    "intro": "Startups can use this NDA template to protect ideas, products, and confidential business information.",
-    "body": "This NDA is made between..."
+    "description": "Startup NDA template for protecting ideas and confidential business information.",
+    "category": "Legal Documents",
+    "intro": "This NDA template helps startups protect sensitive business ideas, product plans, investor discussions, and proprietary information.",
+    "whenToUse": "Use this template before sharing confidential details with employees, contractors, partners, or potential investors.",
+    "template": "This Non-Disclosure Agreement (NDA) is entered into between [Startup Name] and [Receiving Party].\n\nConfidential information includes business plans, product concepts, financial data, and customer lists.\n\nThe receiving party agrees not to disclose or use confidential information except as authorized.\n\nThis agreement remains in effect for [Time Period].",
+    "example": "This Non-Disclosure Agreement (NDA) is entered into between SparkFlow Labs and DesignCo.\n\nConfidential information includes product concept documents, investor materials, and customer research.\n\nThe receiving party agrees not to disclose or use confidential information except as authorized.\n\nThis agreement remains in effect for 2 years.",
+    "tips": [
+      "Define what qualifies as confidential information.",
+      "Choose an appropriate duration for the NDA.",
+      "Require signatures from both parties.",
+      "Get legal advice if the startup is raising capital or sharing trade secrets."
+    ],
+    "faqs": [
+      {
+        "question": "When should a startup use an NDA?",
+        "answer": "Startups should use NDAs when sharing proprietary ideas with outside parties or contractors."
+      },
+      {
+        "question": "Can NDAs cover investors?",
+        "answer": "Yes, many startups ask investors to sign NDAs before sharing sensitive materials."
+      },
+      {
+        "question": "How long should an NDA last?",
+        "answer": "A common duration is 1–3 years, depending on how long the information needs protection."
+      }
+    ]
   },
   {
     "slug": "cover-letter-template-for-marketing-roles",
     "title": "Cover Letter Template for Marketing Roles",
-    "description": "Job application cover letter template for marketing positions.",
-    "intro": "Marketing professionals can use this cover letter template to showcase campaigns, creativity, and results.",
-    "body": "Dear Hiring Manager..."
+    "description": "Marketing cover letter template for job applications.",
+    "category": "Resignation Letters",
+    "intro": "This marketing cover letter template helps professionals highlight campaign experience, branding skills, and measurable marketing results.",
+    "whenToUse": "Use this template when applying for marketing, communications, branding, or advertising roles.",
+    "template": "Dear Hiring Manager,\n\nI am excited to apply for the [Position Name] role at [Company Name]. With experience in [Marketing Channels or Campaign Types], I have helped deliver measurable results for brands and audiences.\n\nIn my previous role at [Company], I led [Key Achievement] and improved [Metric].\n\nThank you for your consideration.\n\nSincerely,\n[Your Name]",
+    "example": "Dear Hiring Manager,\n\nI am excited to apply for the Digital Marketing Specialist role at BrightWave Media. With experience in email marketing, paid social campaigns, and content strategy, I helped increase lead generation by 35%.\n\nIn my previous role at GrowthWorks, I led a campaign that drove a 20% increase in qualified inbound leads.\n\nThank you for your consideration.\n\nSincerely,\nOlivia Nguyen",
+    "tips": [
+      "Mention specific marketing channels and results.",
+      "Tailor the letter to the employer’s brand and goals.",
+      "Keep the tone professional and enthusiastic.",
+      "Keep the cover letter concise and easy to read."
+    ],
+    "faqs": [
+      {
+        "question": "Should marketing cover letters mention metrics?",
+        "answer": "Yes, including metrics helps demonstrate concrete impact."
+      },
+      {
+        "question": "How long should a marketing cover letter be?",
+        "answer": "Keep it to one page with a clear introduction and achievement summary."
+      },
+      {
+        "question": "Can I reuse this cover letter for multiple applications?",
+        "answer": "Yes, but customize each version to the role and company."
+      }
+    ]
   },
   {
     "slug": "recommendation-letter-template-for-employees",
     "title": "Recommendation Letter Template for Employees",
-    "description": "Reference letter for employees.",
-    "intro": "This employee recommendation letter template helps managers provide strong professional references.",
-    "body": "To Whom It May Concern..."
+    "description": "Employee recommendation letter template for professional references.",
+    "category": "Resignation Letters",
+    "intro": "This recommendation letter template helps managers and supervisors provide positive, professional references for employees.",
+    "whenToUse": "Use this template when writing references for employees applying to new jobs, promotions, or professional programs.",
+    "template": "To Whom It May Concern,\n\nI am pleased to recommend [Employee Name] for [Position or Opportunity]. [Employee Name] has been employed at [Company Name] as a [Job Title] since [Start Date] and consistently demonstrated [Key Strengths].\n\nTheir strengths include [Strength 1], [Strength 2], and [Strength 3]. I believe they would be a strong asset to your team.\n\nSincerely,\n[Your Name]\n[Title]",
+    "example": "To Whom It May Concern,\n\nI am pleased to recommend Michael Park for the Senior Operations Manager role. Michael has been employed at Summit Logistics as Operations Coordinator since 2021 and consistently demonstrated leadership, problem-solving, and strong communication.\n\nHis strengths include process improvement, team collaboration, and attention to detail. I believe he would be a strong asset to your team.\n\nSincerely,\nKaren Lee\nOperations Director",
+    "tips": [
+      "Highlight the employee’s strongest skills and achievements.",
+      "Keep the tone positive, honest, and concise.",
+      "Include specific examples when possible.",
+      "Sign and date the letter for credibility."
+    ],
+    "faqs": [
+      {
+        "question": "Who should write employee recommendation letters?",
+        "answer": "Managers, supervisors, or mentors who know the employee’s work are the best writers."
+      },
+      {
+        "question": "What should be included in a recommendation letter?",
+        "answer": "Include the employee’s role, strengths, accomplishments, and suitability for the opportunity."
+      },
+      {
+        "question": "Can recommendation letters be requested after leaving a job?",
+        "answer": "Yes, former employers can still provide references if they agree."
+      }
+    ]
   },
   {
     "slug": "employment-verification-letter-for-loan-applications",
     "title": "Employment Verification Letter for Loan Applications",
-    "description": "Proof of employment letter template for loan applications.",
-    "intro": "Use this employment verification letter when applying for loans that require income or employment proof.",
-    "body": "This letter confirms..."
+    "description": "Employment verification letter template for loan and financing applications.",
+    "category": "Legal Documents",
+    "intro": "This employment verification letter template helps borrowers provide proof of employment and income for loan applications.",
+    "whenToUse": "Use this letter when a lender or financial institution requires employment verification for mortgage, personal, or business loans.",
+    "template": "To Whom It May Concern,\n\nThis letter confirms that [Employee Name] is employed with [Company Name] as a [Job Title]. [Employee Name] has been employed since [Start Date].\n\nCurrent employment status: [Full-Time/Part-Time]\nAnnual salary: [Salary]\n\nIf additional information is needed, please contact us at [Phone Number] or [Email Address].\n\nSincerely,\n[Employer Name]\n[Company Name]",
+    "example": "To Whom It May Concern,\n\nThis letter confirms that Maria Chen is employed with BlueTree Finance as a Senior Analyst. Maria has been employed since August 2021.\n\nCurrent employment status: Full-Time\nAnnual salary: $82,000\n\nIf additional information is needed, please contact us at 555-123-4567 or hr@bluetreefinance.com.\n\nSincerely,\nRachel Ortiz\nBlueTree Finance",
+    "tips": [
+      "Include accurate employment dates and salary details.",
+      "Use official letterhead when available.",
+      "Confirm the employee’s job title before sending.",
+      "Provide employer contact information for verification."
+    ],
+    "faqs": [
+      {
+        "question": "What is an employment verification letter for loans?",
+        "answer": "It is a document confirming employment details and income for a lender’s review."
+      },
+      {
+        "question": "Should salary be included?",
+        "answer": "Yes, if the lender requests income verification."
+      },
+      {
+        "question": "Who signs this letter?",
+        "answer": "A manager, HR representative, or authorized employer contact typically signs it."
+      }
+    ]
   },
   {
     "slug": "simple-business-plan-template-for-small-businesses",
     "title": "Simple Business Plan Template for Small Businesses",
-    "description": "One-page business plan format for small businesses.",
-    "intro": "Small businesses can use this simple business plan template to organize goals, strategy, and operations.",
-    "body": "Business overview:\nGoals:\nMarket:"
+    "description": "A one-page business plan template for small businesses.",
+    "category": "Business Plans",
+    "intro": "This small business plan template helps small business owners summarize strategy, goals, customers, and operations in one easy document.",
+    "whenToUse": "Use this template when planning a small business, preparing a pitch, or organizing business priorities.",
+    "template": "Business overview:\n[Describe your business]\n\nProducts or services:\n[List what you sell]\n\nTarget customers:\n[Who you serve]\n\nMarketing plan:\n[How you will attract customers]\n\nFinancial goals:\n[Revenue and profit goals]\n\nOperations plan:\n[How the business runs]",
+    "example": "Business overview:\nA local bakery specializing in custom cakes and pastries.\n\nProducts or services:\nCustom cakes, cupcakes, coffee, and catering.\n\nTarget customers:\nLocal families, event planners, and office clients.\n\nMarketing plan:\nSocial media, community events, and local partnerships.\n\nFinancial goals:\n$150,000 in annual sales.\n\nOperations plan:\nOpen six days a week with a small team handling baking and customer service.",
+    "tips": [
+      "Keep the plan brief and focused on the essentials.",
+      "Use realistic goals and timelines.",
+      "Review it regularly as your business grows.",
+      "Use it to communicate strategy to partners or lenders."
+    ],
+    "faqs": [
+      {
+        "question": "What should a small business plan include?",
+        "answer": "It should include a business overview, target customers, marketing, financial goals, and operations."
+      },
+      {
+        "question": "Is a one-page plan enough?",
+        "answer": "Yes, for early-stage or simple small businesses, one page is often sufficient."
+      },
+      {
+        "question": "Can I use this plan to apply for loans?",
+        "answer": "Yes, it can support loan applications when paired with financial details."
+      }
+    ]
   },
   {
     "slug": "termination-letter-template-for-contractors",
     "title": "Termination Letter Template for Contractors",
-    "description": "Contractor termination letter format.",
-    "intro": "This contractor termination letter template helps formally end service agreements professionally.",
-    "body": "We regret to inform you..."
+    "description": "Contractor termination letter template for ending service agreements.",
+    "category": "Legal Documents",
+    "intro": "This contractor termination letter template helps businesses formally end contractor engagements while documenting the reason and next steps.",
+    "whenToUse": "Use this template when ending a contractor or consultant agreement due to completion, performance issues, or changing business needs.",
+    "template": "Dear [Contractor Name],\n\nThis letter serves as formal notice that your contract with [Company Name] will end effective [Termination Date].\n\nReason: [Reason] \n\nPlease return any company materials and submit all final deliverables by your termination date.\n\nThank you for your work and cooperation.\n\nSincerely,\n[Manager Name]\n[Company Name]",
+    "example": "Dear Jordan Lee,\n\nThis letter serves as formal notice that your contract with Greenfield Media will end effective June 30, 2026.\n\nReason: Project scope has been completed.\n\nPlease submit final deliverables and return any company assets by your termination date.\n\nThank you for your work.\n\nSincerely,\nAvery Brooks\nGreenfield Media",
+    "tips": [
+      "State the termination date and reason clearly.",
+      "Clarify expectations for final deliverables and asset returns.",
+      "Keep the tone professional and respectful.",
+      "Confirm whether any outstanding payments remain."
+    ],
+    "faqs": [
+      {
+        "question": "What is a contractor termination letter?",
+        "answer": "It is a formal notice that a contractor’s engagement is ending."
+      },
+      {
+        "question": "Should contractors be given notice?",
+        "answer": "Yes, provide notice consistent with the contract terms."
+      },
+      {
+        "question": "Do contractor terminations need a reason?",
+        "answer": "A brief reason is useful for documentation and clarity."
+      }
+    ]
   },
   {
     "slug": "freelance-contract-template-for-writers",
     "title": "Freelance Contract Template for Writers",
-    "description": "Basic freelance agreement template for writers.",
-    "intro": "Writers can use this freelance contract template to define scope, deadlines, and payment terms.",
-    "body": "This agreement is between..."
+    "description": "Writer freelance contract template for content and copywriting projects.",
+    "category": "Contracts",
+    "intro": "This freelance contract template helps writers outline project scope, deadlines, payment, and usage rights.",
+    "whenToUse": "Use this template before beginning writing projects for clients or publishers.",
+    "template": "This agreement is between [Client Name] and [Writer Name].\n\nProject scope:\n[Describe writing assignment]\n\nDeliverables:\n[List articles, copy, or drafts]\n\nDeadlines:\n[Delivery dates]\n\nPayment terms:\n[Fee and schedule]\n\nUsage rights:\n[Who owns the content after delivery]",
+    "example": "This agreement is between Bloom Content Studio and Maya Roberts.\n\nProject scope:\nCreate blog posts, social media captions, and email copy.\n\nDeliverables:\nFour blog posts and 10 social captions.\n\nDeadlines:\nBlog posts due June 1, 2026; captions due June 5, 2026.\n\nPayment terms:\n$1,200 total, 50% due up front.\n\nUsage rights:\nClient receives unlimited use of the final content.",
+    "tips": [
+      "Clearly define the content deliverables and deadlines.",
+      "Specify usage rights for the final work.",
+      "Include payment terms and milestone schedules.",
+      "Ask the client to agree to the terms before starting work."
+    ],
+    "faqs": [
+      {
+        "question": "Does a writer need a freelance contract?",
+        "answer": "Yes, it protects both parties and sets expectations for deliverables and payment."
+      },
+      {
+        "question": "Should content ownership be included?",
+        "answer": "Yes, clarify whether the client has exclusive rights or usage permissions."
+      },
+      {
+        "question": "Can this template be used for copywriting?",
+        "answer": "Yes, it works for marketing copy, blogs, articles, and other writing services."
+      }
+    ]
   },
   {
     "slug": "nda-template-for-employees",
     "title": "NDA Template for Employees",
-    "description": "Non-disclosure agreement template for employees.",
-    "intro": "Employees can use this NDA template to ensure confidentiality of company information and trade secrets.",
-    "body": "This NDA is made between..."
+    "description": "Employee NDA template for protecting confidential company information.",
+    "category": "Legal Documents",
+    "intro": "This NDA template helps employers protect confidential business information and trade secrets when sharing details with employees.",
+    "whenToUse": "Use this template when onboarding employees who will access confidential information or proprietary systems.",
+    "template": "This Non-Disclosure Agreement (NDA) is made between [Employer Name] and [Employee Name].\n\nThe employee agrees not to disclose confidential information about company operations, products, clients, or technologies.\n\nThis agreement remains in effect for [Time Period].\n\nSigned:\n[Employer Name]\n[Employee Name]",
+    "example": "This Non-Disclosure Agreement (NDA) is made between Horizon Tech and Alex Diaz.\n\nThe employee agrees not to disclose confidential information about company products, customer data, or internal strategies.\n\nThis agreement remains in effect for 2 years.\n\nSigned:\nHorizon Tech\nAlex Diaz",
+    "tips": [
+      "Define confidential information precisely.",
+      "Set an appropriate duration for the agreement.",
+      "Have both employee and employer sign the document.",
+      "Update agreements when company policies change."
+    ],
+    "faqs": [
+      {
+        "question": "Why do employees sign NDAs?",
+        "answer": "To protect proprietary company information and prevent unauthorized disclosure."
+      },
+      {
+        "question": "Can an NDA apply after employment ends?",
+        "answer": "Yes, many NDAs remain effective after employment ends."
+      },
+      {
+        "question": "Should employers customize employee NDAs?",
+        "answer": "Yes, tailor NDAs to the specific confidential information and role."
+      }
+    ]
   },
   {
     "slug": "cover-letter-template-for-teaching-positions",
     "title": "Cover Letter Template for Teaching Positions",
-    "description": "Job application cover letter template for teaching roles.",
-    "intro": "Teachers can use this cover letter template to highlight classroom experience and teaching philosophy.",
-    "body": "Dear Hiring Manager..."
+    "description": "Teaching job cover letter template for educators.",
+    "category": "Resignation Letters",
+    "intro": "This cover letter template helps teachers highlight classroom experience, instructional strengths, and dedication to student success.",
+    "whenToUse": "Use this template when applying for teaching jobs, educational roles, or school leadership positions.",
+    "template": "Dear Hiring Committee,\n\nI am writing to apply for the [Teaching Position] at [School Name]. With experience teaching [Grade Level/Subject], I have developed strong classroom management and lesson planning skills.\n\nIn my current role at [School], I implemented [Program or Achievement] that improved student engagement.\n\nThank you for your consideration.\n\nSincerely,\n[Your Name]",
+    "example": "Dear Hiring Committee,\n\nI am writing to apply for the 5th Grade Teacher position at Oak Valley Elementary School. With experience teaching English Language Arts and social studies, I have built engaging lessons that support literacy and critical thinking.\n\nIn my current role at Maple Ridge Elementary, I implemented a reading program that increased student participation by 20%.\n\nThank you for your consideration.\n\nSincerely,\nCassie Rivera",
+    "tips": [
+      "Mention teaching experience and subject expertise.",
+      "Highlight positive student outcomes and classroom achievements.",
+      "Tailor the letter to the school’s mission and culture.",
+      "Keep the letter concise and professional."
+    ],
+    "faqs": [
+      {
+        "question": "Should teaching cover letters mention student success?",
+        "answer": "Yes, highlighting student outcomes strengthens your application."
+      },
+      {
+        "question": "Can a teacher use a generic cover letter?",
+        "answer": "It’s better to customize the letter for each school or role."
+      },
+      {
+        "question": "What should a teacher include in a cover letter?",
+        "answer": "Include experience, instructional strengths, and reasons you’re a good fit."
+      }
+    ]
   },
   {
     "slug": "recommendation-letter-template-for-teachers",
     "title": "Recommendation Letter Template for Teachers",
-    "description": "Reference letter for teachers.",
-    "intro": "This teacher recommendation letter template helps write strong academic and professional references.",
-    "body": "To Whom It May Concern..."
+    "description": "Teacher recommendation letter template for academic and career references.",
+    "category": "Resignation Letters",
+    "intro": "This recommendation letter template helps colleagues, administrators, and mentors write strong references for teachers.",
+    "whenToUse": "Use this template when recommending a teacher for a new job, promotion, grant, or fellowship.",
+    "template": "To Whom It May Concern,\n\nI am pleased to recommend [Teacher Name] for [Position or Opportunity]. [Teacher Name] has excelled as a [Subject/Grade] teacher at [School Name], demonstrating [Key Strengths].\n\nThey consistently deliver engaging lessons and support student growth through [Specific Example]. I strongly endorse their candidacy.\n\nSincerely,\n[Your Name]\n[Title]",
+    "example": "To Whom It May Concern,\n\nI am pleased to recommend Megan Davis for the Instructional Coach position. Megan has excelled as a 3rd grade teacher at Pine Grove Elementary, demonstrating strong classroom leadership and student-centered instruction.\n\nShe consistently delivers engaging lessons and supports student growth through data-driven interventions. I strongly endorse her candidacy.\n\nSincerely,\nCarol Kim\nAssistant Principal",
+    "tips": [
+      "Include specific examples of teaching strengths.",
+      "Highlight how the teacher supports student learning.",
+      "Use a positive, professional tone.",
+      "Sign the letter with your name and title."
+    ],
+    "faqs": [
+      {
+        "question": "What should a teacher recommendation letter mention?",
+        "answer": "Mention the teacher’s classroom performance, student impact, and professional strengths."
+      },
+      {
+        "question": "Can principals write these letters?",
+        "answer": "Yes, principals and school administrators often write teacher recommendation letters."
+      },
+      {
+        "question": "Is a letter required for teaching grants?",
+        "answer": "Many grant applications request a strong recommendation letter."
+      }
+    ]
   },
   {
     "slug": "employment-verification-letter-for-rental-applications",
     "title": "Employment Verification Letter for Rental Applications",
-    "description": "Proof of employment letter template for rental applications.",
-    "intro": "Use this employment verification letter when applying for rentals that require income proof.",
-    "body": "This letter confirms..."
+    "description": "Employment verification letter template for rental and housing applications.",
+    "category": "Legal Documents",
+    "intro": "This employment verification letter template helps renters provide proof of income and employment status to landlords or property managers.",
+    "whenToUse": "Use this letter when a rental application requires verification of employment, salary, or job stability.",
+    "template": "To Whom It May Concern,\n\nThis letter confirms that [Employee Name] is employed with [Company Name] as a [Job Title]. [Employee Name] has been employed since [Start Date].\n\nCurrent employment status: [Full-Time/Part-Time]\nMonthly salary: [Salary]\n\nIf additional information is needed, please contact us at [Phone Number] or [Email Address].\n\nSincerely,\n[Employer Name]\n[Company Name]",
+    "example": "To Whom It May Concern,\n\nThis letter confirms that Hannah Lee is employed with Midtown Retail as a Store Supervisor. Hannah has been employed since March 2022.\n\nCurrent employment status: Full-Time\nMonthly salary: $4,500\n\nIf additional information is needed, please contact us at 555-678-9012 or hr@midtownretail.com.\n\nSincerely,\nElaine Park\nMidtown Retail",
+    "tips": [
+      "Provide accurate salary and employment details.",
+      "Use official letterhead or company email if possible.",
+      "Confirm the employee’s job title before issuing the letter.",
+      "Keep the letter concise and factual."
+    ],
+    "faqs": [
+      {
+        "question": "What is an employment verification letter for rentals?",
+        "answer": "It is a document that confirms a renter’s employment and income for a landlord."
+      },
+      {
+        "question": "Do rental applications need employment letters?",
+        "answer": "Many landlords request them to verify financial stability."
+      },
+      {
+        "question": "Can the letter include salary?",
+        "answer": "Yes, if the landlord requests income information."
+      }
+    ]
   },
   {
     "slug": "simple-business-plan-template-for-freelancers",
     "title": "Simple Business Plan Template for Freelancers",
-    "description": "One-page business plan format for freelancers.",
-    "intro": "Freelancers can use this business plan template to define services, goals, and client strategy.",
-    "body": "Business overview:\nGoals:\nMarket:"
+    "description": "One-page freelancer business plan template.",
+    "category": "Business Plans",
+    "intro": "This freelancer business plan template helps independent professionals define services, target clients, pricing, and growth strategy.",
+    "whenToUse": "Use this template when planning freelance services, setting goals, or preparing to pitch clients.",
+    "template": "Business overview:\n[Describe your freelance business]\n\nServices offered:\n[List services]\n\nTarget clients:\n[Describe ideal clients]\n\nPricing model:\n[Hourly or project pricing]\n\nMarketing plan:\n[How you will find clients]\n\nGoals:\n[Revenue or client goals]",
+    "example": "Business overview:\nA freelance copywriter specializing in email marketing and blog content.\n\nServices offered:\nEmail campaigns, blog posts, website copy.\n\nTarget clients:\nSmall businesses and startups.\n\nPricing model:\n$150 per hour or packaged project rates.\n\nMarketing plan:\nLinkedIn outreach, referrals, and content marketing.\n\nGoals:\nAdd five recurring clients this year.",
+    "tips": [
+      "Clearly define the services you offer.",
+      "Set achievable revenue and client goals.",
+      "Use consistent pricing language for clients.",
+      "Update the plan as your freelance business evolves."
+    ],
+    "faqs": [
+      {
+        "question": "What should a freelancer business plan include?",
+        "answer": "It should include your services, target clients, pricing, marketing, and goals."
+      },
+      {
+        "question": "Is a simple business plan enough for freelancers?",
+        "answer": "Yes, a concise plan is often best for solo professionals."
+      },
+      {
+        "question": "Can freelancers use this plan to find clients?",
+        "answer": "Yes, it helps communicate your value and business focus."
+      }
+    ]
   },
   {
     "slug": "termination-letter-template-for-employers",
     "title": "Termination Letter Template for Employers",
-    "description": "Employer termination letter format.",
-    "intro": "Employers can use this termination letter template to formally communicate employee dismissal professionally.",
-    "body": "We regret to inform you..."
+    "description": "Employer termination letter template for documenting employee separations.",
+    "category": "Legal Documents",
+    "intro": "This termination letter template helps employers formally notify employees of dismissal decisions while documenting the effective date and next steps.",
+    "whenToUse": "Use this template when an employer needs to formally end an employee’s position for performance, restructuring, or business reasons.",
+    "template": "Dear [Employee Name],\n\nThis letter confirms that your employment with [Company Name] will end effective [Termination Date].\n\nReason for termination: [Reason]\n\nPlease return all company property and complete any outstanding exit procedures before your final day.\n\nWe appreciate your contributions and wish you success in the future.\n\nSincerely,\n[Manager Name]\n[Company Name]",
+    "example": "Dear David Nguyen,\n\nThis letter confirms that your employment with Cedar Point Digital will end effective July 1, 2026.\n\nReason for termination: Position eliminated due to restructuring.\n\nPlease return all company property and complete exit procedures prior to your final day.\n\nWe appreciate your contributions and wish you success in the future.\n\nSincerely,\nMonica Patel\nCedar Point Digital",
+    "tips": [
+      "Document the termination date and reason clearly.",
+      "Provide guidance on returning company property.",
+      "Keep the message professional and concise.",
+      "Coordinate with HR to ensure compliance."
+    ],
+    "faqs": [
+      {
+        "question": "Can employers issue termination letters by email?",
+        "answer": "Yes, email is common, but a signed letter may be preferred for records."
+      },
+      {
+        "question": "What should a termination letter include?",
+        "answer": "It should include the effective date, reason, and any next steps."
+      },
+      {
+        "question": "Should I keep a copy of the termination letter?",
+        "answer": "Yes, retain a copy for your employment records and compliance."
+      }
+    ]
   }
 ]

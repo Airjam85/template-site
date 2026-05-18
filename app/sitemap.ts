@@ -8,9 +8,11 @@ export default function sitemap() {
       url: baseUrl,
       lastModified: new Date(),
     },
-    ...templates.map((t) => ({
-      url: `${baseUrl}/templates/${t.slug}`,
-      lastModified: new Date(),
-    })),
+    ...templates
+      .filter((t) => typeof t === "object" && "slug" in t)
+      .map((t) => ({
+        url: `${baseUrl}/templates/${(t as any).slug}`,
+        lastModified: new Date(),
+      })),
   ];
 }
