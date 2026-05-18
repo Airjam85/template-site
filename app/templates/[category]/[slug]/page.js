@@ -11,10 +11,12 @@ function normalizeSlug(slug) {
 }
 
 export async function generateStaticParams() {
-  return templates.map((t) => ({
-    category: normalizeSlug(t.category?.slug),
-    slug: normalizeSlug(t.slug),
-  }));
+  return templates
+    .filter((t) => t.category?.slug && t.slug)
+    .map((t) => ({
+      category: normalizeSlug(t.category?.slug),
+      slug: normalizeSlug(t.slug),
+    }));
 }
 
 export async function generateMetadata({ params }) {
@@ -22,6 +24,12 @@ export async function generateMetadata({ params }) {
 
   const normalizedCategory = normalizeSlug(category);
   const normalizedSlug = normalizeSlug(slug);
+
+  if (!normalizedCategory || !normalizedSlug) {
+    return {
+      title: "Template Not Found",
+    };
+  }
 
   const template = templates.find(
     (t) =>
@@ -45,10 +53,8 @@ export async function generateMetadata({ params }) {
 }
 
 export default function TemplatePage({ params }) {
-  const { category, slug } = params;
-
-  const normalizedCategory = normalizeSlug(category);
-  const normalizedSlug = normalizeSlug(slug);
+  const normalizedCategory = normalizeSlug(params?.category);
+  const normalizedSlug = normalizeSlug(params?.slug);
 
   const template = templates.find(
     (t) =>
@@ -59,16 +65,10 @@ export default function TemplatePage({ params }) {
   if (!template) {
     return (
       <main className="max-w-4xl mx-auto p-8">
-        <h1 className="text-3xl font-bold mb-4">
-          Template Not Found
-        </h1>
+        <h1 className="text-3xl font-bold mb-4">Template Not Found</h1>
 
-        <p className="mb-4">
-          category: {String(category)}
-        </p>
-
-        <p className="mb-4">
-          slug: {String(slug)}
+        <p className="text-gray-600 mb-4">
+          No template matches category "{normalizedCategory}" and slug "{normalizedSlug}".
         </p>
 
         <Link href="/" className="text-blue-600 underline">

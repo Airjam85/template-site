@@ -1,8 +1,7 @@
-import templates from "../../../content/templates.json";
 import Link from "next/link";
+import templates from "../../../content/templates.json";
 import { notFound } from "next/navigation";
-
-export const dynamicParams = false;
+import { normalizeSlug } from "../../../lib/slugs";
 
 const SITE_URL = "https://mangogranola.com";
 
@@ -12,20 +11,20 @@ export async function generateStaticParams() {
       templates
         .map((t) => t.category?.slug)
         .filter(Boolean)
-        .map((slug) => slug.toString().trim().toLowerCase())
     ),
   ];
 
   return categories.map((slug) => ({
-    slug,
+    category: slug.toString().trim(),
   }));
 }
 
 export async function generateMetadata({ params }) {
-  const slug = params.slug?.toString().trim().toLowerCase();
+
+  const category = normalizeSlug(params.category);
 
   const filtered = templates.filter(
-    (t) => t.category?.slug === slug
+    (t) => normalizeSlug(t.category?.slug) === category
   );
 
   if (!filtered.length) {
@@ -34,18 +33,18 @@ export async function generateMetadata({ params }) {
     };
   }
 
-  const categoryName = filtered[0].category?.name || slug;
+  const categoryName = filtered[0].category?.name || category;
 
   return {
     title: `${categoryName} Templates | Free Downloads`,
     description: `Browse professional ${categoryName.toLowerCase()} templates including letters, contracts, invoices, and documents.`,
     alternates: {
-      canonical: `${SITE_URL}/categories/${slug}`,
+      canonical: `${SITE_URL}/templates/${category}`,
     },
     openGraph: {
       title: `${categoryName} Templates`,
       description: `Free ${categoryName} templates.`,
-      url: `${SITE_URL}/categories/${slug}`,
+      url: `${SITE_URL}/templates/${category}`,
       siteName: "MangoGranola",
       type: "website",
     },
@@ -53,15 +52,15 @@ export async function generateMetadata({ params }) {
 }
 
 export default function CategoryPage({ params }) {
-  const slug = params.slug?.toString().trim().toLowerCase();
+  const category = normalizeSlug(params.category);
 
   const filtered = templates.filter(
-    (t) => t.category?.slug === slug
+    (t) => normalizeSlug(t.category?.slug) === category
   );
 
   if (!filtered.length) return notFound();
 
-  const categoryName = filtered[0].category?.name || slug;
+  const categoryName = filtered[0].category?.name || category;
 
   return (
     <main className="max-w-4xl mx-auto p-8">
@@ -73,14 +72,15 @@ export default function CategoryPage({ params }) {
         Free professionally written {categoryName.toLowerCase()} templates.
       </p>
 
-      <div className="grid gap-3">
+      <div className="grid gap-4">
         {filtered.map((t) => (
           <Link
             key={t.slug}
             href={`/templates/${t.category?.slug}/${t.slug}`}
-            className="text-blue-600 hover:underline"
+            className="border p-4 rounded hover:bg-gray-50"
           >
-            {t.title}
+            <h2 className="font-semibold text-lg">{t.title}</h2>
+            <p className="text-gray-600 text-sm">{t.description}</p>
           </Link>
         ))}
       </div>
