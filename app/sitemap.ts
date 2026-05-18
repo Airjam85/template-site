@@ -9,9 +9,9 @@ export default function sitemap() {
       lastModified: new Date(),
     },
     ...templates
-      .filter((t) => typeof t === "object" && "slug" in t)
+      .filter((t) => typeof t === "object" && "slug" in t && "category" in t)
       .map((t) => ({
-        url: `${baseUrl}/templates/${(t as any).slug}`,
+        url: `${baseUrl}/templates/${(t as any).category?.slug}/${(t as any).slug}`,
         lastModified: new Date(),
       })),
   ];

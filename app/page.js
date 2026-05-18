@@ -11,7 +11,10 @@ export default function HomePage() {
       <div className="grid gap-4">
         {templates.map((t) => (
           <div key={t.slug} className="border p-4 rounded">
-            <Link href={`/templates/${t.slug}`} className="block">
+            <Link
+              href={`/templates/${t.category?.slug}/${t.slug}`}
+              className="block"
+            >
               <h2 className="text-xl font-semibold">
                 {t.title}
               </h2>
