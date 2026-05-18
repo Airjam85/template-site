@@ -4,27 +4,33 @@ import TemplateActions from "./TemplateActions";
 
 const SITE_URL = "https://mangogranola.com";
 
+function normalize(str = "") {
+  return str.toString().trim().toLowerCase();
+}
+
 export async function generateStaticParams() {
-  return templates.map((t) => ({
-    slug: t.slug,
-  }));
+  return templates
+    .filter((t) => t.slug)
+    .map((t) => ({
+      slug: t.slug.toString().trim(),
+    }));
 }
 
 export async function generateMetadata({ params }) {
-  const { slug } = params;
+  const normalize = (s) => s?.toString().trim().toLowerCase();
 
-  const template = templates.find((t) => t.slug === slug);
+  const template = templates.find(
+    (t) => normalize(t.slug) === normalize(params.slug)
+  );
 
   if (!template) return {};
 
   return {
     title: `${template.title} | Free Template`,
     description: template.description,
-
     alternates: {
       canonical: `${SITE_URL}/templates/${template.slug}`,
     },
-
     openGraph: {
       title: template.title,
       description: template.description,
@@ -32,13 +38,11 @@ export async function generateMetadata({ params }) {
       siteName: "MangoGranola",
       type: "article",
     },
-
     twitter: {
       card: "summary_large_image",
       title: template.title,
       description: template.description,
     },
-
     keywords: [
       template.title,
       `${template.title} free`,
@@ -51,9 +55,11 @@ export async function generateMetadata({ params }) {
 }
 
 export default function TemplatePage({ params }) {
-  const { slug } = params;
+  const normalize = (s) => s?.toString().trim().toLowerCase();
 
-  const template = templates.find((t) => t.slug === slug);
+  const template = templates.find(
+    (t) => normalize(t.slug) === normalize(params.slug)
+  );
 
   if (!template) {
     return (
@@ -62,17 +68,19 @@ export default function TemplatePage({ params }) {
           Template Not Found
         </h1>
 
-        <p className="text-gray-600">
-          The requested template does not exist.
+        <p className="text-gray-600 mb-4">
+          No template matches slug: <code>{params.slug}</code>
         </p>
+
+        <Link href="/" className="text-blue-600 underline">
+          Go back home
+        </Link>
       </main>
     );
   }
 
-  const templateContent =
-    template.template || template.body || "";
+  const templateContent = template.template || template.body || "";
 
-  // JSON-LD STRUCTURED DATA
   const structuredData = {
     "@context": "https://schema.org",
     "@type": "Article",
@@ -85,21 +93,17 @@ export default function TemplatePage({ params }) {
     },
   };
 
-  // SMART RELATED TEMPLATE ENGINE
   const relatedTemplates = templates
-    .filter((t) => t.slug !== slug)
+    .filter((t) => t.slug !== template.slug)
     .map((t) => {
-      const currentWords = slug.split("-");
+      const currentWords = template.slug.split("-");
       const targetWords = t.slug.split("-");
 
       const score = currentWords.filter((word) =>
         targetWords.includes(word)
       ).length;
 
-      return {
-        ...t,
-        score,
-      };
+      return { ...t, score };
     })
     .filter((t) => t.score > 0)
     .sort((a, b) => b.score - a.score)
@@ -107,8 +111,6 @@ export default function TemplatePage({ params }) {
 
   return (
     <main className="max-w-4xl mx-auto p-8">
-
-      {/* JSON-LD */}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
@@ -116,7 +118,6 @@ export default function TemplatePage({ params }) {
         }}
       />
 
-      {/* HERO SECTION */}
       <header className="mb-10">
         <h1 className="text-4xl font-bold mb-3">
           {template.title}
@@ -126,58 +127,38 @@ export default function TemplatePage({ params }) {
           {template.description}
         </p>
 
+        {template.category?.slug && (
+          <p className="text-sm text-gray-500 mb-4">
+            Category:{" "}
+            <Link
+              href={`/categories/${template.category.slug}`}
+              className="text-blue-600 hover:underline"
+            >
+              {template.category.name}
+            </Link>
+          </p>
+        )}
+
         <p className="text-gray-700 leading-7">
           {template.intro}
         </p>
       </header>
 
-      {/* WHEN TO USE */}
       {template.whenToUse && (
         <section className="mb-10 p-5 border rounded-lg bg-gray-50">
           <h2 className="text-2xl font-semibold mb-2">
             When to Use This Template
           </h2>
-
           <p className="text-gray-700 leading-7">
             {template.whenToUse}
           </p>
         </section>
       )}
 
-      {/* HOW TO USE */}
-      <section className="mb-10">
-        <h2 className="text-2xl font-semibold mb-3">
-          How to Use This Template
-        </h2>
-
-        <ul className="list-disc pl-6 space-y-2 text-gray-700 leading-7">
-          <li>
-            Replace all placeholder text with your information.
-          </li>
-
-          <li>
-            Customize wording to fit your situation.
-          </li>
-
-          <li>
-            Review formatting and spelling before sending.
-          </li>
-
-          <li>
-            Keep the tone professional and concise.
-          </li>
-        </ul>
-      </section>
-
-      {/* TEMPLATE BLOCK */}
       <section className="mb-10">
         <h2 className="text-2xl font-semibold mb-3">
           Copy This Template
         </h2>
-
-        <p className="text-sm text-gray-500 mb-3">
-          Edit directly below or copy into your own document.
-        </p>
 
         <textarea
           className="border w-full p-5 min-h-[400px] rounded-lg font-mono text-sm"
@@ -185,10 +166,8 @@ export default function TemplatePage({ params }) {
         />
       </section>
 
-      {/* ACTION BUTTONS */}
       <TemplateActions templateContent={templateContent} />
 
-      {/* EXAMPLE */}
       {template.example && (
         <section className="mb-12">
           <h2 className="text-2xl font-semibold mb-3">
@@ -201,8 +180,7 @@ export default function TemplatePage({ params }) {
         </section>
       )}
 
-      {/* FAQ SECTION */}
-      {template.faqs && template.faqs.length > 0 && (
+      {template.faqs?.length > 0 && (
         <section className="mb-12">
           <h2 className="text-2xl font-semibold mb-4">
             Frequently Asked Questions
@@ -214,7 +192,6 @@ export default function TemplatePage({ params }) {
                 <h3 className="font-semibold mb-2 text-lg">
                   {faq.question}
                 </h3>
-
                 <p className="text-gray-700 leading-7">
                   {faq.answer}
                 </p>
@@ -224,11 +201,10 @@ export default function TemplatePage({ params }) {
         </section>
       )}
 
-      {/* TIPS SECTION */}
       {template.tips && (
         <section className="mb-12">
           <h2 className="text-2xl font-semibold mb-4">
-            Tips for Using This Template
+            Tips
           </h2>
 
           <ul className="list-disc pl-6 space-y-2 text-gray-700">
@@ -239,7 +215,6 @@ export default function TemplatePage({ params }) {
         </section>
       )}
 
-      {/* RELATED TEMPLATES */}
       <section className="mb-12">
         <h2 className="text-2xl font-semibold mb-4">
           Related Templates
@@ -257,14 +232,6 @@ export default function TemplatePage({ params }) {
           ))}
         </div>
       </section>
-
-      {/* SEO FOOTER */}
-      <footer className="border-t pt-6 text-sm text-gray-500 leading-7">
-        Download free professional templates for contracts,
-        invoices, resignation letters, NDAs, business documents,
-        employment forms, and more.
-      </footer>
-
     </main>
   );
 }
