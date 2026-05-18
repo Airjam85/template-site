@@ -19,6 +19,16 @@ export default function HomePage() {
               {t.title}
             </h2>
             <p>{t.description}</p>
+            {t.category?.slug && (
+              <p className="text-sm text-gray-500 mt-2">
+                <Link
+                  href={`/templates/category/${t.category.slug}`}
+                  className="text-blue-600 hover:underline"
+                >
+                  {t.category.name}
+                </Link>
+              </p>
+            )}
           </Link>
         ))}
       </div>
