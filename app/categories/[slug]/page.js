@@ -2,6 +2,8 @@ import templates from "../../../content/templates.json";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 
+export const dynamicParams = false;
+
 const SITE_URL = "https://mangogranola.com";
 
 export async function generateStaticParams() {
@@ -49,8 +51,10 @@ export async function generateMetadata({ params }) {
   };
 }
 
-export default function CategoryPage({ params }) {
-  const slug = params.slug?.toString().trim();
+export default async function CategoryPage({ params }) {
+  const resolvedParams = await params;
+
+  const slug = resolvedParams.slug?.toString().trim();
 
   const filtered = templates.filter(
     (t) => t.category?.slug === slug
