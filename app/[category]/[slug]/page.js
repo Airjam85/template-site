@@ -15,9 +15,6 @@ export default async function TemplatePage({ params }) {
         <h1 className="text-3xl font-bold mb-4">
           Template not found
         </h1>
-
-        <p>Category: {category}</p>
-        <p>Slug: {slug}</p>
       </main>
     );
   }
@@ -32,27 +29,9 @@ export default async function TemplatePage({ params }) {
         {template.description}
       </p>
 
-      <div className="mb-8">
-        <h2 className="text-2xl font-semibold mb-2">
-          Template
-        </h2>
-
-        <pre className="whitespace-pre-wrap border rounded p-4 bg-gray-50">
-          {template.template}
-        </pre>
-      </div>
-
-      {template.example && (
-        <div>
-          <h2 className="text-2xl font-semibold mb-2">
-            Example
-          </h2>
-
-          <pre className="whitespace-pre-wrap border rounded p-4">
-            {template.example}
-          </pre>
-        </div>
-      )}
+      <pre className="whitespace-pre-wrap border rounded p-4 bg-gray-50">
+        {template.template}
+      </pre>
     </main>
   );
 }
