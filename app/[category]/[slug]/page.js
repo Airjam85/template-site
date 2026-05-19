@@ -1,7 +1,7 @@
 import templates from "../../../content/templates.json";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-{/*import TemplateActions from "../../components/TemplateActions";*/}
+import TemplateActions from "../../components/TemplateActions";
 
 export async function generateStaticParams() {
   return templates.map((template) => ({
@@ -67,14 +67,23 @@ export default async function TemplatePage({ params }) {
         {template.title}
       </h1>
 
-<p className="text-sm text-gray-500 mb-4">
+<div className="text-sm text-gray-500 mb-6 flex gap-2 flex-wrap">
+  <Link
+    href="/"
+    className="hover:underline"
+  >
+    Home
+  </Link>
+
+  <span>/</span>
+
   <Link
     href={`/${template.category.slug}`}
     className="hover:underline"
   >
     {template.category.name}
   </Link>
-</p>
+</div>
 
       <p className="text-gray-600 mb-6">
         {template.description}
@@ -100,13 +109,7 @@ export default async function TemplatePage({ params }) {
   Template
 </h2>
 
-
-      <pre className="whitespace-pre-wrap border rounded p-4 bg-gray-50 overflow-x-auto">
-        {template.template}
-      </pre>
-{/*
-<TemplateActions template={template.template} />
-*/}
+<TemplateActions templateContent={template.template} />
 
 {template.example && (
   <div className="mt-8">
@@ -114,7 +117,7 @@ export default async function TemplatePage({ params }) {
       Example
     </h2>
 
-    <pre className="whitespace-pre-wrap border rounded p-4 bg-gray-50 overflow-x-auto">
+    <pre className="whitespace-pre-wrap border rounded p-4 bg-white dark:bg-zinc-900 dark:text-white overflow-x-auto">
       {template.example}
     </pre>
   </div>
@@ -154,7 +157,7 @@ export default async function TemplatePage({ params }) {
         <Link
           key={item.slug}
           href={`/${item.category.slug}/${item.slug}`}
-          className="border rounded p-4 block hover:bg-gray-50"
+          className="border rounded p-4 block hover:bg-white dark:bg-zinc-900 dark:hover:bg-zinc-800"
         >
           <h3 className="font-semibold">
             {item.title}

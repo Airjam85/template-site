@@ -2,32 +2,87 @@
 
 import { useState } from "react";
 
-export default function TemplateActions({ templateContent }) {
+export default function TemplateActions({ templateContent = "" }) {
   const [copied, setCopied] = useState(false);
+  const [content, setContent] = useState(templateContent);
+
+  async function handleCopy() {
+    try {
+      await navigator.clipboard.writeText(content);
+
+      setCopied(true);
+
+      setTimeout(() => {
+        setCopied(false);
+      }, 2000);
+    } catch (error) {
+      console.error(error);
+    }
+  }
 
   return (
-    <section className="mb-12 flex gap-3 flex-wrap">
-      <button
-        onClick={() => {
-          navigator.clipboard.writeText(templateContent);
-          setCopied(true);
+    <div className="mt-4">
+      <textarea
+        value={content}
+        onChange={(e) => setContent(e.target.value)}
+        className="w-full min-h-[300px] border rounded p-4 bg-white text-black dark:bg-zinc-900 dark:text-white mb-4"
+      />
 
-          setTimeout(() => {
-            setCopied(false);
-          }, 2000);
-        }}
-        className="bg-black text-white px-4 py-2 rounded hover:opacity-90"
-      >
-        {copied ? "Copied!" : "Copy Template"}
-      </button>
+      <div className="flex gap-3 flex-wrap">
+        <button
+          onClick={handleCopy}
+          className="bg-black text-white px-4 py-2 rounded"
+        >
+          {copied ? "Copied!" : "Copy Template"}
+        </button>
 
-      <button className="border px-4 py-2 rounded hover:bg-gray-50">
-        Download PDF (coming soon)
-      </button>
+       <button
+  onClick={() => {
+    const blob = new Blob([content], {
+      type: "text/plain",
+    });
 
-      <button className="border px-4 py-2 rounded hover:bg-gray-50">
-        Share (coming soon)
-      </button>
-    </section>
+    const url = URL.createObjectURL(blob);
+
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = "mangogranola-template.txt";
+    a.click();
+
+    URL.revokeObjectURL(url);
+  }}
+  className="border px-4 py-2 rounded bg-white text-black hover:bg-gray-100 dark:bg-zinc-900 dark:text-white dark:hover:bg-zinc-800"
+>
+  Download TXT
+</button>
+
+        <button
+  onClick={async () => {
+    const shareData = {
+      title: document.title,
+      text: "Check out this template",
+      url: window.location.href,
+    };
+
+    try {
+      if (navigator.share) {
+        await navigator.share(shareData);
+      } else {
+        await navigator.clipboard.writeText(
+          window.location.href
+        );
+
+        alert("Link copied!");
+      }
+    } catch (error) {
+      console.error(error);
+    }
+  }}
+  className="border px-4 py-2 rounded bg-white text-black hover:bg-gray-100 dark:bg-zinc-900 dark:text-white dark:hover:bg-zinc-800"
+>
+  Share
+</button>
+      </div>
+    </div>
   );
 }
