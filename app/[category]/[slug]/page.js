@@ -1,7 +1,7 @@
 import templates from "../../../content/templates.json";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import TemplateActions from "../../../../components/TemplateActions";
+import TemplateActions from "../../../components/TemplateActions";
 
 export async function generateStaticParams() {
   return templates.map((template) => ({
