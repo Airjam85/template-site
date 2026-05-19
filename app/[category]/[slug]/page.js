@@ -1,6 +1,7 @@
 import templates from "../../../content/templates.json";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import TemplateActions from "../../../../components/TemplateActions";
 
 export async function generateStaticParams() {
   return templates.map((template) => ({
@@ -99,9 +100,12 @@ export default async function TemplatePage({ params }) {
   Template
 </h2>
 
+{/*
       <pre className="whitespace-pre-wrap border rounded p-4 bg-gray-50 overflow-x-auto">
         {template.template}
       </pre>
+*/}
+<TemplateActions template={template.template} />
 
 {template.example && (
   <div className="mt-8">
