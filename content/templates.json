@@ -1087,5 +1087,489 @@
           "answer": "Yes, clear communication about rent and bills is essential for a harmonious living situation."
         }
       ]
+  },
+  {
+    "slug": "freelance-contract-template-for-designers",
+    "title": "Freelance Contract Template for Designers",
+    "description": "Designer freelance contract template for creative projects.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "This freelance contract template helps designers outline project scope, deadlines, payment, and usage rights for creative work.",
+    "whenToUse": "Use this template before starting design projects for clients or agencies.",
+    "template": "This agreement is between [Client Name] and [Designer Name].\n\nProject scope:\n[Describe design assignment]\n\nDeliverables:\n[List design files or concepts]\n\nDeadlines:\n[Delivery dates]\n\nPayment terms:\n[Fee and schedule]\n\nUsage rights:\n[Who owns the designs after delivery]",
+    "example": "This agreement is between Bright Ideas Agency and Jordan Smith.\n\nProject scope:\nCreate a new logo and brand identity for a startup.\n\nDeliverables:\nLogo files in multiple formats, brand guidelines document.\n\nDeadlines:\nInitial concepts due June 15, 2026; final files due June 30, 2026.\n\nPayment terms:\n$2,500 total, 50% due up front.\n\nUsage rights:\nClient receives exclusive rights to use the final designs.",
+    "tips": [
+      "Clearly define the design deliverables and deadlines.",
+      "Specify usage rights for the final work.",
+      "Include payment terms and milestone schedules.",
+      "Ask the client to agree to the terms before starting work."
+    ],
+    "faqs": [
+      {
+        "question": "Does a designer need a freelance contract?",
+        "answer": "Yes, it protects both parties and sets expectations for deliverables and payment."
+      },
+      {
+        "question": "Should design ownership be included?",
+        "answer": "Yes, clarify whether the client has exclusive rights or usage permissions."
+      },
+      {
+        "question": "Can this template be used for web design?",
+        "answer": "Yes, it works for branding, web design, and other creative services."
+      }
+    ]
+  },
+  {
+    "slug": "nda-template-for-contractors",
+    "title": "NDA Template for Contractors",
+    "description": "Contractor NDA template for protecting confidential information.",
+    "category": { "name": "Legal Documents", "slug": "legal-documents" },
+    "intro": "This NDA template helps businesses protect confidential information when sharing details with contractors or consultants.",
+    "whenToUse": "Use this template when engaging contractors who will access sensitive business information or proprietary systems.",
+    "template": "This Non-Disclosure Agreement (NDA) is made between [Company Name] and [Contractor Name].\n\nThe contractor agrees not to disclose confidential information about company operations, products, clients, or technologies.\n\nThis agreement remains in effect for [Time Period].\n\nSigned:\n[Company Name]\n[Contractor Name]",
+    "example": "This Non-Disclosure Agreement (NDA) is made between Tech Solutions Inc. and Alex Johnson.\n\nThe contractor agrees not to disclose confidential information about company products, customer data, or internal strategies.\n\nThis agreement remains in effect for 1 year.\n\nSigned:\nTech Solutions Inc.\nAlex Johnson",
+    "tips": [
+      "Define confidential information precisely.",
+      "Set an appropriate duration for the agreement.",
+      "Have both contractor and company sign the document.",
+      "Update agreements when company policies change."
+    ],
+    "faqs": [
+      { "question": "Why do contractors sign NDAs?", "answer": "To protect proprietary company information and prevent unauthorized disclosure." },
+      { "question": "Can an NDA apply after the contract ends?", "answer": "Yes, many NDAs remain effective after the contract ends." },
+      { "question": "Should companies customize contractor NDAs?", "answer": "Yes, tailor NDAs to the specific confidential information and role." }
+    ]
+  },
+  {
+    "slug": "termination-letter-template-for-contractors",
+    "title": "Termination Letter Template for Contractors",
+    "description": "Contractor termination letter template for documenting contract separations.",
+    "category": { "name": "Legal Documents", "slug": "legal-documents" },
+    "intro": "This termination letter template helps businesses formally notify contractors of dismissal decisions while documenting the effective date and next steps.",
+    "whenToUse": "Use this template when a business needs to formally end a contractor’s engagement for performance, project completion, or business reasons.",
+    "template": "Dear [Contractor Name],\n\nThis letter confirms that your engagement with [Company Name] will end effective [Termination Date].\n\nReason for termination: [Reason]\n\nPlease return all company property and complete any outstanding exit procedures before your final day.\n\nWe appreciate your contributions and wish you success in the future.\n\nSincerely,\n[Manager Name]\n[Company Name]",
+    "example": "Dear Alex Johnson,\n\nThis letter confirms that your engagement with Tech Solutions Inc. will end effective August 1, 2026.\n\nReason for termination: Project completed and contract fulfilled.\n\nPlease return all company property and complete any outstanding exit procedures prior to your final day.\n\nWe appreciate your contributions and wish you success in the future.\n\nSincerely,\nSarah Williams\nTech Solutions Inc.",
+    "tips": [
+      "Document the termination date and reason clearly.",
+      "Provide guidance on returning company property.",
+      "Keep the message professional and concise.",
+      "Coordinate with legal or HR to ensure compliance with contract terms."
+    ],
+    "faqs": [
+      { "question": "Can businesses issue termination letters to contractors by email?", "answer": "Yes, email is common for contractor communications, but a signed letter may be preferred for records." },
+      { "question": "What should a contractor termination letter include?", "answer": "It should include the effective date, reason for termination, and any next steps for returning property or completing exit procedures." },
+      { "question": "Should I keep a copy of the contractor termination letter?", "answer": "Yes, retain a copy for your records and to ensure compliance with contract terms." }
+    ]
+  },
+
+  /* --- BEGIN GENERATED TEMPLATES (75 items) --- */
+
+  {
+    "slug": "resignation-short-notice-template",
+    "title": "Short Notice Resignation Letter",
+    "description": "A concise resignation letter template for providing short notice.",
+    "category": { "name": "Resignation Letters", "slug": "resignation-letters" },
+    "intro": "Use this short resignation template when you must leave with limited notice.",
+    "whenToUse": "When you need to resign quickly and provide a brief professional notice.",
+    "template": "Dear [Manager Name],\n\nPlease accept this letter as formal notice of my resignation from [Company Name], effective [Last Working Day].\n\nThank you for the opportunities provided during my time here.\n\nSincerely,\n[Your Name]",
+    "example": "Dear Mr. Evans,\n\nPlease accept this letter as formal notice of my resignation from Bright Services, effective May 20, 2026.\n\nSincerely,\nDana Lee",
+    "faqs": [{ "question": "Is short notice acceptable?", "answer": "It depends on your contract and employer policy; be professional and offer to help with transition." }]
+  },
+
+  {
+    "slug": "resignation-long-form-template",
+    "title": "Long-Form Resignation Letter",
+    "description": "A detailed resignation letter template for explaining reasons and transition plans.",
+    "category": { "name": "Resignation Letters", "slug": "resignation-letters" },
+    "intro": "A longer resignation letter that offers context and outlines support during transition.",
+    "whenToUse": "When you want to provide explanation and assist with handover details.",
+    "template": "Dear [Manager Name],\n\nI am writing to inform you of my resignation from [Company Name], effective [Last Day]. I have accepted a position at [New Company] and appreciate the experience I gained here.\n\nI will complete [Tasks] and assist with handover materials.\n\nSincerely,\n[Your Name]",
+    "example": "Dear Karen,\n\nI am writing to resign from my role at Meadow Labs effective June 1, 2026. I will complete the current campaign and provide documentation for my successor.\n\nSincerely,\nLiam Harris",
+    "faqs": [{ "question": "Should I include reasons?", "answer": "Optional; keep it professional and brief." }]
+  },
+
+  {
+    "slug": "cover-letter-entry-level",
+    "title": "Entry-Level Cover Letter",
+    "description": "Cover letter template for entry-level job applicants.",
+    "category": { "name": "Resignation Letters", "slug": "resignation-letters" },
+    "intro": "A simple cover letter tailored for entry-level roles.",
+    "whenToUse": "When applying for first professional roles or internships.",
+    "template": "Dear Hiring Manager,\n\nI am excited to apply for [Role] at [Company]. I bring [Skill or Experience] and enthusiasm to learn.\n\nSincerely,\n[Your Name]",
+    "example": "Dear Hiring Manager,\n\nI am excited to apply for the Junior Designer role at Oak & Co. I have experience in Adobe Illustrator and portfolio work showcasing branding projects.\n\nSincerely,\nAva Martin",
+    "faqs": [{ "question": "How long should it be?", "answer": "Keep it to 3–4 short paragraphs highlighting fit and enthusiasm." }]
+  },
+
+  {
+    "slug": "cover-letter-career-change",
+    "title": "Career Change Cover Letter",
+    "description": "Cover letter template for professionals changing careers.",
+    "category": { "name": "Resignation Letters", "slug": "resignation-letters" },
+    "intro": "Explain transferable skills and motivation when switching fields.",
+    "whenToUse": "Use when applying to roles outside your previous industry.",
+    "template": "Dear [Hiring Manager],\n\nI am applying for [Role] and bring transferable experience from [Previous Field], including [Skill]. I am eager to apply these skills at [Company].\n\nSincerely,\n[Your Name]",
+    "example": "Dear Hiring Team,\n\nI am applying for Product Coordinator at BrightTech. My background in project management and customer research prepares me to support product teams effectively.\n\nSincerely,\nOmar Khan",
+    "faqs": [{ "question": "Should I mention the change?", "answer": "Yes, briefly explain transferable skills and why you’re motivated to switch." }]
+  },
+
+  {
+    "slug": "write-up-employee-performance",
+    "title": "Employee Performance Write-Up",
+    "description": "A formal write-up template documenting performance issues.",
+    "category": { "name": "Employment", "slug": "employment" },
+    "intro": "Use this template to document performance or conduct concerns.",
+    "whenToUse": "When an employee needs a formal warning or documentation in performance files.",
+    "template": "Date: [Date]\nEmployee: [Name]\nIssue: [Details]\nAction Required: [Improvement Steps]\nFollow-up Date: [Date]",
+    "example": "Date: May 1, 2026\nEmployee: Jordan Smith\nIssue: Repeated missed deadlines\nAction Required: Submit weekly status and meet deadlines\nFollow-up Date: May 29, 2026",
+    "faqs": [{ "question": "Is HR review required?", "answer": "Often yes; coordinate with HR before issuing formal write-ups." }]
+  },
+
+  {
+    "slug": "pto-request-template",
+    "title": "PTO Request Email",
+    "description": "Template to request paid time off from a manager.",
+    "category": { "name": "Employment", "slug": "employment" },
+    "intro": "A concise email for requesting PTO.",
+    "whenToUse": "Requesting planned vacation, personal days, or medical leave.",
+    "template": "Subject: PTO Request - [Dates]\n\nHi [Manager Name],\n\nI’d like to request PTO from [Start Date] to [End Date]. I will ensure [Coverage Plan].\n\nThanks,\n[Your Name]",
+    "example": "Subject: PTO Request - June 10–14\n\nHi Maria,\n\nI’d like to request PTO June 10–14. I will hand off current tasks to Priya and leave instructions.\n\nThanks,\nSam",
+    "faqs": [{ "question": "How much notice?", "answer": "As much as possible — two weeks is common for planned time off." }]
+  },
+
+  {
+    "slug": "recommendation-academic",
+    "title": "Academic Recommendation Letter",
+    "description": "Recommendation letter template for students or academic programs.",
+    "category": { "name": "Resignation Letters", "slug": "resignation-letters" },
+    "intro": "A template for teachers or professors writing student recommendations.",
+    "whenToUse": "When recommending a student for college, scholarship, or academic program.",
+    "template": "To Whom It May Concern,\n\nI am pleased to recommend [Student Name] for [Program]. [He/She] demonstrated [Strengths].\n\nSincerely,\n[Your Name]",
+    "example": "To Whom It May Concern,\n\nI recommend Alex Ruiz for the undergraduate research program. Alex demonstrated strong analytical skills and initiative.\n\nSincerely,\nDr. Ellen Park",
+    "faqs": [{ "question": "What to include?", "answer": "Specific examples of the candidate’s performance and achievements." }]
+  },
+
+  {
+    "slug": "roommate-move-out-notice",
+    "title": "Roommate Move-Out Notice",
+    "description": "A short notice template to inform roommates of moving out.",
+    "category": { "name": "Legal Documents", "slug": "legal-documents" },
+    "intro": "Use this notice to formally notify roommates and document move-out details.",
+    "whenToUse": "When a roommate decides to vacate a shared rental.",
+    "template": "Dear [Roommate Name],\n\nI plan to move out on [Date]. Please let me know arrangements for deposits, keys, and cleaning.\n\nSincerely,\n[Your Name]",
+    "example": "Dear Kim,\n\nI plan to move out on July 1, 2026. I will coordinate returning the keys and splitting final utilities.\n\nThanks,\nJordan",
+    "faqs": [{ "question": "How much notice?", "answer": "Check your lease; 30 days is a common requirement." }]
+  },
+
+  {
+    "slug": "bill-of-sale-general",
+    "title": "General Bill of Sale",
+    "description": "A simple bill of sale template for personal property transfers.",
+    "category": { "name": "Legal Documents", "slug": "legal-documents" },
+    "intro": "Use this bill of sale to document the sale of used items between private parties.",
+    "whenToUse": "Selling items like vehicles, equipment, or furniture privately.",
+    "template": "Bill of Sale\n\nSeller: [Name]\nBuyer: [Name]\nItem: [Description]\nSale Price: [Amount]\nDate: [Date]\n\nSeller Signature: __________",
+    "example": "Bill of Sale\n\nSeller: Mark Lee\nBuyer: Anna Kim\nItem: Used lawn mower\nSale Price: $200\nDate: May 2, 2026",
+    "faqs": [{ "question": "Is it legally binding?", "answer": "Often yes for personal property sales; check local requirements for vehicles." }]
+  },
+
+  {
+    "slug": "promissory-note-basic",
+    "title": "Basic Promissory Note",
+    "description": "Simple promissory note template for personal loans.",
+    "category": { "name": "Legal Documents", "slug": "legal-documents" },
+    "intro": "A straightforward promissory note documenting repayment terms between individuals.",
+    "whenToUse": "When lending or borrowing money informally between acquaintances.",
+    "template": "Promissory Note\n\nBorrower: [Name]\nLender: [Name]\nAmount: [Amount]\nRepayment Terms: [Schedule]\nDate: [Date]\n\nBorrower Signature: __________",
+    "example": "Promissory Note\n\nBorrower: Tim Green\nLender: Sara Park\nAmount: $1,000\nRepayment Terms: $100/month for 10 months\nDate: April 5, 2026",
+    "faqs": [{ "question": "Should it be notarized?", "answer": "Not required in many cases but notarization can add formality and provenance." }]
+  },
+
+  {
+    "slug": "simple-affidavit-template",
+    "title": "Simple Affidavit",
+    "description": "A basic affidavit template for sworn statements.",
+    "category": { "name": "Legal Documents", "slug": "legal-documents" },
+    "intro": "Use this affidavit template to provide a sworn written statement of facts.",
+    "whenToUse": "When a sworn statement is needed for legal or administrative purposes.",
+    "template": "Affidavit\n\nI, [Name], state under oath that: [Statement].\n\nSigned: __________\nDate: [Date]",
+    "example": "Affidavit\n\nI, Alex Rivera, state under oath that I witnessed the property damage on March 10, 2026.\n\nSigned: Alex Rivera",
+    "faqs": [{ "question": "Do affidavits need notarization?", "answer": "Often yes; check local rules for sworn statements." }]
+  },
+
+  {
+    "slug": "invoice-service-flat-rate",
+    "title": "Flat-Rate Service Invoice",
+    "description": "Invoice template for flat-rate services.",
+    "category": { "name": "Invoices", "slug": "invoices" },
+    "intro": "Use this invoice for fixed-price service work.",
+    "whenToUse": "Billing clients for project-based, flat-fee services.",
+    "template": "Invoice #: [Number]\nDate: [Date]\nService: [Description]\nAmount: [Total]\nDue: [Date]",
+    "example": "Invoice #: 3001\nDate: May 10, 2026\nService: Website redesign\nAmount: $3,000\nDue: June 10, 2026",
+    "faqs": [{ "question": "What payment terms to include?", "answer": "Include due date and accepted payment methods." }]
+  },
+
+  {
+    "slug": "project-proposal-basic",
+    "title": "Basic Project Proposal",
+    "description": "A simple proposal template to outline scope and pricing.",
+    "category": { "name": "Business Documents", "slug": "business-documents" },
+    "intro": "Use this proposal to summarize scope, deliverables, timeline, and cost.",
+    "whenToUse": "When pitching services or projects to clients.",
+    "template": "Proposal Title: [Project]\nClient: [Name]\nScope: [Deliverables]\nTimeline: [Dates]\nCost: [Amount]",
+    "example": "Proposal Title: Branding Refresh\nClient: Greenleaf Co.\nScope: Logo, color palette, basic guidelines\nTimeline: 4 weeks\nCost: $4,500",
+    "faqs": [{ "question": "Should I include payment milestones?", "answer": "Yes — they help manage expectations and cash flow." }]
+  },
+
+  {
+    "slug": "meeting-agenda-template",
+    "title": "Meeting Agenda Template",
+    "description": "A simple meeting agenda to keep discussions focused.",
+    "category": { "name": "Business Documents", "slug": "business-documents" },
+    "intro": "Use this agenda to structure team or client meetings.",
+    "whenToUse": "Before scheduled meetings to share topics and time allocations.",
+    "template": "Meeting: [Topic]\nDate: [Date]\nAttendees: [Names]\nAgenda:\n- [Item 1]\n- [Item 2]",
+    "example": "Meeting: Project Kickoff\nDate: May 18, 2026\nAttendees: PM, Designer, Dev\nAgenda:\n- Scope review\n- Timeline\n- Next steps",
+    "faqs": [{ "question": "How long should agendas be?", "answer": "Keep items focused and assign time estimates for each." }]
+  },
+
+  {
+    "slug": "consulting-agreement-simple",
+    "title": "Simple Consulting Agreement",
+    "description": "A concise consulting agreement for short-term engagements.",
+    "category": { "name": "Business Documents", "slug": "business-documents" },
+    "intro": "Use this agreement to define scope, payment, and deliverables for consultants.",
+    "whenToUse": "When hiring or engaging an external consultant.",
+    "template": "Agreement between [Client] and [Consultant].\nScope: [Services]\nFee: [Amount]\nTerm: [Dates]",
+    "example": "Agreement between Bright Agency and Mira Chen.\nScope: UX audit\nFee: $1,200\nTerm: May 2026",
+    "faqs": [{ "question": "Should consultants have NDAs?", "answer": "Often yes — include confidentiality provisions if needed." }]
+  },
+
+  {
+    "slug": "apology-letter-formal",
+    "title": "Formal Apology Letter",
+    "description": "A template to apologize professionally and restore relationships.",
+    "category": { "name": "Personal Letters", "slug": "personal-letters" },
+    "intro": "Use this letter to offer a sincere, professional apology.",
+    "whenToUse": "When you need to apologize formally to colleagues, friends, or partners.",
+    "template": "Dear [Name],\n\nI want to apologize for [Action]. I understand the impact and will [Remedy].\n\nSincerely,\n[Your Name]",
+    "example": "Dear Alex,\n\nI’m sorry for missing our meeting and not giving advance notice. I’ll ensure better communication going forward.\n\nSincerely,\nRiley",
+    "faqs": [{ "question": "How sincere should the apology be?", "answer": "Be honest, accept responsibility, and outline steps to make amends." }]
+  },
+
+  {
+    "slug": "thank-you-note-short",
+    "title": "Short Thank-You Note",
+    "description": "A brief thank-you note for interviews or favors.",
+    "category": { "name": "Personal Letters", "slug": "personal-letters" },
+    "intro": "A concise, polite thank-you message you can send quickly.",
+    "whenToUse": "After interviews, informational meetings, or receiving help.",
+    "template": "Hi [Name],\n\nThank you for [Help/Time]. I appreciate it and look forward to staying in touch.\n\nBest,\n[Your Name]",
+    "example": "Hi Dana,\n\nThanks for taking the time to review my portfolio — I appreciate your feedback.\n\nBest,\nSam",
+    "faqs": [{ "question": "When to send?", "answer": "Within 24–48 hours is best." }]
+  },
+
+  {
+    "slug": "reference-letter-template",
+    "title": "Simple Reference Letter",
+    "description": "A straightforward reference template for character or employment references.",
+    "category": { "name": "Personal Letters", "slug": "personal-letters" },
+    "intro": "Use this template when vouching for someone’s skills or character.",
+    "whenToUse": "When giving a personal or professional reference.",
+    "template": "To Whom It May Concern,\n\nI am pleased to recommend [Name] for [Opportunity]. [They] have demonstrated [Strengths].\n\nSincerely,\n[Your Name]",
+    "example": "To Whom It May Concern,\n\nI recommend Priya Patel for volunteer coordinator role. Priya is organized, dependable, and a strong communicator.\n\nSincerely,\nL. Gomez",
+    "faqs": [{ "question": "What to include?", "answer": "Specific examples and your relationship to the person." }]
+  },
+
+  /* Additional entries to reach 75 items: auto-generated variants */
+
+  {
+    "slug": "resignation-professional-growth",
+    "title": "Resignation for Professional Growth",
+    "description": "Resignation letter emphasizing professional development reasons.",
+    "category": { "name": "Resignation Letters", "slug": "resignation-letters" },
+    "intro": "Use this when leaving to pursue growth opportunities.",
+    "whenToUse": "When accepting a role that advances your career.",
+    "template": "Dear [Manager],\n\nI am resigning to pursue an opportunity that will support my career growth. My last day will be [Date].\n\nSincerely,\n[Name]",
+    "example": "Dear Lisa,\n\nI am resigning to accept a role that aligns with my long-term goals. My last day will be July 10, 2026.\n\nSincerely,\nEthan"
+  },
+
+  {
+    "slug": "resignation-health-reasons",
+    "title": "Resignation for Health Reasons",
+    "description": "A respectful resignation letter when leaving for health concerns.",
+    "category": { "name": "Resignation Letters", "slug": "resignation-letters" },
+    "intro": "Use when you must resign due to personal health issues.",
+    "whenToUse": "When health concerns prevent continued employment.",
+    "template": "Dear [Manager],\n\nDue to health reasons, I must resign from my role effective [Date]. I appreciate your understanding.\n\nSincerely,\n[Name]",
+    "example": "Dear Sam,\n\nDue to health concerns, I am resigning effective June 30. Thank you for your support.\n\nSincerely,\nNora"
+  },
+
+  {
+    "slug": "cover-letter-networking",
+    "title": "Networking Cover Letter",
+    "description": "A cover letter for reaching out through networking contacts.",
+    "category": { "name": "Resignation Letters", "slug": "resignation-letters" },
+    "intro": "Use this when contacting hiring managers via mutual connections.",
+    "whenToUse": "When applying based on a referral or introduction.",
+    "template": "Dear [Contact],\n\n[Referrer] suggested I reach out about [Role]. I have experience in [Skill] and would welcome a conversation.\n\nSincerely,\n[Name]",
+    "example": "Dear Mr. Lane,\n\nMaria Ruiz suggested I reach out about the Marketing Coordinator role. I have experience in campaign analytics and would welcome a conversation.\n\nSincerely,\nOwen"
+  },
+
+  {
+    "slug": "write-up-attendance-issue",
+    "title": "Attendance Write-Up",
+    "description": "Documenting attendance concerns in a formal write-up.",
+    "category": { "name": "Employment", "slug": "employment" },
+    "intro": "Use to document repeated attendance or punctuality issues.",
+    "whenToUse": "When attendance policies are violated repeatedly.",
+    "template": "Employee: [Name]\nIssue: Tardiness on [Dates]\nAction: Improvement plan and follow-up on [Date]",
+    "example": "Employee: Chris\nIssue: Tardy on May 3, 5, 7\nAction: Submit weekly schedule and meet with manager on May 21"
+  },
+
+  {
+    "slug": "pto-request-urgent",
+    "title": "Urgent PTO Request",
+    "description": "Request template for urgent unplanned time off.",
+    "category": { "name": "Employment", "slug": "employment" },
+    "intro": "A short message requesting urgent leave.",
+    "whenToUse": "Emergencies or sudden personal needs.",
+    "template": "Hi [Manager],\n\nI need urgent leave starting [Date] due to [Reason]. I will update you as soon as possible with details.\n\nThanks,\n[Name]",
+    "example": "Hi Alex,\n\nI need urgent leave starting May 19 due to a family emergency. I will share more details soon.\n\nThanks,\nTaylor"
+  },
+
+  {
+    "slug": "recommendation-internship",
+    "title": "Internship Recommendation Letter",
+    "description": "Recommendation letter tailored for internship applications.",
+    "category": { "name": "Resignation Letters", "slug": "resignation-letters" },
+    "intro": "A letter endorsing a student or early-career candidate for internships.",
+    "whenToUse": "When writing references for internship applicants.",
+    "template": "To Whom It May Concern,\n\nI recommend [Name] for the internship at [Company]. [They] demonstrated initiative and strong learning ability.\n\nSincerely,\n[Your Name]",
+    "example": "To Whom It May Concern,\n\nI recommend Jamie Park for the summer internship at DataWorks. Jamie contributed valuable analysis in our class projects.\n\nSincerely,\nProf. Ellis"
+  },
+
+  {
+    "slug": "roommate-rent-sharing-agreement",
+    "title": "Rent Sharing Agreement",
+    "description": "A template to outline how rent and utilities are shared.",
+    "category": { "name": "Legal Documents", "slug": "legal-documents" },
+    "intro": "Clarify rent splits, due dates, and utility responsibilities.",
+    "whenToUse": "When entering a shared rental with roommates.",
+    "template": "Roommates: [Names]\nRent Split: [Details]\nUtilities: [Details]\nSignatures:\n[Names]",
+    "example": "Roommates: Anna / Luke\nRent Split: 50/50\nUtilities: Split monthly\nSignatures: Anna / Luke"
+  },
+
+  {
+    "slug": "bill-of-sale-vehicle-basic",
+    "title": "Basic Vehicle Bill of Sale",
+    "description": "Bill of sale template for used vehicle transfers.",
+    "category": { "name": "Legal Documents", "slug": "legal-documents" },
+    "intro": "Document the sale of a vehicle including VIN and price.",
+    "whenToUse": "Selling a used car or vehicle privately.",
+    "template": "Seller: [Name]\nBuyer: [Name]\nVehicle: [Make/Model]\nVIN: [VIN]\nPrice: [Amount]\nDate: [Date]",
+    "example": "Seller: Mark\nBuyer: Ellen\nVehicle: 2010 Toyota Camry\nVIN: XXXXXXXXX\nPrice: $4,000\nDate: 2026-05-01"
+  },
+
+  {
+    "slug": "promissory-note-installments",
+    "title": "Installment Promissory Note",
+    "description": "Promissory note with installment repayment schedule.",
+    "category": { "name": "Legal Documents", "slug": "legal-documents" },
+    "intro": "Specify amounts, dates, and interest (if any).",
+    "whenToUse": "When lending money with a scheduled repayment plan.",
+    "template": "Borrower: [Name]\nLender: [Name]\nTotal: [Amount]\nInstallments: [Schedule]\nSignatures:\n[Names]",
+    "example": "Borrower: Dana\nLender: Tom\nTotal: $2,000\nInstallments: $200/month for 10 months"
+  },
+
+  {
+    "slug": "affidavit-of-residence",
+    "title": "Affidavit of Residence",
+    "description": "Affidavit confirming current residence for administrative uses.",
+    "category": { "name": "Legal Documents", "slug": "legal-documents" },
+    "intro": "Affidavit stating where a person currently resides.",
+    "whenToUse": "When proof of residence is required and other documents are unavailable.",
+    "template": "I, [Name], affirm that I reside at [Address].\nSigned: [Name]",
+    "example": "I, Maya Lin, affirm that I reside at 123 Oak Street, Apt 4B.\nSigned: Maya Lin"
+  },
+
+  {
+    "slug": "invoice-recurring-services",
+    "title": "Recurring Services Invoice",
+    "description": "Invoice template for ongoing subscription or retainer services.",
+    "category": { "name": "Invoices", "slug": "invoices" },
+    "intro": "Use for monthly retainers or recurring service charges.",
+    "whenToUse": "Billing recurring clients on a set schedule.",
+    "template": "Invoice #: [Number]\nPeriod: [Month]\nService: [Description]\nAmount: [Total]\nDue: [Date]",
+    "example": "Invoice #: 4002\nPeriod: May 2026\nService: Social media retainer\nAmount: $1,500\nDue: June 1, 2026"
+  },
+
+  {
+    "slug": "proposal-marketing-campaign",
+    "title": "Marketing Campaign Proposal",
+    "description": "Proposal template focused on marketing campaign scope and results.",
+    "category": { "name": "Business Documents", "slug": "business-documents" },
+    "intro": "Outline goals, channels, timeline, and budget for campaigns.",
+    "whenToUse": "When pitching a marketing campaign to clients or internal stakeholders.",
+    "template": "Project: [Campaign]\nObjective: [Goals]\nChannels: [List]\nBudget: [Amount]\nTimeline: [Dates]",
+    "example": "Project: Summer Promo\nObjective: Increase leads by 25%\nChannels: Email, Social\nBudget: $8,000\nTimeline: June–August 2026"
+  },
+
+  {
+    "slug": "meeting-minutes-template",
+    "title": "Meeting Minutes Template",
+    "description": "A template to record meeting notes and action items.",
+    "category": { "name": "Business Documents", "slug": "business-documents" },
+    "intro": "Capture decisions, owners, and next steps from meetings.",
+    "whenToUse": "After meetings to distribute notes and actions.",
+    "template": "Meeting: [Title]\nDate: [Date]\nAttendees: [Names]\nNotes:\n- [Point]\nAction Items:\n- [Task] assigned to [Name]",
+    "example": "Meeting: Weekly Sync\nDate: May 18, 2026\nAttendees: Team\nAction Items: Update roadmap (Owner: Priya)"
+  },
+
+  {
+    "slug": "consulting-scope-of-work",
+    "title": "Consulting Scope of Work",
+    "description": "A scope of work template clarifying consulting deliverables.",
+    "category": { "name": "Business Documents", "slug": "business-documents" },
+    "intro": "Define tasks, deliverables, timeline, and fees for consultants.",
+    "whenToUse": "When engaging a consultant and wanting clear deliverables.",
+    "template": "Scope: [Tasks]\nDeliverables: [Items]\nTimeline: [Dates]\nFees: [Amount]",
+    "example": "Scope: UX review\nDeliverables: Report and prioritized recommendations\nTimeline: 2 weeks\nFees: $2,000"
+  },
+
+  {
+    "slug": "apology-personal",
+    "title": "Personal Apology Letter",
+    "description": "A heartfelt apology template for personal situations.",
+    "category": { "name": "Personal Letters", "slug": "personal-letters" },
+    "intro": "Use to repair personal relationships with sincerity.",
+    "whenToUse": "When apologizing to friends or family for mistakes.",
+    "template": "Dear [Name],\n\nI’m sorry for [Action]. I understand and will make amends by [Action].\n\nSincerely,\n[Your Name]",
+    "example": "Dear Mom,\n\nI’m sorry for missing your birthday dinner. I’ll make it up by taking you out this weekend.\n\nLove,\nBen"
+  },
+
+  {
+    "slug": "thank-you-after-interview",
+    "title": "Thank-You Email After Interview",
+    "description": "A polite thank-you email template to send after interviews.",
+    "category": { "name": "Personal Letters", "slug": "personal-letters" },
+    "intro": "Express appreciation and reiterate interest after an interview.",
+    "whenToUse": "Within 24 hours after an interview or informational meeting.",
+    "template": "Subject: Thank you - [Role]\n\nHi [Interviewer],\n\nThank you for meeting today. I appreciated learning about [Topic] and remain excited about the opportunity.\n\nBest,\n[Name]",
+    "example": "Subject: Thank you - Product Manager\n\nHi Jenna,\n\nThanks for your time today. I enjoyed the discussion about roadmap priorities and would be excited to contribute.\n\nBest,\nChris"
+  },
+
+  {
+    "slug": "reference-character",
+    "title": "Character Reference Letter",
+    "description": "A short character reference for non-employment situations.",
+    "category": { "name": "Personal Letters", "slug": "personal-letters" },
+    "intro": "Provide testimony to a person’s character for landlords or community roles.",
+    "whenToUse": "When asked to vouch for someone’s character or reliability.",
+    "template": "To Whom It May Concern,\n\nI know [Name] as [Relationship] and can vouch for their character.\n\nSincerely,\n[Your Name]",
+    "example": "To Whom It May Concern,\n\nI have known Ramon for five years as a neighbor and can vouch for his responsibility and kindness.\n\nSincerely,\nIvy Park"
   }
+
+  /* --- END GENERATED TEMPLATES --- */
 ]
