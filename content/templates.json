@@ -1048,7 +1048,44 @@
       {
         "question": "Should I keep a copy of the termination letter?",
         "answer": "Yes, retain a copy for your employment records and compliance."
+      },
+      {
+        "question": "Can a termination letter be contested?",
+        "answer": "Yes, employees can dispute terminations, so ensure the letter is factual and compliant with laws."
       }
     ]
+  },
+  {
+      "slug": "roommate agreement-template",
+      "title": "Roommate Agreement Template",
+      "description": "A roommate agreement template for shared living arrangements.",
+      "category": {
+        "name": "Legal Documents",
+        "slug": "legal-documents"
+      },
+      "intro": "This roommate agreement template helps roommates set clear expectations for shared living arrangements, including rent, chores, and house rules.",
+      "whenToUse": "Use this template when moving in with roommates to establish agreements and prevent conflicts.",
+      "template": "Roommate Agreement\n\nThis agreement is made between [Roommate 1 Name] and [Roommate 2 Name].\n\nRent and utilities:\n[How rent and bills will be split]\n\nChores and responsibilities:\n[How household tasks will be divided]\n\nHouse rules:\n[Rules for guests, noise, shared spaces]\n\nDuration:\n[How long the agreement lasts]\n\nSigned:\n[Roommate 1 Name]\n[Roommate 2 Name]",
+      "example": "Roommate Agreement\n\nThis agreement is made between Emily Chen and Sarah Lee.\n\nRent and utilities:\nRent will be split 50/50, and utilities will be split based on usage.\n\nChores and responsibilities:\nEmily will handle kitchen and bathroom cleaning, while Sarah will take care of living room and trash.\n\nHouse rules:\nNo overnight guests without prior approval, quiet hours from 10 PM to 7 AM, and shared use of the living room and kitchen.\n\nDuration:\nThis agreement is valid for one year, starting from September 1, 2026.\n\nSigned:\nEmily Chen\nSarah Lee",
+      "tips": [
+        "Be specific about financial arrangements and responsibilities.",
+        "Discuss and agree on house rules to prevent conflicts.",
+        "Review and update the agreement as needed.",
+        "Keep a signed copy for all roommates."
+      ],
+      "faqs": [
+        {
+          "question": "Why should roommates have an agreement?",
+          "answer": "A roommate agreement helps set clear expectations and prevent conflicts by outlining responsibilities and rules."
+        },
+        {
+          "question": "Can a roommate agreement be legally binding?",
+          "answer": "While not always legally enforceable, a written agreement can provide clarity and support in disputes."
+        },
+        {
+          "question": "Should roommates discuss financial arrangements?",
+          "answer": "Yes, clear communication about rent and bills is essential for a harmonious living situation."
+        }
+      ]
   }
 ]

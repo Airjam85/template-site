@@ -3,16 +3,29 @@ import templates from "../content/templates.json";
 export default function sitemap() {
   const baseUrl = "https://mangogranola.com";
 
+  const templateUrls = templates.map((t) => ({
+    url: `${baseUrl}/${t.category.slug}/${t.slug}`,
+    lastModified: new Date(),
+  }));
+
+  const categoryUrls = [
+    ...new Map(
+      templates.map((t) => [
+        t.category.slug,
+        {
+          url: `${baseUrl}/${t.category.slug}`,
+          lastModified: new Date(),
+        },
+      ])
+    ).values(),
+  ];
+
   return [
     {
       url: baseUrl,
       lastModified: new Date(),
     },
-    ...templates
-      .filter((t) => typeof t === "object" && "slug" in t && "category" in t)
-      .map((t) => ({
-        url: `${baseUrl}/templates/${(t as any).category?.slug}/${(t as any).slug}`,
-        lastModified: new Date(),
-      })),
+    ...categoryUrls,
+    ...templateUrls,
   ];
 }
