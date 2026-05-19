@@ -26,7 +26,7 @@ export default function TemplateActions({ templateContent }) {
       </button>
 
       <button className="border px-4 py-2 rounded hover:bg-gray-50">
-        Share
+        Share (coming soon)
       </button>
     </section>
   );
