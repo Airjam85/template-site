@@ -92,6 +92,10 @@ export default async function CategoryPage({
   these ready-to-use templates can be copied, edited, and customized in minutes.
 </p>
 
+<p className="text-sm text-gray-500 mb-6">
+  {filtered.length} templates available
+</p>
+
      {/* USE CASES */}
     {categoryData?.useCases && (
       <div className="mb-10">
@@ -115,9 +119,9 @@ export default async function CategoryPage({
     <div className="grid gap-4">
       {filtered.map((t) => (
         <Link
-          key={t.slug}
+          key={`${category}-${t.slug}`}
           href={`/${category}/${t.slug}`}
-          className="border rounded p-4 block hover:bg-gray-50"
+          className="border rounded p-4 block hover:bg-gray-50 transition"
         >
           <h2 className="text-xl font-semibold mb-2">
             {t.title}
