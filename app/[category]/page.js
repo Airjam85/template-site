@@ -1,15 +1,16 @@
 import templates from "../../content/templates.json";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { categories } from "../../content/categories";
 
 export async function generateStaticParams() {
-  const categories = [
+  const categorySlugs = [
     ...new Set(
       templates.map((t) => t.category?.slug)
     ),
   ];
 
-  return categories.map((category) => ({
+  return categorySlugs.map((category) => ({
     category,
   }));
 }
@@ -17,20 +18,17 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }) {
   const { category } = await params;
 
-  const filtered = templates.filter(
-    (t) => t.category?.slug === category
-  );
+ const first = templates.find(
+  (t) => t.category?.slug === category
+);
 
-  if (!filtered.length) {
-    notFound();
-  }
+if (!first) notFound();
 
-  const categoryName =
-    filtered[0].category.name;
+const categoryName = first.category.name;
 
   return {
     title: `${categoryName} Templates | MangoGranola`,
-    description: `Browse free ${categoryName.toLowerCase()} templates, examples, and downloadable resources.`,
+    description: `Browse free ${categoryName.toLowerCase()} templates, examples, and ready-to-use documents for personal and business use.`,
     metadataBase: new URL(
       "https://mangogranola.com"
     ),
@@ -60,47 +58,93 @@ export default async function CategoryPage({
     notFound();
   }
 
-  const categoryName =
-    filtered[0].category.name;
+  const categoryName = filtered[0].category.name;
+
+  const categoryData = categories?.[category] || {};
 
   return (
-    <main className="max-w-4xl mx-auto p-10">
-      <div className="mb-8">
-        <Link
-          href="/"
-          className="text-sm text-gray-500 hover:underline"
-        >
-          Home
-        </Link>
-      </div>
+  <main className="max-w-4xl mx-auto p-10">
 
+    {/* Breadcrumbs */}
+    <div className="mb-8">
+      <Link href="/" className="text-sm text-gray-500 hover:underline">
+       Home</Link> / {categoryName}
+    </div>
+
+      {/* H1 */}
       <h1 className="text-4xl font-bold mb-4">
         {categoryName} Templates
       </h1>
 
-      <p className="text-lg text-gray-600 mb-10">
-        Browse free {categoryName.toLowerCase()} templates,
-        examples, and customizable documents for
-        professional and personal use.
-      </p>
+      {/* SEO INTRO (important for ranking) */}
+      <p className="text-lg text-gray-600 mb-8">
+  {categoryData?.intro ||
+    `Browse and download free ${categoryName.toLowerCase()} templates for professional, business, and personal use. Instantly copy, edit, and customize ready-to-use formats.`}
+</p>
 
-      <div className="grid gap-4">
-        {filtered.map((t, index) => (
-          <Link
-            key={`${t.slug}-${index}`}
-            href={`/${category}/${t.slug}`}
-            className="border rounded p-4 block hover:bg-gray-50"
-          >
-            <h2 className="text-xl font-semibold mb-2">
-              {t.title}
-            </h2>
+<p className="text-gray-600 mb-8">
+  These templates help users quickly create polished documents
+  without formatting or writing from scratch.
+</p>
 
-            <p className="text-gray-600">
-              {t.description}
-            </p>
-          </Link>
-        ))}
+<p className="text-gray-600 mb-8">
+  Whether you need documents for business, personal, or professional use,
+  these ready-to-use templates can be copied, edited, and customized in minutes.
+</p>
+
+     {/* USE CASES */}
+    {categoryData?.useCases && (
+      <div className="mb-10">
+        <h2 className="text-2xl font-semibold mb-2">
+          Common Use Cases
+        </h2>
+
+        <ul className="list-disc pl-5 text-gray-700">
+          {categoryData.useCases.map((item) => (
+            <li key={item}>{item}</li>
+          ))}
+        </ul>
       </div>
-    </main>
-  );
+    )}
+
+<h2 className="text-2xl font-semibold mb-4">
+  Browse Templates
+</h2>
+
+    {/* TEMPLATE GRID (ONLY HERE) */}
+    <div className="grid gap-4">
+      {filtered.map((t) => (
+        <Link
+          key={t.slug}
+          href={`/${category}/${t.slug}`}
+          className="border rounded p-4 block hover:bg-gray-50"
+        >
+          <h2 className="text-xl font-semibold mb-2">
+            {t.title}
+          </h2>
+
+          <p className="text-gray-600">
+            {t.description}
+          </p>
+        </Link>
+      ))}
+    </div>
+
+ {/* CATEGORY NAV (optional but good SEO internal linking) */}
+<div className="mt-12">
+  <h2 className="text-xl font-semibold mb-4">
+    Explore Other Categories
+  </h2>
+
+ <div className="flex flex-wrap gap-3 text-sm">
+  {Object.entries(categories).map(([slug, data]) => (
+    <Link key={slug} href={`/${slug}`} className="underline">
+      {data.name}
+    </Link>
+  ))}
+</div>
+</div>
+
+  </main>
+);
 }
