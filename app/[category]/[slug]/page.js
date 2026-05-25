@@ -6,7 +6,7 @@ import { generateFAQSchema } from "../../../lib/schema/faq";
 import { generateBreadcrumbSchema } from "../../../lib/schema/breadcrumbs";
 import { generateWebPageSchema } from "../../../lib/schema/webpage";
 import { SITE_URL } from "../../../lib/constants";
-import { generateCanonical } from "@/lib/seo";
+import { generateCanonical } from "../../../lib/seo";
 
 export async function generateStaticParams() {
   return templates.map((template) => ({

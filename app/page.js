@@ -1,5 +1,5 @@
 import Link from "next/link";
-import templates from "../content/templates.json";
+import { templates } from "../lib/loadTemplates";
 
 export default function HomePage() {
   return (
