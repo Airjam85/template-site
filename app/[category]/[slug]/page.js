@@ -1,4 +1,7 @@
-import { templates } from "../../../lib/loadTemplates";
+import {
+  templates,
+  getTemplate,
+} from "../../../lib/loadTemplates";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import TemplateActions from "../../components/TemplateActions";
@@ -7,6 +10,7 @@ import { generateBreadcrumbSchema } from "../../../lib/schema/breadcrumbs";
 import { generateWebPageSchema } from "../../../lib/schema/webpage";
 import { SITE_URL } from "../../../lib/constants";
 import { generateCanonical } from "../../../lib/seo";
+import { getRelatedTemplates } from "../../../lib/getRelatedTemplates";
 
 export async function generateStaticParams() {
   return templates.map((template) => ({
@@ -18,11 +22,7 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }) {
   const { category, slug } = await params;
 
-  const template = templates.find(
-    (t) =>
-      t.category?.slug === category &&
-      t.slug === slug
-  );
+  const template = getTemplate(category, slug);
 
 if (!template) {
   notFound();
@@ -47,23 +47,17 @@ if (!template) {
 export default async function TemplatePage({ params }) {
   const { category, slug } = await params;
 
-  const template = templates.find(
-    (t) =>
-      t.category?.slug === category &&
-      t.slug === slug
-  );
-
-  const related = templates
-  .filter(
-    (t) =>
-      t.category?.slug === category &&
-      t.slug !== slug
-  )
-  .slice(0, 5);
+  const template = getTemplate(category, slug);
 
  if (!template) {
   notFound();
 }
+
+  const related = getRelatedTemplates(
+  template,
+  templates,
+  5
+);
 
 const faqSchema = generateFAQSchema(template.faqs || []);
 const breadcrumbSchema = generateBreadcrumbSchema(template);

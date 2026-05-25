@@ -16,6 +16,11 @@
         "question": "Can I use this for a personal sale?",
         "answer": "Yes, these templates are designed for informal agreements between individuals."
       }
+    ],
+    "tags": [
+      "roommate",
+      "housing",
+      "legal"
     ]
   },
   {
@@ -35,6 +40,11 @@
         "question": "Can I use this for a personal sale?",
         "answer": "Yes, these templates are designed for informal agreements between individuals."
       }
+    ],
+    "tags": [
+      "bill-of-sale",
+      "sale",
+      "legal"
     ]
   },
   {
@@ -54,6 +64,11 @@
         "question": "Can I use this for a personal sale?",
         "answer": "Yes, these templates are designed for informal agreements between individuals."
       }
+    ],
+    "tags": [
+      "bill-of-sale",
+      "sale",
+      "legal"
     ]
   },
   {
@@ -73,6 +88,11 @@
         "question": "Can I use this for a personal sale?",
         "answer": "Yes, these templates are designed for informal agreements between individuals."
       }
+    ],
+    "tags": [
+      "promissory-note",
+      "loan",
+      "legal"
     ]
   },
   {
@@ -92,6 +112,11 @@
         "question": "Can I use this for a personal sale?",
         "answer": "Yes, these templates are designed for informal agreements between individuals."
       }
+    ],
+    "tags": [
+      "promissory-note",
+      "loan",
+      "legal"
     ]
   },
   {
@@ -111,6 +136,11 @@
         "question": "Can I use this for a personal sale?",
         "answer": "Yes, these templates are designed for informal agreements between individuals."
       }
+    ],
+    "tags": [
+      "affidavit",
+      "legal",
+      "template"
     ]
   },
   {
@@ -130,6 +160,11 @@
         "question": "Can I use this for a personal sale?",
         "answer": "Yes, these templates are designed for informal agreements between individuals."
       }
+    ],
+    "tags": [
+      "affidavit",
+      "legal",
+      "template"
     ]
   },
   {
@@ -149,6 +184,11 @@
         "question": "When is an affidavit of residence needed?",
         "answer": "It is often requested by landlords, schools, or government agencies to confirm a current address."
       }
+    ],
+    "tags": [
+      "affidavit",
+      "legal",
+      "template"
     ]
   },
   {
@@ -168,6 +208,11 @@
         "question": "Can I use this for a personal sale?",
         "answer": "Yes, these templates are designed for informal agreements between individuals."
       }
+    ],
+    "tags": [
+      "legal",
+      "template",
+      "document"
     ]
   },
   {
@@ -187,6 +232,791 @@
         "question": "Can I use this for a personal sale?",
         "answer": "Yes, these templates are designed for informal agreements between individuals."
       }
+    ],
+    "tags": [
+      "legal",
+      "template",
+      "document"
+    ]
+  },
+  {
+    "slug": "will-template-simple",
+    "title": "Will Template Simple Template",
+    "description": "Free will template simple template for professional use.",
+    "category": {
+      "name": "Legal Templates",
+      "slug": "legal-templates"
+    },
+    "intro": "This will template simple template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "legal_templates",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "power-of-attorney-financial",
+    "title": "Power Of Attorney Financial Template",
+    "description": "Free power of attorney financial template for professional use.",
+    "category": {
+      "name": "Legal Templates",
+      "slug": "legal-templates"
+    },
+    "intro": "This power of attorney financial template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "legal_templates",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "power-of-attorney-healthcare",
+    "title": "Power Of Attorney Healthcare Template",
+    "description": "Free power of attorney healthcare template for professional use.",
+    "category": {
+      "name": "Legal Templates",
+      "slug": "legal-templates"
+    },
+    "intro": "This power of attorney healthcare template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "legal_templates",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "living-will-template",
+    "title": "Living Will Template Template",
+    "description": "Free living will template template for professional use.",
+    "category": {
+      "name": "Legal Templates",
+      "slug": "legal-templates"
+    },
+    "intro": "This living will template template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "legal_templates",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "trust-document-basic",
+    "title": "Trust Document Basic Template",
+    "description": "Free trust document basic template for professional use.",
+    "category": {
+      "name": "Legal Templates",
+      "slug": "legal-templates"
+    },
+    "intro": "This trust document basic template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "legal_templates",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "prenuptial-agreement",
+    "title": "Prenuptial Agreement Template",
+    "description": "Free prenuptial agreement template for professional use.",
+    "category": {
+      "name": "Legal Templates",
+      "slug": "legal-templates"
+    },
+    "intro": "This prenuptial agreement template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "legal_templates",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "postnuptial-agreement",
+    "title": "Postnuptial Agreement Template",
+    "description": "Free postnuptial agreement template for professional use.",
+    "category": {
+      "name": "Legal Templates",
+      "slug": "legal-templates"
+    },
+    "intro": "This postnuptial agreement template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "legal_templates",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "separation-agreement",
+    "title": "Separation Agreement Template",
+    "description": "Free separation agreement template for professional use.",
+    "category": {
+      "name": "Legal Templates",
+      "slug": "legal-templates"
+    },
+    "intro": "This separation agreement template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "legal_templates",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "child-custody-agreement",
+    "title": "Child Custody Agreement Template",
+    "description": "Free child custody agreement template for professional use.",
+    "category": {
+      "name": "Legal Templates",
+      "slug": "legal-templates"
+    },
+    "intro": "This child custody agreement template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "legal_templates",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "child-support-agreement",
+    "title": "Child Support Agreement Template",
+    "description": "Free child support agreement template for professional use.",
+    "category": {
+      "name": "Legal Templates",
+      "slug": "legal-templates"
+    },
+    "intro": "This child support agreement template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "legal_templates",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "guardianship-agreement",
+    "title": "Guardianship Agreement Template",
+    "description": "Free guardianship agreement template for professional use.",
+    "category": {
+      "name": "Legal Templates",
+      "slug": "legal-templates"
+    },
+    "intro": "This guardianship agreement template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "legal_templates",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "rental-agreement",
+    "title": "Rental Agreement Template",
+    "description": "Free rental agreement template for professional use.",
+    "category": {
+      "name": "Legal Templates",
+      "slug": "legal-templates"
+    },
+    "intro": "This rental agreement template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "legal_templates",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "lease-addendum",
+    "title": "Lease Addendum Template",
+    "description": "Free lease addendum template for professional use.",
+    "category": {
+      "name": "Legal Templates",
+      "slug": "legal-templates"
+    },
+    "intro": "This lease addendum template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "legal_templates",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "property-sale-agreement",
+    "title": "Property Sale Agreement Template",
+    "description": "Free property sale agreement template for professional use.",
+    "category": {
+      "name": "Legal Templates",
+      "slug": "legal-templates"
+    },
+    "intro": "This property sale agreement template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "legal_templates",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "easement-agreement",
+    "title": "Easement Agreement Template",
+    "description": "Free easement agreement template for professional use.",
+    "category": {
+      "name": "Legal Templates",
+      "slug": "legal-templates"
+    },
+    "intro": "This easement agreement template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "legal_templates",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "right-of-way-agreement",
+    "title": "Right Of Way Agreement Template",
+    "description": "Free right of way agreement template for professional use.",
+    "category": {
+      "name": "Legal Templates",
+      "slug": "legal-templates"
+    },
+    "intro": "This right of way agreement template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "legal_templates",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "equipment-lease",
+    "title": "Equipment Lease Template",
+    "description": "Free equipment lease template for professional use.",
+    "category": {
+      "name": "Legal Templates",
+      "slug": "legal-templates"
+    },
+    "intro": "This equipment lease template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "legal_templates",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "asset-purchase-agreement",
+    "title": "Asset Purchase Agreement Template",
+    "description": "Free asset purchase agreement template for professional use.",
+    "category": {
+      "name": "Legal Templates",
+      "slug": "legal-templates"
+    },
+    "intro": "This asset purchase agreement template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "legal_templates",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "licensing-agreement",
+    "title": "Licensing Agreement Template",
+    "description": "Free licensing agreement template for professional use.",
+    "category": {
+      "name": "Legal Templates",
+      "slug": "legal-templates"
+    },
+    "intro": "This licensing agreement template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "legal_templates",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "product-liability-waiver",
+    "title": "Product Liability Waiver Template",
+    "description": "Free product liability waiver template for professional use.",
+    "category": {
+      "name": "Legal Templates",
+      "slug": "legal-templates"
+    },
+    "intro": "This product liability waiver template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "legal_templates",
+      "template",
+      "professional"
     ]
   }
 ]

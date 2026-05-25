@@ -14,8 +14,13 @@
     "faqs": [
       {
         "question": "Should I include payment milestones?",
-        "answer": "Yes \u2014 they help manage expectations and cash flow."
+        "answer": "Yes — they help manage expectations and cash flow."
       }
+    ],
+    "tags": [
+      "proposal",
+      "pitch",
+      "business"
     ]
   },
   {
@@ -35,6 +40,11 @@
         "question": "How long should agendas be?",
         "answer": "Keep items focused and assign time estimates for each."
       }
+    ],
+    "tags": [
+      "nda",
+      "confidentiality",
+      "business"
     ]
   },
   {
@@ -52,8 +62,13 @@
     "faqs": [
       {
         "question": "Should consultants have NDAs?",
-        "answer": "Often yes \u2014 include confidentiality provisions if needed."
+        "answer": "Often yes — include confidentiality provisions if needed."
       }
+    ],
+    "tags": [
+      "business",
+      "documents",
+      "operations"
     ]
   },
   {
@@ -67,7 +82,12 @@
     "intro": "Outline goals, channels, timeline, and budget for campaigns.",
     "whenToUse": "When pitching a marketing campaign to clients or internal stakeholders.",
     "template": "Project: [Campaign]\nObjective: [Goals]\nChannels: [List]\nBudget: [Amount]\nTimeline: [Dates]",
-    "example": "Project: Summer Promo\nObjective: Increase leads by 25%\nChannels: Email, Social\nBudget: $8,000\nTimeline: June\u2013August 2026"
+    "example": "Project: Summer Promo\nObjective: Increase leads by 25%\nChannels: Email, Social\nBudget: $8,000\nTimeline: June–August 2026",
+    "tags": [
+      "proposal",
+      "pitch",
+      "business"
+    ]
   },
   {
     "slug": "meeting-minutes-template",
@@ -80,7 +100,12 @@
     "intro": "Capture decisions, owners, and next steps from meetings.",
     "whenToUse": "After meetings to distribute notes and actions.",
     "template": "Meeting: [Title]\nDate: [Date]\nAttendees: [Names]\nNotes:\n- [Point]\nAction Items:\n- [Task] assigned to [Name]",
-    "example": "Meeting: Weekly Sync\nDate: May 18, 2026\nAttendees: Team\nAction Items: Update roadmap (Owner: Priya)"
+    "example": "Meeting: Weekly Sync\nDate: May 18, 2026\nAttendees: Team\nAction Items: Update roadmap (Owner: Priya)",
+    "tags": [
+      "business",
+      "documents",
+      "operations"
+    ]
   },
   {
     "slug": "consulting-scope-of-work",
@@ -93,6 +118,791 @@
     "intro": "Define tasks, deliverables, timeline, and fees for consultants.",
     "whenToUse": "When engaging a consultant and wanting clear deliverables.",
     "template": "Scope: [Tasks]\nDeliverables: [Items]\nTimeline: [Dates]\nFees: [Amount]",
-    "example": "Scope: UX review\nDeliverables: Report and prioritized recommendations\nTimeline: 2 weeks\nFees: $2,000"
+    "example": "Scope: UX review\nDeliverables: Report and prioritized recommendations\nTimeline: 2 weeks\nFees: $2,000",
+    "tags": [
+      "business",
+      "documents",
+      "operations"
+    ]
+  },
+  {
+    "slug": "business-license-checklist",
+    "title": "Business License Checklist Template",
+    "description": "Free business license checklist template for professional use.",
+    "category": {
+      "name": "Business Documents",
+      "slug": "business-documents"
+    },
+    "intro": "This business license checklist template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "business_documents",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "vendor-evaluation-form",
+    "title": "Vendor Evaluation Form Template",
+    "description": "Free vendor evaluation form template for professional use.",
+    "category": {
+      "name": "Business Documents",
+      "slug": "business-documents"
+    },
+    "intro": "This vendor evaluation form template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "business_documents",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "employee-handbook-template",
+    "title": "Employee Handbook Template Template",
+    "description": "Free employee handbook template template for professional use.",
+    "category": {
+      "name": "Business Documents",
+      "slug": "business-documents"
+    },
+    "intro": "This employee handbook template template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "business_documents",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "onboarding-checklist",
+    "title": "Onboarding Checklist Template",
+    "description": "Free onboarding checklist template for professional use.",
+    "category": {
+      "name": "Business Documents",
+      "slug": "business-documents"
+    },
+    "intro": "This onboarding checklist template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "business_documents",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "quality-assurance-checklist",
+    "title": "Quality Assurance Checklist Template",
+    "description": "Free quality assurance checklist template for professional use.",
+    "category": {
+      "name": "Business Documents",
+      "slug": "business-documents"
+    },
+    "intro": "This quality assurance checklist template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "business_documents",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "safety-incident-report",
+    "title": "Safety Incident Report Template",
+    "description": "Free safety incident report template for professional use.",
+    "category": {
+      "name": "Business Documents",
+      "slug": "business-documents"
+    },
+    "intro": "This safety incident report template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "business_documents",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "customer-feedback-form",
+    "title": "Customer Feedback Form Template",
+    "description": "Free customer feedback form template for professional use.",
+    "category": {
+      "name": "Business Documents",
+      "slug": "business-documents"
+    },
+    "intro": "This customer feedback form template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "business_documents",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "site-inspection-report",
+    "title": "Site Inspection Report Template",
+    "description": "Free site inspection report template for professional use.",
+    "category": {
+      "name": "Business Documents",
+      "slug": "business-documents"
+    },
+    "intro": "This site inspection report template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "business_documents",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "inventory-count-sheet",
+    "title": "Inventory Count Sheet Template",
+    "description": "Free inventory count sheet template for professional use.",
+    "category": {
+      "name": "Business Documents",
+      "slug": "business-documents"
+    },
+    "intro": "This inventory count sheet template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "business_documents",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "supply-order-form",
+    "title": "Supply Order Form Template",
+    "description": "Free supply order form template for professional use.",
+    "category": {
+      "name": "Business Documents",
+      "slug": "business-documents"
+    },
+    "intro": "This supply order form template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "business_documents",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "project-status-report",
+    "title": "Project Status Report Template",
+    "description": "Free project status report template for professional use.",
+    "category": {
+      "name": "Business Documents",
+      "slug": "business-documents"
+    },
+    "intro": "This project status report template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "business_documents",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "staff-meeting-agenda",
+    "title": "Staff Meeting Agenda Template",
+    "description": "Free staff meeting agenda template for professional use.",
+    "category": {
+      "name": "Business Documents",
+      "slug": "business-documents"
+    },
+    "intro": "This staff meeting agenda template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "business_documents",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "budget-proposal",
+    "title": "Budget Proposal Template",
+    "description": "Free budget proposal template for professional use.",
+    "category": {
+      "name": "Business Documents",
+      "slug": "business-documents"
+    },
+    "intro": "This budget proposal template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "business_documents",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "company-policies-document",
+    "title": "Company Policies Document Template",
+    "description": "Free company policies document template for professional use.",
+    "category": {
+      "name": "Business Documents",
+      "slug": "business-documents"
+    },
+    "intro": "This company policies document template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "business_documents",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "confidentiality-agreement",
+    "title": "Confidentiality Agreement Template",
+    "description": "Free confidentiality agreement template for professional use.",
+    "category": {
+      "name": "Business Documents",
+      "slug": "business-documents"
+    },
+    "intro": "This confidentiality agreement template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "business_documents",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "code-of-conduct",
+    "title": "Code Of Conduct Template",
+    "description": "Free code of conduct template for professional use.",
+    "category": {
+      "name": "Business Documents",
+      "slug": "business-documents"
+    },
+    "intro": "This code of conduct template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "business_documents",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "crisis-management-plan",
+    "title": "Crisis Management Plan Template",
+    "description": "Free crisis management plan template for professional use.",
+    "category": {
+      "name": "Business Documents",
+      "slug": "business-documents"
+    },
+    "intro": "This crisis management plan template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "business_documents",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "disaster-recovery-plan",
+    "title": "Disaster Recovery Plan Template",
+    "description": "Free disaster recovery plan template for professional use.",
+    "category": {
+      "name": "Business Documents",
+      "slug": "business-documents"
+    },
+    "intro": "This disaster recovery plan template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "business_documents",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "sustainability-policy",
+    "title": "Sustainability Policy Template",
+    "description": "Free sustainability policy template for professional use.",
+    "category": {
+      "name": "Business Documents",
+      "slug": "business-documents"
+    },
+    "intro": "This sustainability policy template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "business_documents",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "diversity-inclusion-policy",
+    "title": "Diversity Inclusion Policy Template",
+    "description": "Free diversity inclusion policy template for professional use.",
+    "category": {
+      "name": "Business Documents",
+      "slug": "business-documents"
+    },
+    "intro": "This diversity inclusion policy template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "business_documents",
+      "template",
+      "professional"
+    ]
   }
 ]

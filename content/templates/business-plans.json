@@ -20,7 +20,7 @@
     "faqs": [
       {
         "question": "What is a simple business plan?",
-        "answer": "A simple business plan outlines a company\u2019s goals, strategy, target market, and financial overview in a concise format."
+        "answer": "A simple business plan outlines a company’s goals, strategy, target market, and financial overview in a concise format."
       },
       {
         "question": "Can startups use this template?",
@@ -30,6 +30,11 @@
         "question": "Do investors require business plans?",
         "answer": "Many investors and lenders require business plans before providing funding."
       }
+    ],
+    "tags": [
+      "business-plan",
+      "strategy",
+      "business"
     ]
   },
   {
@@ -63,6 +68,11 @@
         "question": "Can startup business plans be one page?",
         "answer": "Yes, many startups begin with lightweight one-page business plans."
       }
+    ],
+    "tags": [
+      "startup",
+      "investment",
+      "business-plan"
     ]
   },
   {
@@ -96,6 +106,11 @@
         "question": "Can I use this plan to apply for loans?",
         "answer": "Yes, it can support loan applications when paired with financial details."
       }
+    ],
+    "tags": [
+      "business-plan",
+      "strategy",
+      "business"
     ]
   },
   {
@@ -129,6 +144,1103 @@
         "question": "Can freelancers use this plan to find clients?",
         "answer": "Yes, it helps communicate your value and business focus."
       }
+    ],
+    "tags": [
+      "freelance",
+      "contract",
+      "business-plan"
+    ]
+  },
+  {
+    "slug": "restaurant-business-plan-template",
+    "title": "Restaurant Business Plan Template",
+    "description": "Free restaurant business plan template for opening a new restaurant, café, or food service business.",
+    "category": {
+      "name": "Business Plans",
+      "slug": "business-plans"
+    },
+    "intro": "This restaurant business plan template helps food entrepreneurs plan their restaurant concept, menu strategy, startup costs, staffing, and revenue projections. It's designed specifically for the restaurant industry with sections for location analysis, supplier relationships, and customer acquisition.",
+    "whenToUse": "Use this template when launching a new restaurant, seeking funding from investors or banks, or planning expansion of an existing food service business.",
+    "template": "Restaurant Business Plan\n\nRestaurant Name: [Name]\nConcept: [Describe cuisine, atmosphere, price point]\n\nMarket Analysis:\nTarget Customers: [Description]\nLocation: [Address]\nCompetitors: [List]\n\nMenu Strategy:\nSignature Dishes: [List]\nPricing Strategy: [Description]\n\nStartup Costs:\nEquipment: $[Amount]\nRenovation: $[Amount]\nLicenses: $[Amount]\n\nOperations:\nSeating Capacity: [Number]\nStaff: [Breakdown]\nHours: [Schedule]\n\nFinancial Projections:\nYear 1 Revenue: $[Amount]\nBreak-even: [Months]",
+    "example": "Restaurant Business Plan\n\nRestaurant Name: The Urban Grill\nConcept: Contemporary American cuisine, casual upscale, $18-45 entrees\n\nMarket Analysis:\nTarget Customers: Professionals 25-50, dining out 2-3x/week\nLocation: Downtown shopping district\nCompetitors: 3 similar restaurants within 0.5 miles\n\nMenu Strategy:\nSignature Dishes: Herb-crusted salmon, short rib, seasonal vegetables\nPricing Strategy: 65% food cost target\n\nStartup Costs:\nEquipment: $85,000\nRenovation: $120,000\nLicenses/Permits: $8,000\n\nOperations:\nSeating Capacity: 60\nStaff: 1 Chef, 2 Cooks, 8 Servers, 2 Hosts\nHours: Tue-Thu 5-10pm, Fri-Sat 5-11pm, Sun 5-9pm",
+    "tips": [
+      "Research local food trends and customer preferences in your area.",
+      "Account for seasonal variations in food costs and customer traffic.",
+      "Build relationships with reliable suppliers before opening.",
+      "Include contingency budget for unexpected equipment or renovation costs.",
+      "Plan for 6-12 months of operating expenses before reaching profitability."
+    ],
+    "faqs": [
+      {
+        "question": "How much should I budget for a restaurant startup?",
+        "answer": "Typical restaurant startups cost $250,000-$450,000, depending on location, size, and concept."
+      },
+      {
+        "question": "What's a realistic timeline to break-even?",
+        "answer": "Most restaurants take 2-3 years to break-even, so plan cash flow carefully."
+      },
+      {
+        "question": "Should I include staffing costs in the plan?",
+        "answer": "Yes, labor is typically 28-35% of restaurant revenue, so detailed staffing plans are essential."
+      }
+    ],
+    "tags": [
+      "restaurant",
+      "food-service",
+      "business-plan"
+    ]
+  },
+  {
+    "slug": "ecommerce-business-plan-template",
+    "title": "E-Commerce Business Plan Template",
+    "description": "Free e-commerce business plan template for starting an online store, marketplace, or digital retail business.",
+    "category": {
+      "name": "Business Plans",
+      "slug": "business-plans"
+    },
+    "intro": "This e-commerce business plan template helps online retailers define their product strategy, digital marketing approach, supply chain, and revenue model. It includes sections for platform selection, customer acquisition cost, and inventory management tailored to online retail.",
+    "whenToUse": "Use this template when launching a new online store, scaling an existing e-commerce business, or applying for e-commerce business loans or investor funding.",
+    "template": "E-Commerce Business Plan\n\nBusiness Name: [Name]\nProduct Category: [Description]\n\nMarket Analysis:\nTarget Market: [Demographics]\nMarket Size: $[Amount]\nCompetitors: [List]\n\nProduct Strategy:\nInitial SKUs: [Number]\nSuppliers: [List]\nInventory: [Strategy]\n\nDigital Strategy:\nPlatform: [Shopify/WooCommerce/Custom]\nMarketing Channels: [SEO, Social, Email, Ads]\nCustomer Acquisition Cost: $[Amount]\n\nOperations:\nWarehouse: [Location/Setup]\nShipping Partners: [Carriers]\nFulfillment: [In-house/3PL]\n\nFinancial Projections:\nYear 1 Revenue: $[Amount]\nProfit Margin: [%]\nCash Flow: [Plan]",
+    "example": "E-Commerce Business Plan\n\nBusiness Name: StyleHub Co\nProduct Category: Sustainable fashion accessories\n\nMarket Analysis:\nTarget Market: Eco-conscious women 25-45, urban areas\nMarket Size: $2.4B (US sustainable fashion)\nCompetitors: 15+ major players\n\nProduct Strategy:\nInitial SKUs: 45 products\nSuppliers: 8 ethical manufacturers\nInventory: 90-day inventory cycle\n\nDigital Strategy:\nPlatform: Shopify Plus\nMarketing Channels: Instagram, TikTok, SEO, Email\nCustomer Acquisition Cost: $35\n\nOperations:\nWarehouse: 2,000 sq ft fulfillment center\nShipping Partners: UPS, USPS, FedEx\nFulfillment: 3PL partner\n\nFinancial Projections:\nYear 1 Revenue: $500,000\nProfit Margin: 35-40%",
+    "tips": [
+      "Calculate customer lifetime value and acquisition costs carefully.",
+      "Plan for returns, chargebacks, and refunds (typically 15-30%).",
+      "Build relationships with reliable suppliers before launch.",
+      "Invest in inventory management software to track stock.",
+      "Test marketing channels with small budgets before scaling."
+    ],
+    "faqs": [
+      {
+        "question": "Should I start with my own inventory or dropshipping?",
+        "answer": "Dropshipping is lower risk but has lower margins; inventory ownership has higher profit potential."
+      },
+      {
+        "question": "How much should I spend on marketing initially?",
+        "answer": "E-commerce businesses typically allocate 15-30% of revenue to marketing and customer acquisition."
+      },
+      {
+        "question": "What shipping options should I offer?",
+        "answer": "Offer standard (7-14 days) and expedited (2-3 days) options to maximize conversions."
+      }
+    ],
+    "tags": [
+      "ecommerce",
+      "online-retail",
+      "business-plan"
+    ]
+  },
+  {
+    "slug": "consulting-business-plan-template",
+    "title": "Consulting Business Plan Template",
+    "description": "Free consulting business plan template for starting or scaling a consulting firm in any industry.",
+    "category": {
+      "name": "Business Plans",
+      "slug": "business-plans"
+    },
+    "intro": "This consulting business plan template helps consultants and consulting firms define their service offerings, target industries, pricing strategy, and revenue model. Includes sections for consultant staffing, project pipeline, and client acquisition.",
+    "whenToUse": "Use this template when launching a consulting practice, seeking consulting clients or investments, or scaling your existing consulting team.",
+    "template": "Consulting Business Plan\n\nFirm Name: [Name]\nConsulting Focus: [Industry/Specialty]\n\nServices:\nService 1: [Description]\nService 2: [Description]\nRate Model: [Hourly/Daily/Project/Retainer]\nBilling Rates: $[Amount]/hour\n\nTarget Market:\nIndustries: [List]\nCompany Size: [SMB/Enterprise]\nGeographic Focus: [Region]\n\nClient Acquisition:\nMarketing: [Strategy]\nNetworking: [Approach]\nPartner Channels: [List]\n\nOperations:\nTeam: [Breakdown]\nSubcontractors: [Plan]\nProject Capacity: [# of concurrent projects]\n\nFinancial Model:\nProject Value: $[Amount]\nMonthly Revenue Target: $[Amount]\nUtilization Rate: [%]",
+    "example": "Consulting Business Plan\n\nFirm Name: DataViz Strategies\nConsulting Focus: Business intelligence and data visualization\n\nServices:\nService 1: Data strategy consulting\nService 2: Dashboard and BI tool implementation\nRate Model: Project-based + retainer\nBilling Rates: $150/hour, $8,000/project minimum\n\nTarget Market:\nIndustries: Finance, Healthcare, Retail\nCompany Size: Mid-market ($10M-$500M revenue)\nGeographic Focus: West Coast\n\nClient Acquisition:\nMarketing: Content marketing, LinkedIn, webinars\nNetworking: Industry events, associations\nPartner Channels: Systems integrators, resellers\n\nOperations:\nTeam: 1 Principal, 2 Senior Consultants, 1 Analyst\nSubcontractors: 2 BI developers\nProject Capacity: 4-5 concurrent projects",
+    "tips": [
+      "Define your niche and expertise clearly to attract ideal clients.",
+      "Build a strong network before launching to ensure early projects.",
+      "Start with project-based work before offering retainers.",
+      "Maintain 70-80% utilization rate to ensure profitability.",
+      "Document case studies and client testimonials for sales credibility."
+    ],
+    "faqs": [
+      {
+        "question": "What's a competitive daily rate for consultants?",
+        "answer": "Rates vary by industry and experience: $1,000-$3,000/day is typical for experienced consultants."
+      },
+      {
+        "question": "Should I hire full-time consultants or work alone initially?",
+        "answer": "Start solo or with subcontractors to minimize overhead until you have consistent project pipeline."
+      },
+      {
+        "question": "How do I build credibility as a new consultant?",
+        "answer": "Leverage your experience, earn relevant certifications, and gather strong client testimonials from initial projects."
+      }
+    ],
+    "tags": [
+      "consulting",
+      "services",
+      "business-plan"
+    ]
+  },
+  {
+    "slug": "startup-business-plan-template",
+    "title": "Startup Business Plan Template",
+    "description": "Free startup business plan template for tech startups, early-stage companies, and venture-backed businesses.",
+    "category": {
+      "name": "Business Plans",
+      "slug": "business-plans"
+    },
+    "intro": "This startup business plan template is designed for early-stage companies seeking investor funding or planning their growth trajectory. It includes sections for technology differentiation, market opportunity, funding requirements, and unit economics.",
+    "whenToUse": "Use this template when pitching to investors, applying for startup loans, planning your product roadmap, or seeking venture capital funding.",
+    "template": "Startup Business Plan\n\nCompany Name: [Name]\nMission: [Statement]\n\nProblem & Solution:\nProblem: [Market pain point]\nSolution: [Your offering]\nWhy Now: [Market timing]\n\nMarket Opportunity:\nTotal Addressable Market (TAM): $[Amount]\nServiceable Market: $[Amount]\nTarget Segment: [Description]\n\nProduct & Technology:\nKey Features: [List]\nTech Stack: [Platforms/Languages]\nIP/Moat: [Competitive advantage]\n\nBusiness Model:\nRevenue Model: [Pricing strategy]\nUnit Economics: [Breakdown]\nGross Margin: [%]\n\nFunding & Use of Funds:\nRound Target: $[Amount]\nUse of Funds: [Breakdown by category]\nRunway: [Months]\n\nTeam:\n- Founder: [Role/Experience]\n- [Additional team members]",
+    "example": "Startup Business Plan\n\nCompany Name: MoodFlow\nMission: Make workplace mental health accessible through AI-powered support\n\nProblem & Solution:\nProblem: 60% of employees lack access to mental health support\nSolution: AI chatbot + licensed therapist network for employees\nWhy Now: Post-pandemic mental health crisis, enterprise software adoption\n\nMarket Opportunity:\nTAM: $5B (US employee wellness)\nServiceable Market: $800M (mid-market focus)\nTarget Segment: Tech companies, 500-5,000 employees\n\nProduct & Technology:\nKey Features: AI triage, peer support, therapist matching\nTech Stack: Python, React, AWS\nIP/Moat: Proprietary mental health assessment algorithm\n\nBusiness Model:\nRevenue Model: $10/employee/month SaaS\nUnit Economics: $0.30 CAC, $8 LTV (annual)\nGross Margin: 75%\n\nFunding & Use of Funds:\nRound Target: $2M Seed\nUse of Funds: Engineering ($800k), Sales ($600k), Operations ($600k)\nRunway: 24 months",
+    "tips": [
+      "Focus on clear problem-solution fit before seeking funding.",
+      "Use realistic, data-driven market size estimates.",
+      "Include detailed financial projections for 3-5 years.",
+      "Highlight what makes your team uniquely qualified.",
+      "Be transparent about risks and competitive landscape."
+    ],
+    "faqs": [
+      {
+        "question": "How much should I ask for in my first funding round?",
+        "answer": "Typically 18-24 months of runway; calculate burn rate and request accordingly."
+      },
+      {
+        "question": "What metrics do investors care about most?",
+        "answer": "Growth rate, unit economics, retention rate, and market opportunity are key metrics."
+      },
+      {
+        "question": "Should I bootstrap or seek venture funding?",
+        "answer": "Depends on market size and growth speed needed; bootstrap for smaller markets, VC for large markets requiring speed."
+      }
+    ],
+    "tags": [
+      "startup",
+      "venture-capital",
+      "business-plan"
+    ]
+  },
+  {
+    "slug": "saas-business-plan-template",
+    "title": "SaaS Business Plan Template",
+    "description": "Free SaaS business plan template for software-as-a-service companies and subscription-based software businesses.",
+    "category": {
+      "name": "Business Plans",
+      "slug": "business-plans"
+    },
+    "intro": "This SaaS business plan template helps software entrepreneurs plan their subscription pricing, customer acquisition strategy, churn rate targets, and revenue forecasting. It's tailored to SaaS-specific metrics like MRR, CAC, and LTV.",
+    "whenToUse": "Use this template when launching a SaaS product, planning pricing strategy, forecasting SaaS growth, or seeking SaaS-focused funding.",
+    "template": "SaaS Business Plan\n\nProduct Name: [Name]\nTarget Customer: [Description]\n\nProduct Offering:\nKey Features: [List]\nTarget Use Case: [Problem solved]\nPricing Tiers:\n- Starter: $[Price]/month\n- Professional: $[Price]/month\n- Enterprise: Custom\n\nMarket & Competition:\nTarget Market: [Description]\nMarket Size: [TAM]\nCompetitors: [List]\nDifferentiator: [Unique value]\n\nGo-to-Market:\nSales Channel: [Self-serve/Sales-led/Hybrid]\nCustomer Acquisition: [Strategy]\nTarget CAC: $[Amount]\n\nSaaS Metrics:\nMonthly Recurring Revenue (MRR): $[Amount]\nCustomer Acquisition Cost: $[Amount]\nLifetime Value: $[Amount]\nChurn Rate: [%]\n\nFinancial Forecast:\nYear 1 ARR: $[Amount]\nYear 2 ARR: $[Amount]\nBreak-even: [Months/Year]",
+    "example": "SaaS Business Plan\n\nProduct Name: TimeTracker Pro\nTarget Customer: Freelancers and agencies billing by the hour\n\nProduct Offering:\nKey Features: Time tracking, invoice generation, expense tracking\nTarget Use Case: Simplified billing and client tracking\nPricing Tiers:\n- Starter: $29/month (up to 3 projects)\n- Professional: $79/month (unlimited projects)\n- Enterprise: $199/month (team features)\n\nMarket & Competition:\nTarget Market: 2.5M freelancers in US\nMarket Size: $500M\nCompetitors: Toggl, Harvest, Clockify\nDifferentiator: Simplest interface, fastest setup\n\nGo-to-Market:\nSales Channel: Self-serve product-led\nCustomer Acquisition: SEO, content, ads\nTarget CAC: $25\n\nSaaS Metrics:\nMRR: $50,000 (Year 1)\nCAC: $25\nLTV: $2,400 (24-month)\nChurn Rate: 5% monthly\n\nFinancial Forecast:\nYear 1 ARR: $150,000\nYear 2 ARR: $600,000",
+    "tips": [
+      "Calculate and optimize for SaaS-specific metrics (CAC, LTV, churn).",
+      "Plan for free trial or freemium user acquisition strategy.",
+      "Track monthly and annual recurring revenue separately.",
+      "Set retention targets (90%+ monthly retention is healthy).",
+      "Build in expansion revenue from upsells and add-ons."
+    ],
+    "faqs": [
+      {
+        "question": "What's a healthy CAC to LTV ratio for SaaS?",
+        "answer": "A 3:1 LTV:CAC ratio is the minimum; 5:1 or higher is ideal."
+      },
+      {
+        "question": "What churn rate is acceptable for SaaS?",
+        "answer": "Early-stage SaaS typically targets 5-7% monthly churn; mature SaaS targets 1-3%."
+      },
+      {
+        "question": "Should I start with free trial or freemium?",
+        "answer": "Free trials work for high-touch sales; freemium works for self-serve PLG products. Choose based on sales model."
+      }
+    ],
+    "tags": [
+      "saas",
+      "subscription",
+      "business-plan"
+    ]
+  },
+  {
+    "slug": "agency-business-plan-template",
+    "title": "Agency Business Plan Template",
+    "description": "Free agency business plan template for marketing, design, development, and creative service agencies.",
+    "category": {
+      "name": "Business Plans",
+      "slug": "business-plans"
+    },
+    "intro": "This agency business plan template helps creative entrepreneurs plan their service offerings, staffing structure, client acquisition strategy, and project profitability. It includes sections for team expansion, client retention, and recurring revenue models.",
+    "whenToUse": "Use this template when launching a creative or service agency, planning to hire staff, scaling your agency, or applying for agency business loans.",
+    "template": "Agency Business Plan\n\nAgency Name: [Name]\nSpecialty: [Design/Marketing/Development/Other]\n\nServices Offered:\nService 1: [Description]\nService 2: [Description]\nService 3: [Description]\n\nTarget Clients:\nIndustry Focus: [Industries]\nCompany Size: [SMB/Mid-market/Enterprise]\nGeographic Market: [Region]\n\nPricing Model:\nProject-Based Rate: $[Amount]\nMonthly Retainer: $[Amount]\nHourly Rate: $[Amount]/hour\n\nTeam Structure:\nRole 1: [Number of people]\nRole 2: [Number of people]\nRole 3: [Number of people]\n\nClient Acquisition:\nMarketing Strategy: [Approach]\nSales Process: [Timeline]\nTarget New Clients: [Number per month]\n\nFinancials:\nProjected Monthly Revenue: $[Amount]\nTeam Cost: [%] of revenue\nProfit Margin: [%]",
+    "example": "Agency Business Plan\n\nAgency Name: Digital Growth Partners\nSpecialty: Performance marketing and lead generation\n\nServices Offered:\nService 1: Google Ads and PPC management\nService 2: LinkedIn lead generation campaigns\nService 3: Marketing automation setup\n\nTarget Clients:\nIndustry Focus: B2B SaaS, professional services\nCompany Size: $5M-$100M revenue\nGeographic Market: US-based\n\nPricing Model:\nProject-Based Rate: $15,000-$30,000\nMonthly Retainer: $3,000-$8,000\nHourly Rate: $150/hour\n\nTeam Structure:\nStrategy & Account Management: 2 people\nPPC Specialists: 2 people\nContent Writers: 1 person\n\nClient Acquisition:\nMarketing Strategy: LinkedIn content, case studies, referrals\nSales Process: Discovery call → Proposal → 30-day trial\nTarget New Clients: 2-3 per month\n\nFinancials:\nProjected Monthly Revenue: $45,000\nTeam Cost: 45% of revenue\nProfit Margin: 35%",
+    "tips": [
+      "Focus on recurring revenue through retainers rather than one-off projects.",
+      "Build strong client case studies and measurable results documentation.",
+      "Plan team expansion based on client pipeline, not wishful thinking.",
+      "Create SOPs to maintain quality as you scale.",
+      "Implement project management tools to track profitability per project."
+    ],
+    "faqs": [
+      {
+        "question": "How many clients should I target per account manager?",
+        "answer": "Typically 4-8 clients per account manager, depending on retainer size and complexity."
+      },
+      {
+        "question": "What's a healthy profit margin for an agency?",
+        "answer": "Well-run agencies target 25-40% profit margins after team costs."
+      },
+      {
+        "question": "Should I focus on project-based or retainer work?",
+        "answer": "Retainers provide stability and recurring revenue; mix both for balanced income."
+      }
+    ],
+    "tags": [
+      "agency",
+      "services",
+      "business-plan"
+    ]
+  },
+  {
+    "slug": "nonprofit-business-plan-template",
+    "title": "Nonprofit Business Plan Template",
+    "description": "Free nonprofit business plan template for starting or scaling a nonprofit organization with mission focus and donor strategy.",
+    "category": {
+      "name": "Business Plans",
+      "slug": "business-plans"
+    },
+    "intro": "This nonprofit business plan template helps mission-driven organizations plan their fundraising strategy, program delivery, operational structure, and sustainability. Designed specifically for nonprofits seeking grants, donors, and board support.",
+    "whenToUse": "Use this template when launching a nonprofit, applying for 501(c)(3) status, seeking grant funding, or planning nonprofit expansion.",
+    "template": "Nonprofit Business Plan\n\nOrganization Name: [Name]\nMission: [Statement]\n\nProgram Overview:\nProgram 1: [Description]\nProgram 2: [Description]\nBeneficiaries: [Target population]\nAnnual Reach: [Number of people]\n\nFunding Strategy:\nIndividual Donors: [Target amount]\nGrant Funding: [Target amount]\nCorporate Sponsorships: [Target amount]\nEvents: [Target amount]\n\nOperations:\nBoard Members: [Number]\nFull-time Staff: [Number]\nVolunteers: [Number]\nAnnual Budget: $[Amount]\n\nImpact Metrics:\nMetric 1: [Description]\nMetric 2: [Description]\nMetric 3: [Description]\n\nSustainability:\nEndowment Strategy: [Plan]\nRevenue Diversification: [Plan]",
+    "example": "Nonprofit Business Plan\n\nOrganization Name: Tech Futures Academy\nMission: Provide free coding education to underserved youth\n\nProgram Overview:\nProgram 1: After-school coding bootcamp\nProgram 2: Summer intensive program\nBeneficiaries: Low-income high school students\nAnnual Reach: 150 students\n\nFunding Strategy:\nIndividual Donors: $150,000\nGrant Funding: $200,000\nCorporate Sponsorships: $100,000\nEvents: $50,000\n\nOperations:\nBoard Members: 7\nFull-time Staff: 3\nVolunteers: 15\nAnnual Budget: $500,000\n\nImpact Metrics:\nGraduation rate: 95%\nJob placement: 80%\nStudent satisfaction: 4.8/5\n\nSustainability:\nEndowment Strategy: Build $1M endowment\nRevenue Diversification: Corporate partnerships, training services",
+    "tips": [
+      "Build strong relationships with institutional and individual donors early.",
+      "Track and communicate impact metrics consistently.",
+      "Diversify funding sources to reduce dependency on single donors.",
+      "Develop a compelling fundraising case statement.",
+      "Ensure board members actively participate in fundraising."
+    ],
+    "faqs": [
+      {
+        "question": "How much should a nonprofit spend on fundraising?",
+        "answer": "Most nonprofits allocate 10-25% of budget to fundraising and development."
+      },
+      {
+        "question": "What's needed to start a nonprofit?",
+        "answer": "Form the organization, get 501(c)(3) status, establish a board, and develop bylaws."
+      },
+      {
+        "question": "How do I find grant funding sources?",
+        "answer": "Use Foundation Center, Grants.gov, and industry-specific grant databases."
+      }
+    ],
+    "tags": [
+      "nonprofit",
+      "fundraising",
+      "business-plan"
+    ]
+  },
+  {
+    "slug": "retail-store-business-plan-template",
+    "title": "Retail Store Business Plan Template",
+    "description": "Free retail store business plan template for brick-and-mortar retail shops, boutiques, and physical storefronts.",
+    "category": {
+      "name": "Business Plans",
+      "slug": "business-plans"
+    },
+    "intro": "This retail business plan template helps retailers plan their store operations, inventory strategy, location selection, staffing, and customer experience. Includes sections for store layout, merchandise mix, and retail-specific profitability metrics.",
+    "whenToUse": "Use this template when opening a physical retail store, expanding to new locations, or applying for retail business financing.",
+    "template": "Retail Store Business Plan\n\nStore Name: [Name]\nStore Type: [Boutique/Concept Store/etc]\n\nLocation & Lease:\nAddress: [Location]\nSquare Footage: [Size]\nAnnual Lease Cost: $[Amount]\nLocation Analysis: [Foot traffic/demographics]\n\nMerchandise Mix:\nProduct Category 1: [Description]\nProduct Category 2: [Description]\nInitial Inventory Investment: $[Amount]\n\nCustomer Experience:\nStore Layout: [Description]\nCustomer Service: [Training/Standards]\nLoyalty Program: [Yes/No]\n\nOperations:\nOpen Hours: [Schedule]\nStaff: [Manager + floor staff count]\nPoint of Sale System: [Name]\n\nMarketing & Promotion:\nIn-Store: [Signage/Displays]\nDigital: [Website/Social Media]\nPromotions: [Seasonal sales/events]\n\nFinancials:\nStartup Costs: $[Amount]\nYear 1 Revenue Projection: $[Amount]\nBreak-even Timeline: [Months]",
+    "example": "Retail Store Business Plan\n\nStore Name: Artisan Home\nStore Type: Home décor and furniture boutique\n\nLocation & Lease:\nAddress: Downtown shopping district\nSquare Footage: 2,500 sq ft\nAnnual Lease Cost: $48,000\nLocation Analysis: High foot traffic, 25-45 year old demographic\n\nMerchandise Mix:\nProduct Category 1: Furniture (sofas, tables, chairs)\nProduct Category 2: Décor (art, plants, lighting)\nInitial Inventory Investment: $75,000\n\nCustomer Experience:\nStore Layout: Showroom setup with vignettes\nCustomer Service: Trained staff with interior design knowledge\nLoyalty Program: Yes - 10% rewards\n\nOperations:\nOpen Hours: Mon-Sat 10am-6pm, Sun 12-5pm\nStaff: 1 manager + 3 part-time staff\nPoint of Sale System: Square\n\nMarketing & Promotion:\nIn-Store: Window displays, email catalogs\nDigital: Instagram, Pinterest, email newsletter\nPromotions: Seasonal sales, referral discounts\n\nFinancials:\nStartup Costs: $125,000\nYear 1 Revenue Projection: $280,000\nBreak-even Timeline: 8-10 months",
+    "tips": [
+      "Location is critical; invest in demographic research before signing lease.",
+      "Plan inventory carefully to minimize waste and stockouts.",
+      "Invest in staff training for excellent customer service.",
+      "Use social media to drive foot traffic and brand awareness.",
+      "Monitor inventory turnover and adjust merchandising based on sales data."
+    ],
+    "faqs": [
+      {
+        "question": "What's the typical startup cost for a retail store?",
+        "answer": "Small retail stores typically need $50,000-$150,000 in startup capital."
+      },
+      {
+        "question": "How much inventory should I stock initially?",
+        "answer": "Plan for 4-6 months of inventory initially; adjust based on sales velocity."
+      },
+      {
+        "question": "What's a healthy profit margin for retail?",
+        "answer": "Most retail stores target 30-50% gross margin after inventory costs."
+      }
+    ],
+    "tags": [
+      "retail",
+      "storefront",
+      "business-plan"
+    ]
+  },
+  {
+    "slug": "restaurant-business-plan",
+    "title": "Restaurant Business Plan Template",
+    "description": "Free restaurant business plan template for planning your business successfully.",
+    "category": {
+      "name": "Business Plans",
+      "slug": "business-plans"
+    },
+    "intro": "This restaurant business plan template helps entrepreneurs plan and organize their business strategy effectively.",
+    "whenToUse": "Use this template when starting your business, seeking funding, or planning growth.",
+    "template": "Business Plan:\n\n[Your Business Details]\n[Market Analysis]\n[Revenue Strategy]\n[Operations]\n[Financial Projections]",
+    "example": "[Example business plan with realistic details]",
+    "tips": [
+      "Define your target market clearly",
+      "Include realistic financial projections",
+      "Plan for contingencies",
+      "Review quarterly and adjust",
+      "Share with advisors for feedback"
+    ],
+    "faqs": [
+      {
+        "question": "How long should a business plan be?",
+        "answer": "Typically 10-20 pages; keep concise and focused."
+      },
+      {
+        "question": "Do I need a business plan?",
+        "answer": "Yes, even if not seeking funding, plans help clarify strategy."
+      },
+      {
+        "question": "How often should I update my plan?",
+        "answer": "Annually or quarterly as business evolves."
+      }
+    ],
+    "tags": [
+      "business",
+      "planning",
+      "strategy"
+    ]
+  },
+  {
+    "slug": "ecommerce-business-plan",
+    "title": "E-Commerce Business Plan Template",
+    "description": "Free e-commerce business plan template for planning your business successfully.",
+    "category": {
+      "name": "Business Plans",
+      "slug": "business-plans"
+    },
+    "intro": "This e-commerce business plan template helps entrepreneurs plan and organize their business strategy effectively.",
+    "whenToUse": "Use this template when starting your business, seeking funding, or planning growth.",
+    "template": "Business Plan:\n\n[Your Business Details]\n[Market Analysis]\n[Revenue Strategy]\n[Operations]\n[Financial Projections]",
+    "example": "[Example business plan with realistic details]",
+    "tips": [
+      "Define your target market clearly",
+      "Include realistic financial projections",
+      "Plan for contingencies",
+      "Review quarterly and adjust",
+      "Share with advisors for feedback"
+    ],
+    "faqs": [
+      {
+        "question": "How long should a business plan be?",
+        "answer": "Typically 10-20 pages; keep concise and focused."
+      },
+      {
+        "question": "Do I need a business plan?",
+        "answer": "Yes, even if not seeking funding, plans help clarify strategy."
+      },
+      {
+        "question": "How often should I update my plan?",
+        "answer": "Annually or quarterly as business evolves."
+      }
+    ],
+    "tags": [
+      "business",
+      "planning",
+      "strategy"
+    ]
+  },
+  {
+    "slug": "consulting-business-plan",
+    "title": "Consulting Business Plan Template",
+    "description": "Free consulting business plan template for planning your business successfully.",
+    "category": {
+      "name": "Business Plans",
+      "slug": "business-plans"
+    },
+    "intro": "This consulting business plan template helps entrepreneurs plan and organize their business strategy effectively.",
+    "whenToUse": "Use this template when starting your business, seeking funding, or planning growth.",
+    "template": "Business Plan:\n\n[Your Business Details]\n[Market Analysis]\n[Revenue Strategy]\n[Operations]\n[Financial Projections]",
+    "example": "[Example business plan with realistic details]",
+    "tips": [
+      "Define your target market clearly",
+      "Include realistic financial projections",
+      "Plan for contingencies",
+      "Review quarterly and adjust",
+      "Share with advisors for feedback"
+    ],
+    "faqs": [
+      {
+        "question": "How long should a business plan be?",
+        "answer": "Typically 10-20 pages; keep concise and focused."
+      },
+      {
+        "question": "Do I need a business plan?",
+        "answer": "Yes, even if not seeking funding, plans help clarify strategy."
+      },
+      {
+        "question": "How often should I update my plan?",
+        "answer": "Annually or quarterly as business evolves."
+      }
+    ],
+    "tags": [
+      "business",
+      "planning",
+      "strategy"
+    ]
+  },
+  {
+    "slug": "startup-business-plan",
+    "title": "Startup Business Plan Template",
+    "description": "Free startup business plan template for planning your business successfully.",
+    "category": {
+      "name": "Business Plans",
+      "slug": "business-plans"
+    },
+    "intro": "This startup business plan template helps entrepreneurs plan and organize their business strategy effectively.",
+    "whenToUse": "Use this template when starting your business, seeking funding, or planning growth.",
+    "template": "Business Plan:\n\n[Your Business Details]\n[Market Analysis]\n[Revenue Strategy]\n[Operations]\n[Financial Projections]",
+    "example": "[Example business plan with realistic details]",
+    "tips": [
+      "Define your target market clearly",
+      "Include realistic financial projections",
+      "Plan for contingencies",
+      "Review quarterly and adjust",
+      "Share with advisors for feedback"
+    ],
+    "faqs": [
+      {
+        "question": "How long should a business plan be?",
+        "answer": "Typically 10-20 pages; keep concise and focused."
+      },
+      {
+        "question": "Do I need a business plan?",
+        "answer": "Yes, even if not seeking funding, plans help clarify strategy."
+      },
+      {
+        "question": "How often should I update my plan?",
+        "answer": "Annually or quarterly as business evolves."
+      }
+    ],
+    "tags": [
+      "business",
+      "planning",
+      "strategy"
+    ]
+  },
+  {
+    "slug": "saas-business-plan",
+    "title": "SaaS Business Plan Template",
+    "description": "Free saas business plan template for planning your business successfully.",
+    "category": {
+      "name": "Business Plans",
+      "slug": "business-plans"
+    },
+    "intro": "This saas business plan template helps entrepreneurs plan and organize their business strategy effectively.",
+    "whenToUse": "Use this template when starting your business, seeking funding, or planning growth.",
+    "template": "Business Plan:\n\n[Your Business Details]\n[Market Analysis]\n[Revenue Strategy]\n[Operations]\n[Financial Projections]",
+    "example": "[Example business plan with realistic details]",
+    "tips": [
+      "Define your target market clearly",
+      "Include realistic financial projections",
+      "Plan for contingencies",
+      "Review quarterly and adjust",
+      "Share with advisors for feedback"
+    ],
+    "faqs": [
+      {
+        "question": "How long should a business plan be?",
+        "answer": "Typically 10-20 pages; keep concise and focused."
+      },
+      {
+        "question": "Do I need a business plan?",
+        "answer": "Yes, even if not seeking funding, plans help clarify strategy."
+      },
+      {
+        "question": "How often should I update my plan?",
+        "answer": "Annually or quarterly as business evolves."
+      }
+    ],
+    "tags": [
+      "business",
+      "planning",
+      "strategy"
+    ]
+  },
+  {
+    "slug": "agency-business-plan",
+    "title": "Agency Business Plan Template",
+    "description": "Free agency business plan template for planning your business successfully.",
+    "category": {
+      "name": "Business Plans",
+      "slug": "business-plans"
+    },
+    "intro": "This agency business plan template helps entrepreneurs plan and organize their business strategy effectively.",
+    "whenToUse": "Use this template when starting your business, seeking funding, or planning growth.",
+    "template": "Business Plan:\n\n[Your Business Details]\n[Market Analysis]\n[Revenue Strategy]\n[Operations]\n[Financial Projections]",
+    "example": "[Example business plan with realistic details]",
+    "tips": [
+      "Define your target market clearly",
+      "Include realistic financial projections",
+      "Plan for contingencies",
+      "Review quarterly and adjust",
+      "Share with advisors for feedback"
+    ],
+    "faqs": [
+      {
+        "question": "How long should a business plan be?",
+        "answer": "Typically 10-20 pages; keep concise and focused."
+      },
+      {
+        "question": "Do I need a business plan?",
+        "answer": "Yes, even if not seeking funding, plans help clarify strategy."
+      },
+      {
+        "question": "How often should I update my plan?",
+        "answer": "Annually or quarterly as business evolves."
+      }
+    ],
+    "tags": [
+      "business",
+      "planning",
+      "strategy"
+    ]
+  },
+  {
+    "slug": "nonprofit-business-plan",
+    "title": "Nonprofit Business Plan Template",
+    "description": "Free nonprofit business plan template for planning your business successfully.",
+    "category": {
+      "name": "Business Plans",
+      "slug": "business-plans"
+    },
+    "intro": "This nonprofit business plan template helps entrepreneurs plan and organize their business strategy effectively.",
+    "whenToUse": "Use this template when starting your business, seeking funding, or planning growth.",
+    "template": "Business Plan:\n\n[Your Business Details]\n[Market Analysis]\n[Revenue Strategy]\n[Operations]\n[Financial Projections]",
+    "example": "[Example business plan with realistic details]",
+    "tips": [
+      "Define your target market clearly",
+      "Include realistic financial projections",
+      "Plan for contingencies",
+      "Review quarterly and adjust",
+      "Share with advisors for feedback"
+    ],
+    "faqs": [
+      {
+        "question": "How long should a business plan be?",
+        "answer": "Typically 10-20 pages; keep concise and focused."
+      },
+      {
+        "question": "Do I need a business plan?",
+        "answer": "Yes, even if not seeking funding, plans help clarify strategy."
+      },
+      {
+        "question": "How often should I update my plan?",
+        "answer": "Annually or quarterly as business evolves."
+      }
+    ],
+    "tags": [
+      "business",
+      "planning",
+      "strategy"
+    ]
+  },
+  {
+    "slug": "retail-store-business-plan",
+    "title": "Retail Store Business Plan Template",
+    "description": "Free retail store business plan template for planning your business successfully.",
+    "category": {
+      "name": "Business Plans",
+      "slug": "business-plans"
+    },
+    "intro": "This retail store business plan template helps entrepreneurs plan and organize their business strategy effectively.",
+    "whenToUse": "Use this template when starting your business, seeking funding, or planning growth.",
+    "template": "Business Plan:\n\n[Your Business Details]\n[Market Analysis]\n[Revenue Strategy]\n[Operations]\n[Financial Projections]",
+    "example": "[Example business plan with realistic details]",
+    "tips": [
+      "Define your target market clearly",
+      "Include realistic financial projections",
+      "Plan for contingencies",
+      "Review quarterly and adjust",
+      "Share with advisors for feedback"
+    ],
+    "faqs": [
+      {
+        "question": "How long should a business plan be?",
+        "answer": "Typically 10-20 pages; keep concise and focused."
+      },
+      {
+        "question": "Do I need a business plan?",
+        "answer": "Yes, even if not seeking funding, plans help clarify strategy."
+      },
+      {
+        "question": "How often should I update my plan?",
+        "answer": "Annually or quarterly as business evolves."
+      }
+    ],
+    "tags": [
+      "business",
+      "planning",
+      "strategy"
+    ]
+  },
+  {
+    "slug": "fitness-studio-business-plan",
+    "title": "Fitness Studio Business Plan Template",
+    "description": "Free fitness studio business plan template for planning your business successfully.",
+    "category": {
+      "name": "Business Plans",
+      "slug": "business-plans"
+    },
+    "intro": "This fitness studio business plan template helps entrepreneurs plan and organize their business strategy effectively.",
+    "whenToUse": "Use this template when starting your business, seeking funding, or planning growth.",
+    "template": "Business Plan:\n\n[Your Business Details]\n[Market Analysis]\n[Revenue Strategy]\n[Operations]\n[Financial Projections]",
+    "example": "[Example business plan with realistic details]",
+    "tips": [
+      "Define your target market clearly",
+      "Include realistic financial projections",
+      "Plan for contingencies",
+      "Review quarterly and adjust",
+      "Share with advisors for feedback"
+    ],
+    "faqs": [
+      {
+        "question": "How long should a business plan be?",
+        "answer": "Typically 10-20 pages; keep concise and focused."
+      },
+      {
+        "question": "Do I need a business plan?",
+        "answer": "Yes, even if not seeking funding, plans help clarify strategy."
+      },
+      {
+        "question": "How often should I update my plan?",
+        "answer": "Annually or quarterly as business evolves."
+      }
+    ],
+    "tags": [
+      "business",
+      "planning",
+      "strategy"
+    ]
+  },
+  {
+    "slug": "daycare-business-plan",
+    "title": "Daycare Business Plan Template",
+    "description": "Free daycare business plan template for planning your business successfully.",
+    "category": {
+      "name": "Business Plans",
+      "slug": "business-plans"
+    },
+    "intro": "This daycare business plan template helps entrepreneurs plan and organize their business strategy effectively.",
+    "whenToUse": "Use this template when starting your business, seeking funding, or planning growth.",
+    "template": "Business Plan:\n\n[Your Business Details]\n[Market Analysis]\n[Revenue Strategy]\n[Operations]\n[Financial Projections]",
+    "example": "[Example business plan with realistic details]",
+    "tips": [
+      "Define your target market clearly",
+      "Include realistic financial projections",
+      "Plan for contingencies",
+      "Review quarterly and adjust",
+      "Share with advisors for feedback"
+    ],
+    "faqs": [
+      {
+        "question": "How long should a business plan be?",
+        "answer": "Typically 10-20 pages; keep concise and focused."
+      },
+      {
+        "question": "Do I need a business plan?",
+        "answer": "Yes, even if not seeking funding, plans help clarify strategy."
+      },
+      {
+        "question": "How often should I update my plan?",
+        "answer": "Annually or quarterly as business evolves."
+      }
+    ],
+    "tags": [
+      "business",
+      "planning",
+      "strategy"
+    ]
+  },
+  {
+    "slug": "beauty-salon-business-plan",
+    "title": "Beauty Salon Business Plan Template",
+    "description": "Free beauty salon business plan template for planning your business successfully.",
+    "category": {
+      "name": "Business Plans",
+      "slug": "business-plans"
+    },
+    "intro": "This beauty salon business plan template helps entrepreneurs plan and organize their business strategy effectively.",
+    "whenToUse": "Use this template when starting your business, seeking funding, or planning growth.",
+    "template": "Business Plan:\n\n[Your Business Details]\n[Market Analysis]\n[Revenue Strategy]\n[Operations]\n[Financial Projections]",
+    "example": "[Example business plan with realistic details]",
+    "tips": [
+      "Define your target market clearly",
+      "Include realistic financial projections",
+      "Plan for contingencies",
+      "Review quarterly and adjust",
+      "Share with advisors for feedback"
+    ],
+    "faqs": [
+      {
+        "question": "How long should a business plan be?",
+        "answer": "Typically 10-20 pages; keep concise and focused."
+      },
+      {
+        "question": "Do I need a business plan?",
+        "answer": "Yes, even if not seeking funding, plans help clarify strategy."
+      },
+      {
+        "question": "How often should I update my plan?",
+        "answer": "Annually or quarterly as business evolves."
+      }
+    ],
+    "tags": [
+      "business",
+      "planning",
+      "strategy"
+    ]
+  },
+  {
+    "slug": "construction-business-plan",
+    "title": "Construction Company Business Plan Template",
+    "description": "Free construction company business plan template for planning your business successfully.",
+    "category": {
+      "name": "Business Plans",
+      "slug": "business-plans"
+    },
+    "intro": "This construction company business plan template helps entrepreneurs plan and organize their business strategy effectively.",
+    "whenToUse": "Use this template when starting your business, seeking funding, or planning growth.",
+    "template": "Business Plan:\n\n[Your Business Details]\n[Market Analysis]\n[Revenue Strategy]\n[Operations]\n[Financial Projections]",
+    "example": "[Example business plan with realistic details]",
+    "tips": [
+      "Define your target market clearly",
+      "Include realistic financial projections",
+      "Plan for contingencies",
+      "Review quarterly and adjust",
+      "Share with advisors for feedback"
+    ],
+    "faqs": [
+      {
+        "question": "How long should a business plan be?",
+        "answer": "Typically 10-20 pages; keep concise and focused."
+      },
+      {
+        "question": "Do I need a business plan?",
+        "answer": "Yes, even if not seeking funding, plans help clarify strategy."
+      },
+      {
+        "question": "How often should I update my plan?",
+        "answer": "Annually or quarterly as business evolves."
+      }
+    ],
+    "tags": [
+      "business",
+      "planning",
+      "strategy"
+    ]
+  },
+  {
+    "slug": "event-planning-business-plan",
+    "title": "Event Planning Business Plan Template",
+    "description": "Free event planning business plan template for planning your business successfully.",
+    "category": {
+      "name": "Business Plans",
+      "slug": "business-plans"
+    },
+    "intro": "This event planning business plan template helps entrepreneurs plan and organize their business strategy effectively.",
+    "whenToUse": "Use this template when starting your business, seeking funding, or planning growth.",
+    "template": "Business Plan:\n\n[Your Business Details]\n[Market Analysis]\n[Revenue Strategy]\n[Operations]\n[Financial Projections]",
+    "example": "[Example business plan with realistic details]",
+    "tips": [
+      "Define your target market clearly",
+      "Include realistic financial projections",
+      "Plan for contingencies",
+      "Review quarterly and adjust",
+      "Share with advisors for feedback"
+    ],
+    "faqs": [
+      {
+        "question": "How long should a business plan be?",
+        "answer": "Typically 10-20 pages; keep concise and focused."
+      },
+      {
+        "question": "Do I need a business plan?",
+        "answer": "Yes, even if not seeking funding, plans help clarify strategy."
+      },
+      {
+        "question": "How often should I update my plan?",
+        "answer": "Annually or quarterly as business evolves."
+      }
+    ],
+    "tags": [
+      "business",
+      "planning",
+      "strategy"
+    ]
+  },
+  {
+    "slug": "pet-sitting-business-plan",
+    "title": "Pet Sitting Business Plan Template",
+    "description": "Free pet sitting business plan template for planning your business successfully.",
+    "category": {
+      "name": "Business Plans",
+      "slug": "business-plans"
+    },
+    "intro": "This pet sitting business plan template helps entrepreneurs plan and organize their business strategy effectively.",
+    "whenToUse": "Use this template when starting your business, seeking funding, or planning growth.",
+    "template": "Business Plan:\n\n[Your Business Details]\n[Market Analysis]\n[Revenue Strategy]\n[Operations]\n[Financial Projections]",
+    "example": "[Example business plan with realistic details]",
+    "tips": [
+      "Define your target market clearly",
+      "Include realistic financial projections",
+      "Plan for contingencies",
+      "Review quarterly and adjust",
+      "Share with advisors for feedback"
+    ],
+    "faqs": [
+      {
+        "question": "How long should a business plan be?",
+        "answer": "Typically 10-20 pages; keep concise and focused."
+      },
+      {
+        "question": "Do I need a business plan?",
+        "answer": "Yes, even if not seeking funding, plans help clarify strategy."
+      },
+      {
+        "question": "How often should I update my plan?",
+        "answer": "Annually or quarterly as business evolves."
+      }
+    ],
+    "tags": [
+      "business",
+      "planning",
+      "strategy"
+    ]
+  },
+  {
+    "slug": "tutoring-business-plan",
+    "title": "Tutoring Business Plan Template",
+    "description": "Free tutoring business plan template for planning your business successfully.",
+    "category": {
+      "name": "Business Plans",
+      "slug": "business-plans"
+    },
+    "intro": "This tutoring business plan template helps entrepreneurs plan and organize their business strategy effectively.",
+    "whenToUse": "Use this template when starting your business, seeking funding, or planning growth.",
+    "template": "Business Plan:\n\n[Your Business Details]\n[Market Analysis]\n[Revenue Strategy]\n[Operations]\n[Financial Projections]",
+    "example": "[Example business plan with realistic details]",
+    "tips": [
+      "Define your target market clearly",
+      "Include realistic financial projections",
+      "Plan for contingencies",
+      "Review quarterly and adjust",
+      "Share with advisors for feedback"
+    ],
+    "faqs": [
+      {
+        "question": "How long should a business plan be?",
+        "answer": "Typically 10-20 pages; keep concise and focused."
+      },
+      {
+        "question": "Do I need a business plan?",
+        "answer": "Yes, even if not seeking funding, plans help clarify strategy."
+      },
+      {
+        "question": "How often should I update my plan?",
+        "answer": "Annually or quarterly as business evolves."
+      }
+    ],
+    "tags": [
+      "business",
+      "planning",
+      "strategy"
+    ]
+  },
+  {
+    "slug": "cleaning-service-business-plan",
+    "title": "Cleaning Service Business Plan Template",
+    "description": "Free cleaning service business plan template for planning your business successfully.",
+    "category": {
+      "name": "Business Plans",
+      "slug": "business-plans"
+    },
+    "intro": "This cleaning service business plan template helps entrepreneurs plan and organize their business strategy effectively.",
+    "whenToUse": "Use this template when starting your business, seeking funding, or planning growth.",
+    "template": "Business Plan:\n\n[Your Business Details]\n[Market Analysis]\n[Revenue Strategy]\n[Operations]\n[Financial Projections]",
+    "example": "[Example business plan with realistic details]",
+    "tips": [
+      "Define your target market clearly",
+      "Include realistic financial projections",
+      "Plan for contingencies",
+      "Review quarterly and adjust",
+      "Share with advisors for feedback"
+    ],
+    "faqs": [
+      {
+        "question": "How long should a business plan be?",
+        "answer": "Typically 10-20 pages; keep concise and focused."
+      },
+      {
+        "question": "Do I need a business plan?",
+        "answer": "Yes, even if not seeking funding, plans help clarify strategy."
+      },
+      {
+        "question": "How often should I update my plan?",
+        "answer": "Annually or quarterly as business evolves."
+      }
+    ],
+    "tags": [
+      "business",
+      "planning",
+      "strategy"
+    ]
+  },
+  {
+    "slug": "landscaping-business-plan",
+    "title": "Landscaping Business Plan Template",
+    "description": "Free landscaping business plan template for planning your business successfully.",
+    "category": {
+      "name": "Business Plans",
+      "slug": "business-plans"
+    },
+    "intro": "This landscaping business plan template helps entrepreneurs plan and organize their business strategy effectively.",
+    "whenToUse": "Use this template when starting your business, seeking funding, or planning growth.",
+    "template": "Business Plan:\n\n[Your Business Details]\n[Market Analysis]\n[Revenue Strategy]\n[Operations]\n[Financial Projections]",
+    "example": "[Example business plan with realistic details]",
+    "tips": [
+      "Define your target market clearly",
+      "Include realistic financial projections",
+      "Plan for contingencies",
+      "Review quarterly and adjust",
+      "Share with advisors for feedback"
+    ],
+    "faqs": [
+      {
+        "question": "How long should a business plan be?",
+        "answer": "Typically 10-20 pages; keep concise and focused."
+      },
+      {
+        "question": "Do I need a business plan?",
+        "answer": "Yes, even if not seeking funding, plans help clarify strategy."
+      },
+      {
+        "question": "How often should I update my plan?",
+        "answer": "Annually or quarterly as business evolves."
+      }
+    ],
+    "tags": [
+      "business",
+      "planning",
+      "strategy"
+    ]
+  },
+  {
+    "slug": "real-estate-agency-business-plan",
+    "title": "Real Estate Agency Business Plan Template",
+    "description": "Free real estate agency business plan template for planning your business successfully.",
+    "category": {
+      "name": "Business Plans",
+      "slug": "business-plans"
+    },
+    "intro": "This real estate agency business plan template helps entrepreneurs plan and organize their business strategy effectively.",
+    "whenToUse": "Use this template when starting your business, seeking funding, or planning growth.",
+    "template": "Business Plan:\n\n[Your Business Details]\n[Market Analysis]\n[Revenue Strategy]\n[Operations]\n[Financial Projections]",
+    "example": "[Example business plan with realistic details]",
+    "tips": [
+      "Define your target market clearly",
+      "Include realistic financial projections",
+      "Plan for contingencies",
+      "Review quarterly and adjust",
+      "Share with advisors for feedback"
+    ],
+    "faqs": [
+      {
+        "question": "How long should a business plan be?",
+        "answer": "Typically 10-20 pages; keep concise and focused."
+      },
+      {
+        "question": "Do I need a business plan?",
+        "answer": "Yes, even if not seeking funding, plans help clarify strategy."
+      },
+      {
+        "question": "How often should I update my plan?",
+        "answer": "Annually or quarterly as business evolves."
+      }
+    ],
+    "tags": [
+      "business",
+      "planning",
+      "strategy"
+    ]
+  },
+  {
+    "slug": "coffee-shop-business-plan",
+    "title": "Coffee Shop Business Plan Template",
+    "description": "Free coffee shop business plan template for planning your business successfully.",
+    "category": {
+      "name": "Business Plans",
+      "slug": "business-plans"
+    },
+    "intro": "This coffee shop business plan template helps entrepreneurs plan and organize their business strategy effectively.",
+    "whenToUse": "Use this template when starting your business, seeking funding, or planning growth.",
+    "template": "Business Plan:\n\n[Your Business Details]\n[Market Analysis]\n[Revenue Strategy]\n[Operations]\n[Financial Projections]",
+    "example": "[Example business plan with realistic details]",
+    "tips": [
+      "Define your target market clearly",
+      "Include realistic financial projections",
+      "Plan for contingencies",
+      "Review quarterly and adjust",
+      "Share with advisors for feedback"
+    ],
+    "faqs": [
+      {
+        "question": "How long should a business plan be?",
+        "answer": "Typically 10-20 pages; keep concise and focused."
+      },
+      {
+        "question": "Do I need a business plan?",
+        "answer": "Yes, even if not seeking funding, plans help clarify strategy."
+      },
+      {
+        "question": "How often should I update my plan?",
+        "answer": "Annually or quarterly as business evolves."
+      }
+    ],
+    "tags": [
+      "business",
+      "planning",
+      "strategy"
+    ]
+  },
+  {
+    "slug": "bookstore-business-plan",
+    "title": "Bookstore Business Plan Template",
+    "description": "Free bookstore business plan template for planning your business successfully.",
+    "category": {
+      "name": "Business Plans",
+      "slug": "business-plans"
+    },
+    "intro": "This bookstore business plan template helps entrepreneurs plan and organize their business strategy effectively.",
+    "whenToUse": "Use this template when starting your business, seeking funding, or planning growth.",
+    "template": "Business Plan:\n\n[Your Business Details]\n[Market Analysis]\n[Revenue Strategy]\n[Operations]\n[Financial Projections]",
+    "example": "[Example business plan with realistic details]",
+    "tips": [
+      "Define your target market clearly",
+      "Include realistic financial projections",
+      "Plan for contingencies",
+      "Review quarterly and adjust",
+      "Share with advisors for feedback"
+    ],
+    "faqs": [
+      {
+        "question": "How long should a business plan be?",
+        "answer": "Typically 10-20 pages; keep concise and focused."
+      },
+      {
+        "question": "Do I need a business plan?",
+        "answer": "Yes, even if not seeking funding, plans help clarify strategy."
+      },
+      {
+        "question": "How often should I update my plan?",
+        "answer": "Annually or quarterly as business evolves."
+      }
+    ],
+    "tags": [
+      "business",
+      "planning",
+      "strategy"
     ]
   }
 ]

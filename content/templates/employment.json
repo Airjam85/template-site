@@ -16,6 +16,11 @@
         "question": "Is HR review required?",
         "answer": "Often yes; coordinate with HR before issuing formal write-ups."
       }
+    ],
+    "tags": [
+      "employment",
+      "verification",
+      "documents"
     ]
   },
   {
@@ -28,13 +33,18 @@
     },
     "intro": "A concise email for requesting PTO.",
     "whenToUse": "Requesting planned vacation, personal days, or medical leave.",
-    "template": "Subject: PTO Request - [Dates]\n\nHi [Manager Name],\n\nI\u2019d like to request PTO from [Start Date] to [End Date]. I will ensure [Coverage Plan].\n\nThanks,\n[Your Name]",
-    "example": "Subject: PTO Request - June 10\u201314\n\nHi Maria,\n\nI\u2019d like to request PTO June 10\u201314. I will hand off current tasks to Priya and leave instructions.\n\nThanks,\nSam",
+    "template": "Subject: PTO Request - [Dates]\n\nHi [Manager Name],\n\nI’d like to request PTO from [Start Date] to [End Date]. I will ensure [Coverage Plan].\n\nThanks,\n[Your Name]",
+    "example": "Subject: PTO Request - June 10–14\n\nHi Maria,\n\nI’d like to request PTO June 10–14. I will hand off current tasks to Priya and leave instructions.\n\nThanks,\nSam",
     "faqs": [
       {
         "question": "How much notice?",
-        "answer": "As much as possible \u2014 two weeks is common for planned time off."
+        "answer": "As much as possible — two weeks is common for planned time off."
       }
+    ],
+    "tags": [
+      "employment",
+      "verification",
+      "documents"
     ]
   },
   {
@@ -48,7 +58,12 @@
     "intro": "Use to document repeated attendance or punctuality issues.",
     "whenToUse": "When attendance policies are violated repeatedly.",
     "template": "Employee: [Name]\nIssue: Tardiness on [Dates]\nAction: Improvement plan and follow-up on [Date]",
-    "example": "Employee: Chris\nIssue: Tardy on May 3, 5, 7\nAction: Submit weekly schedule and meet with manager on May 21"
+    "example": "Employee: Chris\nIssue: Tardy on May 3, 5, 7\nAction: Submit weekly schedule and meet with manager on May 21",
+    "tags": [
+      "nda",
+      "confidentiality",
+      "employment"
+    ]
   },
   {
     "slug": "pto-request-urgent",
@@ -61,6 +76,791 @@
     "intro": "A short message requesting urgent leave.",
     "whenToUse": "Emergencies or sudden personal needs.",
     "template": "Hi [Manager],\n\nI need urgent leave starting [Date] due to [Reason]. I will update you as soon as possible with details.\n\nThanks,\n[Name]",
-    "example": "Hi Alex,\n\nI need urgent leave starting May 19 due to a family emergency. I will share more details soon.\n\nThanks,\nTaylor"
+    "example": "Hi Alex,\n\nI need urgent leave starting May 19 due to a family emergency. I will share more details soon.\n\nThanks,\nTaylor",
+    "tags": [
+      "employment",
+      "verification",
+      "documents"
+    ]
+  },
+  {
+    "slug": "employee-promotion-letter",
+    "title": "Employee Promotion Letter Template",
+    "description": "Free employee promotion letter template for professional use.",
+    "category": {
+      "name": "Employment",
+      "slug": "employment"
+    },
+    "intro": "This employee promotion letter template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "employment",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "employee-demotion-letter",
+    "title": "Employee Demotion Letter Template",
+    "description": "Free employee demotion letter template for professional use.",
+    "category": {
+      "name": "Employment",
+      "slug": "employment"
+    },
+    "intro": "This employee demotion letter template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "employment",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "employee-suspension-letter",
+    "title": "Employee Suspension Letter Template",
+    "description": "Free employee suspension letter template for professional use.",
+    "category": {
+      "name": "Employment",
+      "slug": "employment"
+    },
+    "intro": "This employee suspension letter template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "employment",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "employee-termination-cause-letter",
+    "title": "Employee Termination Cause Letter Template",
+    "description": "Free employee termination cause letter template for professional use.",
+    "category": {
+      "name": "Employment",
+      "slug": "employment"
+    },
+    "intro": "This employee termination cause letter template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "employment",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "employee-layoff-letter",
+    "title": "Employee Layoff Letter Template",
+    "description": "Free employee layoff letter template for professional use.",
+    "category": {
+      "name": "Employment",
+      "slug": "employment"
+    },
+    "intro": "This employee layoff letter template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "employment",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "return-to-work-agreement",
+    "title": "Return To Work Agreement Template",
+    "description": "Free return to work agreement template for professional use.",
+    "category": {
+      "name": "Employment",
+      "slug": "employment"
+    },
+    "intro": "This return to work agreement template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "employment",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "employment-offer-letter",
+    "title": "Employment Offer Letter Template",
+    "description": "Free employment offer letter template for professional use.",
+    "category": {
+      "name": "Employment",
+      "slug": "employment"
+    },
+    "intro": "This employment offer letter template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "employment",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "contract-extension-letter",
+    "title": "Contract Extension Letter Template",
+    "description": "Free contract extension letter template for professional use.",
+    "category": {
+      "name": "Employment",
+      "slug": "employment"
+    },
+    "intro": "This contract extension letter template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "employment",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "job-description-update",
+    "title": "Job Description Update Template",
+    "description": "Free job description update template for professional use.",
+    "category": {
+      "name": "Employment",
+      "slug": "employment"
+    },
+    "intro": "This job description update template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "employment",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "role-change-letter",
+    "title": "Role Change Letter Template",
+    "description": "Free role change letter template for professional use.",
+    "category": {
+      "name": "Employment",
+      "slug": "employment"
+    },
+    "intro": "This role change letter template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "employment",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "salary-increase-notification",
+    "title": "Salary Increase Notification Template",
+    "description": "Free salary increase notification template for professional use.",
+    "category": {
+      "name": "Employment",
+      "slug": "employment"
+    },
+    "intro": "This salary increase notification template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "employment",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "benefits-change-letter",
+    "title": "Benefits Change Letter Template",
+    "description": "Free benefits change letter template for professional use.",
+    "category": {
+      "name": "Employment",
+      "slug": "employment"
+    },
+    "intro": "This benefits change letter template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "employment",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "training-assignment-letter",
+    "title": "Training Assignment Letter Template",
+    "description": "Free training assignment letter template for professional use.",
+    "category": {
+      "name": "Employment",
+      "slug": "employment"
+    },
+    "intro": "This training assignment letter template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "employment",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "transfer-letter",
+    "title": "Transfer Letter Template",
+    "description": "Free transfer letter template for professional use.",
+    "category": {
+      "name": "Employment",
+      "slug": "employment"
+    },
+    "intro": "This transfer letter template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "employment",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "probation-extension",
+    "title": "Probation Extension Template",
+    "description": "Free probation extension template for professional use.",
+    "category": {
+      "name": "Employment",
+      "slug": "employment"
+    },
+    "intro": "This probation extension template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "employment",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "performance-improvement-plan",
+    "title": "Performance Improvement Plan Template",
+    "description": "Free performance improvement plan template for professional use.",
+    "category": {
+      "name": "Employment",
+      "slug": "employment"
+    },
+    "intro": "This performance improvement plan template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "employment",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "unpaid-leave-request",
+    "title": "Unpaid Leave Request Template",
+    "description": "Free unpaid leave request template for professional use.",
+    "category": {
+      "name": "Employment",
+      "slug": "employment"
+    },
+    "intro": "This unpaid leave request template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "employment",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "jury-duty-leave-request",
+    "title": "Jury Duty Leave Request Template",
+    "description": "Free jury duty leave request template for professional use.",
+    "category": {
+      "name": "Employment",
+      "slug": "employment"
+    },
+    "intro": "This jury duty leave request template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "employment",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "military-leave-notification",
+    "title": "Military Leave Notification Template",
+    "description": "Free military leave notification template for professional use.",
+    "category": {
+      "name": "Employment",
+      "slug": "employment"
+    },
+    "intro": "This military leave notification template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "employment",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "sabbatical-request",
+    "title": "Sabbatical Request Template",
+    "description": "Free sabbatical request template for professional use.",
+    "category": {
+      "name": "Employment",
+      "slug": "employment"
+    },
+    "intro": "This sabbatical request template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "employment",
+      "template",
+      "professional"
+    ]
   }
 ]

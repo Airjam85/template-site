@@ -20,6 +20,11 @@
         "question": "Can freelancers use this template?",
         "answer": "Yes. This invoice template is ideal for freelancers and consultants."
       }
+    ],
+    "tags": [
+      "billing",
+      "finance",
+      "invoice"
     ]
   },
   {
@@ -53,6 +58,11 @@
         "question": "Should editing fees be separate?",
         "answer": "Separating editing fees can make invoices clearer for clients."
       }
+    ],
+    "tags": [
+      "photography",
+      "billing",
+      "finance"
     ]
   },
   {
@@ -86,6 +96,11 @@
         "question": "Should payment terms be included?",
         "answer": "Yes, clear payment terms help reduce delays and misunderstandings."
       }
+    ],
+    "tags": [
+      "consulting",
+      "billing",
+      "finance"
     ]
   },
   {
@@ -105,6 +120,11 @@
         "question": "What payment terms to include?",
         "answer": "Include due date and accepted payment methods."
       }
+    ],
+    "tags": [
+      "billing",
+      "finance",
+      "invoice"
     ]
   },
   {
@@ -118,6 +138,791 @@
     "intro": "Use for monthly retainers or recurring service charges.",
     "whenToUse": "Billing recurring clients on a set schedule.",
     "template": "Invoice #: [Number]\nPeriod: [Month]\nService: [Description]\nAmount: [Total]\nDue: [Date]",
-    "example": "Invoice #: 4002\nPeriod: May 2026\nService: Social media retainer\nAmount: $1,500\nDue: June 1, 2026"
+    "example": "Invoice #: 4002\nPeriod: May 2026\nService: Social media retainer\nAmount: $1,500\nDue: June 1, 2026",
+    "tags": [
+      "billing",
+      "finance",
+      "invoice"
+    ]
+  },
+  {
+    "slug": "photography-invoice",
+    "title": "Photography Invoice Template",
+    "description": "Free photography invoice template for professional use.",
+    "category": {
+      "name": "Invoices",
+      "slug": "invoices"
+    },
+    "intro": "This photography invoice template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "invoices",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "web-design-invoice",
+    "title": "Web Design Invoice Template",
+    "description": "Free web design invoice template for professional use.",
+    "category": {
+      "name": "Invoices",
+      "slug": "invoices"
+    },
+    "intro": "This web design invoice template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "invoices",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "graphic-design-invoice",
+    "title": "Graphic Design Invoice Template",
+    "description": "Free graphic design invoice template for professional use.",
+    "category": {
+      "name": "Invoices",
+      "slug": "invoices"
+    },
+    "intro": "This graphic design invoice template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "invoices",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "carpentry-invoice",
+    "title": "Carpentry Invoice Template",
+    "description": "Free carpentry invoice template for professional use.",
+    "category": {
+      "name": "Invoices",
+      "slug": "invoices"
+    },
+    "intro": "This carpentry invoice template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "invoices",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "plumbing-invoice",
+    "title": "Plumbing Invoice Template",
+    "description": "Free plumbing invoice template for professional use.",
+    "category": {
+      "name": "Invoices",
+      "slug": "invoices"
+    },
+    "intro": "This plumbing invoice template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "invoices",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "electrical-work-invoice",
+    "title": "Electrical Work Invoice Template",
+    "description": "Free electrical work invoice template for professional use.",
+    "category": {
+      "name": "Invoices",
+      "slug": "invoices"
+    },
+    "intro": "This electrical work invoice template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "invoices",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "hvac-invoice",
+    "title": "Hvac Invoice Template",
+    "description": "Free hvac invoice template for professional use.",
+    "category": {
+      "name": "Invoices",
+      "slug": "invoices"
+    },
+    "intro": "This hvac invoice template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "invoices",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "landscaping-invoice",
+    "title": "Landscaping Invoice Template",
+    "description": "Free landscaping invoice template for professional use.",
+    "category": {
+      "name": "Invoices",
+      "slug": "invoices"
+    },
+    "intro": "This landscaping invoice template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "invoices",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "cleaning-service-invoice",
+    "title": "Cleaning Service Invoice Template",
+    "description": "Free cleaning service invoice template for professional use.",
+    "category": {
+      "name": "Invoices",
+      "slug": "invoices"
+    },
+    "intro": "This cleaning service invoice template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "invoices",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "pet-sitting-invoice",
+    "title": "Pet Sitting Invoice Template",
+    "description": "Free pet sitting invoice template for professional use.",
+    "category": {
+      "name": "Invoices",
+      "slug": "invoices"
+    },
+    "intro": "This pet sitting invoice template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "invoices",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "dog-walking-invoice",
+    "title": "Dog Walking Invoice Template",
+    "description": "Free dog walking invoice template for professional use.",
+    "category": {
+      "name": "Invoices",
+      "slug": "invoices"
+    },
+    "intro": "This dog walking invoice template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "invoices",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "babysitting-invoice",
+    "title": "Babysitting Invoice Template",
+    "description": "Free babysitting invoice template for professional use.",
+    "category": {
+      "name": "Invoices",
+      "slug": "invoices"
+    },
+    "intro": "This babysitting invoice template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "invoices",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "tutoring-invoice",
+    "title": "Tutoring Invoice Template",
+    "description": "Free tutoring invoice template for professional use.",
+    "category": {
+      "name": "Invoices",
+      "slug": "invoices"
+    },
+    "intro": "This tutoring invoice template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "invoices",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "personal-training-invoice",
+    "title": "Personal Training Invoice Template",
+    "description": "Free personal training invoice template for professional use.",
+    "category": {
+      "name": "Invoices",
+      "slug": "invoices"
+    },
+    "intro": "This personal training invoice template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "invoices",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "handyman-invoice",
+    "title": "Handyman Invoice Template",
+    "description": "Free handyman invoice template for professional use.",
+    "category": {
+      "name": "Invoices",
+      "slug": "invoices"
+    },
+    "intro": "This handyman invoice template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "invoices",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "automotive-repair-invoice",
+    "title": "Automotive Repair Invoice Template",
+    "description": "Free automotive repair invoice template for professional use.",
+    "category": {
+      "name": "Invoices",
+      "slug": "invoices"
+    },
+    "intro": "This automotive repair invoice template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "invoices",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "home-inspection-invoice",
+    "title": "Home Inspection Invoice Template",
+    "description": "Free home inspection invoice template for professional use.",
+    "category": {
+      "name": "Invoices",
+      "slug": "invoices"
+    },
+    "intro": "This home inspection invoice template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "invoices",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "photography-wedding-invoice",
+    "title": "Photography Wedding Invoice Template",
+    "description": "Free photography wedding invoice template for professional use.",
+    "category": {
+      "name": "Invoices",
+      "slug": "invoices"
+    },
+    "intro": "This photography wedding invoice template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "invoices",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "videography-invoice",
+    "title": "Videography Invoice Template",
+    "description": "Free videography invoice template for professional use.",
+    "category": {
+      "name": "Invoices",
+      "slug": "invoices"
+    },
+    "intro": "This videography invoice template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "invoices",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "modeling-invoice",
+    "title": "Modeling Invoice Template",
+    "description": "Free modeling invoice template for professional use.",
+    "category": {
+      "name": "Invoices",
+      "slug": "invoices"
+    },
+    "intro": "This modeling invoice template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "invoices",
+      "template",
+      "professional"
+    ]
   }
 ]

@@ -10,12 +10,17 @@
     "intro": "Use this letter to offer a sincere, professional apology.",
     "whenToUse": "When you need to apologize formally to colleagues, friends, or partners.",
     "template": "Dear [Name],\n\nI want to apologize for [Action]. I understand the impact and will [Remedy].\n\nSincerely,\n[Your Name]",
-    "example": "Dear Alex,\n\nI\u2019m sorry for missing our meeting and not giving advance notice. I\u2019ll ensure better communication going forward.\n\nSincerely,\nRiley",
+    "example": "Dear Alex,\n\nI’m sorry for missing our meeting and not giving advance notice. I’ll ensure better communication going forward.\n\nSincerely,\nRiley",
     "faqs": [
       {
         "question": "How sincere should the apology be?",
         "answer": "Be honest, accept responsibility, and outline steps to make amends."
       }
+    ],
+    "tags": [
+      "personal",
+      "letter",
+      "communication"
     ]
   },
   {
@@ -29,12 +34,17 @@
     "intro": "A concise, polite thank-you message you can send quickly.",
     "whenToUse": "After interviews, informational meetings, or receiving help.",
     "template": "Hi [Name],\n\nThank you for [Help/Time]. I appreciate it and look forward to staying in touch.\n\nBest,\n[Your Name]",
-    "example": "Hi Dana,\n\nThanks for taking the time to review my portfolio \u2014 I appreciate your feedback.\n\nBest,\nSam",
+    "example": "Hi Dana,\n\nThanks for taking the time to review my portfolio — I appreciate your feedback.\n\nBest,\nSam",
     "faqs": [
       {
         "question": "When to send?",
-        "answer": "Within 24\u201348 hours is best."
+        "answer": "Within 24–48 hours is best."
       }
+    ],
+    "tags": [
+      "personal",
+      "letter",
+      "communication"
     ]
   },
   {
@@ -45,7 +55,7 @@
       "name": "Personal Letters",
       "slug": "personal-letters"
     },
-    "intro": "Use this template when vouching for someone\u2019s skills or character.",
+    "intro": "Use this template when vouching for someone’s skills or character.",
     "whenToUse": "When giving a personal or professional reference.",
     "template": "To Whom It May Concern,\n\nI am pleased to recommend [Name] for [Opportunity]. [They] have demonstrated [Strengths].\n\nSincerely,\n[Your Name]",
     "example": "To Whom It May Concern,\n\nI recommend Priya Patel for volunteer coordinator role. Priya is organized, dependable, and a strong communicator.\n\nSincerely,\nL. Gomez",
@@ -54,6 +64,11 @@
         "question": "What to include?",
         "answer": "Specific examples and your relationship to the person."
       }
+    ],
+    "tags": [
+      "personal",
+      "letter",
+      "communication"
     ]
   },
   {
@@ -66,8 +81,13 @@
     },
     "intro": "Use to repair personal relationships with sincerity.",
     "whenToUse": "When apologizing to friends or family for mistakes.",
-    "template": "Dear [Name],\n\nI\u2019m sorry for [Action]. I understand and will make amends by [Action].\n\nSincerely,\n[Your Name]",
-    "example": "Dear Mom,\n\nI\u2019m sorry for missing your birthday dinner. I\u2019ll make it up by taking you out this weekend.\n\nLove,\nBen"
+    "template": "Dear [Name],\n\nI’m sorry for [Action]. I understand and will make amends by [Action].\n\nSincerely,\n[Your Name]",
+    "example": "Dear Mom,\n\nI’m sorry for missing your birthday dinner. I’ll make it up by taking you out this weekend.\n\nLove,\nBen",
+    "tags": [
+      "personal",
+      "letter",
+      "communication"
+    ]
   },
   {
     "slug": "thank-you-after-interview",
@@ -80,7 +100,12 @@
     "intro": "Express appreciation and reiterate interest after an interview.",
     "whenToUse": "Within 24 hours after an interview or informational meeting.",
     "template": "Subject: Thank you - [Role]\n\nHi [Interviewer],\n\nThank you for meeting today. I appreciated learning about [Topic] and remain excited about the opportunity.\n\nBest,\n[Name]",
-    "example": "Subject: Thank you - Product Manager\n\nHi Jenna,\n\nThanks for your time today. I enjoyed the discussion about roadmap priorities and would be excited to contribute.\n\nBest,\nChris"
+    "example": "Subject: Thank you - Product Manager\n\nHi Jenna,\n\nThanks for your time today. I enjoyed the discussion about roadmap priorities and would be excited to contribute.\n\nBest,\nChris",
+    "tags": [
+      "personal",
+      "letter",
+      "communication"
+    ]
   },
   {
     "slug": "reference-character",
@@ -90,9 +115,794 @@
       "name": "Personal Letters",
       "slug": "personal-letters"
     },
-    "intro": "Provide testimony to a person\u2019s character for landlords or community roles.",
-    "whenToUse": "When asked to vouch for someone\u2019s character or reliability.",
+    "intro": "Provide testimony to a person’s character for landlords or community roles.",
+    "whenToUse": "When asked to vouch for someone’s character or reliability.",
     "template": "To Whom It May Concern,\n\nI know [Name] as [Relationship] and can vouch for their character.\n\nSincerely,\n[Your Name]",
-    "example": "To Whom It May Concern,\n\nI have known Ramon for five years as a neighbor and can vouch for his responsibility and kindness.\n\nSincerely,\nIvy Park"
+    "example": "To Whom It May Concern,\n\nI have known Ramon for five years as a neighbor and can vouch for his responsibility and kindness.\n\nSincerely,\nIvy Park",
+    "tags": [
+      "personal",
+      "letter",
+      "communication"
+    ]
+  },
+  {
+    "slug": "congratulations-letter",
+    "title": "Congratulations Letter Template",
+    "description": "Free congratulations letter template for professional use.",
+    "category": {
+      "name": "Personal Letters",
+      "slug": "personal-letters"
+    },
+    "intro": "This congratulations letter template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "personal_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "sympathy-condolence-letter",
+    "title": "Sympathy Condolence Letter Template",
+    "description": "Free sympathy condolence letter template for professional use.",
+    "category": {
+      "name": "Personal Letters",
+      "slug": "personal-letters"
+    },
+    "intro": "This sympathy condolence letter template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "personal_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "thank-you-wedding-gift",
+    "title": "Thank You Wedding Gift Template",
+    "description": "Free thank you wedding gift template for professional use.",
+    "category": {
+      "name": "Personal Letters",
+      "slug": "personal-letters"
+    },
+    "intro": "This thank you wedding gift template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "personal_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "welcome-letter-new-neighbor",
+    "title": "Welcome Letter New Neighbor Template",
+    "description": "Free welcome letter new neighbor template for professional use.",
+    "category": {
+      "name": "Personal Letters",
+      "slug": "personal-letters"
+    },
+    "intro": "This welcome letter new neighbor template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "personal_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "apology-letter-friend",
+    "title": "Apology Letter Friend Template",
+    "description": "Free apology letter friend template for professional use.",
+    "category": {
+      "name": "Personal Letters",
+      "slug": "personal-letters"
+    },
+    "intro": "This apology letter friend template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "personal_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "encouragement-letter",
+    "title": "Encouragement Letter Template",
+    "description": "Free encouragement letter template for professional use.",
+    "category": {
+      "name": "Personal Letters",
+      "slug": "personal-letters"
+    },
+    "intro": "This encouragement letter template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "personal_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "birthday-greeting-letter",
+    "title": "Birthday Greeting Letter Template",
+    "description": "Free birthday greeting letter template for professional use.",
+    "category": {
+      "name": "Personal Letters",
+      "slug": "personal-letters"
+    },
+    "intro": "This birthday greeting letter template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "personal_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "anniversary-celebration-letter",
+    "title": "Anniversary Celebration Letter Template",
+    "description": "Free anniversary celebration letter template for professional use.",
+    "category": {
+      "name": "Personal Letters",
+      "slug": "personal-letters"
+    },
+    "intro": "This anniversary celebration letter template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "personal_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "get-well-soon-letter",
+    "title": "Get Well Soon Letter Template",
+    "description": "Free get well soon letter template for professional use.",
+    "category": {
+      "name": "Personal Letters",
+      "slug": "personal-letters"
+    },
+    "intro": "This get well soon letter template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "personal_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "congratulations-new-job",
+    "title": "Congratulations New Job Template",
+    "description": "Free congratulations new job template for professional use.",
+    "category": {
+      "name": "Personal Letters",
+      "slug": "personal-letters"
+    },
+    "intro": "This congratulations new job template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "personal_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "new-baby-congratulations",
+    "title": "New Baby Congratulations Template",
+    "description": "Free new baby congratulations template for professional use.",
+    "category": {
+      "name": "Personal Letters",
+      "slug": "personal-letters"
+    },
+    "intro": "This new baby congratulations template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "personal_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "graduation-congratulations",
+    "title": "Graduation Congratulations Template",
+    "description": "Free graduation congratulations template for professional use.",
+    "category": {
+      "name": "Personal Letters",
+      "slug": "personal-letters"
+    },
+    "intro": "This graduation congratulations template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "personal_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "retirement-congratulations",
+    "title": "Retirement Congratulations Template",
+    "description": "Free retirement congratulations template for professional use.",
+    "category": {
+      "name": "Personal Letters",
+      "slug": "personal-letters"
+    },
+    "intro": "This retirement congratulations template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "personal_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "welcome-to-family-letter",
+    "title": "Welcome To Family Letter Template",
+    "description": "Free welcome to family letter template for professional use.",
+    "category": {
+      "name": "Personal Letters",
+      "slug": "personal-letters"
+    },
+    "intro": "This welcome to family letter template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "personal_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "thank-you-mentor-letter",
+    "title": "Thank You Mentor Letter Template",
+    "description": "Free thank you mentor letter template for professional use.",
+    "category": {
+      "name": "Personal Letters",
+      "slug": "personal-letters"
+    },
+    "intro": "This thank you mentor letter template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "personal_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "thank-you-volunteer-work",
+    "title": "Thank You Volunteer Work Template",
+    "description": "Free thank you volunteer work template for professional use.",
+    "category": {
+      "name": "Personal Letters",
+      "slug": "personal-letters"
+    },
+    "intro": "This thank you volunteer work template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "personal_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "recommendation-character-reference",
+    "title": "Recommendation Character Reference Template",
+    "description": "Free recommendation character reference template for professional use.",
+    "category": {
+      "name": "Personal Letters",
+      "slug": "personal-letters"
+    },
+    "intro": "This recommendation character reference template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "personal_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "request-for-reference",
+    "title": "Request For Reference Template",
+    "description": "Free request for reference template for professional use.",
+    "category": {
+      "name": "Personal Letters",
+      "slug": "personal-letters"
+    },
+    "intro": "This request for reference template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "personal_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "letter-to-editor",
+    "title": "Letter To Editor Template",
+    "description": "Free letter to editor template for professional use.",
+    "category": {
+      "name": "Personal Letters",
+      "slug": "personal-letters"
+    },
+    "intro": "This letter to editor template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "personal_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "customer-complaint-letter",
+    "title": "Customer Complaint Letter Template",
+    "description": "Free customer complaint letter template for professional use.",
+    "category": {
+      "name": "Personal Letters",
+      "slug": "personal-letters"
+    },
+    "intro": "This customer complaint letter template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "personal_letters",
+      "template",
+      "professional"
+    ]
   }
 ]

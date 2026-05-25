@@ -20,6 +20,11 @@
         "question": "Do freelancers need contracts?",
         "answer": "Contracts help protect both freelancers and clients by clearly defining expectations."
       }
+    ],
+    "tags": [
+      "freelance",
+      "contract",
+      "legal"
     ]
   },
   {
@@ -47,12 +52,17 @@
       },
       {
         "question": "Should I include revision limits?",
-        "answer": "Yes\u2014revision limits help prevent scope creep and protect your time."
+        "answer": "Yes—revision limits help prevent scope creep and protect your time."
       },
       {
         "question": "Can I use this contract for web design?",
         "answer": "Yes, this template works well for branding, web design, and creative services."
       }
+    ],
+    "tags": [
+      "freelance",
+      "contract",
+      "legal"
     ]
   },
   {
@@ -86,6 +96,11 @@
         "question": "Can this template be used for copywriting?",
         "answer": "Yes, it works for marketing copy, blogs, articles, and other writing services."
       }
+    ],
+    "tags": [
+      "freelance",
+      "contract",
+      "legal"
     ]
   },
   {
@@ -119,6 +134,11 @@
         "question": "Can this template be used for web design?",
         "answer": "Yes, it works for branding, web design, and other creative services."
       }
+    ],
+    "tags": [
+      "freelance",
+      "contract",
+      "legal"
     ]
   },
   {
@@ -138,6 +158,11 @@
         "question": "Do I need a contract for freelance work?",
         "answer": "Yes, contracts protect both parties by clarifying expectations and payment."
       }
+    ],
+    "tags": [
+      "freelance",
+      "contract",
+      "legal"
     ]
   },
   {
@@ -157,6 +182,11 @@
         "question": "Do I need a contract for freelance work?",
         "answer": "Yes, contracts protect both parties by clarifying expectations and payment."
       }
+    ],
+    "tags": [
+      "freelance",
+      "contract",
+      "legal"
     ]
   },
   {
@@ -176,6 +206,11 @@
         "question": "Do I need a contract for freelance work?",
         "answer": "Yes, contracts protect both parties by clarifying expectations and payment."
       }
+    ],
+    "tags": [
+      "legal",
+      "contract",
+      "agreement"
     ]
   },
   {
@@ -195,6 +230,11 @@
         "question": "Do I need a contract for freelance work?",
         "answer": "Yes, contracts protect both parties by clarifying expectations and payment."
       }
+    ],
+    "tags": [
+      "legal",
+      "contract",
+      "agreement"
     ]
   },
   {
@@ -214,6 +254,11 @@
         "question": "Do I need a contract for freelance work?",
         "answer": "Yes, contracts protect both parties by clarifying expectations and payment."
       }
+    ],
+    "tags": [
+      "legal",
+      "contract",
+      "agreement"
     ]
   },
   {
@@ -233,6 +278,11 @@
         "question": "Do I need a contract for freelance work?",
         "answer": "Yes, contracts protect both parties by clarifying expectations and payment."
       }
+    ],
+    "tags": [
+      "legal",
+      "contract",
+      "agreement"
     ]
   },
   {
@@ -252,6 +302,11 @@
         "question": "Do I need a contract for freelance work?",
         "answer": "Yes, contracts protect both parties by clarifying expectations and payment."
       }
+    ],
+    "tags": [
+      "legal",
+      "contract",
+      "agreement"
     ]
   },
   {
@@ -271,6 +326,11 @@
         "question": "Do I need a contract for freelance work?",
         "answer": "Yes, contracts protect both parties by clarifying expectations and payment."
       }
+    ],
+    "tags": [
+      "legal",
+      "contract",
+      "agreement"
     ]
   },
   {
@@ -290,6 +350,11 @@
         "question": "Do I need a contract for freelance work?",
         "answer": "Yes, contracts protect both parties by clarifying expectations and payment."
       }
+    ],
+    "tags": [
+      "legal",
+      "contract",
+      "agreement"
     ]
   },
   {
@@ -309,6 +374,11 @@
         "question": "Do I need a contract for freelance work?",
         "answer": "Yes, contracts protect both parties by clarifying expectations and payment."
       }
+    ],
+    "tags": [
+      "legal",
+      "contract",
+      "agreement"
     ]
   },
   {
@@ -328,6 +398,11 @@
         "question": "Do I need a contract for freelance work?",
         "answer": "Yes, contracts protect both parties by clarifying expectations and payment."
       }
+    ],
+    "tags": [
+      "legal",
+      "contract",
+      "agreement"
     ]
   },
   {
@@ -347,6 +422,791 @@
         "question": "Do I need a contract for freelance work?",
         "answer": "Yes, contracts protect both parties by clarifying expectations and payment."
       }
+    ],
+    "tags": [
+      "legal",
+      "contract",
+      "agreement"
+    ]
+  },
+  {
+    "slug": "dog-walker-contract",
+    "title": "Dog Walker Contract Template",
+    "description": "Free dog walker contract template for professional use.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "This dog walker contract template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "contracts",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "pet-sitter-contract",
+    "title": "Pet Sitter Contract Template",
+    "description": "Free pet sitter contract template for professional use.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "This pet sitter contract template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "contracts",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "babysitter-contract",
+    "title": "Babysitter Contract Template",
+    "description": "Free babysitter contract template for professional use.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "This babysitter contract template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "contracts",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "summer-camp-counselor-contract",
+    "title": "Summer Camp Counselor Contract Template",
+    "description": "Free summer camp counselor contract template for professional use.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "This summer camp counselor contract template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "contracts",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "nanny-contract",
+    "title": "Nanny Contract Template",
+    "description": "Free nanny contract template for professional use.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "This nanny contract template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "contracts",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "house-cleaner-contract",
+    "title": "House Cleaner Contract Template",
+    "description": "Free house cleaner contract template for professional use.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "This house cleaner contract template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "contracts",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "personal-trainer-contract",
+    "title": "Personal Trainer Contract Template",
+    "description": "Free personal trainer contract template for professional use.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "This personal trainer contract template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "contracts",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "tutor-contract",
+    "title": "Tutor Contract Template",
+    "description": "Free tutor contract template for professional use.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "This tutor contract template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "contracts",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "photographer-contract",
+    "title": "Photographer Contract Template",
+    "description": "Free photographer contract template for professional use.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "This photographer contract template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "contracts",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "videographer-contract",
+    "title": "Videographer Contract Template",
+    "description": "Free videographer contract template for professional use.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "This videographer contract template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "contracts",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "dj-contract",
+    "title": "Dj Contract Template",
+    "description": "Free dj contract template for professional use.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "This dj contract template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "contracts",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "wedding-vendor-contract",
+    "title": "Wedding Vendor Contract Template",
+    "description": "Free wedding vendor contract template for professional use.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "This wedding vendor contract template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "contracts",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "musician-contract",
+    "title": "Musician Contract Template",
+    "description": "Free musician contract template for professional use.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "This musician contract template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "contracts",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "artist-contract",
+    "title": "Artist Contract Template",
+    "description": "Free artist contract template for professional use.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "This artist contract template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "contracts",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "landscaper-contract",
+    "title": "Landscaper Contract Template",
+    "description": "Free landscaper contract template for professional use.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "This landscaper contract template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "contracts",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "plumber-contract",
+    "title": "Plumber Contract Template",
+    "description": "Free plumber contract template for professional use.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "This plumber contract template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "contracts",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "electrician-contract",
+    "title": "Electrician Contract Template",
+    "description": "Free electrician contract template for professional use.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "This electrician contract template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "contracts",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "handyman-contract",
+    "title": "Handyman Contract Template",
+    "description": "Free handyman contract template for professional use.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "This handyman contract template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "contracts",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "home-repair-contract",
+    "title": "Home Repair Contract Template",
+    "description": "Free home repair contract template for professional use.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "This home repair contract template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "contracts",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "car-repair-contract",
+    "title": "Car Repair Contract Template",
+    "description": "Free car repair contract template for professional use.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "This car repair contract template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "contracts",
+      "template",
+      "professional"
     ]
   }
 ]

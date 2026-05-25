@@ -16,12 +16,17 @@
         "question": "Do medical leave letters need documentation?",
         "answer": "Yes, attach or mention any required medical documentation if requested."
       }
+    ],
+    "tags": [
+      "medical",
+      "health",
+      "documentation"
     ]
   },
   {
     "slug": "doctor-note-request-email",
     "title": "Doctor Note Request Email",
-    "description": "An email to request a doctor\u2019s note or medical documentation.",
+    "description": "An email to request a doctor’s note or medical documentation.",
     "category": {
       "name": "Medical Letters",
       "slug": "medical-letters"
@@ -35,6 +40,11 @@
         "question": "Do medical leave letters need documentation?",
         "answer": "Yes, attach or mention any required medical documentation if requested."
       }
+    ],
+    "tags": [
+      "email",
+      "communication",
+      "medical"
     ]
   },
   {
@@ -54,6 +64,11 @@
         "question": "Do medical leave letters need documentation?",
         "answer": "Yes, attach or mention any required medical documentation if requested."
       }
+    ],
+    "tags": [
+      "medical",
+      "health",
+      "documentation"
     ]
   },
   {
@@ -73,6 +88,11 @@
         "question": "Do medical leave letters need documentation?",
         "answer": "Yes, attach or mention any required medical documentation if requested."
       }
+    ],
+    "tags": [
+      "medical",
+      "health",
+      "documentation"
     ]
   },
   {
@@ -92,6 +112,791 @@
         "question": "Do medical leave letters need documentation?",
         "answer": "Yes, attach or mention any required medical documentation if requested."
       }
+    ],
+    "tags": [
+      "medical",
+      "health",
+      "documentation"
+    ]
+  },
+  {
+    "slug": "patient-referral-letter",
+    "title": "Patient Referral Letter Template",
+    "description": "Free patient referral letter template for professional use.",
+    "category": {
+      "name": "Medical Letters",
+      "slug": "medical-letters"
+    },
+    "intro": "This patient referral letter template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "medical_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "medical-records-request",
+    "title": "Medical Records Request Template",
+    "description": "Free medical records request template for professional use.",
+    "category": {
+      "name": "Medical Letters",
+      "slug": "medical-letters"
+    },
+    "intro": "This medical records request template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "medical_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "prescription-refill-request",
+    "title": "Prescription Refill Request Template",
+    "description": "Free prescription refill request template for professional use.",
+    "category": {
+      "name": "Medical Letters",
+      "slug": "medical-letters"
+    },
+    "intro": "This prescription refill request template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "medical_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "medical-leave-certification",
+    "title": "Medical Leave Certification Template",
+    "description": "Free medical leave certification template for professional use.",
+    "category": {
+      "name": "Medical Letters",
+      "slug": "medical-letters"
+    },
+    "intro": "This medical leave certification template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "medical_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "disability-certification-request",
+    "title": "Disability Certification Request Template",
+    "description": "Free disability certification request template for professional use.",
+    "category": {
+      "name": "Medical Letters",
+      "slug": "medical-letters"
+    },
+    "intro": "This disability certification request template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "medical_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "work-capacity-assessment",
+    "title": "Work Capacity Assessment Template",
+    "description": "Free work capacity assessment template for professional use.",
+    "category": {
+      "name": "Medical Letters",
+      "slug": "medical-letters"
+    },
+    "intro": "This work capacity assessment template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "medical_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "surgery-pre-op-instructions",
+    "title": "Surgery Pre Op Instructions Template",
+    "description": "Free surgery pre op instructions template for professional use.",
+    "category": {
+      "name": "Medical Letters",
+      "slug": "medical-letters"
+    },
+    "intro": "This surgery pre op instructions template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "medical_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "surgery-post-op-instructions",
+    "title": "Surgery Post Op Instructions Template",
+    "description": "Free surgery post op instructions template for professional use.",
+    "category": {
+      "name": "Medical Letters",
+      "slug": "medical-letters"
+    },
+    "intro": "This surgery post op instructions template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "medical_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "medication-allergy-warning",
+    "title": "Medication Allergy Warning Template",
+    "description": "Free medication allergy warning template for professional use.",
+    "category": {
+      "name": "Medical Letters",
+      "slug": "medical-letters"
+    },
+    "intro": "This medication allergy warning template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "medical_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "medical-emergency-contact",
+    "title": "Medical Emergency Contact Template",
+    "description": "Free medical emergency contact template for professional use.",
+    "category": {
+      "name": "Medical Letters",
+      "slug": "medical-letters"
+    },
+    "intro": "This medical emergency contact template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "medical_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "healthcare-proxy-form",
+    "title": "Healthcare Proxy Form Template",
+    "description": "Free healthcare proxy form template for professional use.",
+    "category": {
+      "name": "Medical Letters",
+      "slug": "medical-letters"
+    },
+    "intro": "This healthcare proxy form template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "medical_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "medical-information-summary",
+    "title": "Medical Information Summary Template",
+    "description": "Free medical information summary template for professional use.",
+    "category": {
+      "name": "Medical Letters",
+      "slug": "medical-letters"
+    },
+    "intro": "This medical information summary template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "medical_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "hospital-discharge-summary",
+    "title": "Hospital Discharge Summary Template",
+    "description": "Free hospital discharge summary template for professional use.",
+    "category": {
+      "name": "Medical Letters",
+      "slug": "medical-letters"
+    },
+    "intro": "This hospital discharge summary template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "medical_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "appointment-cancellation-notice",
+    "title": "Appointment Cancellation Notice Template",
+    "description": "Free appointment cancellation notice template for professional use.",
+    "category": {
+      "name": "Medical Letters",
+      "slug": "medical-letters"
+    },
+    "intro": "This appointment cancellation notice template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "medical_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "insurance-claim-letter",
+    "title": "Insurance Claim Letter Template",
+    "description": "Free insurance claim letter template for professional use.",
+    "category": {
+      "name": "Medical Letters",
+      "slug": "medical-letters"
+    },
+    "intro": "This insurance claim letter template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "medical_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "insurance-appeal-letter",
+    "title": "Insurance Appeal Letter Template",
+    "description": "Free insurance appeal letter template for professional use.",
+    "category": {
+      "name": "Medical Letters",
+      "slug": "medical-letters"
+    },
+    "intro": "This insurance appeal letter template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "medical_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "lab-results-explanation",
+    "title": "Lab Results Explanation Template",
+    "description": "Free lab results explanation template for professional use.",
+    "category": {
+      "name": "Medical Letters",
+      "slug": "medical-letters"
+    },
+    "intro": "This lab results explanation template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "medical_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "vaccination-record-request",
+    "title": "Vaccination Record Request Template",
+    "description": "Free vaccination record request template for professional use.",
+    "category": {
+      "name": "Medical Letters",
+      "slug": "medical-letters"
+    },
+    "intro": "This vaccination record request template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "medical_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "travel-medical-clearance",
+    "title": "Travel Medical Clearance Template",
+    "description": "Free travel medical clearance template for professional use.",
+    "category": {
+      "name": "Medical Letters",
+      "slug": "medical-letters"
+    },
+    "intro": "This travel medical clearance template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "medical_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "disability-accommodation-request",
+    "title": "Disability Accommodation Request Template",
+    "description": "Free disability accommodation request template for professional use.",
+    "category": {
+      "name": "Medical Letters",
+      "slug": "medical-letters"
+    },
+    "intro": "This disability accommodation request template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "medical_letters",
+      "template",
+      "professional"
     ]
   }
 ]

@@ -1,4 +1,7 @@
-import { templates } from "../../lib/loadTemplates";
+import {
+  getTemplatesByCategory,
+  getCategorySlugs,
+} from "../../lib/loadTemplates";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { categories } from "../../content/categories";
@@ -6,11 +9,7 @@ import { generateItemListSchema } from "../../lib/schema/itemList";
 import { SITE_URL } from "../../lib/constants";
 
 export async function generateStaticParams() {
-  const categorySlugs = [
-    ...new Set(
-      templates.map((t) => t.category?.slug)
-    ),
-  ];
+  const categorySlugs = getCategorySlugs();
 
   return categorySlugs.map((category) => ({
     category,
@@ -52,9 +51,7 @@ export default async function CategoryPage({
 }) {
   const { category } = await params;
 
-  const filtered = templates.filter(
-    (t) => t.category?.slug === category
-  );
+  const filtered = getTemplatesByCategory(category);
 
   if (!filtered.length) {
     notFound();

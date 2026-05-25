@@ -20,6 +20,11 @@
         "question": "Can I resign by email?",
         "answer": "Yes. Many employers accept resignation notices by email."
       }
+    ],
+    "tags": [
+      "employment",
+      "resignation",
+      "career"
     ]
   },
   {
@@ -43,6 +48,11 @@
         "question": "Do all jobs require two weeks notice?",
         "answer": "Policies vary depending on the employer and employment agreement."
       }
+    ],
+    "tags": [
+      "notice",
+      "resignation",
+      "employment"
     ]
   },
   {
@@ -66,6 +76,11 @@
         "question": "How long should a cover letter be?",
         "answer": "Most cover letters should remain concise and fit on one page."
       }
+    ],
+    "tags": [
+      "cover-letter",
+      "application",
+      "employment"
     ]
   },
   {
@@ -89,6 +104,11 @@
         "question": "Who can write recommendation letters?",
         "answer": "Managers, teachers, mentors, and supervisors commonly write recommendation letters."
       }
+    ],
+    "tags": [
+      "recommendation",
+      "reference",
+      "nda"
     ]
   },
   {
@@ -122,6 +142,11 @@
         "question": "Can teachers resign mid-year?",
         "answer": "Yes, but contracts and district policies may affect the process."
       }
+    ],
+    "tags": [
+      "notice",
+      "resignation",
+      "employment"
     ]
   },
   {
@@ -155,6 +180,11 @@
         "question": "Can teachers resign during the school year?",
         "answer": "Yes, but employment contracts and district rules may affect the process."
       }
+    ],
+    "tags": [
+      "employment",
+      "resignation",
+      "career"
     ]
   },
   {
@@ -188,6 +218,11 @@
         "question": "Should projects be mentioned?",
         "answer": "Yes, mentioning relevant projects can strengthen your application."
       }
+    ],
+    "tags": [
+      "cover-letter",
+      "application",
+      "employment"
     ]
   },
   {
@@ -204,7 +239,7 @@
     "example": "Dear Hiring Manager,\n\nI am excited to apply for the Digital Marketing Specialist role at BrightWave Media. With experience in email marketing, paid social campaigns, and content strategy, I helped increase lead generation by 35%.\n\nIn my previous role at GrowthWorks, I led a campaign that drove a 20% increase in qualified inbound leads.\n\nThank you for your consideration.\n\nSincerely,\nOlivia Nguyen",
     "tips": [
       "Mention specific marketing channels and results.",
-      "Tailor the letter to the employer\u2019s brand and goals.",
+      "Tailor the letter to the employer’s brand and goals.",
       "Keep the tone professional and enthusiastic.",
       "Keep the cover letter concise and easy to read."
     ],
@@ -221,6 +256,11 @@
         "question": "Can I reuse this cover letter for multiple applications?",
         "answer": "Yes, but customize each version to the role and company."
       }
+    ],
+    "tags": [
+      "cover-letter",
+      "application",
+      "employment"
     ]
   },
   {
@@ -236,7 +276,7 @@
     "template": "To Whom It May Concern,\n\nI am pleased to recommend [Employee Name] for [Position or Opportunity]. [Employee Name] has been employed at [Company Name] as a [Job Title] since [Start Date] and consistently demonstrated [Key Strengths].\n\nTheir strengths include [Strength 1], [Strength 2], and [Strength 3]. I believe they would be a strong asset to your team.\n\nSincerely,\n[Your Name]\n[Title]",
     "example": "To Whom It May Concern,\n\nI am pleased to recommend Michael Park for the Senior Operations Manager role. Michael has been employed at Summit Logistics as Operations Coordinator since 2021 and consistently demonstrated leadership, problem-solving, and strong communication.\n\nHis strengths include process improvement, team collaboration, and attention to detail. I believe he would be a strong asset to your team.\n\nSincerely,\nKaren Lee\nOperations Director",
     "tips": [
-      "Highlight the employee\u2019s strongest skills and achievements.",
+      "Highlight the employee’s strongest skills and achievements.",
       "Keep the tone positive, honest, and concise.",
       "Include specific examples when possible.",
       "Sign and date the letter for credibility."
@@ -244,16 +284,21 @@
     "faqs": [
       {
         "question": "Who should write employee recommendation letters?",
-        "answer": "Managers, supervisors, or mentors who know the employee\u2019s work are the best writers."
+        "answer": "Managers, supervisors, or mentors who know the employee’s work are the best writers."
       },
       {
         "question": "What should be included in a recommendation letter?",
-        "answer": "Include the employee\u2019s role, strengths, accomplishments, and suitability for the opportunity."
+        "answer": "Include the employee’s role, strengths, accomplishments, and suitability for the opportunity."
       },
       {
         "question": "Can recommendation letters be requested after leaving a job?",
         "answer": "Yes, former employers can still provide references if they agree."
       }
+    ],
+    "tags": [
+      "employee",
+      "workplace",
+      "recommendation"
     ]
   },
   {
@@ -271,7 +316,7 @@
     "tips": [
       "Mention teaching experience and subject expertise.",
       "Highlight positive student outcomes and classroom achievements.",
-      "Tailor the letter to the school\u2019s mission and culture.",
+      "Tailor the letter to the school’s mission and culture.",
       "Keep the letter concise and professional."
     ],
     "faqs": [
@@ -281,12 +326,17 @@
       },
       {
         "question": "Can a teacher use a generic cover letter?",
-        "answer": "It\u2019s better to customize the letter for each school or role."
+        "answer": "It’s better to customize the letter for each school or role."
       },
       {
         "question": "What should a teacher include in a cover letter?",
-        "answer": "Include experience, instructional strengths, and reasons you\u2019re a good fit."
+        "answer": "Include experience, instructional strengths, and reasons you’re a good fit."
       }
+    ],
+    "tags": [
+      "cover-letter",
+      "application",
+      "employment"
     ]
   },
   {
@@ -310,7 +360,7 @@
     "faqs": [
       {
         "question": "What should a teacher recommendation letter mention?",
-        "answer": "Mention the teacher\u2019s classroom performance, student impact, and professional strengths."
+        "answer": "Mention the teacher’s classroom performance, student impact, and professional strengths."
       },
       {
         "question": "Can principals write these letters?",
@@ -320,6 +370,11 @@
         "question": "Is a letter required for teaching grants?",
         "answer": "Many grant applications request a strong recommendation letter."
       }
+    ],
+    "tags": [
+      "recommendation",
+      "reference",
+      "nda"
     ]
   },
   {
@@ -339,6 +394,11 @@
         "question": "Is short notice acceptable?",
         "answer": "It depends on your contract and employer policy; be professional and offer to help with transition."
       }
+    ],
+    "tags": [
+      "employment",
+      "resignation",
+      "career"
     ]
   },
   {
@@ -358,6 +418,11 @@
         "question": "Should I include reasons?",
         "answer": "Optional; keep it professional and brief."
       }
+    ],
+    "tags": [
+      "employment",
+      "resignation",
+      "career"
     ]
   },
   {
@@ -375,8 +440,13 @@
     "faqs": [
       {
         "question": "How long should it be?",
-        "answer": "Keep it to 3\u20134 short paragraphs highlighting fit and enthusiasm."
+        "answer": "Keep it to 3–4 short paragraphs highlighting fit and enthusiasm."
       }
+    ],
+    "tags": [
+      "cover-letter",
+      "application",
+      "employment"
     ]
   },
   {
@@ -394,8 +464,13 @@
     "faqs": [
       {
         "question": "Should I mention the change?",
-        "answer": "Yes, briefly explain transferable skills and why you\u2019re motivated to switch."
+        "answer": "Yes, briefly explain transferable skills and why you’re motivated to switch."
       }
+    ],
+    "tags": [
+      "cover-letter",
+      "application",
+      "employment"
     ]
   },
   {
@@ -413,8 +488,13 @@
     "faqs": [
       {
         "question": "What to include?",
-        "answer": "Specific examples of the candidate\u2019s performance and achievements."
+        "answer": "Specific examples of the candidate’s performance and achievements."
       }
+    ],
+    "tags": [
+      "nda",
+      "confidentiality",
+      "employment"
     ]
   },
   {
@@ -428,7 +508,12 @@
     "intro": "Use this when leaving to pursue growth opportunities.",
     "whenToUse": "When accepting a role that advances your career.",
     "template": "Dear [Manager],\n\nI am resigning to pursue an opportunity that will support my career growth. My last day will be [Date].\n\nSincerely,\n[Name]",
-    "example": "Dear Lisa,\n\nI am resigning to accept a role that aligns with my long-term goals. My last day will be July 10, 2026.\n\nSincerely,\nEthan"
+    "example": "Dear Lisa,\n\nI am resigning to accept a role that aligns with my long-term goals. My last day will be July 10, 2026.\n\nSincerely,\nEthan",
+    "tags": [
+      "employment",
+      "resignation",
+      "career"
+    ]
   },
   {
     "slug": "resignation-health-reasons",
@@ -441,7 +526,12 @@
     "intro": "Use when you must resign due to personal health issues.",
     "whenToUse": "When health concerns prevent continued employment.",
     "template": "Dear [Manager],\n\nDue to health reasons, I must resign from my role effective [Date]. I appreciate your understanding.\n\nSincerely,\n[Name]",
-    "example": "Dear Sam,\n\nDue to health concerns, I am resigning effective June 30. Thank you for your support.\n\nSincerely,\nNora"
+    "example": "Dear Sam,\n\nDue to health concerns, I am resigning effective June 30. Thank you for your support.\n\nSincerely,\nNora",
+    "tags": [
+      "employment",
+      "resignation",
+      "career"
+    ]
   },
   {
     "slug": "cover-letter-networking",
@@ -454,7 +544,12 @@
     "intro": "Use this when contacting hiring managers via mutual connections.",
     "whenToUse": "When applying based on a referral or introduction.",
     "template": "Dear [Contact],\n\n[Referrer] suggested I reach out about [Role]. I have experience in [Skill] and would welcome a conversation.\n\nSincerely,\n[Name]",
-    "example": "Dear Mr. Lane,\n\nMaria Ruiz suggested I reach out about the Marketing Coordinator role. I have experience in campaign analytics and would welcome a conversation.\n\nSincerely,\nOwen"
+    "example": "Dear Mr. Lane,\n\nMaria Ruiz suggested I reach out about the Marketing Coordinator role. I have experience in campaign analytics and would welcome a conversation.\n\nSincerely,\nOwen",
+    "tags": [
+      "cover-letter",
+      "application",
+      "employment"
+    ]
   },
   {
     "slug": "recommendation-internship",
@@ -467,7 +562,12 @@
     "intro": "A letter endorsing a student or early-career candidate for internships.",
     "whenToUse": "When writing references for internship applicants.",
     "template": "To Whom It May Concern,\n\nI recommend [Name] for the internship at [Company]. [They] demonstrated initiative and strong learning ability.\n\nSincerely,\n[Your Name]",
-    "example": "To Whom It May Concern,\n\nI recommend Jamie Park for the summer internship at DataWorks. Jamie contributed valuable analysis in our class projects.\n\nSincerely,\nProf. Ellis"
+    "example": "To Whom It May Concern,\n\nI recommend Jamie Park for the summer internship at DataWorks. Jamie contributed valuable analysis in our class projects.\n\nSincerely,\nProf. Ellis",
+    "tags": [
+      "nda",
+      "confidentiality",
+      "employment"
+    ]
   },
   {
     "slug": "resignation-letter-with-gratitude",
@@ -486,6 +586,11 @@
         "question": "Should I be honest about my reason for resigning?",
         "answer": "Yes, keep your reason truthful but professional and concise."
       }
+    ],
+    "tags": [
+      "employment",
+      "resignation",
+      "career"
     ]
   },
   {
@@ -505,6 +610,11 @@
         "question": "Should I be honest about my reason for resigning?",
         "answer": "Yes, keep your reason truthful but professional and concise."
       }
+    ],
+    "tags": [
+      "employment",
+      "resignation",
+      "career"
     ]
   },
   {
@@ -524,6 +634,11 @@
         "question": "Should I be honest about my reason for resigning?",
         "answer": "Yes, keep your reason truthful but professional and concise."
       }
+    ],
+    "tags": [
+      "employment",
+      "resignation",
+      "career"
     ]
   },
   {
@@ -543,6 +658,11 @@
         "question": "Should I be honest about my reason for resigning?",
         "answer": "Yes, keep your reason truthful but professional and concise."
       }
+    ],
+    "tags": [
+      "employment",
+      "resignation",
+      "career"
     ]
   },
   {
@@ -562,6 +682,11 @@
         "question": "Should I be honest about my reason for resigning?",
         "answer": "Yes, keep your reason truthful but professional and concise."
       }
+    ],
+    "tags": [
+      "employment",
+      "resignation",
+      "career"
     ]
   },
   {
@@ -581,6 +706,11 @@
         "question": "Should I be honest about my reason for resigning?",
         "answer": "Yes, keep your reason truthful but professional and concise."
       }
+    ],
+    "tags": [
+      "employment",
+      "resignation",
+      "career"
     ]
   },
   {
@@ -600,6 +730,11 @@
         "question": "Should I be honest about my reason for resigning?",
         "answer": "Yes, keep your reason truthful but professional and concise."
       }
+    ],
+    "tags": [
+      "employment",
+      "resignation",
+      "career"
     ]
   },
   {
@@ -619,6 +754,791 @@
         "question": "Should I be honest about my reason for resigning?",
         "answer": "Yes, keep your reason truthful but professional and concise."
       }
+    ],
+    "tags": [
+      "employment",
+      "resignation",
+      "career"
+    ]
+  },
+  {
+    "slug": "voluntary-resignation-letter",
+    "title": "Voluntary Resignation Letter Template",
+    "description": "Free voluntary resignation letter template for professional use.",
+    "category": {
+      "name": "Resignation Letters",
+      "slug": "resignation-letters"
+    },
+    "intro": "This voluntary resignation letter template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "resignation_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "hostile-work-environment-resignation",
+    "title": "Hostile Work Environment Resignation Template",
+    "description": "Free hostile work environment resignation template for professional use.",
+    "category": {
+      "name": "Resignation Letters",
+      "slug": "resignation-letters"
+    },
+    "intro": "This hostile work environment resignation template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "resignation_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "retirement-resignation-letter",
+    "title": "Retirement Resignation Letter Template",
+    "description": "Free retirement resignation letter template for professional use.",
+    "category": {
+      "name": "Resignation Letters",
+      "slug": "resignation-letters"
+    },
+    "intro": "This retirement resignation letter template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "resignation_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "family-caregiving-resignation",
+    "title": "Family Caregiving Resignation Template",
+    "description": "Free family caregiving resignation template for professional use.",
+    "category": {
+      "name": "Resignation Letters",
+      "slug": "resignation-letters"
+    },
+    "intro": "This family caregiving resignation template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "resignation_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "health-related-resignation",
+    "title": "Health Related Resignation Template",
+    "description": "Free health related resignation template for professional use.",
+    "category": {
+      "name": "Resignation Letters",
+      "slug": "resignation-letters"
+    },
+    "intro": "This health related resignation template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "resignation_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "going-back-to-school-resignation",
+    "title": "Going Back To School Resignation Template",
+    "description": "Free going back to school resignation template for professional use.",
+    "category": {
+      "name": "Resignation Letters",
+      "slug": "resignation-letters"
+    },
+    "intro": "This going back to school resignation template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "resignation_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "relocation-resignation-letter",
+    "title": "Relocation Resignation Letter Template",
+    "description": "Free relocation resignation letter template for professional use.",
+    "category": {
+      "name": "Resignation Letters",
+      "slug": "resignation-letters"
+    },
+    "intro": "This relocation resignation letter template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "resignation_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "startup-founder-resignation",
+    "title": "Startup Founder Resignation Template",
+    "description": "Free startup founder resignation template for professional use.",
+    "category": {
+      "name": "Resignation Letters",
+      "slug": "resignation-letters"
+    },
+    "intro": "This startup founder resignation template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "resignation_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "sabbatical-resignation",
+    "title": "Sabbatical Resignation Template",
+    "description": "Free sabbatical resignation template for professional use.",
+    "category": {
+      "name": "Resignation Letters",
+      "slug": "resignation-letters"
+    },
+    "intro": "This sabbatical resignation template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "resignation_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "contract-end-resignation",
+    "title": "Contract End Resignation Template",
+    "description": "Free contract end resignation template for professional use.",
+    "category": {
+      "name": "Resignation Letters",
+      "slug": "resignation-letters"
+    },
+    "intro": "This contract end resignation template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "resignation_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "freelance-to-corporate-resignation",
+    "title": "Freelance To Corporate Resignation Template",
+    "description": "Free freelance to corporate resignation template for professional use.",
+    "category": {
+      "name": "Resignation Letters",
+      "slug": "resignation-letters"
+    },
+    "intro": "This freelance to corporate resignation template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "resignation_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "corporate-to-startup-resignation",
+    "title": "Corporate To Startup Resignation Template",
+    "description": "Free corporate to startup resignation template for professional use.",
+    "category": {
+      "name": "Resignation Letters",
+      "slug": "resignation-letters"
+    },
+    "intro": "This corporate to startup resignation template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "resignation_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "military-service-resignation",
+    "title": "Military Service Resignation Template",
+    "description": "Free military service resignation template for professional use.",
+    "category": {
+      "name": "Resignation Letters",
+      "slug": "resignation-letters"
+    },
+    "intro": "This military service resignation template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "resignation_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "military-deployment-resignation",
+    "title": "Military Deployment Resignation Template",
+    "description": "Free military deployment resignation template for professional use.",
+    "category": {
+      "name": "Resignation Letters",
+      "slug": "resignation-letters"
+    },
+    "intro": "This military deployment resignation template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "resignation_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "personal-business-resignation",
+    "title": "Personal Business Resignation Template",
+    "description": "Free personal business resignation template for professional use.",
+    "category": {
+      "name": "Resignation Letters",
+      "slug": "resignation-letters"
+    },
+    "intro": "This personal business resignation template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "resignation_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "better-opportunity-resignation",
+    "title": "Better Opportunity Resignation Template",
+    "description": "Free better opportunity resignation template for professional use.",
+    "category": {
+      "name": "Resignation Letters",
+      "slug": "resignation-letters"
+    },
+    "intro": "This better opportunity resignation template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "resignation_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "early-retirement-resignation",
+    "title": "Early Retirement Resignation Template",
+    "description": "Free early retirement resignation template for professional use.",
+    "category": {
+      "name": "Resignation Letters",
+      "slug": "resignation-letters"
+    },
+    "intro": "This early retirement resignation template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "resignation_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "disability-related-resignation",
+    "title": "Disability Related Resignation Template",
+    "description": "Free disability related resignation template for professional use.",
+    "category": {
+      "name": "Resignation Letters",
+      "slug": "resignation-letters"
+    },
+    "intro": "This disability related resignation template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "resignation_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "maternity-leave-transition",
+    "title": "Maternity Leave Transition Template",
+    "description": "Free maternity leave transition template for professional use.",
+    "category": {
+      "name": "Resignation Letters",
+      "slug": "resignation-letters"
+    },
+    "intro": "This maternity leave transition template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "resignation_letters",
+      "template",
+      "professional"
+    ]
+  },
+  {
+    "slug": "paternity-leave-transition",
+    "title": "Paternity Leave Transition Template",
+    "description": "Free paternity leave transition template for professional use.",
+    "category": {
+      "name": "Resignation Letters",
+      "slug": "resignation-letters"
+    },
+    "intro": "This paternity leave transition template helps you create professional documentation effectively.",
+    "whenToUse": "Use this template for your professional needs and documentation.",
+    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
+    "example": "[Example content demonstrating proper usage]",
+    "tips": [
+      "Customize the template to fit your specific needs",
+      "Review all details before finalizing",
+      "Keep copies for your records",
+      "Follow any legal requirements in your jurisdiction",
+      "Seek professional advice if needed"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, templates are meant to be customized for your specific situation."
+      },
+      {
+        "question": "Is this legally binding?",
+        "answer": "Templates provide structure; consult legal counsel for legal documents."
+      },
+      {
+        "question": "Can I use this for commercial purposes?",
+        "answer": "Check your local laws and usage rights for commercial use."
+      }
+    ],
+    "tags": [
+      "resignation_letters",
+      "template",
+      "professional"
     ]
   }
 ]
