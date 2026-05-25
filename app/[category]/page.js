@@ -35,10 +35,8 @@ const categoryName = first.category.name;
       "https://mangogranola.com"
     ),
     alternates: {
-      canonical: generateCanonical(
-  `/${category}`
-),
-    },
+  canonical: `${SITE_URL}/${category}`,
+},
     openGraph: {
       title: `${categoryName} Templates`,
       description: `Free ${categoryName.toLowerCase()} templates and examples.`,
