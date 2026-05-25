@@ -1,0 +1,287 @@
+[
+  {
+    "slug": "email-follow-up-after-meeting",
+    "title": "Follow-Up Email After Meeting",
+    "description": "A follow-up email template to thank participants and summarize next steps.",
+    "category": {
+      "name": "Email Templates",
+      "slug": "email-templates"
+    },
+    "intro": "Follow-Up Email After Meeting helps you write a concise, professional message for common business situations.",
+    "whenToUse": "Use this template when you need a clear and polished email for a specific work or personal request.",
+    "template": "Subject: [Subject]\n\nHi [Name],\n\n[Opening sentence].\n\n[Body details].\n\n[Closing sentence].\n\nBest,\n[Your Name]",
+    "example": "Subject: Follow-Up from Today\u2019s Meeting\n\nHi Alex,\n\nThank you for meeting today. I appreciated the discussion about the new website project and will share the draft proposal by Friday.\n\nBest,\nJordan",
+    "faqs": [
+      {
+        "question": "Should I keep business emails short?",
+        "answer": "Yes, keep emails concise while including the necessary details."
+      }
+    ]
+  },
+  {
+    "slug": "email-intro-networking",
+    "title": "Networking Introduction Email",
+    "description": "A networking email template for requesting an introduction or meeting.",
+    "category": {
+      "name": "Email Templates",
+      "slug": "email-templates"
+    },
+    "intro": "Networking Introduction Email helps you write a concise, professional message for common business situations.",
+    "whenToUse": "Use this template when you need a clear and polished email for a specific work or personal request.",
+    "template": "Subject: [Subject]\n\nHi [Name],\n\n[Opening sentence].\n\n[Body details].\n\n[Closing sentence].\n\nBest,\n[Your Name]",
+    "example": "Subject: Follow-Up from Today\u2019s Meeting\n\nHi Alex,\n\nThank you for meeting today. I appreciated the discussion about the new website project and will share the draft proposal by Friday.\n\nBest,\nJordan",
+    "faqs": [
+      {
+        "question": "Should I keep business emails short?",
+        "answer": "Yes, keep emails concise while including the necessary details."
+      }
+    ]
+  },
+  {
+    "slug": "email-thank-you-client",
+    "title": "Thank-You Email to Client",
+    "description": "A thank-you email template for client meetings or completed work.",
+    "category": {
+      "name": "Email Templates",
+      "slug": "email-templates"
+    },
+    "intro": "Thank-You Email to Client helps you write a concise, professional message for common business situations.",
+    "whenToUse": "Use this template when you need a clear and polished email for a specific work or personal request.",
+    "template": "Subject: [Subject]\n\nHi [Name],\n\n[Opening sentence].\n\n[Body details].\n\n[Closing sentence].\n\nBest,\n[Your Name]",
+    "example": "Subject: Follow-Up from Today\u2019s Meeting\n\nHi Alex,\n\nThank you for meeting today. I appreciated the discussion about the new website project and will share the draft proposal by Friday.\n\nBest,\nJordan",
+    "faqs": [
+      {
+        "question": "Should I keep business emails short?",
+        "answer": "Yes, keep emails concise while including the necessary details."
+      }
+    ]
+  },
+  {
+    "slug": "email-request-information",
+    "title": "Information Request Email",
+    "description": "A template for requesting details or documents from a colleague or client.",
+    "category": {
+      "name": "Email Templates",
+      "slug": "email-templates"
+    },
+    "intro": "Information Request Email helps you write a concise, professional message for common business situations.",
+    "whenToUse": "Use this template when you need a clear and polished email for a specific work or personal request.",
+    "template": "Subject: [Subject]\n\nHi [Name],\n\n[Opening sentence].\n\n[Body details].\n\n[Closing sentence].\n\nBest,\n[Your Name]",
+    "example": "Subject: Follow-Up from Today\u2019s Meeting\n\nHi Alex,\n\nThank you for meeting today. I appreciated the discussion about the new website project and will share the draft proposal by Friday.\n\nBest,\nJordan",
+    "faqs": [
+      {
+        "question": "Should I keep business emails short?",
+        "answer": "Yes, keep emails concise while including the necessary details."
+      }
+    ]
+  },
+  {
+    "slug": "email-apology-work-mistake",
+    "title": "Apology Email for Work Mistake",
+    "description": "A professional apology email for handling a work error or oversight.",
+    "category": {
+      "name": "Email Templates",
+      "slug": "email-templates"
+    },
+    "intro": "Apology Email for Work Mistake helps you write a concise, professional message for common business situations.",
+    "whenToUse": "Use this template when you need a clear and polished email for a specific work or personal request.",
+    "template": "Subject: [Subject]\n\nHi [Name],\n\n[Opening sentence].\n\n[Body details].\n\n[Closing sentence].\n\nBest,\n[Your Name]",
+    "example": "Subject: Follow-Up from Today\u2019s Meeting\n\nHi Alex,\n\nThank you for meeting today. I appreciated the discussion about the new website project and will share the draft proposal by Friday.\n\nBest,\nJordan",
+    "faqs": [
+      {
+        "question": "Should I keep business emails short?",
+        "answer": "Yes, keep emails concise while including the necessary details."
+      }
+    ]
+  },
+  {
+    "slug": "email-reschedule-meeting",
+    "title": "Meeting Reschedule Email",
+    "description": "A template to request a new meeting time when plans change.",
+    "category": {
+      "name": "Email Templates",
+      "slug": "email-templates"
+    },
+    "intro": "Meeting Reschedule Email helps you write a concise, professional message for common business situations.",
+    "whenToUse": "Use this template when you need a clear and polished email for a specific work or personal request.",
+    "template": "Subject: [Subject]\n\nHi [Name],\n\n[Opening sentence].\n\n[Body details].\n\n[Closing sentence].\n\nBest,\n[Your Name]",
+    "example": "Subject: Follow-Up from Today\u2019s Meeting\n\nHi Alex,\n\nThank you for meeting today. I appreciated the discussion about the new website project and will share the draft proposal by Friday.\n\nBest,\nJordan",
+    "faqs": [
+      {
+        "question": "Should I keep business emails short?",
+        "answer": "Yes, keep emails concise while including the necessary details."
+      }
+    ]
+  },
+  {
+    "slug": "email-appointment-confirmation",
+    "title": "Appointment Confirmation Email",
+    "description": "A confirmation email for scheduled appointments or calls.",
+    "category": {
+      "name": "Email Templates",
+      "slug": "email-templates"
+    },
+    "intro": "Appointment Confirmation Email helps you write a concise, professional message for common business situations.",
+    "whenToUse": "Use this template when you need a clear and polished email for a specific work or personal request.",
+    "template": "Subject: [Subject]\n\nHi [Name],\n\n[Opening sentence].\n\n[Body details].\n\n[Closing sentence].\n\nBest,\n[Your Name]",
+    "example": "Subject: Follow-Up from Today\u2019s Meeting\n\nHi Alex,\n\nThank you for meeting today. I appreciated the discussion about the new website project and will share the draft proposal by Friday.\n\nBest,\nJordan",
+    "faqs": [
+      {
+        "question": "Should I keep business emails short?",
+        "answer": "Yes, keep emails concise while including the necessary details."
+      }
+    ]
+  },
+  {
+    "slug": "email-employee-leave-request",
+    "title": "Employee Leave Request Email",
+    "description": "An email template for requesting leave from a manager or HR.",
+    "category": {
+      "name": "Email Templates",
+      "slug": "email-templates"
+    },
+    "intro": "Employee Leave Request Email helps you write a concise, professional message for common business situations.",
+    "whenToUse": "Use this template when you need a clear and polished email for a specific work or personal request.",
+    "template": "Subject: [Subject]\n\nHi [Name],\n\n[Opening sentence].\n\n[Body details].\n\n[Closing sentence].\n\nBest,\n[Your Name]",
+    "example": "Subject: Follow-Up from Today\u2019s Meeting\n\nHi Alex,\n\nThank you for meeting today. I appreciated the discussion about the new website project and will share the draft proposal by Friday.\n\nBest,\nJordan",
+    "faqs": [
+      {
+        "question": "Should I keep business emails short?",
+        "answer": "Yes, keep emails concise while including the necessary details."
+      }
+    ]
+  },
+  {
+    "slug": "email-reference-request",
+    "title": "Professional Reference Request Email",
+    "description": "A template for asking someone to provide a reference or recommendation.",
+    "category": {
+      "name": "Email Templates",
+      "slug": "email-templates"
+    },
+    "intro": "Professional Reference Request Email helps you write a concise, professional message for common business situations.",
+    "whenToUse": "Use this template when you need a clear and polished email for a specific work or personal request.",
+    "template": "Subject: [Subject]\n\nHi [Name],\n\n[Opening sentence].\n\n[Body details].\n\n[Closing sentence].\n\nBest,\n[Your Name]",
+    "example": "Subject: Follow-Up from Today\u2019s Meeting\n\nHi Alex,\n\nThank you for meeting today. I appreciated the discussion about the new website project and will share the draft proposal by Friday.\n\nBest,\nJordan",
+    "faqs": [
+      {
+        "question": "Should I keep business emails short?",
+        "answer": "Yes, keep emails concise while including the necessary details."
+      }
+    ]
+  },
+  {
+    "slug": "email-performance-feedback",
+    "title": "Performance Feedback Request Email",
+    "description": "A template for requesting feedback on work or a completed task.",
+    "category": {
+      "name": "Email Templates",
+      "slug": "email-templates"
+    },
+    "intro": "Performance Feedback Request Email helps you write a concise, professional message for common business situations.",
+    "whenToUse": "Use this template when you need a clear and polished email for a specific work or personal request.",
+    "template": "Subject: [Subject]\n\nHi [Name],\n\n[Opening sentence].\n\n[Body details].\n\n[Closing sentence].\n\nBest,\n[Your Name]",
+    "example": "Subject: Follow-Up from Today\u2019s Meeting\n\nHi Alex,\n\nThank you for meeting today. I appreciated the discussion about the new website project and will share the draft proposal by Friday.\n\nBest,\nJordan",
+    "faqs": [
+      {
+        "question": "Should I keep business emails short?",
+        "answer": "Yes, keep emails concise while including the necessary details."
+      }
+    ]
+  },
+  {
+    "slug": "email-invoice-reminder",
+    "title": "Invoice Reminder Email",
+    "description": "A polite email reminding a client about an unpaid invoice.",
+    "category": {
+      "name": "Email Templates",
+      "slug": "email-templates"
+    },
+    "intro": "Invoice Reminder Email helps you write a concise, professional message for common business situations.",
+    "whenToUse": "Use this template when you need a clear and polished email for a specific work or personal request.",
+    "template": "Subject: [Subject]\n\nHi [Name],\n\n[Opening sentence].\n\n[Body details].\n\n[Closing sentence].\n\nBest,\n[Your Name]",
+    "example": "Subject: Follow-Up from Today\u2019s Meeting\n\nHi Alex,\n\nThank you for meeting today. I appreciated the discussion about the new website project and will share the draft proposal by Friday.\n\nBest,\nJordan",
+    "faqs": [
+      {
+        "question": "Should I keep business emails short?",
+        "answer": "Yes, keep emails concise while including the necessary details."
+      }
+    ]
+  },
+  {
+    "slug": "email-proposal-submission",
+    "title": "Proposal Submission Email",
+    "description": "A template to send when submitting a proposal to a client or stakeholder.",
+    "category": {
+      "name": "Email Templates",
+      "slug": "email-templates"
+    },
+    "intro": "Proposal Submission Email helps you write a concise, professional message for common business situations.",
+    "whenToUse": "Use this template when you need a clear and polished email for a specific work or personal request.",
+    "template": "Subject: [Subject]\n\nHi [Name],\n\n[Opening sentence].\n\n[Body details].\n\n[Closing sentence].\n\nBest,\n[Your Name]",
+    "example": "Subject: Follow-Up from Today\u2019s Meeting\n\nHi Alex,\n\nThank you for meeting today. I appreciated the discussion about the new website project and will share the draft proposal by Friday.\n\nBest,\nJordan",
+    "faqs": [
+      {
+        "question": "Should I keep business emails short?",
+        "answer": "Yes, keep emails concise while including the necessary details."
+      }
+    ]
+  },
+  {
+    "slug": "email-offer-acceptance",
+    "title": "Job Offer Acceptance Email",
+    "description": "A professional email accepting a job offer.",
+    "category": {
+      "name": "Email Templates",
+      "slug": "email-templates"
+    },
+    "intro": "Job Offer Acceptance Email helps you write a concise, professional message for common business situations.",
+    "whenToUse": "Use this template when you need a clear and polished email for a specific work or personal request.",
+    "template": "Subject: [Subject]\n\nHi [Name],\n\n[Opening sentence].\n\n[Body details].\n\n[Closing sentence].\n\nBest,\n[Your Name]",
+    "example": "Subject: Follow-Up from Today\u2019s Meeting\n\nHi Alex,\n\nThank you for meeting today. I appreciated the discussion about the new website project and will share the draft proposal by Friday.\n\nBest,\nJordan",
+    "faqs": [
+      {
+        "question": "Should I keep business emails short?",
+        "answer": "Yes, keep emails concise while including the necessary details."
+      }
+    ]
+  },
+  {
+    "slug": "email-offer-decline",
+    "title": "Job Offer Decline Email",
+    "description": "A polite email declining a job offer while staying professional.",
+    "category": {
+      "name": "Email Templates",
+      "slug": "email-templates"
+    },
+    "intro": "Job Offer Decline Email helps you write a concise, professional message for common business situations.",
+    "whenToUse": "Use this template when you need a clear and polished email for a specific work or personal request.",
+    "template": "Subject: [Subject]\n\nHi [Name],\n\n[Opening sentence].\n\n[Body details].\n\n[Closing sentence].\n\nBest,\n[Your Name]",
+    "example": "Subject: Follow-Up from Today\u2019s Meeting\n\nHi Alex,\n\nThank you for meeting today. I appreciated the discussion about the new website project and will share the draft proposal by Friday.\n\nBest,\nJordan",
+    "faqs": [
+      {
+        "question": "Should I keep business emails short?",
+        "answer": "Yes, keep emails concise while including the necessary details."
+      }
+    ]
+  },
+  {
+    "slug": "email-service-cancellation",
+    "title": "Service Cancellation Email",
+    "description": "A template to notify a vendor or provider that you are canceling a service.",
+    "category": {
+      "name": "Email Templates",
+      "slug": "email-templates"
+    },
+    "intro": "Service Cancellation Email helps you write a concise, professional message for common business situations.",
+    "whenToUse": "Use this template when you need a clear and polished email for a specific work or personal request.",
+    "template": "Subject: [Subject]\n\nHi [Name],\n\n[Opening sentence].\n\n[Body details].\n\n[Closing sentence].\n\nBest,\n[Your Name]",
+    "example": "Subject: Follow-Up from Today\u2019s Meeting\n\nHi Alex,\n\nThank you for meeting today. I appreciated the discussion about the new website project and will share the draft proposal by Friday.\n\nBest,\nJordan",
+    "faqs": [
+      {
+        "question": "Should I keep business emails short?",
+        "answer": "Yes, keep emails concise while including the necessary details."
+      }
+    ]
+  }
+]

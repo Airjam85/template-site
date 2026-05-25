@@ -1,0 +1,352 @@
+[
+  {
+    "slug": "freelance-contract-template",
+    "title": "Freelance Contract Template",
+    "description": "Free freelance contract template for independent contractor projects.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "This freelance contract template helps freelancers and clients clearly define project expectations and payment terms.",
+    "whenToUse": "Use before starting freelance projects or client work.",
+    "template": "This agreement is between [Client Name] and [Freelancer Name].\n\nScope of Work:\n[Description]\n\nPayment Terms:\n[Terms]\n\nTimeline:\n[Dates]",
+    "example": "This agreement is between Acme Co and John Doe.\n\nScope of Work:\nWebsite redesign\n\nPayment Terms:\n$2000 total",
+    "faqs": [
+      {
+        "question": "What is a freelance contract?",
+        "answer": "A freelance contract is a legal agreement that outlines the terms of a freelance project."
+      },
+      {
+        "question": "Do freelancers need contracts?",
+        "answer": "Contracts help protect both freelancers and clients by clearly defining expectations."
+      }
+    ]
+  },
+  {
+    "slug": "freelance-contract-template-for-designers",
+    "title": "Freelance Contract Template for Designers",
+    "description": "Designer freelance contract template for creative service agreements.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "This freelance contract template helps designers set clear expectations for project scope, revisions, timelines, and payment terms.",
+    "whenToUse": "Use this template before starting a design project or onboarding a new client.",
+    "template": "This agreement is between [Client Name] and [Designer Name].\n\nProject scope:\n[Describe design services]\n\nDeliverables:\n[List final deliverables]\n\nEstimated timeline:\n[Dates]\n\nPayment terms:\n[Amount and payment schedule]\n\nRevision policy:\n[Number of revisions included]",
+    "example": "This agreement is between Radiant Interiors and Anna Lee.\n\nProject scope:\nBrand identity and website design.\n\nDeliverables:\nLogo files, brand guidelines, website mockups.\n\nEstimated timeline:\nJune 1 to July 15, 2026.\n\nPayment terms:\n$4,000 total, 50% due up front and 50% on completion.\n\nRevision policy:\nTwo rounds of revisions included.",
+    "tips": [
+      "Specify the number of revisions included.",
+      "Include payment milestones and due dates.",
+      "Clarify ownership of final design files.",
+      "Ask the client to sign before beginning work."
+    ],
+    "faqs": [
+      {
+        "question": "Why do designers need a freelance contract?",
+        "answer": "A contract protects both the designer and client by defining scope, payment, and responsibilities."
+      },
+      {
+        "question": "Should I include revision limits?",
+        "answer": "Yes\u2014revision limits help prevent scope creep and protect your time."
+      },
+      {
+        "question": "Can I use this contract for web design?",
+        "answer": "Yes, this template works well for branding, web design, and creative services."
+      }
+    ]
+  },
+  {
+    "slug": "freelance-contract-template-for-writers",
+    "title": "Freelance Contract Template for Writers",
+    "description": "Writer freelance contract template for content and copywriting projects.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "This freelance contract template helps writers outline project scope, deadlines, payment, and usage rights.",
+    "whenToUse": "Use this template before beginning writing projects for clients or publishers.",
+    "template": "This agreement is between [Client Name] and [Writer Name].\n\nProject scope:\n[Describe writing assignment]\n\nDeliverables:\n[List articles, copy, or drafts]\n\nDeadlines:\n[Delivery dates]\n\nPayment terms:\n[Fee and schedule]\n\nUsage rights:\n[Who owns the content after delivery]",
+    "example": "This agreement is between Bloom Content Studio and Maya Roberts.\n\nProject scope:\nCreate blog posts, social media captions, and email copy.\n\nDeliverables:\nFour blog posts and 10 social captions.\n\nDeadlines:\nBlog posts due June 1, 2026; captions due June 5, 2026.\n\nPayment terms:\n$1,200 total, 50% due up front.\n\nUsage rights:\nClient receives unlimited use of the final content.",
+    "tips": [
+      "Clearly define the content deliverables and deadlines.",
+      "Specify usage rights for the final work.",
+      "Include payment terms and milestone schedules.",
+      "Ask the client to agree to the terms before starting work."
+    ],
+    "faqs": [
+      {
+        "question": "Does a writer need a freelance contract?",
+        "answer": "Yes, it protects both parties and sets expectations for deliverables and payment."
+      },
+      {
+        "question": "Should content ownership be included?",
+        "answer": "Yes, clarify whether the client has exclusive rights or usage permissions."
+      },
+      {
+        "question": "Can this template be used for copywriting?",
+        "answer": "Yes, it works for marketing copy, blogs, articles, and other writing services."
+      }
+    ]
+  },
+  {
+    "slug": "freelance-contract-template-for-designers-uk",
+    "title": "Freelance Contract Template for Designers-uk",
+    "description": "Designer freelance contract template for creative projects.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "This freelance contract template helps designers outline project scope, deadlines, payment, and usage rights for creative work.",
+    "whenToUse": "Use this template before starting design projects for clients or agencies.",
+    "template": "This agreement is between [Client Name] and [Designer Name].\n\nProject scope:\n[Describe design assignment]\n\nDeliverables:\n[List design files or concepts]\n\nDeadlines:\n[Delivery dates]\n\nPayment terms:\n[Fee and schedule]\n\nUsage rights:\n[Who owns the designs after delivery]",
+    "example": "This agreement is between Bright Ideas Agency and Jordan Smith.\n\nProject scope:\nCreate a new logo and brand identity for a startup.\n\nDeliverables:\nLogo files in multiple formats, brand guidelines document.\n\nDeadlines:\nInitial concepts due June 15, 2026; final files due June 30, 2026.\n\nPayment terms:\n$2,500 total, 50% due up front.\n\nUsage rights:\nClient receives exclusive rights to use the final designs.",
+    "tips": [
+      "Clearly define the design deliverables and deadlines.",
+      "Specify usage rights for the final work.",
+      "Include payment terms and milestone schedules.",
+      "Ask the client to agree to the terms before starting work."
+    ],
+    "faqs": [
+      {
+        "question": "Does a designer need a freelance contract?",
+        "answer": "Yes, it protects both parties and sets expectations for deliverables and payment."
+      },
+      {
+        "question": "Should design ownership be included?",
+        "answer": "Yes, clarify whether the client has exclusive rights or usage permissions."
+      },
+      {
+        "question": "Can this template be used for web design?",
+        "answer": "Yes, it works for branding, web design, and other creative services."
+      }
+    ]
+  },
+  {
+    "slug": "freelance-contract-website-design",
+    "title": "Freelance Contract for Website Design",
+    "description": "A freelance contract template for website and digital design work.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "Freelance Contract for Website Design helps set expectations for work, deliverables, timelines, and payment.",
+    "whenToUse": "Use this template when formalizing an agreement between a client and service provider.",
+    "template": "This agreement is between [Party A] and [Party B].\n\nScope of Work: [Describe work]\nDeliverables: [List deliverables]\nTimeline: [Dates]\nPayment: [Terms]\n\nSignatures:\n[Party A]\n[Party B]",
+    "example": "This agreement is between Bright Media and Jordan Lee.\n\nScope of Work: Design website landing page.\nDeliverables: Mockups, final layouts.\nTimeline: 3 weeks.\nPayment: $2,000 total.\n\nSignatures:\nBright Media\nJordan Lee",
+    "faqs": [
+      {
+        "question": "Do I need a contract for freelance work?",
+        "answer": "Yes, contracts protect both parties by clarifying expectations and payment."
+      }
+    ]
+  },
+  {
+    "slug": "freelance-contract-marketing",
+    "title": "Freelance Contract for Marketing Services",
+    "description": "A freelance contract template for marketing projects.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "Freelance Contract for Marketing Services helps set expectations for work, deliverables, timelines, and payment.",
+    "whenToUse": "Use this template when formalizing an agreement between a client and service provider.",
+    "template": "This agreement is between [Party A] and [Party B].\n\nScope of Work: [Describe work]\nDeliverables: [List deliverables]\nTimeline: [Dates]\nPayment: [Terms]\n\nSignatures:\n[Party A]\n[Party B]",
+    "example": "This agreement is between Bright Media and Jordan Lee.\n\nScope of Work: Design website landing page.\nDeliverables: Mockups, final layouts.\nTimeline: 3 weeks.\nPayment: $2,000 total.\n\nSignatures:\nBright Media\nJordan Lee",
+    "faqs": [
+      {
+        "question": "Do I need a contract for freelance work?",
+        "answer": "Yes, contracts protect both parties by clarifying expectations and payment."
+      }
+    ]
+  },
+  {
+    "slug": "consulting-agreement-strategy",
+    "title": "Consulting Agreement for Strategy Services",
+    "description": "A consulting agreement template for business strategy consulting.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "Consulting Agreement for Strategy Services helps set expectations for work, deliverables, timelines, and payment.",
+    "whenToUse": "Use this template when formalizing an agreement between a client and service provider.",
+    "template": "This agreement is between [Party A] and [Party B].\n\nScope of Work: [Describe work]\nDeliverables: [List deliverables]\nTimeline: [Dates]\nPayment: [Terms]\n\nSignatures:\n[Party A]\n[Party B]",
+    "example": "This agreement is between Bright Media and Jordan Lee.\n\nScope of Work: Design website landing page.\nDeliverables: Mockups, final layouts.\nTimeline: 3 weeks.\nPayment: $2,000 total.\n\nSignatures:\nBright Media\nJordan Lee",
+    "faqs": [
+      {
+        "question": "Do I need a contract for freelance work?",
+        "answer": "Yes, contracts protect both parties by clarifying expectations and payment."
+      }
+    ]
+  },
+  {
+    "slug": "consulting-agreement-creative",
+    "title": "Consulting Agreement for Creative Services",
+    "description": "A consulting agreement template for creative and design consulting.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "Consulting Agreement for Creative Services helps set expectations for work, deliverables, timelines, and payment.",
+    "whenToUse": "Use this template when formalizing an agreement between a client and service provider.",
+    "template": "This agreement is between [Party A] and [Party B].\n\nScope of Work: [Describe work]\nDeliverables: [List deliverables]\nTimeline: [Dates]\nPayment: [Terms]\n\nSignatures:\n[Party A]\n[Party B]",
+    "example": "This agreement is between Bright Media and Jordan Lee.\n\nScope of Work: Design website landing page.\nDeliverables: Mockups, final layouts.\nTimeline: 3 weeks.\nPayment: $2,000 total.\n\nSignatures:\nBright Media\nJordan Lee",
+    "faqs": [
+      {
+        "question": "Do I need a contract for freelance work?",
+        "answer": "Yes, contracts protect both parties by clarifying expectations and payment."
+      }
+    ]
+  },
+  {
+    "slug": "service-agreement-gig-work",
+    "title": "Service Agreement for Gig Work",
+    "description": "A service agreement template for short-term gig or freelance tasks.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "Service Agreement for Gig Work helps set expectations for work, deliverables, timelines, and payment.",
+    "whenToUse": "Use this template when formalizing an agreement between a client and service provider.",
+    "template": "This agreement is between [Party A] and [Party B].\n\nScope of Work: [Describe work]\nDeliverables: [List deliverables]\nTimeline: [Dates]\nPayment: [Terms]\n\nSignatures:\n[Party A]\n[Party B]",
+    "example": "This agreement is between Bright Media and Jordan Lee.\n\nScope of Work: Design website landing page.\nDeliverables: Mockups, final layouts.\nTimeline: 3 weeks.\nPayment: $2,000 total.\n\nSignatures:\nBright Media\nJordan Lee",
+    "faqs": [
+      {
+        "question": "Do I need a contract for freelance work?",
+        "answer": "Yes, contracts protect both parties by clarifying expectations and payment."
+      }
+    ]
+  },
+  {
+    "slug": "subcontractor-agreement",
+    "title": "Subcontractor Agreement",
+    "description": "A subcontractor agreement for delivering part of a larger contracted service.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "Subcontractor Agreement helps set expectations for work, deliverables, timelines, and payment.",
+    "whenToUse": "Use this template when formalizing an agreement between a client and service provider.",
+    "template": "This agreement is between [Party A] and [Party B].\n\nScope of Work: [Describe work]\nDeliverables: [List deliverables]\nTimeline: [Dates]\nPayment: [Terms]\n\nSignatures:\n[Party A]\n[Party B]",
+    "example": "This agreement is between Bright Media and Jordan Lee.\n\nScope of Work: Design website landing page.\nDeliverables: Mockups, final layouts.\nTimeline: 3 weeks.\nPayment: $2,000 total.\n\nSignatures:\nBright Media\nJordan Lee",
+    "faqs": [
+      {
+        "question": "Do I need a contract for freelance work?",
+        "answer": "Yes, contracts protect both parties by clarifying expectations and payment."
+      }
+    ]
+  },
+  {
+    "slug": "vendor-contract-template",
+    "title": "Vendor Contract Template",
+    "description": "A template for agreements with vendors supplying products or services.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "Vendor Contract Template helps set expectations for work, deliverables, timelines, and payment.",
+    "whenToUse": "Use this template when formalizing an agreement between a client and service provider.",
+    "template": "This agreement is between [Party A] and [Party B].\n\nScope of Work: [Describe work]\nDeliverables: [List deliverables]\nTimeline: [Dates]\nPayment: [Terms]\n\nSignatures:\n[Party A]\n[Party B]",
+    "example": "This agreement is between Bright Media and Jordan Lee.\n\nScope of Work: Design website landing page.\nDeliverables: Mockups, final layouts.\nTimeline: 3 weeks.\nPayment: $2,000 total.\n\nSignatures:\nBright Media\nJordan Lee",
+    "faqs": [
+      {
+        "question": "Do I need a contract for freelance work?",
+        "answer": "Yes, contracts protect both parties by clarifying expectations and payment."
+      }
+    ]
+  },
+  {
+    "slug": "retainer-agreement-template",
+    "title": "Retainer Agreement Template",
+    "description": "A template for ongoing retainer services with set monthly or quarterly fees.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "Retainer Agreement Template helps set expectations for work, deliverables, timelines, and payment.",
+    "whenToUse": "Use this template when formalizing an agreement between a client and service provider.",
+    "template": "This agreement is between [Party A] and [Party B].\n\nScope of Work: [Describe work]\nDeliverables: [List deliverables]\nTimeline: [Dates]\nPayment: [Terms]\n\nSignatures:\n[Party A]\n[Party B]",
+    "example": "This agreement is between Bright Media and Jordan Lee.\n\nScope of Work: Design website landing page.\nDeliverables: Mockups, final layouts.\nTimeline: 3 weeks.\nPayment: $2,000 total.\n\nSignatures:\nBright Media\nJordan Lee",
+    "faqs": [
+      {
+        "question": "Do I need a contract for freelance work?",
+        "answer": "Yes, contracts protect both parties by clarifying expectations and payment."
+      }
+    ]
+  },
+  {
+    "slug": "contractor-agreement-template",
+    "title": "Contractor Agreement Template",
+    "description": "A contractor agreement for independent service providers or contractors.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "Contractor Agreement Template helps set expectations for work, deliverables, timelines, and payment.",
+    "whenToUse": "Use this template when formalizing an agreement between a client and service provider.",
+    "template": "This agreement is between [Party A] and [Party B].\n\nScope of Work: [Describe work]\nDeliverables: [List deliverables]\nTimeline: [Dates]\nPayment: [Terms]\n\nSignatures:\n[Party A]\n[Party B]",
+    "example": "This agreement is between Bright Media and Jordan Lee.\n\nScope of Work: Design website landing page.\nDeliverables: Mockups, final layouts.\nTimeline: 3 weeks.\nPayment: $2,000 total.\n\nSignatures:\nBright Media\nJordan Lee",
+    "faqs": [
+      {
+        "question": "Do I need a contract for freelance work?",
+        "answer": "Yes, contracts protect both parties by clarifying expectations and payment."
+      }
+    ]
+  },
+  {
+    "slug": "partnership-agreement-template",
+    "title": "Partnership Agreement Template",
+    "description": "A simple partnership agreement template for small business partners.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "Partnership Agreement Template helps set expectations for work, deliverables, timelines, and payment.",
+    "whenToUse": "Use this template when formalizing an agreement between a client and service provider.",
+    "template": "This agreement is between [Party A] and [Party B].\n\nScope of Work: [Describe work]\nDeliverables: [List deliverables]\nTimeline: [Dates]\nPayment: [Terms]\n\nSignatures:\n[Party A]\n[Party B]",
+    "example": "This agreement is between Bright Media and Jordan Lee.\n\nScope of Work: Design website landing page.\nDeliverables: Mockups, final layouts.\nTimeline: 3 weeks.\nPayment: $2,000 total.\n\nSignatures:\nBright Media\nJordan Lee",
+    "faqs": [
+      {
+        "question": "Do I need a contract for freelance work?",
+        "answer": "Yes, contracts protect both parties by clarifying expectations and payment."
+      }
+    ]
+  },
+  {
+    "slug": "employment-agreement-basic",
+    "title": "Basic Employment Agreement",
+    "description": "A simple employment agreement for full-time or part-time roles.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "Basic Employment Agreement helps set expectations for work, deliverables, timelines, and payment.",
+    "whenToUse": "Use this template when formalizing an agreement between a client and service provider.",
+    "template": "This agreement is between [Party A] and [Party B].\n\nScope of Work: [Describe work]\nDeliverables: [List deliverables]\nTimeline: [Dates]\nPayment: [Terms]\n\nSignatures:\n[Party A]\n[Party B]",
+    "example": "This agreement is between Bright Media and Jordan Lee.\n\nScope of Work: Design website landing page.\nDeliverables: Mockups, final layouts.\nTimeline: 3 weeks.\nPayment: $2,000 total.\n\nSignatures:\nBright Media\nJordan Lee",
+    "faqs": [
+      {
+        "question": "Do I need a contract for freelance work?",
+        "answer": "Yes, contracts protect both parties by clarifying expectations and payment."
+      }
+    ]
+  },
+  {
+    "slug": "non-compete-addendum",
+    "title": "Non-Compete Addendum",
+    "description": "A contract addendum that defines competition restrictions for a worker.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "Non-Compete Addendum helps set expectations for work, deliverables, timelines, and payment.",
+    "whenToUse": "Use this template when formalizing an agreement between a client and service provider.",
+    "template": "This agreement is between [Party A] and [Party B].\n\nScope of Work: [Describe work]\nDeliverables: [List deliverables]\nTimeline: [Dates]\nPayment: [Terms]\n\nSignatures:\n[Party A]\n[Party B]",
+    "example": "This agreement is between Bright Media and Jordan Lee.\n\nScope of Work: Design website landing page.\nDeliverables: Mockups, final layouts.\nTimeline: 3 weeks.\nPayment: $2,000 total.\n\nSignatures:\nBright Media\nJordan Lee",
+    "faqs": [
+      {
+        "question": "Do I need a contract for freelance work?",
+        "answer": "Yes, contracts protect both parties by clarifying expectations and payment."
+      }
+    ]
+  }
+]

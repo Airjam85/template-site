@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "apology-letter-formal",
+    "title": "Formal Apology Letter",
+    "description": "A template to apologize professionally and restore relationships.",
+    "category": {
+      "name": "Personal Letters",
+      "slug": "personal-letters"
+    },
+    "intro": "Use this letter to offer a sincere, professional apology.",
+    "whenToUse": "When you need to apologize formally to colleagues, friends, or partners.",
+    "template": "Dear [Name],\n\nI want to apologize for [Action]. I understand the impact and will [Remedy].\n\nSincerely,\n[Your Name]",
+    "example": "Dear Alex,\n\nI\u2019m sorry for missing our meeting and not giving advance notice. I\u2019ll ensure better communication going forward.\n\nSincerely,\nRiley",
+    "faqs": [
+      {
+        "question": "How sincere should the apology be?",
+        "answer": "Be honest, accept responsibility, and outline steps to make amends."
+      }
+    ]
+  },
+  {
+    "slug": "thank-you-note-short",
+    "title": "Short Thank-You Note",
+    "description": "A brief thank-you note for interviews or favors.",
+    "category": {
+      "name": "Personal Letters",
+      "slug": "personal-letters"
+    },
+    "intro": "A concise, polite thank-you message you can send quickly.",
+    "whenToUse": "After interviews, informational meetings, or receiving help.",
+    "template": "Hi [Name],\n\nThank you for [Help/Time]. I appreciate it and look forward to staying in touch.\n\nBest,\n[Your Name]",
+    "example": "Hi Dana,\n\nThanks for taking the time to review my portfolio \u2014 I appreciate your feedback.\n\nBest,\nSam",
+    "faqs": [
+      {
+        "question": "When to send?",
+        "answer": "Within 24\u201348 hours is best."
+      }
+    ]
+  },
+  {
+    "slug": "reference-letter-template",
+    "title": "Simple Reference Letter",
+    "description": "A straightforward reference template for character or employment references.",
+    "category": {
+      "name": "Personal Letters",
+      "slug": "personal-letters"
+    },
+    "intro": "Use this template when vouching for someone\u2019s skills or character.",
+    "whenToUse": "When giving a personal or professional reference.",
+    "template": "To Whom It May Concern,\n\nI am pleased to recommend [Name] for [Opportunity]. [They] have demonstrated [Strengths].\n\nSincerely,\n[Your Name]",
+    "example": "To Whom It May Concern,\n\nI recommend Priya Patel for volunteer coordinator role. Priya is organized, dependable, and a strong communicator.\n\nSincerely,\nL. Gomez",
+    "faqs": [
+      {
+        "question": "What to include?",
+        "answer": "Specific examples and your relationship to the person."
+      }
+    ]
+  },
+  {
+    "slug": "apology-personal",
+    "title": "Personal Apology Letter",
+    "description": "A heartfelt apology template for personal situations.",
+    "category": {
+      "name": "Personal Letters",
+      "slug": "personal-letters"
+    },
+    "intro": "Use to repair personal relationships with sincerity.",
+    "whenToUse": "When apologizing to friends or family for mistakes.",
+    "template": "Dear [Name],\n\nI\u2019m sorry for [Action]. I understand and will make amends by [Action].\n\nSincerely,\n[Your Name]",
+    "example": "Dear Mom,\n\nI\u2019m sorry for missing your birthday dinner. I\u2019ll make it up by taking you out this weekend.\n\nLove,\nBen"
+  },
+  {
+    "slug": "thank-you-after-interview",
+    "title": "Thank-You Email After Interview",
+    "description": "A polite thank-you email template to send after interviews.",
+    "category": {
+      "name": "Personal Letters",
+      "slug": "personal-letters"
+    },
+    "intro": "Express appreciation and reiterate interest after an interview.",
+    "whenToUse": "Within 24 hours after an interview or informational meeting.",
+    "template": "Subject: Thank you - [Role]\n\nHi [Interviewer],\n\nThank you for meeting today. I appreciated learning about [Topic] and remain excited about the opportunity.\n\nBest,\n[Name]",
+    "example": "Subject: Thank you - Product Manager\n\nHi Jenna,\n\nThanks for your time today. I enjoyed the discussion about roadmap priorities and would be excited to contribute.\n\nBest,\nChris"
+  },
+  {
+    "slug": "reference-character",
+    "title": "Character Reference Letter",
+    "description": "A short character reference for non-employment situations.",
+    "category": {
+      "name": "Personal Letters",
+      "slug": "personal-letters"
+    },
+    "intro": "Provide testimony to a person\u2019s character for landlords or community roles.",
+    "whenToUse": "When asked to vouch for someone\u2019s character or reliability.",
+    "template": "To Whom It May Concern,\n\nI know [Name] as [Relationship] and can vouch for their character.\n\nSincerely,\n[Your Name]",
+    "example": "To Whom It May Concern,\n\nI have known Ramon for five years as a neighbor and can vouch for his responsibility and kindness.\n\nSincerely,\nIvy Park"
+  }
+]

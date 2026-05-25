@@ -1,0 +1,97 @@
+[
+  {
+    "slug": "medical-leave-request-letter",
+    "title": "Medical Leave Request Letter",
+    "description": "A letter requesting medical leave from work or school.",
+    "category": {
+      "name": "Medical Letters",
+      "slug": "medical-letters"
+    },
+    "intro": "Medical Leave Request Letter provides a simple format for healthcare or administrative communication.",
+    "whenToUse": "Use this template when communicating medical needs or administrative updates.",
+    "template": "[Title]\n\nTo: [Recipient]\n\n[Statement of need or request].\n\n[Details].\n\nSincerely,\n[Your Name]",
+    "example": "Medical Leave Request Letter\n\nTo: HR Department\n\nI am requesting medical leave from June 1 to June 15 due to a scheduled procedure. I will provide documentation from my doctor.\n\nSincerely,\nDana",
+    "faqs": [
+      {
+        "question": "Do medical leave letters need documentation?",
+        "answer": "Yes, attach or mention any required medical documentation if requested."
+      }
+    ]
+  },
+  {
+    "slug": "doctor-note-request-email",
+    "title": "Doctor Note Request Email",
+    "description": "An email to request a doctor\u2019s note or medical documentation.",
+    "category": {
+      "name": "Medical Letters",
+      "slug": "medical-letters"
+    },
+    "intro": "Doctor Note Request Email provides a simple format for healthcare or administrative communication.",
+    "whenToUse": "Use this template when communicating medical needs or administrative updates.",
+    "template": "[Title]\n\nTo: [Recipient]\n\n[Statement of need or request].\n\n[Details].\n\nSincerely,\n[Your Name]",
+    "example": "Medical Leave Request Letter\n\nTo: HR Department\n\nI am requesting medical leave from June 1 to June 15 due to a scheduled procedure. I will provide documentation from my doctor.\n\nSincerely,\nDana",
+    "faqs": [
+      {
+        "question": "Do medical leave letters need documentation?",
+        "answer": "Yes, attach or mention any required medical documentation if requested."
+      }
+    ]
+  },
+  {
+    "slug": "patient-transfer-request",
+    "title": "Patient Transfer Request Letter",
+    "description": "A letter requesting transfer to another medical facility or specialist.",
+    "category": {
+      "name": "Medical Letters",
+      "slug": "medical-letters"
+    },
+    "intro": "Patient Transfer Request Letter provides a simple format for healthcare or administrative communication.",
+    "whenToUse": "Use this template when communicating medical needs or administrative updates.",
+    "template": "[Title]\n\nTo: [Recipient]\n\n[Statement of need or request].\n\n[Details].\n\nSincerely,\n[Your Name]",
+    "example": "Medical Leave Request Letter\n\nTo: HR Department\n\nI am requesting medical leave from June 1 to June 15 due to a scheduled procedure. I will provide documentation from my doctor.\n\nSincerely,\nDana",
+    "faqs": [
+      {
+        "question": "Do medical leave letters need documentation?",
+        "answer": "Yes, attach or mention any required medical documentation if requested."
+      }
+    ]
+  },
+  {
+    "slug": "medical-authorization-letter",
+    "title": "Medical Authorization Letter",
+    "description": "A letter granting permission for someone to make medical decisions or access records.",
+    "category": {
+      "name": "Medical Letters",
+      "slug": "medical-letters"
+    },
+    "intro": "Medical Authorization Letter provides a simple format for healthcare or administrative communication.",
+    "whenToUse": "Use this template when communicating medical needs or administrative updates.",
+    "template": "[Title]\n\nTo: [Recipient]\n\n[Statement of need or request].\n\n[Details].\n\nSincerely,\n[Your Name]",
+    "example": "Medical Leave Request Letter\n\nTo: HR Department\n\nI am requesting medical leave from June 1 to June 15 due to a scheduled procedure. I will provide documentation from my doctor.\n\nSincerely,\nDana",
+    "faqs": [
+      {
+        "question": "Do medical leave letters need documentation?",
+        "answer": "Yes, attach or mention any required medical documentation if requested."
+      }
+    ]
+  },
+  {
+    "slug": "admin-address-change-notice",
+    "title": "Address Change Notice",
+    "description": "A notice to update address information with an organization.",
+    "category": {
+      "name": "Medical Letters",
+      "slug": "medical-letters"
+    },
+    "intro": "Address Change Notice provides a simple format for healthcare or administrative communication.",
+    "whenToUse": "Use this template when communicating medical needs or administrative updates.",
+    "template": "[Title]\n\nTo: [Recipient]\n\n[Statement of need or request].\n\n[Details].\n\nSincerely,\n[Your Name]",
+    "example": "Medical Leave Request Letter\n\nTo: HR Department\n\nI am requesting medical leave from June 1 to June 15 due to a scheduled procedure. I will provide documentation from my doctor.\n\nSincerely,\nDana",
+    "faqs": [
+      {
+        "question": "Do medical leave letters need documentation?",
+        "answer": "Yes, attach or mention any required medical documentation if requested."
+      }
+    ]
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "project-proposal-basic",
+    "title": "Basic Project Proposal",
+    "description": "A simple proposal template to outline scope and pricing.",
+    "category": {
+      "name": "Business Documents",
+      "slug": "business-documents"
+    },
+    "intro": "Use this proposal to summarize scope, deliverables, timeline, and cost.",
+    "whenToUse": "When pitching services or projects to clients.",
+    "template": "Proposal Title: [Project]\nClient: [Name]\nScope: [Deliverables]\nTimeline: [Dates]\nCost: [Amount]",
+    "example": "Proposal Title: Branding Refresh\nClient: Greenleaf Co.\nScope: Logo, color palette, basic guidelines\nTimeline: 4 weeks\nCost: $4,500",
+    "faqs": [
+      {
+        "question": "Should I include payment milestones?",
+        "answer": "Yes \u2014 they help manage expectations and cash flow."
+      }
+    ]
+  },
+  {
+    "slug": "meeting-agenda-template",
+    "title": "Meeting Agenda Template",
+    "description": "A simple meeting agenda to keep discussions focused.",
+    "category": {
+      "name": "Business Documents",
+      "slug": "business-documents"
+    },
+    "intro": "Use this agenda to structure team or client meetings.",
+    "whenToUse": "Before scheduled meetings to share topics and time allocations.",
+    "template": "Meeting: [Topic]\nDate: [Date]\nAttendees: [Names]\nAgenda:\n- [Item 1]\n- [Item 2]",
+    "example": "Meeting: Project Kickoff\nDate: May 18, 2026\nAttendees: PM, Designer, Dev\nAgenda:\n- Scope review\n- Timeline\n- Next steps",
+    "faqs": [
+      {
+        "question": "How long should agendas be?",
+        "answer": "Keep items focused and assign time estimates for each."
+      }
+    ]
+  },
+  {
+    "slug": "consulting-agreement-simple",
+    "title": "Simple Consulting Agreement",
+    "description": "A concise consulting agreement for short-term engagements.",
+    "category": {
+      "name": "Business Documents",
+      "slug": "business-documents"
+    },
+    "intro": "Use this agreement to define scope, payment, and deliverables for consultants.",
+    "whenToUse": "When hiring or engaging an external consultant.",
+    "template": "Agreement between [Client] and [Consultant].\nScope: [Services]\nFee: [Amount]\nTerm: [Dates]",
+    "example": "Agreement between Bright Agency and Mira Chen.\nScope: UX audit\nFee: $1,200\nTerm: May 2026",
+    "faqs": [
+      {
+        "question": "Should consultants have NDAs?",
+        "answer": "Often yes \u2014 include confidentiality provisions if needed."
+      }
+    ]
+  },
+  {
+    "slug": "proposal-marketing-campaign",
+    "title": "Marketing Campaign Proposal",
+    "description": "Proposal template focused on marketing campaign scope and results.",
+    "category": {
+      "name": "Business Documents",
+      "slug": "business-documents"
+    },
+    "intro": "Outline goals, channels, timeline, and budget for campaigns.",
+    "whenToUse": "When pitching a marketing campaign to clients or internal stakeholders.",
+    "template": "Project: [Campaign]\nObjective: [Goals]\nChannels: [List]\nBudget: [Amount]\nTimeline: [Dates]",
+    "example": "Project: Summer Promo\nObjective: Increase leads by 25%\nChannels: Email, Social\nBudget: $8,000\nTimeline: June\u2013August 2026"
+  },
+  {
+    "slug": "meeting-minutes-template",
+    "title": "Meeting Minutes Template",
+    "description": "A template to record meeting notes and action items.",
+    "category": {
+      "name": "Business Documents",
+      "slug": "business-documents"
+    },
+    "intro": "Capture decisions, owners, and next steps from meetings.",
+    "whenToUse": "After meetings to distribute notes and actions.",
+    "template": "Meeting: [Title]\nDate: [Date]\nAttendees: [Names]\nNotes:\n- [Point]\nAction Items:\n- [Task] assigned to [Name]",
+    "example": "Meeting: Weekly Sync\nDate: May 18, 2026\nAttendees: Team\nAction Items: Update roadmap (Owner: Priya)"
+  },
+  {
+    "slug": "consulting-scope-of-work",
+    "title": "Consulting Scope of Work",
+    "description": "A scope of work template clarifying consulting deliverables.",
+    "category": {
+      "name": "Business Documents",
+      "slug": "business-documents"
+    },
+    "intro": "Define tasks, deliverables, timeline, and fees for consultants.",
+    "whenToUse": "When engaging a consultant and wanting clear deliverables.",
+    "template": "Scope: [Tasks]\nDeliverables: [Items]\nTimeline: [Dates]\nFees: [Amount]",
+    "example": "Scope: UX review\nDeliverables: Report and prioritized recommendations\nTimeline: 2 weeks\nFees: $2,000"
+  }
+]

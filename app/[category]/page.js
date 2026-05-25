@@ -1,4 +1,4 @@
-import templates from "../../content/templates.json";
+import { templates } from "../../lib/loadTemplates";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { categories } from "../../content/categories";

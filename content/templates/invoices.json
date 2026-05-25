@@ -1,0 +1,123 @@
+[
+  {
+    "slug": "invoice-template",
+    "title": "Free Invoice Template",
+    "description": "Simple invoice template for freelancers, consultants, and small businesses.",
+    "category": {
+      "name": "Invoices",
+      "slug": "invoices"
+    },
+    "intro": "This free invoice template helps professionals create clear invoices for clients and completed projects.",
+    "whenToUse": "Use this invoice template when billing clients for products or services.",
+    "template": "Invoice Number: [Invoice Number]\nDate: [Date]\n\nBill To:\n[Client Name]\n\nServices:\n- [Service Description]: [Amount]\n\nTotal Due: [Total]\nDue Date: [Due Date]",
+    "example": "Invoice Number: INV-1001\nDate: March 10, 2026\n\nBill To:\nAcme Design Co\n\nServices:\n- Logo Design: $500\n\nTotal Due: $500",
+    "faqs": [
+      {
+        "question": "What should an invoice include?",
+        "answer": "Invoices should include payment amounts, due dates, client details, and services provided."
+      },
+      {
+        "question": "Can freelancers use this template?",
+        "answer": "Yes. This invoice template is ideal for freelancers and consultants."
+      }
+    ]
+  },
+  {
+    "slug": "invoice-template-for-photographers",
+    "title": "Invoice Template for Photographers",
+    "description": "Free photography invoice template for freelance photographers and creative professionals.",
+    "category": {
+      "name": "Invoices",
+      "slug": "invoices"
+    },
+    "intro": "This photography invoice template helps photographers bill clients professionally for photoshoots, editing services, events, and licensing work. It includes sections for services, pricing, payment terms, and client details.",
+    "whenToUse": "Use this template after completing photography work or when requesting deposits for upcoming projects.",
+    "template": "Invoice Number: [Invoice Number]\nDate: [Date]\n\nPhotographer:\n[Your Name or Studio]\n\nClient:\n[Client Name]\n\nServices:\n- Wedding Photography: [$Amount]\n- Editing Services: [$Amount]\n\nTotal Due: [$Total]\nPayment Due Date: [Date]\n\nPayment Method:\n[Payment Details]",
+    "example": "Invoice Number: PHOTO-102\nDate: March 12, 2026\n\nPhotographer:\nBright Lens Studio\n\nClient:\nEmily Davis\n\nServices:\n- Engagement Photoshoot: $600\n- Editing Services: $150\n\nTotal Due: $750",
+    "tips": [
+      "Clearly list all photography and editing services.",
+      "Include payment deadlines to avoid delays.",
+      "Use consistent invoice numbering.",
+      "Save copies of invoices for tax purposes."
+    ],
+    "faqs": [
+      {
+        "question": "What should a photography invoice include?",
+        "answer": "It should include services provided, pricing, payment terms, and client information."
+      },
+      {
+        "question": "Can photographers request deposits?",
+        "answer": "Yes, many photographers request partial upfront payments before shoots."
+      },
+      {
+        "question": "Should editing fees be separate?",
+        "answer": "Separating editing fees can make invoices clearer for clients."
+      }
+    ]
+  },
+  {
+    "slug": "invoice-template-for-consultants",
+    "title": "Invoice Template for Consultants",
+    "description": "Free consultant invoice template for billing advisory services, strategy sessions, and project work.",
+    "category": {
+      "name": "Invoices",
+      "slug": "invoices"
+    },
+    "intro": "This consultant invoice template helps independent consultants and consulting agencies bill clients professionally for strategy, advisory, and project-based services. It includes sections for services rendered, payment terms, and client information.",
+    "whenToUse": "Use this template when invoicing clients for consulting services, retainers, project work, or hourly advisory sessions.",
+    "template": "Invoice Number: [Invoice Number]\nDate: [Date]\n\nConsultant:\n[Your Name or Company]\n\nClient:\n[Client Name]\n\nServices Provided:\n- Strategy Consultation: [$Amount]\n- Project Planning: [$Amount]\n\nTotal Due: [$Total]\nDue Date: [Date]\n\nPayment Instructions:\n[Payment Details]",
+    "example": "Invoice Number: CONS-104\nDate: April 12, 2026\n\nConsultant:\nGrowth Advisory Group\n\nClient:\nBluePeak Solutions\n\nServices Provided:\n- Business Strategy Session: $1,500\n- Market Research Analysis: $800\n\nTotal Due: $2,300",
+    "tips": [
+      "Clearly outline consulting services and deliverables.",
+      "Include payment deadlines and accepted payment methods.",
+      "Use professional invoice numbering for organization.",
+      "Keep records of invoices for accounting and taxes."
+    ],
+    "faqs": [
+      {
+        "question": "What should a consultant invoice include?",
+        "answer": "A consultant invoice should include services provided, pricing, payment terms, and client details."
+      },
+      {
+        "question": "Can consultants charge hourly rates?",
+        "answer": "Yes, consultants commonly bill hourly, daily, or per project."
+      },
+      {
+        "question": "Should payment terms be included?",
+        "answer": "Yes, clear payment terms help reduce delays and misunderstandings."
+      }
+    ]
+  },
+  {
+    "slug": "invoice-service-flat-rate",
+    "title": "Flat-Rate Service Invoice",
+    "description": "Invoice template for flat-rate services.",
+    "category": {
+      "name": "Invoices",
+      "slug": "invoices"
+    },
+    "intro": "Use this invoice for fixed-price service work.",
+    "whenToUse": "Billing clients for project-based, flat-fee services.",
+    "template": "Invoice #: [Number]\nDate: [Date]\nService: [Description]\nAmount: [Total]\nDue: [Date]",
+    "example": "Invoice #: 3001\nDate: May 10, 2026\nService: Website redesign\nAmount: $3,000\nDue: June 10, 2026",
+    "faqs": [
+      {
+        "question": "What payment terms to include?",
+        "answer": "Include due date and accepted payment methods."
+      }
+    ]
+  },
+  {
+    "slug": "invoice-recurring-services",
+    "title": "Recurring Services Invoice",
+    "description": "Invoice template for ongoing subscription or retainer services.",
+    "category": {
+      "name": "Invoices",
+      "slug": "invoices"
+    },
+    "intro": "Use for monthly retainers or recurring service charges.",
+    "whenToUse": "Billing recurring clients on a set schedule.",
+    "template": "Invoice #: [Number]\nPeriod: [Month]\nService: [Description]\nAmount: [Total]\nDue: [Date]",
+    "example": "Invoice #: 4002\nPeriod: May 2026\nService: Social media retainer\nAmount: $1,500\nDue: June 1, 2026"
+  }
+]

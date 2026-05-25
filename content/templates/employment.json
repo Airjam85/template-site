@@ -1,0 +1,66 @@
+[
+  {
+    "slug": "write-up-employee-performance",
+    "title": "Employee Performance Write-Up",
+    "description": "A formal write-up template documenting performance issues.",
+    "category": {
+      "name": "Employment",
+      "slug": "employment"
+    },
+    "intro": "Use this template to document performance or conduct concerns.",
+    "whenToUse": "When an employee needs a formal warning or documentation in performance files.",
+    "template": "Date: [Date]\nEmployee: [Name]\nIssue: [Details]\nAction Required: [Improvement Steps]\nFollow-up Date: [Date]",
+    "example": "Date: May 1, 2026\nEmployee: Jordan Smith\nIssue: Repeated missed deadlines\nAction Required: Submit weekly status and meet deadlines\nFollow-up Date: May 29, 2026",
+    "faqs": [
+      {
+        "question": "Is HR review required?",
+        "answer": "Often yes; coordinate with HR before issuing formal write-ups."
+      }
+    ]
+  },
+  {
+    "slug": "pto-request-template",
+    "title": "PTO Request Email",
+    "description": "Template to request paid time off from a manager.",
+    "category": {
+      "name": "Employment",
+      "slug": "employment"
+    },
+    "intro": "A concise email for requesting PTO.",
+    "whenToUse": "Requesting planned vacation, personal days, or medical leave.",
+    "template": "Subject: PTO Request - [Dates]\n\nHi [Manager Name],\n\nI\u2019d like to request PTO from [Start Date] to [End Date]. I will ensure [Coverage Plan].\n\nThanks,\n[Your Name]",
+    "example": "Subject: PTO Request - June 10\u201314\n\nHi Maria,\n\nI\u2019d like to request PTO June 10\u201314. I will hand off current tasks to Priya and leave instructions.\n\nThanks,\nSam",
+    "faqs": [
+      {
+        "question": "How much notice?",
+        "answer": "As much as possible \u2014 two weeks is common for planned time off."
+      }
+    ]
+  },
+  {
+    "slug": "write-up-attendance-issue",
+    "title": "Attendance Write-Up",
+    "description": "Documenting attendance concerns in a formal write-up.",
+    "category": {
+      "name": "Employment",
+      "slug": "employment"
+    },
+    "intro": "Use to document repeated attendance or punctuality issues.",
+    "whenToUse": "When attendance policies are violated repeatedly.",
+    "template": "Employee: [Name]\nIssue: Tardiness on [Dates]\nAction: Improvement plan and follow-up on [Date]",
+    "example": "Employee: Chris\nIssue: Tardy on May 3, 5, 7\nAction: Submit weekly schedule and meet with manager on May 21"
+  },
+  {
+    "slug": "pto-request-urgent",
+    "title": "Urgent PTO Request",
+    "description": "Request template for urgent unplanned time off.",
+    "category": {
+      "name": "Employment",
+      "slug": "employment"
+    },
+    "intro": "A short message requesting urgent leave.",
+    "whenToUse": "Emergencies or sudden personal needs.",
+    "template": "Hi [Manager],\n\nI need urgent leave starting [Date] due to [Reason]. I will update you as soon as possible with details.\n\nThanks,\n[Name]",
+    "example": "Hi Alex,\n\nI need urgent leave starting May 19 due to a family emergency. I will share more details soon.\n\nThanks,\nTaylor"
+  }
+]

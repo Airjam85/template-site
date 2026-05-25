@@ -1,0 +1,134 @@
+[
+  {
+    "slug": "simple-business-plan-template",
+    "title": "Simple Business Plan Template",
+    "description": "Free one-page business plan template for startups, freelancers, and small businesses.",
+    "category": {
+      "name": "Business Plans",
+      "slug": "business-plans"
+    },
+    "intro": "This simple business plan template helps entrepreneurs organize their goals, services, target market, and financial strategy in a clear and professional format. It is designed for startups, freelancers, and small businesses that need a lightweight planning document.",
+    "whenToUse": "Use this template when launching a business, seeking funding, planning growth, or organizing business strategy.",
+    "template": "Business Name: [Business Name]\n\nBusiness Overview:\n[Describe your business]\n\nProducts or Services:\n[List products/services]\n\nTarget Market:\n[Describe your ideal customers]\n\nMarketing Strategy:\n[Explain how you will attract customers]\n\nFinancial Goals:\n[Revenue goals and projections]\n\nOperations Plan:\n[Daily operations and logistics]",
+    "example": "Business Name: Bright Pixel Studio\n\nBusiness Overview:\nA freelance design agency focused on branding and web design.\n\nProducts or Services:\nLogo design, website design, social media branding.\n\nTarget Market:\nSmall businesses and startups.\n\nMarketing Strategy:\nSEO, referrals, and LinkedIn outreach.",
+    "tips": [
+      "Keep your business plan concise and easy to understand.",
+      "Focus on clear goals and realistic projections.",
+      "Update your business plan regularly as the business evolves.",
+      "Tailor the plan to your audience if seeking funding."
+    ],
+    "faqs": [
+      {
+        "question": "What is a simple business plan?",
+        "answer": "A simple business plan outlines a company\u2019s goals, strategy, target market, and financial overview in a concise format."
+      },
+      {
+        "question": "Can startups use this template?",
+        "answer": "Yes, this template works well for startups and early-stage businesses."
+      },
+      {
+        "question": "Do investors require business plans?",
+        "answer": "Many investors and lenders require business plans before providing funding."
+      }
+    ]
+  },
+  {
+    "slug": "simple-business-plan-template-for-startups",
+    "title": "Simple Business Plan Template for Startups",
+    "description": "Free startup business plan template for outlining strategy, goals, funding, and growth plans.",
+    "category": {
+      "name": "Business Plans",
+      "slug": "business-plans"
+    },
+    "intro": "This startup business plan template helps founders organize their business strategy, market positioning, revenue goals, and operational plans in a concise format suitable for investors, partners, and internal planning.",
+    "whenToUse": "Use this template when launching a startup, preparing for investors, applying for funding, or organizing business operations.",
+    "template": "Startup Name: [Startup Name]\n\nBusiness Overview:\n[Describe your startup]\n\nProblem Being Solved:\n[Explain the problem]\n\nProducts or Services:\n[Describe your solution]\n\nTarget Market:\n[Ideal customers]\n\nRevenue Model:\n[How the business makes money]\n\nMarketing Strategy:\n[Customer acquisition plan]\n\nFunding Needs:\n[Investment or funding requirements]",
+    "example": "Startup Name: TaskFlow AI\n\nBusiness Overview:\nAn AI-powered productivity platform for remote teams.\n\nProblem Being Solved:\nRemote teams struggle with workflow management and communication.\n\nProducts or Services:\nAI-driven project management tools.\n\nRevenue Model:\nMonthly SaaS subscriptions.",
+    "tips": [
+      "Keep the business plan concise and investor-friendly.",
+      "Focus on the problem your startup solves.",
+      "Clearly explain your revenue model.",
+      "Update projections and strategy regularly."
+    ],
+    "faqs": [
+      {
+        "question": "Why do startups need business plans?",
+        "answer": "Business plans help startups organize strategy, attract investors, and guide operations."
+      },
+      {
+        "question": "Should startups include financial projections?",
+        "answer": "Yes, investors often expect realistic revenue and growth projections."
+      },
+      {
+        "question": "Can startup business plans be one page?",
+        "answer": "Yes, many startups begin with lightweight one-page business plans."
+      }
+    ]
+  },
+  {
+    "slug": "simple-business-plan-template-for-small-businesses",
+    "title": "Simple Business Plan Template for Small Businesses",
+    "description": "A one-page business plan template for small businesses.",
+    "category": {
+      "name": "Business Plans",
+      "slug": "business-plans"
+    },
+    "intro": "This small business plan template helps small business owners summarize strategy, goals, customers, and operations in one easy document.",
+    "whenToUse": "Use this template when planning a small business, preparing a pitch, or organizing business priorities.",
+    "template": "Business overview:\n[Describe your business]\n\nProducts or services:\n[List what you sell]\n\nTarget customers:\n[Who you serve]\n\nMarketing plan:\n[How you will attract customers]\n\nFinancial goals:\n[Revenue and profit goals]\n\nOperations plan:\n[How the business runs]",
+    "example": "Business overview:\nA local bakery specializing in custom cakes and pastries.\n\nProducts or services:\nCustom cakes, cupcakes, coffee, and catering.\n\nTarget customers:\nLocal families, event planners, and office clients.\n\nMarketing plan:\nSocial media, community events, and local partnerships.\n\nFinancial goals:\n$150,000 in annual sales.\n\nOperations plan:\nOpen six days a week with a small team handling baking and customer service.",
+    "tips": [
+      "Keep the plan brief and focused on the essentials.",
+      "Use realistic goals and timelines.",
+      "Review it regularly as your business grows.",
+      "Use it to communicate strategy to partners or lenders."
+    ],
+    "faqs": [
+      {
+        "question": "What should a small business plan include?",
+        "answer": "It should include a business overview, target customers, marketing, financial goals, and operations."
+      },
+      {
+        "question": "Is a one-page plan enough?",
+        "answer": "Yes, for early-stage or simple small businesses, one page is often sufficient."
+      },
+      {
+        "question": "Can I use this plan to apply for loans?",
+        "answer": "Yes, it can support loan applications when paired with financial details."
+      }
+    ]
+  },
+  {
+    "slug": "simple-business-plan-template-for-freelancers",
+    "title": "Simple Business Plan Template for Freelancers",
+    "description": "One-page freelancer business plan template.",
+    "category": {
+      "name": "Business Plans",
+      "slug": "business-plans"
+    },
+    "intro": "This freelancer business plan template helps independent professionals define services, target clients, pricing, and growth strategy.",
+    "whenToUse": "Use this template when planning freelance services, setting goals, or preparing to pitch clients.",
+    "template": "Business overview:\n[Describe your freelance business]\n\nServices offered:\n[List services]\n\nTarget clients:\n[Describe ideal clients]\n\nPricing model:\n[Hourly or project pricing]\n\nMarketing plan:\n[How you will find clients]\n\nGoals:\n[Revenue or client goals]",
+    "example": "Business overview:\nA freelance copywriter specializing in email marketing and blog content.\n\nServices offered:\nEmail campaigns, blog posts, website copy.\n\nTarget clients:\nSmall businesses and startups.\n\nPricing model:\n$150 per hour or packaged project rates.\n\nMarketing plan:\nLinkedIn outreach, referrals, and content marketing.\n\nGoals:\nAdd five recurring clients this year.",
+    "tips": [
+      "Clearly define the services you offer.",
+      "Set achievable revenue and client goals.",
+      "Use consistent pricing language for clients.",
+      "Update the plan as your freelance business evolves."
+    ],
+    "faqs": [
+      {
+        "question": "What should a freelancer business plan include?",
+        "answer": "It should include your services, target clients, pricing, marketing, and goals."
+      },
+      {
+        "question": "Is a simple business plan enough for freelancers?",
+        "answer": "Yes, a concise plan is often best for solo professionals."
+      },
+      {
+        "question": "Can freelancers use this plan to find clients?",
+        "answer": "Yes, it helps communicate your value and business focus."
+      }
+    ]
+  }
+]

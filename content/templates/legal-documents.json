@@ -1,0 +1,652 @@
+[
+  {
+    "slug": "nda-template",
+    "title": "NDA Template",
+    "description": "Free non-disclosure agreement template for protecting confidential information.",
+    "category": {
+      "name": "Legal Documents",
+      "slug": "legal-documents"
+    },
+    "intro": "This NDA template helps businesses and freelancers protect confidential business information.",
+    "whenToUse": "Use before sharing sensitive business or project information.",
+    "template": "This NDA is made between [Party A] and [Party B].\n\nBoth parties agree not to disclose confidential information.\n\nDuration: [Time Period]",
+    "example": "This NDA is made between Startup X and Contractor Y.\n\nDuration: 2 years",
+    "faqs": [
+      {
+        "question": "What is an NDA?",
+        "answer": "An NDA is a legal agreement used to protect confidential information."
+      },
+      {
+        "question": "Who uses NDAs?",
+        "answer": "Businesses, startups, freelancers, and employees commonly use NDAs."
+      }
+    ]
+  },
+  {
+    "slug": "employment-verification-letter",
+    "title": "Employment Verification Letter Template",
+    "description": "Free employment verification letter template for confirming job status, income, and employment details.",
+    "category": {
+      "name": "Legal Documents",
+      "slug": "legal-documents"
+    },
+    "intro": "This employment verification letter template is used by employers and HR departments to confirm an employee\u2019s current or past employment status. It can be used for rental applications, loan applications, immigration processes, and background checks.",
+    "whenToUse": "Use this template when an employee, bank, landlord, or government agency requests official proof of employment.",
+    "template": "To Whom It May Concern,\n\nThis letter confirms that [Employee Name] is employed with [Company Name] as a [Job Title]. [Employee Name] has been employed with the company since [Start Date].\n\nCurrent employment status: [Full-Time/Part-Time]\nCurrent salary: [Salary Information]\n\nIf you require additional information, please contact us at [Phone Number] or [Email Address].\n\nSincerely,\n[Employer Name]\n[Company Name]",
+    "example": "To Whom It May Concern,\n\nThis letter confirms that Sarah Johnson is employed with ABC Solutions as a Marketing Manager. Sarah has been employed with the company since June 2022.\n\nCurrent employment status: Full-Time\nCurrent salary: $72,000 annually\n\nSincerely,\nMichael Brown\nABC Solutions",
+    "tips": [
+      "Use official company letterhead if possible.",
+      "Only include salary information if authorized by the employee.",
+      "Double-check employment dates for accuracy.",
+      "Keep the tone formal and professional."
+    ],
+    "faqs": [
+      {
+        "question": "What is an employment verification letter?",
+        "answer": "An employment verification letter confirms a person\u2019s job status, role, and employment details."
+      },
+      {
+        "question": "Who requests employment verification letters?",
+        "answer": "Landlords, banks, immigration agencies, and lenders commonly request them."
+      },
+      {
+        "question": "Should salary information be included?",
+        "answer": "Salary details should only be included when necessary and authorized."
+      }
+    ]
+  },
+  {
+    "slug": "termination-letter-template",
+    "title": "Termination Letter Template",
+    "description": "Free employee termination letter template for professional and compliant dismissal communication.",
+    "category": {
+      "name": "Legal Documents",
+      "slug": "legal-documents"
+    },
+    "intro": "This termination letter template helps employers formally notify employees about termination of employment while maintaining professionalism and clear communication. It provides a documented record of the employment decision.",
+    "whenToUse": "Use this template when ending employment due to performance issues, restructuring, policy violations, or contract completion.",
+    "template": "Dear [Employee Name],\n\nThis letter is to inform you that your employment with [Company Name] will be terminated effective [Termination Date].\n\nReason for termination: [Reason]\n\nPlease return all company property by your final working day.\n\nWe appreciate your contributions and wish you the best in your future endeavors.\n\nSincerely,\n[Manager Name]\n[Company Name]",
+    "example": "Dear John Smith,\n\nThis letter is to inform you that your employment with ABC Logistics will be terminated effective April 30, 2026.\n\nReason for termination: Position restructuring.\n\nSincerely,\nKaren Lee\nABC Logistics",
+    "tips": [
+      "Keep the language professional and factual.",
+      "Avoid emotional or accusatory wording.",
+      "Consult HR or legal counsel if necessary.",
+      "Document all termination-related communication."
+    ],
+    "faqs": [
+      {
+        "question": "What is a termination letter?",
+        "answer": "A termination letter formally notifies an employee that their employment is ending."
+      },
+      {
+        "question": "Should termination letters include a reason?",
+        "answer": "Many employers include a brief reason for documentation purposes."
+      },
+      {
+        "question": "Is a termination letter legally required?",
+        "answer": "Requirements vary by jurisdiction and employer policies."
+      }
+    ]
+  },
+  {
+    "slug": "nda-template-for-freelancers",
+    "title": "NDA Template for Freelancers",
+    "description": "Free freelance NDA template for protecting confidential client and project information.",
+    "category": {
+      "name": "Legal Documents",
+      "slug": "legal-documents"
+    },
+    "intro": "This freelance NDA template helps freelancers protect confidential information shared during projects, contracts, and client collaborations. It establishes expectations regarding privacy and non-disclosure.",
+    "whenToUse": "Use this template before starting freelance work that involves confidential business information, trade secrets, or sensitive project details.",
+    "template": "This Non-Disclosure Agreement (NDA) is entered into between [Client Name] and [Freelancer Name].\n\nBoth parties agree not to disclose confidential information related to the project, including business strategies, client data, proprietary materials, and trade secrets.\n\nThis agreement remains in effect for [Time Period].\n\nSigned:\n[Client Name]\n[Freelancer Name]",
+    "example": "This Non-Disclosure Agreement (NDA) is entered into between BrightWave Media and Sarah Lee.\n\nBoth parties agree not to disclose confidential marketing strategies or internal project information.\n\nThis agreement remains in effect for 2 years.",
+    "tips": [
+      "Clearly define what information is considered confidential.",
+      "Include the duration of the agreement.",
+      "Have both parties sign the NDA before work begins.",
+      "Consult legal counsel for complex agreements."
+    ],
+    "faqs": [
+      {
+        "question": "What is a freelance NDA?",
+        "answer": "A freelance NDA is a confidentiality agreement between a freelancer and a client."
+      },
+      {
+        "question": "Do freelancers need NDAs?",
+        "answer": "NDAs help protect sensitive client information and reduce legal risk."
+      },
+      {
+        "question": "Can NDA templates be customized?",
+        "answer": "Yes, NDA templates are commonly customized for different industries and projects."
+      }
+    ]
+  },
+  {
+    "slug": "recommendation-letter-template-for-students",
+    "title": "Recommendation Letter Template for Students",
+    "description": "Free student recommendation letter template for academic and scholarship applications.",
+    "category": {
+      "name": "Legal Documents",
+      "slug": "legal-documents"
+    },
+    "intro": "This student recommendation letter template helps teachers, mentors, and advisors write strong references for students applying to colleges, scholarships, internships, or academic programs.",
+    "whenToUse": "Use this template when recommending a student for educational opportunities, scholarships, leadership programs, or internships.",
+    "template": "To Whom It May Concern,\n\nI am pleased to recommend [Student Name] for [Program, Scholarship, or Opportunity]. During their time at [School or Organization], they demonstrated strong academic performance, leadership, and dedication.\n\n[Student Name] consistently showed responsibility, professionalism, and a positive attitude.\n\nI am confident they will succeed in future academic and professional endeavors.\n\nSincerely,\n[Your Name]\n[Title or Position]",
+    "example": "To Whom It May Concern,\n\nI am pleased to recommend Sarah Thompson for the Academic Excellence Scholarship. During her time at Westview High School, Sarah consistently demonstrated leadership, discipline, and academic achievement.\n\nShe would be an excellent candidate for your program.\n\nSincerely,\nJames Carter\nGuidance Counselor",
+    "tips": [
+      "Include specific examples of the student\u2019s strengths.",
+      "Mention leadership, academic performance, or character.",
+      "Keep the tone supportive and professional.",
+      "Tailor the letter to the application purpose."
+    ],
+    "faqs": [
+      {
+        "question": "Who writes recommendation letters for students?",
+        "answer": "Teachers, counselors, coaches, and mentors commonly write them."
+      },
+      {
+        "question": "What should student recommendation letters include?",
+        "answer": "They should include academic strengths, character traits, and relevant achievements."
+      },
+      {
+        "question": "Can recommendation letters be reused?",
+        "answer": "They can be adapted for multiple applications, but customization is recommended."
+      }
+    ]
+  },
+  {
+    "slug": "employment-verification-letter-for-visa-applications",
+    "title": "Employment Verification Letter for Visa Applications",
+    "description": "Free employment verification letter template for visa applications and immigration documentation.",
+    "category": {
+      "name": "Legal Documents",
+      "slug": "legal-documents"
+    },
+    "intro": "This employment verification letter template helps employees provide official proof of employment for visa applications, immigration requests, embassy interviews, and international travel documentation.",
+    "whenToUse": "Use this template when a visa application or immigration authority requires confirmation of employment, salary, or job position.",
+    "template": "To Whom It May Concern,\n\nThis letter confirms that [Employee Name] is currently employed with [Company Name] as a [Job Title]. [Employee Name] has been employed with the company since [Start Date].\n\nCurrent employment status: [Full-Time/Part-Time]\nAnnual salary: [Salary]\n\nThis verification is being provided upon the employee\u2019s request for visa application purposes.\n\nIf additional information is required, please contact us at [Phone Number] or [Email Address].\n\nSincerely,\n[Employer Name]\n[Company Name]",
+    "example": "To Whom It May Concern,\n\nThis letter confirms that David Wilson is currently employed with BrightCore Technologies as a Software Engineer. David has been employed with the company since February 2023.\n\nCurrent employment status: Full-Time\nAnnual salary: $95,000\n\nSincerely,\nLaura Simmons\nBrightCore Technologies",
+    "tips": [
+      "Use official company letterhead whenever possible.",
+      "Ensure employment dates and salary information are accurate.",
+      "Include employer contact details for verification.",
+      "Review embassy or immigration requirements before submission."
+    ],
+    "faqs": [
+      {
+        "question": "What is an employment verification letter for visas?",
+        "answer": "It is a document confirming employment details for immigration or visa purposes."
+      },
+      {
+        "question": "Do visa applications require salary information?",
+        "answer": "Some visa applications may require proof of income or salary details."
+      },
+      {
+        "question": "Should the letter be signed?",
+        "answer": "Yes, signed employment verification letters appear more official and credible."
+      }
+    ]
+  },
+  {
+    "slug": "termination-letter-template-for-employees",
+    "title": "Termination Letter Template for Employees",
+    "description": "Employee termination letter template for clearly communicating job termination.",
+    "category": {
+      "name": "Legal Documents",
+      "slug": "legal-documents"
+    },
+    "intro": "This employee termination letter template ensures clear, professional communication during job termination while documenting the decision in writing.",
+    "whenToUse": "Use this template when terminating an employee for performance, policy violations, restructuring, or contract completion.",
+    "template": "Dear [Employee Name],\n\nThis letter is to inform you that your employment with [Company Name] will be terminated effective [Termination Date].\n\nReason for termination: [Reason]\n\nPlease return all company property by your final working day.\n\nWe appreciate your contributions and wish you the best in your future endeavors.\n\nSincerely,\n[Manager Name]\n[Company Name]",
+    "example": "Dear Maria Garcia,\n\nThis letter is to inform you that your employment with Oak Ridge Marketing will be terminated effective May 15, 2026.\n\nReason for termination: Repeated policy violations after prior warnings.\n\nPlease return all company property by your final working day.\n\nSincerely,\nDavid Cole\nOak Ridge Marketing",
+    "tips": [
+      "Keep the language factual and avoid emotion.",
+      "Provide the effective date clearly.",
+      "Confirm any final pay, benefits, or return-of-property requirements.",
+      "Review the letter with HR or legal counsel when needed."
+    ],
+    "faqs": [
+      {
+        "question": "Do termination letters need to include a reason?",
+        "answer": "Including a brief reason is helpful for documentation, though legal requirements vary by jurisdiction."
+      },
+      {
+        "question": "Should I send a termination letter by email?",
+        "answer": "Many employers provide a signed letter in person or email it after the in-person meeting."
+      },
+      {
+        "question": "Can a termination letter be revised afterward?",
+        "answer": "Yes, if the decision changes, update the letter and provide a corrected version."
+      }
+    ]
+  },
+  {
+    "slug": "nda-template-for-startups",
+    "title": "NDA Template for Startups",
+    "description": "Startup NDA template for protecting ideas and confidential business information.",
+    "category": {
+      "name": "Legal Documents",
+      "slug": "legal-documents"
+    },
+    "intro": "This NDA template helps startups protect sensitive business ideas, product plans, investor discussions, and proprietary information.",
+    "whenToUse": "Use this template before sharing confidential details with employees, contractors, partners, or potential investors.",
+    "template": "This Non-Disclosure Agreement (NDA) is entered into between [Startup Name] and [Receiving Party].\n\nConfidential information includes business plans, product concepts, financial data, and customer lists.\n\nThe receiving party agrees not to disclose or use confidential information except as authorized.\n\nThis agreement remains in effect for [Time Period].",
+    "example": "This Non-Disclosure Agreement (NDA) is entered into between SparkFlow Labs and DesignCo.\n\nConfidential information includes product concept documents, investor materials, and customer research.\n\nThe receiving party agrees not to disclose or use confidential information except as authorized.\n\nThis agreement remains in effect for 2 years.",
+    "tips": [
+      "Define what qualifies as confidential information.",
+      "Choose an appropriate duration for the NDA.",
+      "Require signatures from both parties.",
+      "Get legal advice if the startup is raising capital or sharing trade secrets."
+    ],
+    "faqs": [
+      {
+        "question": "When should a startup use an NDA?",
+        "answer": "Startups should use NDAs when sharing proprietary ideas with outside parties or contractors."
+      },
+      {
+        "question": "Can NDAs cover investors?",
+        "answer": "Yes, many startups ask investors to sign NDAs before sharing sensitive materials."
+      },
+      {
+        "question": "How long should an NDA last?",
+        "answer": "A common duration is 1\u20133 years, depending on how long the information needs protection."
+      }
+    ]
+  },
+  {
+    "slug": "employment-verification-letter-for-loan-applications",
+    "title": "Employment Verification Letter for Loan Applications",
+    "description": "Employment verification letter template for loan and financing applications.",
+    "category": {
+      "name": "Legal Documents",
+      "slug": "legal-documents"
+    },
+    "intro": "This employment verification letter template helps borrowers provide proof of employment and income for loan applications.",
+    "whenToUse": "Use this letter when a lender or financial institution requires employment verification for mortgage, personal, or business loans.",
+    "template": "To Whom It May Concern,\n\nThis letter confirms that [Employee Name] is employed with [Company Name] as a [Job Title]. [Employee Name] has been employed since [Start Date].\n\nCurrent employment status: [Full-Time/Part-Time]\nAnnual salary: [Salary]\n\nIf additional information is needed, please contact us at [Phone Number] or [Email Address].\n\nSincerely,\n[Employer Name]\n[Company Name]",
+    "example": "To Whom It May Concern,\n\nThis letter confirms that Maria Chen is employed with BlueTree Finance as a Senior Analyst. Maria has been employed since August 2021.\n\nCurrent employment status: Full-Time\nAnnual salary: $82,000\n\nIf additional information is needed, please contact us at 555-123-4567 or hr@bluetreefinance.com.\n\nSincerely,\nRachel Ortiz\nBlueTree Finance",
+    "tips": [
+      "Include accurate employment dates and salary details.",
+      "Use official letterhead when available.",
+      "Confirm the employee\u2019s job title before sending.",
+      "Provide employer contact information for verification."
+    ],
+    "faqs": [
+      {
+        "question": "What is an employment verification letter for loans?",
+        "answer": "It is a document confirming employment details and income for a lender\u2019s review."
+      },
+      {
+        "question": "Should salary be included?",
+        "answer": "Yes, if the lender requests income verification."
+      },
+      {
+        "question": "Who signs this letter?",
+        "answer": "A manager, HR representative, or authorized employer contact typically signs it."
+      }
+    ]
+  },
+  {
+    "slug": "termination-letter-template-for-contractors-uk",
+    "title": "Termination Letter Template for Contractors-uk",
+    "description": "Contractor termination letter template for ending service agreements.",
+    "category": {
+      "name": "Legal Documents",
+      "slug": "legal-documents"
+    },
+    "intro": "This contractor termination letter template helps businesses formally end contractor engagements while documenting the reason and next steps.",
+    "whenToUse": "Use this template when ending a contractor or consultant agreement due to completion, performance issues, or changing business needs.",
+    "template": "Dear [Contractor Name],\n\nThis letter serves as formal notice that your contract with [Company Name] will end effective [Termination Date].\n\nReason: [Reason] \n\nPlease return any company materials and submit all final deliverables by your termination date.\n\nThank you for your work and cooperation.\n\nSincerely,\n[Manager Name]\n[Company Name]",
+    "example": "Dear Jordan Lee,\n\nThis letter serves as formal notice that your contract with Greenfield Media will end effective June 30, 2026.\n\nReason: Project scope has been completed.\n\nPlease submit final deliverables and return any company assets by your termination date.\n\nThank you for your work.\n\nSincerely,\nAvery Brooks\nGreenfield Media",
+    "tips": [
+      "State the termination date and reason clearly.",
+      "Clarify expectations for final deliverables and asset returns.",
+      "Keep the tone professional and respectful.",
+      "Confirm whether any outstanding payments remain."
+    ],
+    "faqs": [
+      {
+        "question": "What is a contractor termination letter?",
+        "answer": "It is a formal notice that a contractor\u2019s engagement is ending."
+      },
+      {
+        "question": "Should contractors be given notice?",
+        "answer": "Yes, provide notice consistent with the contract terms."
+      },
+      {
+        "question": "Do contractor terminations need a reason?",
+        "answer": "A brief reason is useful for documentation and clarity."
+      }
+    ]
+  },
+  {
+    "slug": "nda-template-for-employees",
+    "title": "NDA Template for Employees",
+    "description": "Employee NDA template for protecting confidential company information.",
+    "category": {
+      "name": "Legal Documents",
+      "slug": "legal-documents"
+    },
+    "intro": "This NDA template helps employers protect confidential business information and trade secrets when sharing details with employees.",
+    "whenToUse": "Use this template when onboarding employees who will access confidential information or proprietary systems.",
+    "template": "This Non-Disclosure Agreement (NDA) is made between [Employer Name] and [Employee Name].\n\nThe employee agrees not to disclose confidential information about company operations, products, clients, or technologies.\n\nThis agreement remains in effect for [Time Period].\n\nSigned:\n[Employer Name]\n[Employee Name]",
+    "example": "This Non-Disclosure Agreement (NDA) is made between Horizon Tech and Alex Diaz.\n\nThe employee agrees not to disclose confidential information about company products, customer data, or internal strategies.\n\nThis agreement remains in effect for 2 years.\n\nSigned:\nHorizon Tech\nAlex Diaz",
+    "tips": [
+      "Define confidential information precisely.",
+      "Set an appropriate duration for the agreement.",
+      "Have both employee and employer sign the document.",
+      "Update agreements when company policies change."
+    ],
+    "faqs": [
+      {
+        "question": "Why do employees sign NDAs?",
+        "answer": "To protect proprietary company information and prevent unauthorized disclosure."
+      },
+      {
+        "question": "Can an NDA apply after employment ends?",
+        "answer": "Yes, many NDAs remain effective after employment ends."
+      },
+      {
+        "question": "Should employers customize employee NDAs?",
+        "answer": "Yes, tailor NDAs to the specific confidential information and role."
+      }
+    ]
+  },
+  {
+    "slug": "employment-verification-letter-for-rental-applications",
+    "title": "Employment Verification Letter for Rental Applications",
+    "description": "Employment verification letter template for rental and housing applications.",
+    "category": {
+      "name": "Legal Documents",
+      "slug": "legal-documents"
+    },
+    "intro": "This employment verification letter template helps renters provide proof of income and employment status to landlords or property managers.",
+    "whenToUse": "Use this letter when a rental application requires verification of employment, salary, or job stability.",
+    "template": "To Whom It May Concern,\n\nThis letter confirms that [Employee Name] is employed with [Company Name] as a [Job Title]. [Employee Name] has been employed since [Start Date].\n\nCurrent employment status: [Full-Time/Part-Time]\nMonthly salary: [Salary]\n\nIf additional information is needed, please contact us at [Phone Number] or [Email Address].\n\nSincerely,\n[Employer Name]\n[Company Name]",
+    "example": "To Whom It May Concern,\n\nThis letter confirms that Hannah Lee is employed with Midtown Retail as a Store Supervisor. Hannah has been employed since March 2022.\n\nCurrent employment status: Full-Time\nMonthly salary: $4,500\n\nIf additional information is needed, please contact us at 555-678-9012 or hr@midtownretail.com.\n\nSincerely,\nElaine Park\nMidtown Retail",
+    "tips": [
+      "Provide accurate salary and employment details.",
+      "Use official letterhead or company email if possible.",
+      "Confirm the employee\u2019s job title before issuing the letter.",
+      "Keep the letter concise and factual."
+    ],
+    "faqs": [
+      {
+        "question": "What is an employment verification letter for rentals?",
+        "answer": "It is a document that confirms a renter\u2019s employment and income for a landlord."
+      },
+      {
+        "question": "Do rental applications need employment letters?",
+        "answer": "Many landlords request them to verify financial stability."
+      },
+      {
+        "question": "Can the letter include salary?",
+        "answer": "Yes, if the landlord requests income information."
+      }
+    ]
+  },
+  {
+    "slug": "termination-letter-template-for-employers",
+    "title": "Termination Letter Template for Employers",
+    "description": "Employer termination letter template for documenting employee separations.",
+    "category": {
+      "name": "Legal Documents",
+      "slug": "legal-documents"
+    },
+    "intro": "This termination letter template helps employers formally notify employees of dismissal decisions while documenting the effective date and next steps.",
+    "whenToUse": "Use this template when an employer needs to formally end an employee\u2019s position for performance, restructuring, or business reasons.",
+    "template": "Dear [Employee Name],\n\nThis letter confirms that your employment with [Company Name] will end effective [Termination Date].\n\nReason for termination: [Reason]\n\nPlease return all company property and complete any outstanding exit procedures before your final day.\n\nWe appreciate your contributions and wish you success in the future.\n\nSincerely,\n[Manager Name]\n[Company Name]",
+    "example": "Dear David Nguyen,\n\nThis letter confirms that your employment with Cedar Point Digital will end effective July 1, 2026.\n\nReason for termination: Position eliminated due to restructuring.\n\nPlease return all company property and complete exit procedures prior to your final day.\n\nWe appreciate your contributions and wish you success in the future.\n\nSincerely,\nMonica Patel\nCedar Point Digital",
+    "tips": [
+      "Document the termination date and reason clearly.",
+      "Provide guidance on returning company property.",
+      "Keep the message professional and concise.",
+      "Coordinate with HR to ensure compliance."
+    ],
+    "faqs": [
+      {
+        "question": "Can employers issue termination letters by email?",
+        "answer": "Yes, email is common, but a signed letter may be preferred for records."
+      },
+      {
+        "question": "What should a termination letter include?",
+        "answer": "It should include the effective date, reason, and any next steps."
+      },
+      {
+        "question": "Should I keep a copy of the termination letter?",
+        "answer": "Yes, retain a copy for your employment records and compliance."
+      },
+      {
+        "question": "Can a termination letter be contested?",
+        "answer": "Yes, employees can dispute terminations, so ensure the letter is factual and compliant with laws."
+      }
+    ]
+  },
+  {
+    "slug": "roommate agreement-template",
+    "title": "Roommate Agreement Template",
+    "description": "A roommate agreement template for shared living arrangements.",
+    "category": {
+      "name": "Legal Documents",
+      "slug": "legal-documents"
+    },
+    "intro": "This roommate agreement template helps roommates set clear expectations for shared living arrangements, including rent, chores, and house rules.",
+    "whenToUse": "Use this template when moving in with roommates to establish agreements and prevent conflicts.",
+    "template": "Roommate Agreement\n\nThis agreement is made between [Roommate 1 Name] and [Roommate 2 Name].\n\nRent and utilities:\n[How rent and bills will be split]\n\nChores and responsibilities:\n[How household tasks will be divided]\n\nHouse rules:\n[Rules for guests, noise, shared spaces]\n\nDuration:\n[How long the agreement lasts]\n\nSigned:\n[Roommate 1 Name]\n[Roommate 2 Name]",
+    "example": "Roommate Agreement\n\nThis agreement is made between Emily Chen and Sarah Lee.\n\nRent and utilities:\nRent will be split 50/50, and utilities will be split based on usage.\n\nChores and responsibilities:\nEmily will handle kitchen and bathroom cleaning, while Sarah will take care of living room and trash.\n\nHouse rules:\nNo overnight guests without prior approval, quiet hours from 10 PM to 7 AM, and shared use of the living room and kitchen.\n\nDuration:\nThis agreement is valid for one year, starting from September 1, 2026.\n\nSigned:\nEmily Chen\nSarah Lee",
+    "tips": [
+      "Be specific about financial arrangements and responsibilities.",
+      "Discuss and agree on house rules to prevent conflicts.",
+      "Review and update the agreement as needed.",
+      "Keep a signed copy for all roommates."
+    ],
+    "faqs": [
+      {
+        "question": "Why should roommates have an agreement?",
+        "answer": "A roommate agreement helps set clear expectations and prevent conflicts by outlining responsibilities and rules."
+      },
+      {
+        "question": "Can a roommate agreement be legally binding?",
+        "answer": "While not always legally enforceable, a written agreement can provide clarity and support in disputes."
+      },
+      {
+        "question": "Should roommates discuss financial arrangements?",
+        "answer": "Yes, clear communication about rent and bills is essential for a harmonious living situation."
+      }
+    ]
+  },
+  {
+    "slug": "nda-template-for-contractors",
+    "title": "NDA Template for Contractors",
+    "description": "Contractor NDA template for protecting confidential information.",
+    "category": {
+      "name": "Legal Documents",
+      "slug": "legal-documents"
+    },
+    "intro": "This NDA template helps businesses protect confidential information when sharing details with contractors or consultants.",
+    "whenToUse": "Use this template when engaging contractors who will access sensitive business information or proprietary systems.",
+    "template": "This Non-Disclosure Agreement (NDA) is made between [Company Name] and [Contractor Name].\n\nThe contractor agrees not to disclose confidential information about company operations, products, clients, or technologies.\n\nThis agreement remains in effect for [Time Period].\n\nSigned:\n[Company Name]\n[Contractor Name]",
+    "example": "This Non-Disclosure Agreement (NDA) is made between Tech Solutions Inc. and Alex Johnson.\n\nThe contractor agrees not to disclose confidential information about company products, customer data, or internal strategies.\n\nThis agreement remains in effect for 1 year.\n\nSigned:\nTech Solutions Inc.\nAlex Johnson",
+    "tips": [
+      "Define confidential information precisely.",
+      "Set an appropriate duration for the agreement.",
+      "Have both contractor and company sign the document.",
+      "Update agreements when company policies change."
+    ],
+    "faqs": [
+      {
+        "question": "Why do contractors sign NDAs?",
+        "answer": "To protect proprietary company information and prevent unauthorized disclosure."
+      },
+      {
+        "question": "Can an NDA apply after the contract ends?",
+        "answer": "Yes, many NDAs remain effective after the contract ends."
+      },
+      {
+        "question": "Should companies customize contractor NDAs?",
+        "answer": "Yes, tailor NDAs to the specific confidential information and role."
+      }
+    ]
+  },
+  {
+    "slug": "termination-letter-template-for-contractors",
+    "title": "Termination Letter Template for Contractors",
+    "description": "Contractor termination letter template for documenting contract separations.",
+    "category": {
+      "name": "Legal Documents",
+      "slug": "legal-documents"
+    },
+    "intro": "This termination letter template helps businesses formally notify contractors of dismissal decisions while documenting the effective date and next steps.",
+    "whenToUse": "Use this template when a business needs to formally end a contractor\u2019s engagement for performance, project completion, or business reasons.",
+    "template": "Dear [Contractor Name],\n\nThis letter confirms that your engagement with [Company Name] will end effective [Termination Date].\n\nReason for termination: [Reason]\n\nPlease return all company property and complete any outstanding exit procedures before your final day.\n\nWe appreciate your contributions and wish you success in the future.\n\nSincerely,\n[Manager Name]\n[Company Name]",
+    "example": "Dear Alex Johnson,\n\nThis letter confirms that your engagement with Tech Solutions Inc. will end effective August 1, 2026.\n\nReason for termination: Project completed and contract fulfilled.\n\nPlease return all company property and complete any outstanding exit procedures prior to your final day.\n\nWe appreciate your contributions and wish you success in the future.\n\nSincerely,\nSarah Williams\nTech Solutions Inc.",
+    "tips": [
+      "Document the termination date and reason clearly.",
+      "Provide guidance on returning company property.",
+      "Keep the message professional and concise.",
+      "Coordinate with legal or HR to ensure compliance with contract terms."
+    ],
+    "faqs": [
+      {
+        "question": "Can businesses issue termination letters to contractors by email?",
+        "answer": "Yes, email is common for contractor communications, but a signed letter may be preferred for records."
+      },
+      {
+        "question": "What should a contractor termination letter include?",
+        "answer": "It should include the effective date, reason for termination, and any next steps for returning property or completing exit procedures."
+      },
+      {
+        "question": "Should I keep a copy of the contractor termination letter?",
+        "answer": "Yes, retain a copy for your records and to ensure compliance with contract terms."
+      }
+    ]
+  },
+  {
+    "slug": "roommate-move-out-notice",
+    "title": "Roommate Move-Out Notice",
+    "description": "A short notice template to inform roommates of moving out.",
+    "category": {
+      "name": "Legal Documents",
+      "slug": "legal-documents"
+    },
+    "intro": "Use this notice to formally notify roommates and document move-out details.",
+    "whenToUse": "When a roommate decides to vacate a shared rental.",
+    "template": "Dear [Roommate Name],\n\nI plan to move out on [Date]. Please let me know arrangements for deposits, keys, and cleaning.\n\nSincerely,\n[Your Name]",
+    "example": "Dear Kim,\n\nI plan to move out on July 1, 2026. I will coordinate returning the keys and splitting final utilities.\n\nThanks,\nJordan",
+    "faqs": [
+      {
+        "question": "How much notice?",
+        "answer": "Check your lease; 30 days is a common requirement."
+      }
+    ]
+  },
+  {
+    "slug": "bill-of-sale-general",
+    "title": "General Bill of Sale",
+    "description": "A simple bill of sale template for personal property transfers.",
+    "category": {
+      "name": "Legal Documents",
+      "slug": "legal-documents"
+    },
+    "intro": "Use this bill of sale to document the sale of used items between private parties.",
+    "whenToUse": "Selling items like vehicles, equipment, or furniture privately.",
+    "template": "Bill of Sale\n\nSeller: [Name]\nBuyer: [Name]\nItem: [Description]\nSale Price: [Amount]\nDate: [Date]\n\nSeller Signature: __________",
+    "example": "Bill of Sale\n\nSeller: Mark Lee\nBuyer: Anna Kim\nItem: Used lawn mower\nSale Price: $200\nDate: May 2, 2026",
+    "faqs": [
+      {
+        "question": "Is it legally binding?",
+        "answer": "Often yes for personal property sales; check local requirements for vehicles."
+      }
+    ]
+  },
+  {
+    "slug": "promissory-note-basic",
+    "title": "Basic Promissory Note",
+    "description": "Simple promissory note template for personal loans.",
+    "category": {
+      "name": "Legal Documents",
+      "slug": "legal-documents"
+    },
+    "intro": "A straightforward promissory note documenting repayment terms between individuals.",
+    "whenToUse": "When lending or borrowing money informally between acquaintances.",
+    "template": "Promissory Note\n\nBorrower: [Name]\nLender: [Name]\nAmount: [Amount]\nRepayment Terms: [Schedule]\nDate: [Date]\n\nBorrower Signature: __________",
+    "example": "Promissory Note\n\nBorrower: Tim Green\nLender: Sara Park\nAmount: $1,000\nRepayment Terms: $100/month for 10 months\nDate: April 5, 2026",
+    "faqs": [
+      {
+        "question": "Should it be notarized?",
+        "answer": "Not required in many cases but notarization can add formality and provenance."
+      }
+    ]
+  },
+  {
+    "slug": "simple-affidavit-template",
+    "title": "Simple Affidavit",
+    "description": "A basic affidavit template for sworn statements.",
+    "category": {
+      "name": "Legal Documents",
+      "slug": "legal-documents"
+    },
+    "intro": "Use this affidavit template to provide a sworn written statement of facts.",
+    "whenToUse": "When a sworn statement is needed for legal or administrative purposes.",
+    "template": "Affidavit\n\nI, [Name], state under oath that: [Statement].\n\nSigned: __________\nDate: [Date]",
+    "example": "Affidavit\n\nI, Alex Rivera, state under oath that I witnessed the property damage on March 10, 2026.\n\nSigned: Alex Rivera",
+    "faqs": [
+      {
+        "question": "Do affidavits need notarization?",
+        "answer": "Often yes; check local rules for sworn statements."
+      }
+    ]
+  },
+  {
+    "slug": "roommate-rent-sharing-agreement",
+    "title": "Rent Sharing Agreement",
+    "description": "A template to outline how rent and utilities are shared.",
+    "category": {
+      "name": "Legal Documents",
+      "slug": "legal-documents"
+    },
+    "intro": "Clarify rent splits, due dates, and utility responsibilities.",
+    "whenToUse": "When entering a shared rental with roommates.",
+    "template": "Roommates: [Names]\nRent Split: [Details]\nUtilities: [Details]\nSignatures:\n[Names]",
+    "example": "Roommates: Anna / Luke\nRent Split: 50/50\nUtilities: Split monthly\nSignatures: Anna / Luke"
+  },
+  {
+    "slug": "bill-of-sale-vehicle-basic",
+    "title": "Basic Vehicle Bill of Sale",
+    "description": "Bill of sale template for used vehicle transfers.",
+    "category": {
+      "name": "Legal Documents",
+      "slug": "legal-documents"
+    },
+    "intro": "Document the sale of a vehicle including VIN and price.",
+    "whenToUse": "Selling a used car or vehicle privately.",
+    "template": "Seller: [Name]\nBuyer: [Name]\nVehicle: [Make/Model]\nVIN: [VIN]\nPrice: [Amount]\nDate: [Date]",
+    "example": "Seller: Mark\nBuyer: Ellen\nVehicle: 2010 Toyota Camry\nVIN: XXXXXXXXX\nPrice: $4,000\nDate: 2026-05-01"
+  },
+  {
+    "slug": "promissory-note-installments",
+    "title": "Installment Promissory Note",
+    "description": "Promissory note with installment repayment schedule.",
+    "category": {
+      "name": "Legal Documents",
+      "slug": "legal-documents"
+    },
+    "intro": "Specify amounts, dates, and interest (if any).",
+    "whenToUse": "When lending money with a scheduled repayment plan.",
+    "template": "Borrower: [Name]\nLender: [Name]\nTotal: [Amount]\nInstallments: [Schedule]\nSignatures:\n[Names]",
+    "example": "Borrower: Dana\nLender: Tom\nTotal: $2,000\nInstallments: $200/month for 10 months"
+  },
+  {
+    "slug": "affidavit-of-residence",
+    "title": "Affidavit of Residence",
+    "description": "Affidavit confirming current residence for administrative uses.",
+    "category": {
+      "name": "Legal Documents",
+      "slug": "legal-documents"
+    },
+    "intro": "Affidavit stating where a person currently resides.",
+    "whenToUse": "When proof of residence is required and other documents are unavailable.",
+    "template": "I, [Name], affirm that I reside at [Address].\nSigned: [Name]",
+    "example": "I, Maya Lin, affirm that I reside at 123 Oak Street, Apt 4B.\nSigned: Maya Lin"
+  }
+]
