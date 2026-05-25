@@ -2,6 +2,11 @@ import templates from "../../../content/templates.json";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import TemplateActions from "../../components/TemplateActions";
+import { generateFAQSchema } from "../../../lib/schema/faq";
+import { generateBreadcrumbSchema } from "../../../lib/schema/breadcrumbs";
+import { generateWebPageSchema } from "../../../lib/schema/webpage";
+import { SITE_URL } from "../../../lib/constants";
+import { generateCanonical } from "@/lib/seo";
 
 export async function generateStaticParams() {
   return templates.map((template) => ({
@@ -26,9 +31,8 @@ if (!template) {
   return {
     title: `${template.title} | MangoGranola`,
     description: template.description,
-    metadataBase: new URL("https://mangogranola.com"),
     alternates: {
-      canonical: `/${category}/${slug}`,
+      canonical: generateCanonical(`/${category}/${slug}`),
     },
     openGraph: {
       title: template.title,
@@ -61,8 +65,25 @@ export default async function TemplatePage({ params }) {
   notFound();
 }
 
+const faqSchema = generateFAQSchema(template.faqs || []);
+const breadcrumbSchema = generateBreadcrumbSchema(template);
+const webpageSchema = generateWebPageSchema(template);
+const combinedSchema = [
+  faqSchema,
+  breadcrumbSchema,
+  webpageSchema,
+];
+
   return (
     <main className="max-w-3xl mx-auto p-10">
+
+      <script
+  type="application/ld+json"
+  dangerouslySetInnerHTML={{
+    __html: JSON.stringify(combinedSchema),
+  }}
+/>
+
       <h1 className="text-4xl font-bold mb-4">
         {template.title}
       </h1>
@@ -83,6 +104,13 @@ export default async function TemplatePage({ params }) {
   >
     {template.category.name}
   </Link>
+
+  <span>/</span>
+
+<span className="text-gray-400">
+  {template.title}
+</span>
+
 </div>
 
       <p className="text-gray-600 mb-6">

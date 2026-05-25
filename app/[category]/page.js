@@ -2,6 +2,8 @@ import templates from "../../content/templates.json";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { categories } from "../../content/categories";
+import { generateItemListSchema } from "../../lib/schema/itemList";
+import { SITE_URL } from "../../lib/constants";
 
 export async function generateStaticParams() {
   const categorySlugs = [
@@ -33,7 +35,9 @@ const categoryName = first.category.name;
       "https://mangogranola.com"
     ),
     alternates: {
-      canonical: `/${category}`,
+      canonical: generateCanonical(
+  `/${category}`
+),
     },
     openGraph: {
       title: `${categoryName} Templates`,
@@ -62,8 +66,20 @@ export default async function CategoryPage({
 
   const categoryData = categories?.[category] || {};
 
+  const itemListSchema = generateItemListSchema(
+  filtered,
+  category
+);
+
   return (
   <main className="max-w-4xl mx-auto p-10">
+
+    <script
+  type="application/ld+json"
+  dangerouslySetInnerHTML={{
+    __html: JSON.stringify(itemListSchema),
+  }}
+/>
 
     {/* Breadcrumbs */}
     <div className="mb-8">
