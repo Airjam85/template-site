@@ -19,9 +19,11 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }) {
   const { category } = await params;
 
- const first = templates.find(
-  (t) => t.category?.slug === category
-);
+ const filtered = getTemplatesByCategory(category);
+
+if (!filtered.length) notFound();
+
+const categoryName = filtered[0].category.name;
 
 if (!first) notFound();
 

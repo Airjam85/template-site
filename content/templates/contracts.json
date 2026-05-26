@@ -2,1211 +2,342 @@
   {
     "slug": "freelance-contract-template",
     "title": "Freelance Contract Template",
-    "description": "Free freelance contract template for independent contractor projects.",
-    "category": {
-      "name": "Contracts",
-      "slug": "contracts"
-    },
-    "intro": "This freelance contract template helps freelancers and clients clearly define project expectations and payment terms.",
-    "whenToUse": "Use before starting freelance projects or client work.",
-    "template": "This agreement is between [Client Name] and [Freelancer Name].\n\nScope of Work:\n[Description]\n\nPayment Terms:\n[Terms]\n\nTimeline:\n[Dates]",
-    "example": "This agreement is between Acme Co and John Doe.\n\nScope of Work:\nWebsite redesign\n\nPayment Terms:\n$2000 total",
-    "faqs": [
-      {
-        "question": "What is a freelance contract?",
-        "answer": "A freelance contract is a legal agreement that outlines the terms of a freelance project."
-      },
-      {
-        "question": "Do freelancers need contracts?",
-        "answer": "Contracts help protect both freelancers and clients by clearly defining expectations."
-      }
-    ],
-    "tags": [
-      "freelance",
-      "contract",
-      "legal"
-    ]
+    "description": "A general freelance contract to outline scope, payment, and deliverables.",
+    "category": { "name": "Contracts", "slug": "contracts" },
+    "intro": "Use this freelance contract to set clear expectations between a freelancer and a client.",
+    "whenToUse": "When hiring or engaging independent contractors for project work.",
+    "template": "This Agreement is between [Client] and [Freelancer].\n\nScope: [Describe work].\nDeliverables: [List].\nPayment: [Terms].\nTimeline: [Dates].\n\nSignatures:\n[Client]\n[Freelancer]",
+    "example": "This agreement is between Bright Media and Jordan Lee.\nScope: Design landing page.\nPayment: $2,000.\nSignatures: Bright Media / Jordan Lee",
+    "tips": ["Be specific about deliverables","Include milestones","State payment schedule clearly"],
+    "faqs": [{ "question": "Do I need a contract for small gigs?", "answer": "Yes, it helps avoid disputes and clarifies expectations." }],
+    "tags": ["freelance","contract","payment"]
   },
   {
     "slug": "freelance-contract-template-for-designers",
     "title": "Freelance Contract Template for Designers",
-    "description": "Designer freelance contract template for creative service agreements.",
-    "category": {
-      "name": "Contracts",
-      "slug": "contracts"
-    },
-    "intro": "This freelance contract template helps designers set clear expectations for project scope, revisions, timelines, and payment terms.",
-    "whenToUse": "Use this template before starting a design project or onboarding a new client.",
-    "template": "This agreement is between [Client Name] and [Designer Name].\n\nProject scope:\n[Describe design services]\n\nDeliverables:\n[List final deliverables]\n\nEstimated timeline:\n[Dates]\n\nPayment terms:\n[Amount and payment schedule]\n\nRevision policy:\n[Number of revisions included]",
-    "example": "This agreement is between Radiant Interiors and Anna Lee.\n\nProject scope:\nBrand identity and website design.\n\nDeliverables:\nLogo files, brand guidelines, website mockups.\n\nEstimated timeline:\nJune 1 to July 15, 2026.\n\nPayment terms:\n$4,000 total, 50% due up front and 50% on completion.\n\nRevision policy:\nTwo rounds of revisions included.",
-    "tips": [
-      "Specify the number of revisions included.",
-      "Include payment milestones and due dates.",
-      "Clarify ownership of final design files.",
-      "Ask the client to sign before beginning work."
-    ],
-    "faqs": [
-      {
-        "question": "Why do designers need a freelance contract?",
-        "answer": "A contract protects both the designer and client by defining scope, payment, and responsibilities."
-      },
-      {
-        "question": "Should I include revision limits?",
-        "answer": "Yes—revision limits help prevent scope creep and protect your time."
-      },
-      {
-        "question": "Can I use this contract for web design?",
-        "answer": "Yes, this template works well for branding, web design, and creative services."
-      }
-    ],
-    "tags": [
-      "freelance",
-      "contract",
-      "legal"
-    ]
+    "description": "A designer-focused freelance agreement with design-specific clauses.",
+    "category": { "name": "Contracts", "slug": "contracts" },
+    "intro": "Tailored to protect creative deliverables, IP, and revision limits.",
+    "whenToUse": "When hiring or contracting with graphic or web designers.",
+    "template": "This Agreement is between [Client] and [Designer].\n\nScope: [Design work].\nDeliverables: [Assets].\nRevisions: [Number].\nPayment: [Terms].",
+    "example": "Logo design project with 3 rounds of revisions and final assets delivered as SVG/PNG.",
+    "tips": ["Clarify final file formats","Limit revisions","State ownership transfer on final payment"],
+    "faqs": [{ "question": "Who owns the files?", "answer": "Ownership can transfer on final payment; specify clearly." }],
+    "tags": ["design","freelance","creative"]
   },
   {
     "slug": "freelance-contract-template-for-writers",
     "title": "Freelance Contract Template for Writers",
-    "description": "Writer freelance contract template for content and copywriting projects.",
-    "category": {
-      "name": "Contracts",
-      "slug": "contracts"
-    },
-    "intro": "This freelance contract template helps writers outline project scope, deadlines, payment, and usage rights.",
-    "whenToUse": "Use this template before beginning writing projects for clients or publishers.",
-    "template": "This agreement is between [Client Name] and [Writer Name].\n\nProject scope:\n[Describe writing assignment]\n\nDeliverables:\n[List articles, copy, or drafts]\n\nDeadlines:\n[Delivery dates]\n\nPayment terms:\n[Fee and schedule]\n\nUsage rights:\n[Who owns the content after delivery]",
-    "example": "This agreement is between Bloom Content Studio and Maya Roberts.\n\nProject scope:\nCreate blog posts, social media captions, and email copy.\n\nDeliverables:\nFour blog posts and 10 social captions.\n\nDeadlines:\nBlog posts due June 1, 2026; captions due June 5, 2026.\n\nPayment terms:\n$1,200 total, 50% due up front.\n\nUsage rights:\nClient receives unlimited use of the final content.",
-    "tips": [
-      "Clearly define the content deliverables and deadlines.",
-      "Specify usage rights for the final work.",
-      "Include payment terms and milestone schedules.",
-      "Ask the client to agree to the terms before starting work."
-    ],
-    "faqs": [
-      {
-        "question": "Does a writer need a freelance contract?",
-        "answer": "Yes, it protects both parties and sets expectations for deliverables and payment."
-      },
-      {
-        "question": "Should content ownership be included?",
-        "answer": "Yes, clarify whether the client has exclusive rights or usage permissions."
-      },
-      {
-        "question": "Can this template be used for copywriting?",
-        "answer": "Yes, it works for marketing copy, blogs, articles, and other writing services."
-      }
-    ],
-    "tags": [
-      "freelance",
-      "contract",
-      "legal"
-    ]
-  },
-  {
-    "slug": "freelance-contract-template-for-designers-uk",
-    "title": "Freelance Contract Template for Designers-uk",
-    "description": "Designer freelance contract template for creative projects.",
-    "category": {
-      "name": "Contracts",
-      "slug": "contracts"
-    },
-    "intro": "This freelance contract template helps designers outline project scope, deadlines, payment, and usage rights for creative work.",
-    "whenToUse": "Use this template before starting design projects for clients or agencies.",
-    "template": "This agreement is between [Client Name] and [Designer Name].\n\nProject scope:\n[Describe design assignment]\n\nDeliverables:\n[List design files or concepts]\n\nDeadlines:\n[Delivery dates]\n\nPayment terms:\n[Fee and schedule]\n\nUsage rights:\n[Who owns the designs after delivery]",
-    "example": "This agreement is between Bright Ideas Agency and Jordan Smith.\n\nProject scope:\nCreate a new logo and brand identity for a startup.\n\nDeliverables:\nLogo files in multiple formats, brand guidelines document.\n\nDeadlines:\nInitial concepts due June 15, 2026; final files due June 30, 2026.\n\nPayment terms:\n$2,500 total, 50% due up front.\n\nUsage rights:\nClient receives exclusive rights to use the final designs.",
-    "tips": [
-      "Clearly define the design deliverables and deadlines.",
-      "Specify usage rights for the final work.",
-      "Include payment terms and milestone schedules.",
-      "Ask the client to agree to the terms before starting work."
-    ],
-    "faqs": [
-      {
-        "question": "Does a designer need a freelance contract?",
-        "answer": "Yes, it protects both parties and sets expectations for deliverables and payment."
-      },
-      {
-        "question": "Should design ownership be included?",
-        "answer": "Yes, clarify whether the client has exclusive rights or usage permissions."
-      },
-      {
-        "question": "Can this template be used for web design?",
-        "answer": "Yes, it works for branding, web design, and other creative services."
-      }
-    ],
-    "tags": [
-      "freelance",
-      "contract",
-      "legal"
-    ]
+    "description": "Agreement tailored for writing services, deliverables, and licensing.",
+    "category": { "name": "Contracts", "slug": "contracts" },
+    "intro": "Includes scope, revisions, and rights for written content.",
+    "whenToUse": "When commissioning articles, copy, or long-form writing.",
+    "template": "This Agreement is between [Client] and [Writer].\n\nScope: [Writing tasks].\nDelivery: [Deadlines].\nRights: [License/transfer].\nPayment: [Terms].",
+    "example": "A 1,200-word article delivered within 7 days, licensed exclusively for 6 months.",
+    "tips": ["Define word counts","State editing/revision policy","Clarify licensing terms"],
+    "faqs": [{ "question": "Can I republish?", "answer": "Depends on the license agreed; specify usage rights." }],
+    "tags": ["writing","freelance","content"]
   },
   {
     "slug": "freelance-contract-website-design",
-    "title": "Freelance Contract for Website Design",
-    "description": "A freelance contract template for website and digital design work.",
-    "category": {
-      "name": "Contracts",
-      "slug": "contracts"
-    },
-    "intro": "Freelance Contract for Website Design helps set expectations for work, deliverables, timelines, and payment.",
-    "whenToUse": "Use this template when formalizing an agreement between a client and service provider.",
-    "template": "This agreement is between [Party A] and [Party B].\n\nScope of Work: [Describe work]\nDeliverables: [List deliverables]\nTimeline: [Dates]\nPayment: [Terms]\n\nSignatures:\n[Party A]\n[Party B]",
-    "example": "This agreement is between Bright Media and Jordan Lee.\n\nScope of Work: Design website landing page.\nDeliverables: Mockups, final layouts.\nTimeline: 3 weeks.\nPayment: $2,000 total.\n\nSignatures:\nBright Media\nJordan Lee",
-    "faqs": [
-      {
-        "question": "Do I need a contract for freelance work?",
-        "answer": "Yes, contracts protect both parties by clarifying expectations and payment."
-      }
-    ],
-    "tags": [
-      "freelance",
-      "contract",
-      "legal"
-    ]
-  },
-  {
-    "slug": "freelance-contract-marketing",
-    "title": "Freelance Contract for Marketing Services",
-    "description": "A freelance contract template for marketing projects.",
-    "category": {
-      "name": "Contracts",
-      "slug": "contracts"
-    },
-    "intro": "Freelance Contract for Marketing Services helps set expectations for work, deliverables, timelines, and payment.",
-    "whenToUse": "Use this template when formalizing an agreement between a client and service provider.",
-    "template": "This agreement is between [Party A] and [Party B].\n\nScope of Work: [Describe work]\nDeliverables: [List deliverables]\nTimeline: [Dates]\nPayment: [Terms]\n\nSignatures:\n[Party A]\n[Party B]",
-    "example": "This agreement is between Bright Media and Jordan Lee.\n\nScope of Work: Design website landing page.\nDeliverables: Mockups, final layouts.\nTimeline: 3 weeks.\nPayment: $2,000 total.\n\nSignatures:\nBright Media\nJordan Lee",
-    "faqs": [
-      {
-        "question": "Do I need a contract for freelance work?",
-        "answer": "Yes, contracts protect both parties by clarifying expectations and payment."
-      }
-    ],
-    "tags": [
-      "freelance",
-      "contract",
-      "legal"
-    ]
+    "title": "Freelance Contract — Website Design",
+    "description": "Website-specific freelance agreement covering deliverables and hosting handoff.",
+    "category": { "name": "Contracts", "slug": "contracts" },
+    "intro": "Use for web design projects including CMS handoff and deployment scope.",
+    "whenToUse": "For freelance web design and development engagements.",
+    "template": "This Agreement is between [Client] and [Developer].\n\nScope: [Site pages].\nDeliverables: [Design, dev, deployment].\nHosting: [Responsibility].\nPayment: [Terms].",
+    "example": "Design and build 5 pages, handoff CMS access, payment in 2 installments.",
+    "tips": ["List assets included","Define post-launch support","Include testing responsibilities"],
+    "faqs": [{ "question": "Who provides hosting?", "answer": "Specify whether developer or client handles hosting and costs." }],
+    "tags": ["web","design","freelance"]
   },
   {
     "slug": "consulting-agreement-strategy",
-    "title": "Consulting Agreement for Strategy Services",
-    "description": "A consulting agreement template for business strategy consulting.",
-    "category": {
-      "name": "Contracts",
-      "slug": "contracts"
-    },
-    "intro": "Consulting Agreement for Strategy Services helps set expectations for work, deliverables, timelines, and payment.",
-    "whenToUse": "Use this template when formalizing an agreement between a client and service provider.",
-    "template": "This agreement is between [Party A] and [Party B].\n\nScope of Work: [Describe work]\nDeliverables: [List deliverables]\nTimeline: [Dates]\nPayment: [Terms]\n\nSignatures:\n[Party A]\n[Party B]",
-    "example": "This agreement is between Bright Media and Jordan Lee.\n\nScope of Work: Design website landing page.\nDeliverables: Mockups, final layouts.\nTimeline: 3 weeks.\nPayment: $2,000 total.\n\nSignatures:\nBright Media\nJordan Lee",
-    "faqs": [
-      {
-        "question": "Do I need a contract for freelance work?",
-        "answer": "Yes, contracts protect both parties by clarifying expectations and payment."
-      }
-    ],
-    "tags": [
-      "legal",
-      "contract",
-      "agreement"
-    ]
+    "title": "Consulting Agreement — Strategy",
+    "description": "Agreement for strategic consulting engagements.",
+    "category": { "name": "Contracts", "slug": "contracts" },
+    "intro": "Covers advisory scope, deliverables, and confidentiality.",
+    "whenToUse": "For hiring consultants on strategy, planning, or advisory work.",
+    "template": "This Agreement is between [Client] and [Consultant].\n\nScope: [Services].\nDeliverables: [Reports].\nConfidentiality: [Clause].\nPayment: [Terms].",
+    "example": "6-week market entry strategy, deliverables include final report and slide deck.",
+    "tips": ["Add confidentiality","Set milestones","Clarify travel expenses"],
+    "faqs": [{ "question": "Should I include an NDA?", "answer": "Yes, attach or reference an NDA if sensitive information is shared." }],
+    "tags": ["consulting","strategy","services"]
   },
   {
     "slug": "consulting-agreement-creative",
-    "title": "Consulting Agreement for Creative Services",
-    "description": "A consulting agreement template for creative and design consulting.",
-    "category": {
-      "name": "Contracts",
-      "slug": "contracts"
-    },
-    "intro": "Consulting Agreement for Creative Services helps set expectations for work, deliverables, timelines, and payment.",
-    "whenToUse": "Use this template when formalizing an agreement between a client and service provider.",
-    "template": "This agreement is between [Party A] and [Party B].\n\nScope of Work: [Describe work]\nDeliverables: [List deliverables]\nTimeline: [Dates]\nPayment: [Terms]\n\nSignatures:\n[Party A]\n[Party B]",
-    "example": "This agreement is between Bright Media and Jordan Lee.\n\nScope of Work: Design website landing page.\nDeliverables: Mockups, final layouts.\nTimeline: 3 weeks.\nPayment: $2,000 total.\n\nSignatures:\nBright Media\nJordan Lee",
-    "faqs": [
-      {
-        "question": "Do I need a contract for freelance work?",
-        "answer": "Yes, contracts protect both parties by clarifying expectations and payment."
-      }
-    ],
-    "tags": [
-      "legal",
-      "contract",
-      "agreement"
-    ]
+    "title": "Consulting Agreement — Creative",
+    "description": "A consulting agreement for creative advisory and project oversight.",
+    "category": { "name": "Contracts", "slug": "contracts" },
+    "intro": "Good for creative directors, brand consultants, or campaign advisors.",
+    "whenToUse": "When hiring creative consultants for project-based guidance.",
+    "template": "This Agreement is between [Client] and [Creative Consultant].\n\nScope: [Creative services].\nPayment: [Terms].\nDeliverables: [Work].",
+    "example": "3-month brand refresh including mood boards and campaign concepts.",
+    "tips": ["Define ownership of concepts","Limit revisions","Set time commitments"],
+    "faqs": [{ "question": "Who owns creative concepts?", "answer": "Specify whether ideas or final deliverables transfer on payment." }],
+    "tags": ["creative","consulting","brand"]
   },
   {
     "slug": "service-agreement-gig-work",
-    "title": "Service Agreement for Gig Work",
-    "description": "A service agreement template for short-term gig or freelance tasks.",
-    "category": {
-      "name": "Contracts",
-      "slug": "contracts"
-    },
-    "intro": "Service Agreement for Gig Work helps set expectations for work, deliverables, timelines, and payment.",
-    "whenToUse": "Use this template when formalizing an agreement between a client and service provider.",
-    "template": "This agreement is between [Party A] and [Party B].\n\nScope of Work: [Describe work]\nDeliverables: [List deliverables]\nTimeline: [Dates]\nPayment: [Terms]\n\nSignatures:\n[Party A]\n[Party B]",
-    "example": "This agreement is between Bright Media and Jordan Lee.\n\nScope of Work: Design website landing page.\nDeliverables: Mockups, final layouts.\nTimeline: 3 weeks.\nPayment: $2,000 total.\n\nSignatures:\nBright Media\nJordan Lee",
-    "faqs": [
-      {
-        "question": "Do I need a contract for freelance work?",
-        "answer": "Yes, contracts protect both parties by clarifying expectations and payment."
-      }
-    ],
-    "tags": [
-      "legal",
-      "contract",
-      "agreement"
-    ]
+    "title": "Service Agreement — Gig Work",
+    "description": "Short-form service agreement for gig or on-demand work.",
+    "category": { "name": "Contracts", "slug": "contracts" },
+    "intro": "Simple contract for one-off service gigs.",
+    "whenToUse": "For short-term or single-deliverable engagements.",
+    "template": "This Agreement is between [Client] and [Service Provider].\n\nService: [Describe].\nFee: [Amount].\nDate: [When].",
+    "example": "One-day event setup paid at $300 on completion.",
+    "tips": ["Keep scope narrow","State payment upon completion","Record acceptance criteria"],
+    "faqs": [{ "question": "Is a written contract necessary for small jobs?", "answer": "Yes — even short agreements reduce misunderstandings." }],
+    "tags": ["gig","service","short-form"]
   },
   {
     "slug": "subcontractor-agreement",
     "title": "Subcontractor Agreement",
-    "description": "A subcontractor agreement for delivering part of a larger contracted service.",
-    "category": {
-      "name": "Contracts",
-      "slug": "contracts"
-    },
-    "intro": "Subcontractor Agreement helps set expectations for work, deliverables, timelines, and payment.",
-    "whenToUse": "Use this template when formalizing an agreement between a client and service provider.",
-    "template": "This agreement is between [Party A] and [Party B].\n\nScope of Work: [Describe work]\nDeliverables: [List deliverables]\nTimeline: [Dates]\nPayment: [Terms]\n\nSignatures:\n[Party A]\n[Party B]",
-    "example": "This agreement is between Bright Media and Jordan Lee.\n\nScope of Work: Design website landing page.\nDeliverables: Mockups, final layouts.\nTimeline: 3 weeks.\nPayment: $2,000 total.\n\nSignatures:\nBright Media\nJordan Lee",
-    "faqs": [
-      {
-        "question": "Do I need a contract for freelance work?",
-        "answer": "Yes, contracts protect both parties by clarifying expectations and payment."
-      }
-    ],
-    "tags": [
-      "legal",
-      "contract",
-      "agreement"
-    ]
+    "description": "A subcontractor agreement for work performed under a main contractor.",
+    "category": { "name": "Contracts", "slug": "contracts" },
+    "intro": "Defines responsibilities between contractor and subcontractor.",
+    "whenToUse": "When hiring subcontractors for parts of a larger project.",
+    "template": "This Agreement is between [Contractor] and [Subcontractor].\n\nScope: [Tasks].\nPayment: [Terms].\nInsurance: [Requirements].",
+    "example": "Subcontract for front-end development modules with payment on milestones.",
+    "tips": ["Require proof of insurance","Define indemnity","Include termination terms"],
+    "faqs": [{ "question": "Can subcontractors sign NDAs?", "answer": "Yes — include confidentiality obligations as needed." }],
+    "tags": ["subcontractor","contract","services"]
   },
   {
     "slug": "vendor-contract-template",
     "title": "Vendor Contract Template",
-    "description": "A template for agreements with vendors supplying products or services.",
-    "category": {
-      "name": "Contracts",
-      "slug": "contracts"
-    },
-    "intro": "Vendor Contract Template helps set expectations for work, deliverables, timelines, and payment.",
-    "whenToUse": "Use this template when formalizing an agreement between a client and service provider.",
-    "template": "This agreement is between [Party A] and [Party B].\n\nScope of Work: [Describe work]\nDeliverables: [List deliverables]\nTimeline: [Dates]\nPayment: [Terms]\n\nSignatures:\n[Party A]\n[Party B]",
-    "example": "This agreement is between Bright Media and Jordan Lee.\n\nScope of Work: Design website landing page.\nDeliverables: Mockups, final layouts.\nTimeline: 3 weeks.\nPayment: $2,000 total.\n\nSignatures:\nBright Media\nJordan Lee",
-    "faqs": [
-      {
-        "question": "Do I need a contract for freelance work?",
-        "answer": "Yes, contracts protect both parties by clarifying expectations and payment."
-      }
-    ],
-    "tags": [
-      "legal",
-      "contract",
-      "agreement"
-    ]
+    "description": "Template for agreements with vendors supplying goods or services.",
+    "category": { "name": "Contracts", "slug": "contracts" },
+    "intro": "Use to define goods, delivery, warranties, and payment terms.",
+    "whenToUse": "When purchasing from an external supplier or vendor.",
+    "template": "This Agreement is between [Buyer] and [Vendor].\n\nGoods: [Describe].\nDelivery: [Dates/terms].\nWarranties: [Details].\nPayment: [Terms].",
+    "example": "Agreement for supply of 100 branded mugs with delivery in 4 weeks and 30-day warranty.",
+    "tips": ["List delivery terms","Include inspection windows","Clarify return policy"],
+    "faqs": [{ "question": "Who pays shipping?", "answer": "Specify shipping/FOB terms in the contract." }],
+    "tags": ["vendor","procurement","supply"]
   },
   {
     "slug": "retainer-agreement-template",
     "title": "Retainer Agreement Template",
-    "description": "A template for ongoing retainer services with set monthly or quarterly fees.",
-    "category": {
-      "name": "Contracts",
-      "slug": "contracts"
-    },
-    "intro": "Retainer Agreement Template helps set expectations for work, deliverables, timelines, and payment.",
-    "whenToUse": "Use this template when formalizing an agreement between a client and service provider.",
-    "template": "This agreement is between [Party A] and [Party B].\n\nScope of Work: [Describe work]\nDeliverables: [List deliverables]\nTimeline: [Dates]\nPayment: [Terms]\n\nSignatures:\n[Party A]\n[Party B]",
-    "example": "This agreement is between Bright Media and Jordan Lee.\n\nScope of Work: Design website landing page.\nDeliverables: Mockups, final layouts.\nTimeline: 3 weeks.\nPayment: $2,000 total.\n\nSignatures:\nBright Media\nJordan Lee",
-    "faqs": [
-      {
-        "question": "Do I need a contract for freelance work?",
-        "answer": "Yes, contracts protect both parties by clarifying expectations and payment."
-      }
-    ],
-    "tags": [
-      "legal",
-      "contract",
-      "agreement"
-    ]
+    "description": "Agreement for ongoing retainer-based services.",
+    "category": { "name": "Contracts", "slug": "contracts" },
+    "intro": "Sets scope, hours, deliverables, and renewal terms for retainer work.",
+    "whenToUse": "When engaging a provider on a recurring basis.",
+    "template": "This Agreement is between [Client] and [Provider].\n\nServices: [Scope].\nRetainer Fee: [Amount].\nTerm: [Months].\nTermination: [Clause].",
+    "example": "Monthly marketing retainer for 10 hours at $1,200 per month.",
+    "tips": ["Define unused hours policy","Set renewal notice period","Track deliverables monthly"],
+    "faqs": [{ "question": "Can retainers be paused?", "answer": "Yes, define pause and refund policy in the agreement." }],
+    "tags": ["retainer","ongoing","services"]
   },
   {
     "slug": "contractor-agreement-template",
     "title": "Contractor Agreement Template",
-    "description": "A contractor agreement for independent service providers or contractors.",
-    "category": {
-      "name": "Contracts",
-      "slug": "contracts"
-    },
-    "intro": "Contractor Agreement Template helps set expectations for work, deliverables, timelines, and payment.",
-    "whenToUse": "Use this template when formalizing an agreement between a client and service provider.",
-    "template": "This agreement is between [Party A] and [Party B].\n\nScope of Work: [Describe work]\nDeliverables: [List deliverables]\nTimeline: [Dates]\nPayment: [Terms]\n\nSignatures:\n[Party A]\n[Party B]",
-    "example": "This agreement is between Bright Media and Jordan Lee.\n\nScope of Work: Design website landing page.\nDeliverables: Mockups, final layouts.\nTimeline: 3 weeks.\nPayment: $2,000 total.\n\nSignatures:\nBright Media\nJordan Lee",
-    "faqs": [
-      {
-        "question": "Do I need a contract for freelance work?",
-        "answer": "Yes, contracts protect both parties by clarifying expectations and payment."
-      }
-    ],
-    "tags": [
-      "legal",
-      "contract",
-      "agreement"
-    ]
+    "description": "Standard agreement for independent contractors.",
+    "category": { "name": "Contracts", "slug": "contracts" },
+    "intro": "Covers contractor responsibilities, payment, and IP handling.",
+    "whenToUse": "For longer-term or repeat contractor engagements.",
+    "template": "This Agreement is between [Company] and [Contractor].\n\nServices: [Tasks].\nPayment: [Rates].\nIP: [Ownership].\nTermination: [Notice].",
+    "example": "6-month development contract with milestone payments and IP assignment on completion.",
+    "tips": ["Include tax/responsibility clauses","Define notice periods","Clarify deliverable ownership"],
+    "faqs": [{ "question": "Is a contractor an employee?", "answer": "Define independent contractor relationship and tax responsibilities." }],
+    "tags": ["contractor","agreement","services"]
   },
   {
     "slug": "partnership-agreement-template",
     "title": "Partnership Agreement Template",
-    "description": "A simple partnership agreement template for small business partners.",
-    "category": {
-      "name": "Contracts",
-      "slug": "contracts"
-    },
-    "intro": "Partnership Agreement Template helps set expectations for work, deliverables, timelines, and payment.",
-    "whenToUse": "Use this template when formalizing an agreement between a client and service provider.",
-    "template": "This agreement is between [Party A] and [Party B].\n\nScope of Work: [Describe work]\nDeliverables: [List deliverables]\nTimeline: [Dates]\nPayment: [Terms]\n\nSignatures:\n[Party A]\n[Party B]",
-    "example": "This agreement is between Bright Media and Jordan Lee.\n\nScope of Work: Design website landing page.\nDeliverables: Mockups, final layouts.\nTimeline: 3 weeks.\nPayment: $2,000 total.\n\nSignatures:\nBright Media\nJordan Lee",
-    "faqs": [
-      {
-        "question": "Do I need a contract for freelance work?",
-        "answer": "Yes, contracts protect both parties by clarifying expectations and payment."
-      }
-    ],
-    "tags": [
-      "legal",
-      "contract",
-      "agreement"
-    ]
-  },
-  {
-    "slug": "employment-agreement-basic",
-    "title": "Basic Employment Agreement",
-    "description": "A simple employment agreement for full-time or part-time roles.",
-    "category": {
-      "name": "Contracts",
-      "slug": "contracts"
-    },
-    "intro": "Basic Employment Agreement helps set expectations for work, deliverables, timelines, and payment.",
-    "whenToUse": "Use this template when formalizing an agreement between a client and service provider.",
-    "template": "This agreement is between [Party A] and [Party B].\n\nScope of Work: [Describe work]\nDeliverables: [List deliverables]\nTimeline: [Dates]\nPayment: [Terms]\n\nSignatures:\n[Party A]\n[Party B]",
-    "example": "This agreement is between Bright Media and Jordan Lee.\n\nScope of Work: Design website landing page.\nDeliverables: Mockups, final layouts.\nTimeline: 3 weeks.\nPayment: $2,000 total.\n\nSignatures:\nBright Media\nJordan Lee",
-    "faqs": [
-      {
-        "question": "Do I need a contract for freelance work?",
-        "answer": "Yes, contracts protect both parties by clarifying expectations and payment."
-      }
-    ],
-    "tags": [
-      "legal",
-      "contract",
-      "agreement"
-    ]
+    "description": "A simple partnership agreement for business partners.",
+    "category": { "name": "Contracts", "slug": "contracts" },
+    "intro": "Defines roles, profits, decision-making, and exit terms.",
+    "whenToUse": "When forming a partnership between two or more parties.",
+    "template": "This Agreement is between [Partner A] and [Partner B].\n\nContributions: [Capital/time].\nProfit Share: [Split].\nDecisions: [Voting].\nExit: [Terms].",
+    "example": "Two partners contributing capital and splitting profits 50/50 with defined buyout terms.",
+    "tips": ["Put percentages in writing","Plan for buyouts","Address dispute resolution"],
+    "faqs": [{ "question": "Should we register a partnership?", "answer": "Check local laws — many partnerships benefit from formal registration and legal advice." }],
+    "tags": ["partnership","business","agreement"]
   },
   {
     "slug": "non-compete-addendum",
     "title": "Non-Compete Addendum",
-    "description": "A contract addendum that defines competition restrictions for a worker.",
-    "category": {
-      "name": "Contracts",
-      "slug": "contracts"
-    },
-    "intro": "Non-Compete Addendum helps set expectations for work, deliverables, timelines, and payment.",
-    "whenToUse": "Use this template when formalizing an agreement between a client and service provider.",
-    "template": "This agreement is between [Party A] and [Party B].\n\nScope of Work: [Describe work]\nDeliverables: [List deliverables]\nTimeline: [Dates]\nPayment: [Terms]\n\nSignatures:\n[Party A]\n[Party B]",
-    "example": "This agreement is between Bright Media and Jordan Lee.\n\nScope of Work: Design website landing page.\nDeliverables: Mockups, final layouts.\nTimeline: 3 weeks.\nPayment: $2,000 total.\n\nSignatures:\nBright Media\nJordan Lee",
-    "faqs": [
-      {
-        "question": "Do I need a contract for freelance work?",
-        "answer": "Yes, contracts protect both parties by clarifying expectations and payment."
-      }
-    ],
-    "tags": [
-      "legal",
-      "contract",
-      "agreement"
-    ]
-  },
-  {
-    "slug": "dog-walker-contract",
-    "title": "Dog Walker Contract Template",
-    "description": "Free dog walker contract template for professional use.",
-    "category": {
-      "name": "Contracts",
-      "slug": "contracts"
-    },
-    "intro": "This dog walker contract template helps you create professional documentation effectively.",
-    "whenToUse": "Use this template for your professional needs and documentation.",
-    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
-    "example": "[Example content demonstrating proper usage]",
-    "tips": [
-      "Customize the template to fit your specific needs",
-      "Review all details before finalizing",
-      "Keep copies for your records",
-      "Follow any legal requirements in your jurisdiction",
-      "Seek professional advice if needed"
-    ],
-    "faqs": [
-      {
-        "question": "Can I customize this template?",
-        "answer": "Yes, templates are meant to be customized for your specific situation."
-      },
-      {
-        "question": "Is this legally binding?",
-        "answer": "Templates provide structure; consult legal counsel for legal documents."
-      },
-      {
-        "question": "Can I use this for commercial purposes?",
-        "answer": "Check your local laws and usage rights for commercial use."
-      }
-    ],
-    "tags": [
-      "contracts",
-      "template",
-      "professional"
-    ]
-  },
-  {
-    "slug": "pet-sitter-contract",
-    "title": "Pet Sitter Contract Template",
-    "description": "Free pet sitter contract template for professional use.",
-    "category": {
-      "name": "Contracts",
-      "slug": "contracts"
-    },
-    "intro": "This pet sitter contract template helps you create professional documentation effectively.",
-    "whenToUse": "Use this template for your professional needs and documentation.",
-    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
-    "example": "[Example content demonstrating proper usage]",
-    "tips": [
-      "Customize the template to fit your specific needs",
-      "Review all details before finalizing",
-      "Keep copies for your records",
-      "Follow any legal requirements in your jurisdiction",
-      "Seek professional advice if needed"
-    ],
-    "faqs": [
-      {
-        "question": "Can I customize this template?",
-        "answer": "Yes, templates are meant to be customized for your specific situation."
-      },
-      {
-        "question": "Is this legally binding?",
-        "answer": "Templates provide structure; consult legal counsel for legal documents."
-      },
-      {
-        "question": "Can I use this for commercial purposes?",
-        "answer": "Check your local laws and usage rights for commercial use."
-      }
-    ],
-    "tags": [
-      "contracts",
-      "template",
-      "professional"
-    ]
-  },
-  {
-    "slug": "babysitter-contract",
-    "title": "Babysitter Contract Template",
-    "description": "Free babysitter contract template for professional use.",
-    "category": {
-      "name": "Contracts",
-      "slug": "contracts"
-    },
-    "intro": "This babysitter contract template helps you create professional documentation effectively.",
-    "whenToUse": "Use this template for your professional needs and documentation.",
-    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
-    "example": "[Example content demonstrating proper usage]",
-    "tips": [
-      "Customize the template to fit your specific needs",
-      "Review all details before finalizing",
-      "Keep copies for your records",
-      "Follow any legal requirements in your jurisdiction",
-      "Seek professional advice if needed"
-    ],
-    "faqs": [
-      {
-        "question": "Can I customize this template?",
-        "answer": "Yes, templates are meant to be customized for your specific situation."
-      },
-      {
-        "question": "Is this legally binding?",
-        "answer": "Templates provide structure; consult legal counsel for legal documents."
-      },
-      {
-        "question": "Can I use this for commercial purposes?",
-        "answer": "Check your local laws and usage rights for commercial use."
-      }
-    ],
-    "tags": [
-      "contracts",
-      "template",
-      "professional"
-    ]
-  },
-  {
-    "slug": "summer-camp-counselor-contract",
-    "title": "Summer Camp Counselor Contract Template",
-    "description": "Free summer camp counselor contract template for professional use.",
-    "category": {
-      "name": "Contracts",
-      "slug": "contracts"
-    },
-    "intro": "This summer camp counselor contract template helps you create professional documentation effectively.",
-    "whenToUse": "Use this template for your professional needs and documentation.",
-    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
-    "example": "[Example content demonstrating proper usage]",
-    "tips": [
-      "Customize the template to fit your specific needs",
-      "Review all details before finalizing",
-      "Keep copies for your records",
-      "Follow any legal requirements in your jurisdiction",
-      "Seek professional advice if needed"
-    ],
-    "faqs": [
-      {
-        "question": "Can I customize this template?",
-        "answer": "Yes, templates are meant to be customized for your specific situation."
-      },
-      {
-        "question": "Is this legally binding?",
-        "answer": "Templates provide structure; consult legal counsel for legal documents."
-      },
-      {
-        "question": "Can I use this for commercial purposes?",
-        "answer": "Check your local laws and usage rights for commercial use."
-      }
-    ],
-    "tags": [
-      "contracts",
-      "template",
-      "professional"
-    ]
-  },
-  {
-    "slug": "nanny-contract",
-    "title": "Nanny Contract Template",
-    "description": "Free nanny contract template for professional use.",
-    "category": {
-      "name": "Contracts",
-      "slug": "contracts"
-    },
-    "intro": "This nanny contract template helps you create professional documentation effectively.",
-    "whenToUse": "Use this template for your professional needs and documentation.",
-    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
-    "example": "[Example content demonstrating proper usage]",
-    "tips": [
-      "Customize the template to fit your specific needs",
-      "Review all details before finalizing",
-      "Keep copies for your records",
-      "Follow any legal requirements in your jurisdiction",
-      "Seek professional advice if needed"
-    ],
-    "faqs": [
-      {
-        "question": "Can I customize this template?",
-        "answer": "Yes, templates are meant to be customized for your specific situation."
-      },
-      {
-        "question": "Is this legally binding?",
-        "answer": "Templates provide structure; consult legal counsel for legal documents."
-      },
-      {
-        "question": "Can I use this for commercial purposes?",
-        "answer": "Check your local laws and usage rights for commercial use."
-      }
-    ],
-    "tags": [
-      "contracts",
-      "template",
-      "professional"
-    ]
+    "description": "A short addendum restricting competition for a defined period and geography.",
+    "category": { "name": "Contracts", "slug": "contracts" },
+    "intro": "Attach to employment or contractor agreements to limit competitive activity.",
+    "whenToUse": "When protecting business interests and client relationships.",
+    "template": "This Addendum prohibits [Party] from engaging in [Competitive activity] within [Geography] for [Period] after termination.",
+    "example": "No solicitation of clients within 50 miles for 12 months post-termination.",
+    "tips": ["Keep restrictions reasonable","Consult legal counsel","Define geographic scope"],
+    "faqs": [{ "question": "Are non-competes enforceable?", "answer": "Enforceability varies by jurisdiction — seek legal advice." }],
+    "tags": ["non-compete","employment","addendum"]
   },
   {
     "slug": "house-cleaner-contract",
-    "title": "House Cleaner Contract Template",
-    "description": "Free house cleaner contract template for professional use.",
-    "category": {
-      "name": "Contracts",
-      "slug": "contracts"
-    },
-    "intro": "This house cleaner contract template helps you create professional documentation effectively.",
-    "whenToUse": "Use this template for your professional needs and documentation.",
-    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
-    "example": "[Example content demonstrating proper usage]",
-    "tips": [
-      "Customize the template to fit your specific needs",
-      "Review all details before finalizing",
-      "Keep copies for your records",
-      "Follow any legal requirements in your jurisdiction",
-      "Seek professional advice if needed"
-    ],
-    "faqs": [
-      {
-        "question": "Can I customize this template?",
-        "answer": "Yes, templates are meant to be customized for your specific situation."
-      },
-      {
-        "question": "Is this legally binding?",
-        "answer": "Templates provide structure; consult legal counsel for legal documents."
-      },
-      {
-        "question": "Can I use this for commercial purposes?",
-        "answer": "Check your local laws and usage rights for commercial use."
-      }
-    ],
-    "tags": [
-      "contracts",
-      "template",
-      "professional"
-    ]
-  },
-  {
-    "slug": "personal-trainer-contract",
-    "title": "Personal Trainer Contract Template",
-    "description": "Free personal trainer contract template for professional use.",
-    "category": {
-      "name": "Contracts",
-      "slug": "contracts"
-    },
-    "intro": "This personal trainer contract template helps you create professional documentation effectively.",
-    "whenToUse": "Use this template for your professional needs and documentation.",
-    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
-    "example": "[Example content demonstrating proper usage]",
-    "tips": [
-      "Customize the template to fit your specific needs",
-      "Review all details before finalizing",
-      "Keep copies for your records",
-      "Follow any legal requirements in your jurisdiction",
-      "Seek professional advice if needed"
-    ],
-    "faqs": [
-      {
-        "question": "Can I customize this template?",
-        "answer": "Yes, templates are meant to be customized for your specific situation."
-      },
-      {
-        "question": "Is this legally binding?",
-        "answer": "Templates provide structure; consult legal counsel for legal documents."
-      },
-      {
-        "question": "Can I use this for commercial purposes?",
-        "answer": "Check your local laws and usage rights for commercial use."
-      }
-    ],
-    "tags": [
-      "contracts",
-      "template",
-      "professional"
-    ]
-  },
-  {
-    "slug": "tutor-contract",
-    "title": "Tutor Contract Template",
-    "description": "Free tutor contract template for professional use.",
-    "category": {
-      "name": "Contracts",
-      "slug": "contracts"
-    },
-    "intro": "This tutor contract template helps you create professional documentation effectively.",
-    "whenToUse": "Use this template for your professional needs and documentation.",
-    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
-    "example": "[Example content demonstrating proper usage]",
-    "tips": [
-      "Customize the template to fit your specific needs",
-      "Review all details before finalizing",
-      "Keep copies for your records",
-      "Follow any legal requirements in your jurisdiction",
-      "Seek professional advice if needed"
-    ],
-    "faqs": [
-      {
-        "question": "Can I customize this template?",
-        "answer": "Yes, templates are meant to be customized for your specific situation."
-      },
-      {
-        "question": "Is this legally binding?",
-        "answer": "Templates provide structure; consult legal counsel for legal documents."
-      },
-      {
-        "question": "Can I use this for commercial purposes?",
-        "answer": "Check your local laws and usage rights for commercial use."
-      }
-    ],
-    "tags": [
-      "contracts",
-      "template",
-      "professional"
-    ]
+    "title": "House Cleaner Contract",
+    "description": "A simple agreement for residential cleaning services.",
+    "category": { "name": "Contracts", "slug": "contracts" },
+    "intro": "Covers frequency, scope, supplies, and payment for cleaning work.",
+    "whenToUse": "When hiring a cleaner for recurring or one-off services.",
+    "template": "Service: [Cleaning tasks].\nSchedule: [Dates].\nPayment: [Rate].\nSupplies: [Who provides].",
+    "example": "Weekly cleaning every Monday at $80 per visit; client supplies cleaning products.",
+    "tips": ["List rooms included","Define cancellation policy","Confirm access arrangements"],
+    "faqs": [{ "question": "Should cleaners be insured?", "answer": "Yes, ask for proof of insurance if doing valuable or risky tasks." }],
+    "tags": ["home","cleaning","service"]
   },
   {
     "slug": "photographer-contract",
-    "title": "Photographer Contract Template",
-    "description": "Free photographer contract template for professional use.",
-    "category": {
-      "name": "Contracts",
-      "slug": "contracts"
-    },
-    "intro": "This photographer contract template helps you create professional documentation effectively.",
-    "whenToUse": "Use this template for your professional needs and documentation.",
-    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
-    "example": "[Example content demonstrating proper usage]",
-    "tips": [
-      "Customize the template to fit your specific needs",
-      "Review all details before finalizing",
-      "Keep copies for your records",
-      "Follow any legal requirements in your jurisdiction",
-      "Seek professional advice if needed"
-    ],
-    "faqs": [
-      {
-        "question": "Can I customize this template?",
-        "answer": "Yes, templates are meant to be customized for your specific situation."
-      },
-      {
-        "question": "Is this legally binding?",
-        "answer": "Templates provide structure; consult legal counsel for legal documents."
-      },
-      {
-        "question": "Can I use this for commercial purposes?",
-        "answer": "Check your local laws and usage rights for commercial use."
-      }
-    ],
-    "tags": [
-      "contracts",
-      "template",
-      "professional"
-    ]
+    "title": "Photographer Contract",
+    "description": "Agreement for photography services including usage rights and delivery.",
+    "category": { "name": "Contracts", "slug": "contracts" },
+    "intro": "Defines scope, licensing, and delivery timelines for photography projects.",
+    "whenToUse": "For events, commercial shoots, or portrait sessions.",
+    "template": "This Agreement is between [Client] and [Photographer].\n\nShoot details: [Date/time].\nDeliverables: [Number of images].\nLicense: [Usage terms].\nPayment: [Terms].",
+    "example": "Event coverage with 200 edited images delivered within 3 weeks. License for client website use.",
+    "tips": ["Specify licensing clearly","Define image formats","Add cancellation fees"],
+    "faqs": [{ "question": "Can I use images commercially?", "answer": "Only if the license grants commercial rights; ensure it's specified." }],
+    "tags": ["photography","creative","license"]
   },
   {
     "slug": "videographer-contract",
-    "title": "Videographer Contract Template",
-    "description": "Free videographer contract template for professional use.",
-    "category": {
-      "name": "Contracts",
-      "slug": "contracts"
-    },
-    "intro": "This videographer contract template helps you create professional documentation effectively.",
-    "whenToUse": "Use this template for your professional needs and documentation.",
-    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
-    "example": "[Example content demonstrating proper usage]",
-    "tips": [
-      "Customize the template to fit your specific needs",
-      "Review all details before finalizing",
-      "Keep copies for your records",
-      "Follow any legal requirements in your jurisdiction",
-      "Seek professional advice if needed"
-    ],
-    "faqs": [
-      {
-        "question": "Can I customize this template?",
-        "answer": "Yes, templates are meant to be customized for your specific situation."
-      },
-      {
-        "question": "Is this legally binding?",
-        "answer": "Templates provide structure; consult legal counsel for legal documents."
-      },
-      {
-        "question": "Can I use this for commercial purposes?",
-        "answer": "Check your local laws and usage rights for commercial use."
-      }
-    ],
-    "tags": [
-      "contracts",
-      "template",
-      "professional"
-    ]
+    "title": "Videographer Contract",
+    "description": "Agreement covering video production scope, delivery, and rights.",
+    "category": { "name": "Contracts", "slug": "contracts" },
+    "intro": "Use to set expectations for filming, editing, and final deliverables.",
+    "whenToUse": "For event, commercial, or promotional video projects.",
+    "template": "This Agreement is between [Client] and [Videographer].\n\nScope: [Shoot details].\nDeliverables: [Video files].\nRights: [Usage].\nPayment: [Terms].",
+    "example": "3-minute promotional video with two revisions and full rights for web use.",
+    "tips": ["State raw footage policies","Limit revision rounds","Clarify final file formats"],
+    "faqs": [{ "question": "Who owns raw footage?", "answer": "State whether raw footage is included or retained by the videographer." }],
+    "tags": ["video","creative","production"]
   },
   {
     "slug": "dj-contract",
-    "title": "Dj Contract Template",
-    "description": "Free dj contract template for professional use.",
-    "category": {
-      "name": "Contracts",
-      "slug": "contracts"
-    },
-    "intro": "This dj contract template helps you create professional documentation effectively.",
-    "whenToUse": "Use this template for your professional needs and documentation.",
-    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
-    "example": "[Example content demonstrating proper usage]",
-    "tips": [
-      "Customize the template to fit your specific needs",
-      "Review all details before finalizing",
-      "Keep copies for your records",
-      "Follow any legal requirements in your jurisdiction",
-      "Seek professional advice if needed"
-    ],
-    "faqs": [
-      {
-        "question": "Can I customize this template?",
-        "answer": "Yes, templates are meant to be customized for your specific situation."
-      },
-      {
-        "question": "Is this legally binding?",
-        "answer": "Templates provide structure; consult legal counsel for legal documents."
-      },
-      {
-        "question": "Can I use this for commercial purposes?",
-        "answer": "Check your local laws and usage rights for commercial use."
-      }
-    ],
-    "tags": [
-      "contracts",
-      "template",
-      "professional"
-    ]
+    "title": "DJ Contract",
+    "description": "A contract for DJ services at events including timing and equipment needs.",
+    "category": { "name": "Contracts", "slug": "contracts" },
+    "intro": "Covers set times, breaks, equipment, and payment.",
+    "whenToUse": "When hiring DJs for weddings, parties, or corporate events.",
+    "template": "This Agreement is between [Client] and [DJ].\n\nEvent date/time: [Details].\nSetup: [Time].\nPayment: [Amount].",
+    "example": "Wedding reception DJ from 6pm–11pm with 30-minute setup window and 1 break.",
+    "tips": ["Confirm electricity/access","List back-up plans","Specify playlist do-not-play lists"],
+    "faqs": [{ "question": "What if the event runs late?", "answer": "Include overtime fees and notice requirements." }],
+    "tags": ["event","music","dj"]
   },
   {
     "slug": "wedding-vendor-contract",
-    "title": "Wedding Vendor Contract Template",
-    "description": "Free wedding vendor contract template for professional use.",
-    "category": {
-      "name": "Contracts",
-      "slug": "contracts"
-    },
-    "intro": "This wedding vendor contract template helps you create professional documentation effectively.",
-    "whenToUse": "Use this template for your professional needs and documentation.",
-    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
-    "example": "[Example content demonstrating proper usage]",
-    "tips": [
-      "Customize the template to fit your specific needs",
-      "Review all details before finalizing",
-      "Keep copies for your records",
-      "Follow any legal requirements in your jurisdiction",
-      "Seek professional advice if needed"
-    ],
-    "faqs": [
-      {
-        "question": "Can I customize this template?",
-        "answer": "Yes, templates are meant to be customized for your specific situation."
-      },
-      {
-        "question": "Is this legally binding?",
-        "answer": "Templates provide structure; consult legal counsel for legal documents."
-      },
-      {
-        "question": "Can I use this for commercial purposes?",
-        "answer": "Check your local laws and usage rights for commercial use."
-      }
-    ],
-    "tags": [
-      "contracts",
-      "template",
-      "professional"
-    ]
+    "title": "Wedding Vendor Contract",
+    "description": "Generic contract for wedding vendors covering deliverables and liability.",
+    "category": { "name": "Contracts", "slug": "contracts" },
+    "intro": "Helps align expectations between couples and wedding vendors.",
+    "whenToUse": "For florists, caterers, bakers, and other wedding vendors.",
+    "template": "This Agreement is between [Client] and [Vendor].\n\nServices: [Describe].\nDelivery: [Dates/Times].\nPayment: [Terms].",
+    "example": "Florist delivering centerpieces and bouquets on the morning of the wedding.",
+    "tips": ["Confirm delivery windows","Include contingency for weather","State cancellation policy"],
+    "faqs": [{ "question": "Are refunds available for cancellations?", "answer": "Specify refund terms and timelines in the contract." }],
+    "tags": ["wedding","vendor","events"]
   },
   {
     "slug": "musician-contract",
-    "title": "Musician Contract Template",
-    "description": "Free musician contract template for professional use.",
-    "category": {
-      "name": "Contracts",
-      "slug": "contracts"
-    },
-    "intro": "This musician contract template helps you create professional documentation effectively.",
-    "whenToUse": "Use this template for your professional needs and documentation.",
-    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
-    "example": "[Example content demonstrating proper usage]",
-    "tips": [
-      "Customize the template to fit your specific needs",
-      "Review all details before finalizing",
-      "Keep copies for your records",
-      "Follow any legal requirements in your jurisdiction",
-      "Seek professional advice if needed"
-    ],
-    "faqs": [
-      {
-        "question": "Can I customize this template?",
-        "answer": "Yes, templates are meant to be customized for your specific situation."
-      },
-      {
-        "question": "Is this legally binding?",
-        "answer": "Templates provide structure; consult legal counsel for legal documents."
-      },
-      {
-        "question": "Can I use this for commercial purposes?",
-        "answer": "Check your local laws and usage rights for commercial use."
-      }
-    ],
-    "tags": [
-      "contracts",
-      "template",
-      "professional"
-    ]
-  },
-  {
-    "slug": "artist-contract",
-    "title": "Artist Contract Template",
-    "description": "Free artist contract template for professional use.",
-    "category": {
-      "name": "Contracts",
-      "slug": "contracts"
-    },
-    "intro": "This artist contract template helps you create professional documentation effectively.",
-    "whenToUse": "Use this template for your professional needs and documentation.",
-    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
-    "example": "[Example content demonstrating proper usage]",
-    "tips": [
-      "Customize the template to fit your specific needs",
-      "Review all details before finalizing",
-      "Keep copies for your records",
-      "Follow any legal requirements in your jurisdiction",
-      "Seek professional advice if needed"
-    ],
-    "faqs": [
-      {
-        "question": "Can I customize this template?",
-        "answer": "Yes, templates are meant to be customized for your specific situation."
-      },
-      {
-        "question": "Is this legally binding?",
-        "answer": "Templates provide structure; consult legal counsel for legal documents."
-      },
-      {
-        "question": "Can I use this for commercial purposes?",
-        "answer": "Check your local laws and usage rights for commercial use."
-      }
-    ],
-    "tags": [
-      "contracts",
-      "template",
-      "professional"
-    ]
+    "title": "Musician Contract",
+    "description": "Agreement for live musicians including performance length and setup.",
+    "category": { "name": "Contracts", "slug": "contracts" },
+    "intro": "Defines performance schedule, equipment needs, and payment.",
+    "whenToUse": "For hiring solo artists, bands, or ensembles for performances.",
+    "template": "This Agreement is between [Client] and [Musician].\n\nPerformance: [Time].\nStage: [Requirements].\nPayment: [Amount].",
+    "example": "Solo guitarist performance for 2 hours at $300 with PA provided by client.",
+    "tips": ["Confirm load-in/load-out times","Outline soundcheck needs","Include rider if applicable"],
+    "faqs": [{ "question": "Who supplies monitors/PA?", "answer": "State which party provides sound equipment." }],
+    "tags": ["music","performance","event"]
   },
   {
     "slug": "landscaper-contract",
-    "title": "Landscaper Contract Template",
-    "description": "Free landscaper contract template for professional use.",
-    "category": {
-      "name": "Contracts",
-      "slug": "contracts"
-    },
-    "intro": "This landscaper contract template helps you create professional documentation effectively.",
-    "whenToUse": "Use this template for your professional needs and documentation.",
-    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
-    "example": "[Example content demonstrating proper usage]",
-    "tips": [
-      "Customize the template to fit your specific needs",
-      "Review all details before finalizing",
-      "Keep copies for your records",
-      "Follow any legal requirements in your jurisdiction",
-      "Seek professional advice if needed"
-    ],
-    "faqs": [
-      {
-        "question": "Can I customize this template?",
-        "answer": "Yes, templates are meant to be customized for your specific situation."
-      },
-      {
-        "question": "Is this legally binding?",
-        "answer": "Templates provide structure; consult legal counsel for legal documents."
-      },
-      {
-        "question": "Can I use this for commercial purposes?",
-        "answer": "Check your local laws and usage rights for commercial use."
-      }
-    ],
-    "tags": [
-      "contracts",
-      "template",
-      "professional"
-    ]
+    "title": "Landscaper Contract",
+    "description": "Service agreement for landscaping, maintenance, or gardening projects.",
+    "category": { "name": "Contracts", "slug": "contracts" },
+    "intro": "Covers scope, materials, timing, and warranty for landscaping work.",
+    "whenToUse": "For landscaping installations or maintenance services.",
+    "template": "This Agreement is between [Client] and [Landscaper].\n\nScope: [Planting/mowing].\nMaterials: [Who supplies].\nPayment: [Terms].",
+    "example": "Front yard redesign with specified plant list and 30-day plant warranty.",
+    "tips": ["List plant species","Define maintenance schedule","Include warranty period"],
+    "faqs": [{ "question": "Who replaces dead plants?", "answer": "State warranty and replacement policy in the contract." }],
+    "tags": ["landscape","garden","service"]
   },
   {
     "slug": "plumber-contract",
-    "title": "Plumber Contract Template",
-    "description": "Free plumber contract template for professional use.",
-    "category": {
-      "name": "Contracts",
-      "slug": "contracts"
-    },
-    "intro": "This plumber contract template helps you create professional documentation effectively.",
-    "whenToUse": "Use this template for your professional needs and documentation.",
-    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
-    "example": "[Example content demonstrating proper usage]",
-    "tips": [
-      "Customize the template to fit your specific needs",
-      "Review all details before finalizing",
-      "Keep copies for your records",
-      "Follow any legal requirements in your jurisdiction",
-      "Seek professional advice if needed"
-    ],
-    "faqs": [
-      {
-        "question": "Can I customize this template?",
-        "answer": "Yes, templates are meant to be customized for your specific situation."
-      },
-      {
-        "question": "Is this legally binding?",
-        "answer": "Templates provide structure; consult legal counsel for legal documents."
-      },
-      {
-        "question": "Can I use this for commercial purposes?",
-        "answer": "Check your local laws and usage rights for commercial use."
-      }
-    ],
-    "tags": [
-      "contracts",
-      "template",
-      "professional"
-    ]
+    "title": "Plumber Contract",
+    "description": "Agreement for plumbing repairs, installations, and service calls.",
+    "category": { "name": "Contracts", "slug": "contracts" },
+    "intro": "Defines scope, parts supply, and warranty for plumbing tasks.",
+    "whenToUse": "For hiring plumbers for repairs or installations.",
+    "template": "This Agreement is between [Client] and [Plumber].\n\nWork: [Describe].\nParts: [Responsibility].\nWarranty: [Period].\nPayment: [Terms].",
+    "example": "Hot water heater installation with 1-year workmanship warranty.",
+    "tips": ["Request licenses","Clarify parts warranties","Get estimates in writing"],
+    "faqs": [{ "question": "Are estimates fixed?", "answer": "Specify whether estimates are fixed-price or subject to change." }],
+    "tags": ["trade","plumbing","service"]
   },
   {
     "slug": "electrician-contract",
-    "title": "Electrician Contract Template",
-    "description": "Free electrician contract template for professional use.",
-    "category": {
-      "name": "Contracts",
-      "slug": "contracts"
-    },
-    "intro": "This electrician contract template helps you create professional documentation effectively.",
-    "whenToUse": "Use this template for your professional needs and documentation.",
-    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
-    "example": "[Example content demonstrating proper usage]",
-    "tips": [
-      "Customize the template to fit your specific needs",
-      "Review all details before finalizing",
-      "Keep copies for your records",
-      "Follow any legal requirements in your jurisdiction",
-      "Seek professional advice if needed"
-    ],
-    "faqs": [
-      {
-        "question": "Can I customize this template?",
-        "answer": "Yes, templates are meant to be customized for your specific situation."
-      },
-      {
-        "question": "Is this legally binding?",
-        "answer": "Templates provide structure; consult legal counsel for legal documents."
-      },
-      {
-        "question": "Can I use this for commercial purposes?",
-        "answer": "Check your local laws and usage rights for commercial use."
-      }
-    ],
-    "tags": [
-      "contracts",
-      "template",
-      "professional"
-    ]
+    "title": "Electrician Contract",
+    "description": "Agreement covering electrical work, safety standards, and inspections.",
+    "category": { "name": "Contracts", "slug": "contracts" },
+    "intro": "Use for installations, rewiring, or electrical repairs.",
+    "whenToUse": "When engaging licensed electricians for residential or commercial jobs.",
+    "template": "This Agreement is between [Client] and [Electrician].\n\nScope: [Describe].\nCompliance: [Standards].\nPayment: [Terms].",
+    "example": "Kitchen rewiring project with municipal inspection and certificate of compliance.",
+    "tips": ["Verify licenses","Include inspection clause","Outline safety responsibilities"],
+    "faqs": [{ "question": "Do electricians provide permits?", "answer": "Often yes — confirm permit responsibilities in the contract." }],
+    "tags": ["electrician","safety","trade"]
   },
   {
     "slug": "handyman-contract",
-    "title": "Handyman Contract Template",
-    "description": "Free handyman contract template for professional use.",
-    "category": {
-      "name": "Contracts",
-      "slug": "contracts"
-    },
-    "intro": "This handyman contract template helps you create professional documentation effectively.",
-    "whenToUse": "Use this template for your professional needs and documentation.",
-    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
-    "example": "[Example content demonstrating proper usage]",
-    "tips": [
-      "Customize the template to fit your specific needs",
-      "Review all details before finalizing",
-      "Keep copies for your records",
-      "Follow any legal requirements in your jurisdiction",
-      "Seek professional advice if needed"
-    ],
-    "faqs": [
-      {
-        "question": "Can I customize this template?",
-        "answer": "Yes, templates are meant to be customized for your specific situation."
-      },
-      {
-        "question": "Is this legally binding?",
-        "answer": "Templates provide structure; consult legal counsel for legal documents."
-      },
-      {
-        "question": "Can I use this for commercial purposes?",
-        "answer": "Check your local laws and usage rights for commercial use."
-      }
-    ],
-    "tags": [
-      "contracts",
-      "template",
-      "professional"
-    ]
+    "title": "Handyman Contract",
+    "description": "Agreement for general repair and handyman services.",
+    "category": { "name": "Contracts", "slug": "contracts" },
+    "intro": "Covers scope, hourly rates, and payment for small jobs.",
+    "whenToUse": "For small repair jobs and household maintenance.",
+    "template": "This Agreement is between [Client] and [Handyman].\n\nWork: [List tasks].\nRate: [Hourly or fixed].\nPayment: [Terms].",
+    "example": "Fixing door hinges and minor carpentry at $45/hour.",
+    "tips": ["List tasks in scope","Agree on hourly vs fixed","Confirm materials charge"],
+    "faqs": [{ "question": "Are materials billed separately?", "answer": "Specify materials policy and receipts requirement." }],
+    "tags": ["home","repairs","handyman"]
   },
   {
-    "slug": "home-repair-contract",
-    "title": "Home Repair Contract Template",
-    "description": "Free home repair contract template for professional use.",
-    "category": {
-      "name": "Contracts",
-      "slug": "contracts"
-    },
-    "intro": "This home repair contract template helps you create professional documentation effectively.",
-    "whenToUse": "Use this template for your professional needs and documentation.",
-    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
-    "example": "[Example content demonstrating proper usage]",
-    "tips": [
-      "Customize the template to fit your specific needs",
-      "Review all details before finalizing",
-      "Keep copies for your records",
-      "Follow any legal requirements in your jurisdiction",
-      "Seek professional advice if needed"
-    ],
-    "faqs": [
-      {
-        "question": "Can I customize this template?",
-        "answer": "Yes, templates are meant to be customized for your specific situation."
-      },
-      {
-        "question": "Is this legally binding?",
-        "answer": "Templates provide structure; consult legal counsel for legal documents."
-      },
-      {
-        "question": "Can I use this for commercial purposes?",
-        "answer": "Check your local laws and usage rights for commercial use."
-      }
-    ],
-    "tags": [
-      "contracts",
-      "template",
-      "professional"
-    ]
+    "slug": "contractor-agreement-home-repair",
+    "title": "Home Repair Contract",
+    "description": "Contract for home repair projects, quotes, and timelines.",
+    "category": { "name": "Contracts", "slug": "contracts" },
+    "intro": "Good for medium-sized repair or renovation work.",
+    "whenToUse": "For contracting repair or remodeling work on a property.",
+    "template": "This Agreement is between [Homeowner] and [Contractor].\n\nScope: [Work].\nPrice: [Total or milestone].\nTimeline: [Dates].\nWarranties: [Details].",
+    "example": "Bathroom remodel with 3 milestones and 1-year workmanship warranty.",
+    "tips": ["Get written quotes","Use milestones","Confirm licensing"],
+    "faqs": [{ "question": "Should I hold final payment?", "answer": "Consider retaining a small holdback until final inspection." }],
+    "tags": ["home","repair","contractor"]
   },
   {
     "slug": "car-repair-contract",
-    "title": "Car Repair Contract Template",
-    "description": "Free car repair contract template for professional use.",
-    "category": {
-      "name": "Contracts",
-      "slug": "contracts"
-    },
-    "intro": "This car repair contract template helps you create professional documentation effectively.",
-    "whenToUse": "Use this template for your professional needs and documentation.",
-    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
-    "example": "[Example content demonstrating proper usage]",
-    "tips": [
-      "Customize the template to fit your specific needs",
-      "Review all details before finalizing",
-      "Keep copies for your records",
-      "Follow any legal requirements in your jurisdiction",
-      "Seek professional advice if needed"
-    ],
+    "title": "Car Repair Contract",
+    "description": "Service agreement for vehicle repairs and maintenance.",
+    "category": { "name": "Contracts", "slug": "contracts" },
+    "intro": "Outlines diagnosis, parts, labor, and warranty for auto repairs.",
+    "whenToUse": "When authorizing significant vehicle repairs or rebuilds.",
+    "template": "This Agreement is between [Owner] and [Mechanic].\n\nDiagnosis: [Findings].\nParts: [Responsibility].\nEstimate: [Amount].\nWarranty: [Period].",
+    "example": "Transmission repair estimate with parts and 90-day workmanship warranty.",
+    "tips": ["Get written estimates","Ask about used vs new parts","Confirm warranty terms"],
+    "faqs": [{ "question": "Can I approve additional work?", "answer": "Set a threshold for additional work that requires approval." }],
+    "tags": ["auto","repair","service"]
+  },
+  {
+    "slug": "professional-wedding-planner-contract-template",
+    "title": "Professional Wedding Planner Contract Template",
+    "description": "A comprehensive contract for wedding planners covering services, payment, cancellation, and liability.",
+    "category": { "name": "Contracts", "slug": "contracts" },
+    "intro": "This contract formalizes the relationship between the Wedding Planner (\"Planner\") and the Client for planning, coordination, and execution of wedding services.",
+    "whenToUse": "Use this template when entering into an engagement to plan or coordinate a wedding or related events.",
+    "template": "Parties:\nPlanner: [Planner Name], [Address], [Contact].\nClient: [Client Name], [Address], [Contact].\n\n1. Services:\nPlanner agrees to provide planning and coordination services as detailed in Schedule A (the \"Services\"). Services may include vendor management, timeline creation, venue coordination, and event-day management.\n\n2. Term:\nThis Agreement commences on [Start Date] and continues until completion of the Services or earlier termination as described herein.\n\n3. Fees and Payment:\nTotal Fee: $[Total Amount].\nDeposit: $[Deposit Amount] due to secure date (non-refundable except as set out herein).\nPayment Schedule: [Milestone / date schedule].\nLate Fees: Overdue amounts may incur interest at [rate].\n\n4. Expenses:\nClient will reimburse Planner for reasonable out-of-pocket expenses (vendor deposits, travel, rentals) incurred while providing Services, provided Planner obtains Client approval for expenses above $[threshold].\n\n5. Cancellation and Refunds:\nIf Client cancels more than [X] days before event: refund of paid amounts minus non-refundable deposit and confirmed vendor commitments.\nIf cancellation within [X] days: no refund of deposit and Client remains responsible for unpaid vendor commitments secured by Planner.\n\n6. Vendor Contracts and Payments:\nPlanner may negotiate vendor agreements on Client’s behalf but is not a party to most vendor contracts unless explicitly stated. Client is ultimately responsible for payments due to vendors unless Planner agrees otherwise in writing.\n\n7. Liability and Insurance:\nPlanner will exercise reasonable care in performing Services but is not liable for vendor performance, acts of God, or other events outside Planner’s control. Client is encouraged to maintain event insurance.\n\n8. Force Majeure:\nNeither party will be liable for delays or failures caused by events beyond reasonable control (e.g., natural disasters, strikes, governmental actions).\n\n9. Cancellation by Planner:\nPlanner may cancel for material breach by Client or factors that make performance impossible; deposits may be refunded minus costs incurred.\n\n10. Confidentiality and Publicity:\nPlanner and Client agree to keep sensitive information confidential. Planner may use non-identifying images of the event for promotional purposes unless Client opts out in writing.\n\n11. Termination:\nEither party may terminate for material breach if the breach remains uncured after [days] notice. Termination does not relieve Client of obligations to pay for Services provided or costs incurred prior to termination.\n\n12. Dispute Resolution:\nParties agree to attempt mediation before pursuing litigation, and venue for disputes will be [Jurisdiction].\n\n13. Miscellaneous:\nEntire Agreement: This document and Schedule A constitute the full agreement.\nAmendments: Any changes must be in writing and signed by both parties.\nGoverning Law: [State/Country law applies].\n\nSignatures:\nPlanner: ____________________ Date: ________\nClient: ____________________ Date: ________",
+    "example": "This Agreement is between Everlasting Events and Jordan Lee for a wedding on June 20. Services include full planning, vendor coordination, and day-of management. Deposit $2,000. Balance paid in three installments.",
+    "tips": ["Keep the deposit non-refundable only to cover commitments","Specify vendor payment responsibilities","Recommend event insurance"],
     "faqs": [
-      {
-        "question": "Can I customize this template?",
-        "answer": "Yes, templates are meant to be customized for your specific situation."
-      },
-      {
-        "question": "Is this legally binding?",
-        "answer": "Templates provide structure; consult legal counsel for legal documents."
-      },
-      {
-        "question": "Can I use this for commercial purposes?",
-        "answer": "Check your local laws and usage rights for commercial use."
-      }
+      { "question": "What if a vendor doesn't perform?", "answer": "The Planner will assist in resolving issues, but vendor performance is generally the vendor's responsibility; contract limits Planner liability." },
+      { "question": "Can I change the guest count later?", "answer": "Major changes may affect pricing and vendor commitments; notify Planner as soon as possible." }
     ],
-    "tags": [
-      "contracts",
-      "template",
-      "professional"
-    ]
+    "tags": ["wedding","event-planning","contract","planner","client-agreement"]
   }
 ]
