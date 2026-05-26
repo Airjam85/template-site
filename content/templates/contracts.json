@@ -1,43 +1,209 @@
 [
   {
-    "slug": "freelance-contract-template",
-    "title": "Freelance Contract Template",
-    "description": "A general freelance contract to outline scope, payment, and deliverables.",
-    "category": { "name": "Contracts", "slug": "contracts" },
-    "intro": "Use this freelance contract to set clear expectations between a freelancer and a client.",
-    "whenToUse": "When hiring or engaging independent contractors for project work.",
-    "template": "This Agreement is between [Client] and [Freelancer].\n\nScope: [Describe work].\nDeliverables: [List].\nPayment: [Terms].\nTimeline: [Dates].\n\nSignatures:\n[Client]\n[Freelancer]",
-    "example": "This agreement is between Bright Media and Jordan Lee.\nScope: Design landing page.\nPayment: $2,000.\nSignatures: Bright Media / Jordan Lee",
-    "tips": ["Be specific about deliverables","Include milestones","State payment schedule clearly"],
-    "faqs": [{ "question": "Do I need a contract for small gigs?", "answer": "Yes, it helps avoid disputes and clarifies expectations." }],
-    "tags": ["freelance","contract","payment"]
-  },
+"slug": "freelance-services-contract-template",
+"title": "Freelance Services Contract Template",
+"description": "Free freelance services contract template for designers, writers, developers, consultants, and independent contractors. Copy, customize, and download instantly.",
+"category": {
+"name": "Contracts",
+"slug": "contracts"
+},
+"intro": "A freelance services contract helps freelancers and clients establish clear expectations regarding project scope, timelines, payment terms, revisions, intellectual property rights, and cancellation policies. This template is designed for creative professionals, consultants, developers, marketers, writers, designers, and other independent contractors who want a professional agreement that reduces misunderstandings and scope creep.",
+"whenToUse": "Use this template when providing freelance or contract-based services for a client project. It is commonly used for creative work, consulting, marketing, web development, copywriting, branding, digital services, and ongoing contractor relationships.",
+"template": "FREELANCE SERVICES CONTRACT\n\nThis Freelance Services Contract (“Agreement”) is entered into on [Date] by and between:\n\nFreelancer:\nName: [Freelancer or Business Name]\nAddress: [Address]\nEmail: [Email Address]\nPhone Number: [Phone Number]\n\nand\n\nClient:\nName: [Client or Company Name]\nAddress: [Address]\nEmail: [Email Address]\nPhone Number: [Phone Number]\n\n1. PROJECT OVERVIEW\nThe Freelancer agrees to provide the following services (“Services”):\n\n[Describe the project scope, deliverables, platforms, consulting services, or freelance work]\n\nDeliverables may include:\n\n- Design files\n- Written content\n- Website development\n- Branding materials\n- Marketing assets\n- Consulting deliverables\n- Technical services\n- Other agreed work product\n\n2. SCOPE OF WORK\nThe Services include only the work specifically described in this Agreement.\n\nThe following are considered outside the original scope unless otherwise agreed in writing:\n\n- Additional revisions beyond included rounds\n- New deliverables or features\n- Additional meetings or consulting hours\n- Rush delivery requests\n- Expanded project requirements\n\nOut-of-scope work shall be billed at:\n[$Amount] per hour or [Flat Fee Terms]\n\n3. PROJECT TIMELINE\nProject Start Date: [Start Date]\nEstimated Completion Date: [Completion Date]\n\nMilestones:\n\n- Milestone 1: [Description and Date]\n- Milestone 2: [Description and Date]\n- Milestone 3: [Description and Date]\n\nThe Client agrees to provide approvals, feedback, content, and required materials promptly.\n\nAny delays caused by missing feedback, incomplete materials, or delayed approvals may extend project deadlines accordingly.\n\n4. PAYMENT TERMS\nTotal Project Fee: [$Amount]\n\nPayment Structure:\n\n- Deposit Due Before Work Begins: [Percentage or Amount]\n- Milestone Payments: [Describe schedule]\n- Final Payment Due: [Describe final payment terms]\n\nInvoices are due within:\n[Net 15 / Net 30 / Number of Days]\n\nLate payments may result in:\n\n- Late fees of [Percentage or Amount]\n- Suspension of work\n- Delayed delivery of final files or services\n\nThe Freelancer may withhold final deliverables, transferable files, launch access, or ownership rights until payment is received in full.\n\n5. REVISIONS AND CHANGES\nIncluded revisions:\n[Number] rounds of revisions.\n\nAdditional revisions or project changes beyond the agreed scope shall be billed separately.\n\nThe Freelancer will notify the Client before performing additional billable work.\n\n6. CLIENT RESPONSIBILITIES\nThe Client agrees to:\n\n- Provide accurate information and materials\n- Respond to requests and approvals in a timely manner\n- Obtain permissions for supplied content or assets\n- Review deliverables promptly\n- Maintain communication regarding project requirements\n\n7. INTELLECTUAL PROPERTY AND OWNERSHIP\nUnless otherwise agreed in writing:\n\n- The Freelancer retains ownership of preliminary concepts, drafts, rejected materials, templates, working files, processes, and tools\n- The Client receives rights only to the final approved deliverables after full payment is received\n- The Freelancer retains the right to display completed work in portfolios, websites, presentations, social media, and marketing materials unless otherwise agreed\n\nOwnership or licensing terms:\n[Describe copyright transfer, licensing rights, exclusivity, or source file ownership]\n\n8. CONFIDENTIALITY\nBoth parties agree to maintain the confidentiality of private business information, trade secrets, login credentials, financial information, and unpublished project materials.\n\n9. THIRD-PARTY MATERIALS\nThe Client is responsible for securing appropriate rights or licenses for any third-party materials supplied for the Project.\n\nThird-party materials may include:\n\n- Stock photos\n- Fonts\n- Music\n- Video clips\n- Software\n- Brand assets\n- Licensed content\n\n10. TERMINATION AND KILL FEE\nEither party may terminate this Agreement with written notice.\n\nIf the Client cancels the Project after work has started:\n\n- The initial deposit shall remain non-refundable\n- The Client shall pay for all work completed through the cancellation date\n- A kill fee of [$Amount or Percentage] may apply for reserved project time and disruption of workflow\n\nUpon termination, the Freelancer retains ownership of unfinished or unpaid work.\n\n11. LIMITATION OF LIABILITY\nThe Freelancer shall not be responsible for indirect damages, lost profits, business interruption, or third-party claims arising from the use of the deliverables.\n\n12. INDEPENDENT CONTRACTOR STATUS\nThe Freelancer is acting as an independent contractor and not as an employee, partner, or legal representative of the Client.\n\n13. GOVERNING LAW\nThis Agreement shall be governed by the laws of:\n[State/Country]\n\n14. ENTIRE AGREEMENT\nThis Agreement represents the complete understanding between the parties regarding the Services.\n\n15. SIGNATURES\nBy signing below, both parties acknowledge and agree to the terms of this Agreement.\n\nFreelancer Signature: __________________________\nPrinted Name: _________________________________\nDate: ________________________________________\n\nClient Signature: ______________________________\nPrinted Name: _________________________________\nDate: ________________________________________",
+"example": "FREELANCE SERVICES CONTRACT\n\nDate: November 8, 2026\n\nFreelancer:\nName: Atlas Creative Studio\n\nClient:\nName: Evergreen Fitness Co.\n\nProject Overview:\nDevelopment of a brand identity package, landing page design, email templates, and social media graphics.\n\nProject Timeline:\nStart Date: November 10, 2026\nCompletion Date: December 20, 2026\n\nPayment Terms:\nTotal Fee: $6,000\n50% deposit due before work begins.\nRemaining balance due upon final approval.\n\nRevisions:\nIncludes 3 rounds of revisions.\nAdditional revisions billed at $90/hour.\n\nOwnership Terms:\nFinal approved deliverables transfer to the Client after full payment is received.\n\nKill Fee:\n25% of remaining project balance if cancelled after production begins.\n\nFreelancer Signature: Maya Thompson\nDate: November 8, 2026\n\nClient Signature: Jordan Rivera\nDate: November 8, 2026",
+"tips": [
+"Clearly define deliverables and project milestones before work begins.",
+"Require a deposit before starting freelance work.",
+"Limit revision rounds to reduce scope creep.",
+"Document all additional requests and scope changes in writing.",
+"Clarify ownership and licensing rights before delivering final files."
+],
+"faqs": [
+{
+"question": "What is a freelance services contract?",
+"answer": "A freelance services contract is an agreement outlining project scope, payment terms, timelines, revisions, and ownership rights between a freelancer and client."
+},
+{
+"question": "Why should freelancers require a deposit?",
+"answer": "Deposits help secure the project, reserve time, and reduce the risk of non-payment."
+},
+{
+"question": "What is a kill fee?",
+"answer": "A kill fee compensates the freelancer if the client cancels the project after work has already begun."
+},
+{
+"question": "Who owns the final work product?",
+"answer": "Ownership depends on the agreement terms, but many freelancers transfer rights only after full payment is received."
+},
+{
+"question": "Why are revision limits important?",
+"answer": "Revision limits help manage project timelines and prevent unlimited changes outside the agreed scope."
+}
+],
+"tags": [
+"freelance-contract",
+"independent-contractor",
+"creative-services",
+"client-agreement",
+"consulting",
+"contracts"
+]
+},
   {
-    "slug": "freelance-contract-template-for-designers",
-    "title": "Freelance Contract Template for Designers",
-    "description": "A designer-focused freelance agreement with design-specific clauses.",
-    "category": { "name": "Contracts", "slug": "contracts" },
-    "intro": "Tailored to protect creative deliverables, IP, and revision limits.",
-    "whenToUse": "When hiring or contracting with graphic or web designers.",
-    "template": "This Agreement is between [Client] and [Designer].\n\nScope: [Design work].\nDeliverables: [Assets].\nRevisions: [Number].\nPayment: [Terms].",
-    "example": "Logo design project with 3 rounds of revisions and final assets delivered as SVG/PNG.",
-    "tips": ["Clarify final file formats","Limit revisions","State ownership transfer on final payment"],
-    "faqs": [{ "question": "Who owns the files?", "answer": "Ownership can transfer on final payment; specify clearly." }],
-    "tags": ["design","freelance","creative"]
-  },
+"slug": "freelance-design-contract-template",
+"title": "Freelance Design Contract Template",
+"description": "Free freelance design contract template for graphic designers, branding projects, website design, and creative services. Copy, customize, and download instantly.",
+"category": {
+"name": "Contracts",
+"slug": "contracts"
+},
+"intro": "A freelance design contract helps independent designers and clients define project scope, payment terms, revisions, intellectual property rights, and delivery expectations before creative work begins. This template is useful for graphic designers, brand designers, web designers, illustrators, and other creative freelancers who want professional project boundaries and clear client expectations.",
+"whenToUse": "Use this template when providing freelance design services for logos, branding, websites, social media graphics, marketing materials, packaging, illustrations, or other creative projects. It is commonly used for both one-time projects and ongoing freelance client relationships.",
+"template": "FREELANCE DESIGN CONTRACT\n\nThis Freelance Design Contract (“Agreement”) is entered into on [Date] by and between:\n\nDesigner:\nName: [Designer Name or Business Name]\nAddress: [Address]\nEmail: [Email]\nPhone Number: [Phone Number]\n\nand\n\nClient:\nName: [Client Name or Business Name]\nAddress: [Address]\nEmail: [Email]\nPhone Number: [Phone Number]\n\n1. PROJECT DESCRIPTION\nThe Designer agrees to provide the following creative services (“Project”):\n\n[Describe design services, deliverables, platforms, branding scope, or creative work]\n\nDeliverables may include:\n\n- Logos\n- Brand assets\n- Social media graphics\n- Website designs\n- Print materials\n- Illustrations\n- Marketing materials\n- Other agreed creative assets\n\n2. PROJECT SCOPE\nThe Project includes only the services specifically listed in this Agreement.\n\nAny additional requests outside the agreed scope may require:\n\n- Additional fees\n- Revised timelines\n- Separate written approval\n\nOut-of-scope work rate:\n[$Amount] per hour or [Flat Fee Terms]\n\n3. TIMELINE\nProject Start Date: [Start Date]\nEstimated Delivery Date: [Delivery Date]\n\nThe Client agrees to provide necessary feedback, approvals, content, and materials in a timely manner.\n\nDelays caused by missing feedback, late approvals, or incomplete materials may extend the project timeline.\n\n4. PAYMENT TERMS\nTotal Project Fee: [$Amount]\n\nPayment Schedule:\n\n- Deposit Due Before Work Begins: [Percentage or Amount]\n- Remaining Balance Due: [Final Payment Terms]\n\nThe Designer may pause work or withhold final deliverables until outstanding invoices are paid.\n\nLate payments may incur:\n\n- Late fees\n- Interest charges\n- Suspension of services\n\n5. REVISIONS\nThe Project includes:\n\n[Number] rounds of revisions.\n\nAdditional revisions beyond the included amount may be billed at:\n\n[$Amount] per hour or [Revision Fee Terms]\n\nRevision requests must remain reasonably related to the original project scope.\n\n6. CLIENT RESPONSIBILITIES\nThe Client agrees to:\n\n- Provide accurate project information and materials\n- Respond to communications and approvals promptly\n- Review deliverables within a reasonable timeframe\n- Obtain rights or permissions for any supplied content\n\n7. COPYRIGHT AND USAGE RIGHTS\nUnless otherwise agreed in writing:\n\n- The Designer retains ownership of preliminary concepts, drafts, unused designs, and working files\n- Final approved deliverables are licensed or transferred only after full payment is received\n- The Designer retains the right to display completed work in portfolios, marketing materials, websites, and social media unless otherwise agreed\n\nTransfer of exclusive copyright ownership, editable source files, or commercial licensing terms:\n[Describe additional licensing or ownership arrangements]\n\n8. FILE DELIVERY\nFinal deliverables may include:\n\n[PNG, JPG, PDF, SVG, AI, PSD, Figma files, or other formats]\n\nEditable or source files:\n\n[ ] Included\n[ ] Available for additional fee\n[ ] Not included\n\n9. PROJECT CANCELLATION AND KILL FEE\nIf the Client cancels the Project after work has started:\n\n- The initial deposit shall remain non-refundable\n- The Client agrees to pay for work completed up to the cancellation date\n- A cancellation or kill fee of [$Amount or Percentage] may apply\n\n10. CONFIDENTIALITY\nBoth parties agree to maintain confidentiality regarding private business information, unreleased materials, account access, and sensitive project details.\n\n11. LIMITATION OF LIABILITY\nThe Designer shall not be responsible for indirect damages, lost profits, or third-party claims related to the use of the deliverables.\n\n12. GOVERNING TERMS\nThis Agreement represents the complete understanding between the parties regarding the Project.\n\n13. SIGNATURES\nBy signing below, both parties acknowledge and agree to the terms of this Agreement.\n\nDesigner Signature: __________________________\nPrinted Name: _______________________________\nDate: ______________________________________\n\nClient Signature: ____________________________\nPrinted Name: _______________________________\nDate: ______________________________________",
+"example": "FREELANCE DESIGN CONTRACT\n\nDate: October 2, 2026\n\nDesigner:\nName: North Coast Creative Studio\n\nClient:\nName: Horizon Coffee Roasters\n\nProject Description:\nBrand identity package including logo design, color palette, typography system, packaging mockups, and Instagram templates.\n\nProject Timeline:\nStart Date: October 5, 2026\nEstimated Delivery Date: November 12, 2026\n\nProject Fee:\nTotal Fee: $3,500\n\nPayment Terms:\n50% deposit due before work begins.\nRemaining balance due before final editable files are delivered.\n\nRevisions:\nIncludes 3 rounds of revisions.\nAdditional revisions billed at $85/hour.\n\nFile Delivery:\nFinal files delivered in PNG, SVG, PDF, and Adobe Illustrator formats.\n\nCancellation Terms:\nDeposit is non-refundable after work begins.\n\nDesigner Signature: Lauren Mitchell\nDate: October 2, 2026\n\nClient Signature: Daniel Reyes\nDate: October 2, 2026",
+"tips": [
+"Define deliverables and revision limits clearly before work begins.",
+"Require an upfront deposit before starting the project.",
+"Clarify ownership of source files and final deliverables.",
+"Document all scope changes in writing to avoid misunderstandings.",
+"Set response deadlines for client feedback and approvals."
+],
+"faqs": [
+{
+"question": "What is a freelance design contract?",
+"answer": "A freelance design contract is an agreement outlining project scope, payment terms, revisions, ownership rights, and responsibilities between a designer and client."
+},
+{
+"question": "Why do designers request deposits upfront?",
+"answer": "Deposits help secure project commitment and compensate the designer for reserved time and early project work."
+},
+{
+"question": "Should revision limits be included in the contract?",
+"answer": "Yes, revision limits help prevent scope creep and establish clear expectations for project changes."
+},
+{
+"question": "Who owns the design files after payment?",
+"answer": "Ownership depends on the agreement terms, but many designers transfer rights only after final payment is completed."
+},
+{
+"question": "What is a kill fee in a freelance contract?",
+"answer": "A kill fee compensates the designer if the client cancels the project after work has already begun."
+}
+],
+"tags": [
+"freelance-design",
+"graphic-design-contract",
+"creative-services",
+"branding",
+"client-agreement",
+"contracts"
+]
+},
   {
-    "slug": "freelance-contract-template-for-writers",
-    "title": "Freelance Contract Template for Writers",
-    "description": "Agreement tailored for writing services, deliverables, and licensing.",
-    "category": { "name": "Contracts", "slug": "contracts" },
-    "intro": "Includes scope, revisions, and rights for written content.",
-    "whenToUse": "When commissioning articles, copy, or long-form writing.",
-    "template": "This Agreement is between [Client] and [Writer].\n\nScope: [Writing tasks].\nDelivery: [Deadlines].\nRights: [License/transfer].\nPayment: [Terms].",
-    "example": "A 1,200-word article delivered within 7 days, licensed exclusively for 6 months.",
-    "tips": ["Define word counts","State editing/revision policy","Clarify licensing terms"],
-    "faqs": [{ "question": "Can I republish?", "answer": "Depends on the license agreed; specify usage rights." }],
-    "tags": ["writing","freelance","content"]
-  },
+"slug": "freelance-writing-contract-template",
+"title": "Freelance Writing Contract Template",
+"description": "Free freelance writing contract template for copywriters, bloggers, ghostwriters, journalists, and content creators. Copy, customize, and download instantly.",
+
+"sourceAttribution": {
+    "label": "Adapted from freelance contract resources by Freelancers Union",
+    "url": "https://freelancersunion.org/contract/"
+},
+"category": {
+"name": "Contracts",
+"slug": "contracts"
+},
+"intro": "A freelance writing contract helps writers and clients establish clear expectations regarding deliverables, payment schedules, revisions, publishing rights, deadlines, and cancellation terms. This template is designed for copywriters, bloggers, ghostwriters, editors, journalists, SEO writers, and other independent writing professionals who want a professional agreement that protects their work, time, and intellectual property.",
+"whenToUse": "Use this template when providing freelance writing services for articles, blog posts, newsletters, website copy, ghostwriting, marketing content, journalism, scripts, or editorial projects. It is commonly used for one-time assignments, recurring content work, and publication contracts.",
+"template": "FREELANCE WRITING CONTRACT\n\nThis Freelance Writing Contract (“Agreement”) is entered into on [Date] by and between:\n\nWriter:\nName: [Writer Name or Business Name]\nAddress: [Address]\nEmail: [Email Address]\nPhone Number: [Phone Number]\n\nand\n\nClient:\nName: [Client Name or Company Name]\nAddress: [Address]\nEmail: [Email Address]\nPhone Number: [Phone Number]\n\n1. PROJECT DESCRIPTION\nThe Writer agrees to provide the following writing services (“Services”):\n\n[Describe the writing assignment, topics, deliverables, audience, publication type, or content requirements]\n\nDeliverables may include:\n\n- Blog posts\n- Articles\n- Website copy\n- Product descriptions\n- Newsletters\n- Ghostwritten content\n- Scripts\n- Social media copy\n- Research summaries\n- Other written materials\n\n2. SCOPE OF WORK\nThe Services include only the work specifically described in this Agreement.\n\nThe following are considered outside the agreed scope unless approved in writing:\n\n- Additional articles or pages\n- Major rewrites after approval\n- New research requests\n- Expanded project requirements\n- Rush turnaround requests\n- Additional interviews or travel\n\nAdditional work shall be billed at:\n[$Amount] per hour, per word, or per project.\n\n3. PROJECT TIMELINE\nProject Start Date: [Start Date]\nSubmission Deadline(s): [Deadline Dates]\n\nMilestones:\n\n- Outline or first draft due: [Date]\n- Revisions due: [Date]\n- Final draft due: [Date]\n\nThe Client agrees to provide feedback, approvals, research materials, interview access, and requested information promptly.\n\nAny delays caused by missing feedback, incomplete materials, or delayed approvals may extend project deadlines accordingly.\n\n4. PAYMENT TERMS\nTotal Project Fee: [$Amount]\n\nPayment Structure:\n\n- Deposit Due Before Work Begins: [Percentage or Amount]\n- Milestone Payments: [Describe schedule]\n- Final Payment Due: [Describe final payment terms]\n\nInvoices are due within:\n[Net 15 / Net 30 / Number of Days]\n\nAccepted payment methods:\n[Bank Transfer, ACH, PayPal, Check, Credit Card, etc.]\n\nLate payments may result in:\n\n- Late fees of [Percentage or Amount]\n- Suspension of work\n- Delayed delivery of final files or publishing rights\n\n5. RETAINER\nIf applicable, the Client agrees to pay a non-refundable retainer of [$Amount] to reserve project time and scheduling.\n\n6. REVISIONS\nThe Project includes:\n[Number] rounds of revisions.\n\nAdditional revisions beyond the included amount shall be billed separately.\n\nRevision requests must be submitted within [Number] days after delivery of the draft.\n\nMajor structural rewrites or expanded assignments may require a separate agreement.\n\n7. COPYRIGHT AND OWNERSHIP\nUnless otherwise agreed in writing:\n\n- The Writer retains ownership of drafts, rejected content, research notes, outlines, and unused materials\n- The Client receives rights only to the final approved deliverables after full payment is received\n- The Writer retains the right to use non-confidential published work in portfolios, writing samples, websites, and marketing materials unless otherwise agreed\n\nOwnership terms:\n\n[ ] First publication rights only\n[ ] Full copyright transfer upon payment\n[ ] Exclusive usage license\n[ ] Non-exclusive license\n[ ] Ghostwriting arrangement\n\nAdditional ownership details:\n[Insert terms]\n\n8. KILL FEE AND CANCELLATION\nIf the Client cancels the Project after work has started:\n\n- The deposit or retainer shall remain non-refundable\n- The Client shall pay for all work completed through the cancellation date\n- A kill fee of [$Amount or Percentage] may apply depending on project progress\n\nIf completed work is not published or used by the Client after final delivery, the Writer retains all ownership rights unless otherwise agreed.\n\n9. EXPENSE REIMBURSEMENT\nThe Client agrees to reimburse approved project-related expenses, including:\n\n- Travel\n- Research materials\n- Interview expenses\n- Event access\n- Specialized subscriptions\n\nAll reimbursable expenses must be approved in writing before purchase.\n\n10. CONFIDENTIALITY\nBoth parties agree to maintain the confidentiality of unpublished materials, business information, trade secrets, and private project details.\n\n11. INDEPENDENT CONTRACTOR STATUS\nThe Writer is acting as an independent contractor and not as an employee, partner, or representative of the Client.\n\n12. LIMITATION OF LIABILITY\nThe Writer shall not be responsible for indirect damages, lost profits, legal claims related to client-provided information, or third-party use of the content.\n\n13. DISPUTE RESOLUTION\nThe parties agree to attempt to resolve disputes through good-faith discussion before pursuing formal legal action.\n\n14. GOVERNING LAW\nThis Agreement shall be governed by the laws of:\n[State/Country]\n\n15. ENTIRE AGREEMENT\nThis Agreement represents the full understanding between the parties regarding the Services.\n\n16. SIGNATURES\nBy signing below, both parties acknowledge and agree to the terms of this Agreement.\n\nWriter Signature: _____________________________\nPrinted Name: ________________________________\nDate: _______________________________________\n\nClient Signature: _____________________________\nPrinted Name: ________________________________\nDate: _______________________________________",
+"example": "FREELANCE WRITING CONTRACT\n\nDate: March 12, 2027\n\nWriter:\nName: Blue Harbor Editorial\n\nClient:\nName: Summit Trail Media\n\nProject Description:\nFour long-form SEO blog articles covering outdoor travel and hiking destinations.\n\nDeliverables:\n- Four 2,000-word articles\n- Keyword optimization\n- Meta descriptions\n- One revision round per article\n\nProject Timeline:\nFirst drafts due April 5, 2027\nFinal drafts due April 20, 2027\n\nPayment Terms:\nTotal Project Fee: $2,400\n50% deposit due before work begins.\nRemaining balance due within 15 days of final delivery.\n\nOwnership Terms:\nExclusive publishing rights transfer after final payment is received.\n\nRevision Terms:\nIncludes 2 revision rounds.\nAdditional revisions billed at $85/hour.\n\nWriter Signature: Emma Lewis\nDate: March 12, 2027\n\nClient Signature: Daniel Brooks\nDate: March 12, 2027",
+"tips": [
+"Define article length, deliverables, and deadlines clearly.",
+"Specify how many revisions are included in the project fee.",
+"Clarify publication rights and copyright ownership before work begins.",
+"Require a deposit or retainer for larger writing projects.",
+"Document all scope changes and additional requests in writing."
+],
+"faqs": [
+{
+"question": "What is a freelance writing contract?",
+"answer": "A freelance writing contract is an agreement outlining writing services, deadlines, payment terms, revisions, and ownership rights between a writer and client."
+},
+{
+"question": "Why should freelance writers use contracts?",
+"answer": "Contracts help define expectations, reduce misunderstandings, prevent scope creep, and protect payment rights."
+},
+{
+"question": "Who owns the writing after payment?",
+"answer": "Ownership depends on the agreement terms, but many writers transfer rights only after final payment is received."
+},
+{
+"question": "What is a kill fee in freelance writing?",
+"answer": "A kill fee compensates the writer if the client cancels the assignment after work has already begun or declines to publish completed work."
+},
+{
+"question": "Should revision limits be included?",
+"answer": "Yes, revision limits help manage project expectations and prevent unlimited edits outside the agreed scope."
+}
+],
+"tags": [
+"freelance-writing",
+"copywriting-contract",
+"content-writing",
+"ghostwriting",
+"independent-contractor",
+"contracts"
+]
+},
+{
+"slug": "cost-plus-construction-contract-template",
+"title": "Cost Plus Construction Contract Template",
+"description": "Free cost plus construction contract template for managing construction projects, reimbursable expenses, contractor fees, and project terms. Copy, customize, and download instantly.",
+"category": {
+"name": "Contracts",
+"slug": "contracts"
+},
+"intro": "A cost plus construction contract outlines how a contractor will be reimbursed for project expenses along with an agreed fee or percentage for services. This template is useful for construction companies, property owners, developers, and contractors managing projects where material and labor costs may fluctuate during the course of construction.",
+"whenToUse": "Use this template when hiring a contractor under a cost plus pricing structure instead of a fixed-price agreement. It is commonly used for renovation projects, custom builds, commercial construction, and projects with evolving scopes or uncertain costs.",
+"template": "COST PLUS CONSTRUCTION CONTRACT\n\nThis Cost Plus Construction Contract (“Agreement”) is entered into on [Date] by and between:\n\nCompany/Client:\nName: [Company or Client Name]\nAddress: [Address]\n\nand\n\nContractor:\nName: [Contractor Name or Business]\nAddress: [Address]\n\n1. PROJECT DESCRIPTION\nThe Contractor agrees to perform construction services related to the following project (“Project”):\n\nProject Name: [Project Name]\nProject Location: [Project Address or Description]\n\n2. PROJECT TIMELINE\nProject Start Date: [Start Date]\nEstimated Completion Date: [Completion Date]\n\nThe Contractor agrees to complete the Project within a reasonable timeframe, subject to delays caused by weather, material shortages, permitting issues, or approved change orders.\n\n3. SCOPE OF WORK\nThe Project shall include the following work, features, or requirements:\n\n- [Requested Feature or Service]\n- [Requested Feature or Service]\n- [Construction Requirement]\n- [Project Restriction or Limitation]\n- [Project Restriction or Limitation]\n\nAdditional project details:\n[Insert specifications, drawings, permits, or schedules]\n\n4. COST PLUS PAYMENT STRUCTURE\nThe Company agrees to reimburse the Contractor for reasonable and documented direct project costs, including but not limited to:\n\n- Labor\n- Materials\n- Equipment\n- Permits and inspection fees\n- Engineering or design services\n- Taxes and delivery charges\n- Subcontractor expenses\n\nThe Company also agrees to compensate the Contractor as follows:\n\n[ ] Flat Fee: [$Amount]\n[ ] Percentage Fee: [Percentage]% of total project costs\n\nIndirect or overhead expenses covered under this Agreement:\n[Describe overhead, administrative costs, insurance, or related expenses]\n\n5. CHANGE ORDERS\nChanges to the Project scope, materials, or specifications must be approved in writing.\n\nThe Company:\n[ ] Will pay for approved change orders\n[ ] Will not pay for unauthorized changes requested without written approval\n\n6. DOCUMENTATION OF COSTS\nThe Contractor agrees to maintain accurate records and supporting documentation for all reimbursable expenses. The Company may review invoices, receipts, payroll records, and related documents upon reasonable request.\n\n7. CONTRACTOR RESPONSIBILITIES\nThe Contractor agrees to:\n\n- Perform work professionally and safely\n- Communicate project updates in a timely manner\n- Comply with applicable building codes and regulations\n- Maintain appropriate licenses and insurance when required\n- Use reasonable care in project management and supervision\n\n8. TERMINATION\nEither party may terminate this Agreement upon written notice if the other party materially breaches the terms of the Agreement.\n\n9. SIGNATURES\nBy signing below, both parties acknowledge and agree to the terms of this Agreement.\n\nCompany/Client Signature: ______________________\nPrinted Name: _________________________________\nDate: ________________________________________\n\nContractor Signature: __________________________\nPrinted Name: _________________________________\nDate: ________________________________________",
+"example": "COST PLUS CONSTRUCTION CONTRACT\n\nDate: March 12, 2026\n\nCompany/Client:\nName: Oakridge Property Group\n\nContractor:\nName: Summit Builders LLC\n\nProject Name:\nLobby and office renovation at Oakridge Plaza.\n\nProject Timeline:\nStart Date: April 1, 2026\nCompletion Date: September 30, 2026\n\nScope of Work:\n- Interior demolition and remodeling\n- Electrical and lighting upgrades\n- Flooring replacement\n- ADA-compliant restroom updates\n\nCompensation Structure:\n[X] Percentage Fee: 12% of total documented project costs\n\nIndirect Expenses:\nProject supervision, insurance, and administrative overhead.\n\nChange Orders:\nAll changes must be approved in writing by the client before work begins.\n\nCompany Signature: Melissa Grant\nDate: March 12, 2026\n\nContractor Signature: Daniel Brooks\nDate: March 12, 2026",
+"tips": [
+"Define reimbursable expenses clearly before construction begins.",
+"Require written approval for all project changes and additions.",
+"Keep organized receipts and documentation for all costs.",
+"Establish realistic completion timelines and contingencies.",
+"Review contractor licensing and insurance requirements before signing."
+],
+"faqs": [
+{
+"question": "What is a cost plus construction contract?",
+"answer": "It is a construction agreement where the client reimburses project costs and also pays the contractor an additional fee or percentage."
+},
+{
+"question": "What expenses are usually reimbursed?",
+"answer": "Typical reimbursable costs include labor, materials, permits, subcontractors, and equipment expenses."
+},
+{
+"question": "Why are change orders important?",
+"answer": "Written change orders help document modifications to project scope, pricing, and timelines."
+},
+{
+"question": "Can the contractor charge overhead costs?",
+"answer": "Yes, many cost plus agreements include approved overhead or administrative expenses."
+},
+{
+"question": "Who commonly uses cost plus contracts?",
+"answer": "Property owners, developers, contractors, and construction companies frequently use cost plus agreements for flexible or evolving projects."
+}
+],
+"tags": [
+"construction-contract",
+"cost-plus",
+"contractor-agreement",
+"building-project",
+"project-management",
+"contracts"
+]
+},
   {
     "slug": "freelance-contract-website-design",
     "title": "Freelance Contract — Website Design",
@@ -64,6 +230,56 @@
     "faqs": [{ "question": "Should I include an NDA?", "answer": "Yes, attach or reference an NDA if sensitive information is shared." }],
     "tags": ["consulting","strategy","services"]
   },
+  {
+"slug": "last-will-and-testament-template",
+"title": "Last Will and Testament Template",
+"description": "Free last will and testament template for outlining asset distribution, beneficiaries, executors, and final wishes. Copy, customize, and download instantly.",
+"category": {
+"name": "Legal",
+"slug": "legal"
+},
+"intro": "A last will and testament allows an individual to document how their assets, property, and personal belongings should be distributed after death. This template is designed for individuals who want to organize estate planning instructions, appoint an executor, and clearly identify beneficiaries in a structured written document. ",
+"whenToUse": "Use this template when preparing estate planning documents, naming beneficiaries, appointing an executor, or documenting final wishes regarding property and personal assets. It is commonly used by adults who want to provide clear instructions for family members and estate administration. ",
+"template": "LAST WILL AND TESTAMENT\n\nI, [Full Legal Name], residing at [Address], declare this document to be my Last Will and Testament and revoke any prior wills or codicils previously made by me.\n\n1. PERSONAL INFORMATION\nFull Name: [Full Legal Name]\nAddress: [Street Address, City, State, ZIP]\nDate of Birth: [Date of Birth]\n\n2. DECLARATION\nI declare that I am signing this document voluntarily and intend for it to serve as my Last Will and Testament.\n\n3. APPOINTMENT OF EXECUTOR\nI appoint the following person as Executor of my Estate:\n\nExecutor Name: [Executor Full Name]\nRelationship: [Relationship]\nAddress: [Address]\n\nIf the above-named Executor is unable or unwilling to serve, I appoint the following alternate Executor:\n\nAlternate Executor Name: [Alternate Executor Name]\nRelationship: [Relationship]\nAddress: [Address]\n\n4. POWERS OF EXECUTOR\nMy Executor shall have authority to:\n\n- Manage and distribute estate assets\n- Pay lawful debts and expenses\n- Handle taxes and administrative matters\n- Sell or transfer property when necessary for estate administration\n- Carry out the instructions contained in this Will\n\n5. PAYMENT OF EXPENSES\nI direct that all valid debts, funeral expenses, taxes, and estate administration costs be paid from my Estate as appropriate.\n\n6. DISTRIBUTION OF ASSETS\nI direct that my Estate be distributed as follows:\n\nBeneficiary Name: [Name]\nRelationship: [Relationship]\nShare or Percentage: [Percentage or Description]\nSpecific Gifts or Property:\n[Describe property, funds, or possessions]\n\nBeneficiary Name: [Name]\nRelationship: [Relationship]\nShare or Percentage: [Percentage or Description]\nSpecific Gifts or Property:\n[Describe property, funds, or possessions]\n\nBeneficiary Name: [Name]\nRelationship: [Relationship]\nShare or Percentage: [Percentage or Description]\nSpecific Gifts or Property:\n[Describe property, funds, or possessions]\n\n7. RESIDUAL ESTATE\nAny remaining portion of my Estate not specifically distributed above shall be given to:\n\n[Name of Individual or Organization]\n\nAdditional Instructions:\n[Insert instructions]\n\n8. GUARDIANSHIP OF MINOR CHILDREN (OPTIONAL)\nIf applicable, I nominate the following person as guardian of my minor child or children:\n\nGuardian Name: [Name]\nRelationship: [Relationship]\n\n9. EXECUTOR COMPENSATION\nThe Executor may receive reasonable compensation for services related to estate administration as permitted by applicable laws.\n\n10. SIGNATURES\nI sign this Last Will and Testament on [Date].\n\nTestator Signature: ________________________\nPrinted Name: ____________________________\n\nWITNESS 1 Signature: ______________________\nPrinted Name: ____________________________\nDate: ___________________________________\n\nWITNESS 2 Signature: ______________________\nPrinted Name: ____________________________\nDate: ___________________________________\n\nOptional Notary Acknowledgment:\nNotary Signature: _________________________\nDate: ___________________________________",
+"example": "LAST WILL AND TESTAMENT\n\nI, Margaret Ellis, residing at 225 Brookhaven Drive, declare this document to be my Last Will and Testament.\n\nExecutor:\nName: Daniel Ellis\nRelationship: Son\n\nAlternate Executor:\nName: Laura Bennett\nRelationship: Sister\n\nDistribution of Assets:\n\nBeneficiary: Daniel Ellis\nRelationship: Son\nShare: 50%\nSpecific Property: Primary residence located at 225 Brookhaven Drive.\n\nBeneficiary: Sophia Ellis\nRelationship: Daughter\nShare: 50%\nSpecific Property: Savings account funds and family jewelry collection.\n\nResidual Estate:\nAny remaining assets shall be divided equally between my children.\n\nTestator Signature: Margaret Ellis\nDate: October 8, 2026\n\nWitness 1 Signature: Karen Mitchell\nDate: October 8, 2026\n\nWitness 2 Signature: Thomas Reed\nDate: October 8, 2026",
+"tips": [
+"Review estate planning documents regularly after major life events.",
+"Clearly identify beneficiaries and property distributions.",
+"Choose an executor who is organized and trustworthy.",
+"Store signed copies in a secure and accessible location.",
+"Check local legal requirements regarding witnesses and notarization."
+],
+"faqs": [
+{
+"question": "What is a last will and testament?",
+"answer": "A last will and testament is a legal document describing how a person’s assets and property should be distributed after death."
+},
+{
+"question": "Who should be named as executor?",
+"answer": "An executor is typically a trusted individual responsible for managing the estate and carrying out the instructions in the will."
+},
+{
+"question": "Do wills need witnesses?",
+"answer": "Many jurisdictions require witnesses for a will to be considered legally valid."
+},
+{
+"question": "Can a will be updated later?",
+"answer": "Yes, wills can usually be revised or replaced if circumstances or wishes change."
+},
+{
+"question": "Should a will be notarized?",
+"answer": "Notarization requirements vary by location, but notarization may help support authenticity and administration."
+}
+],
+"tags": [
+"last-will",
+"estate-planning",
+"beneficiaries",
+"executor",
+"legal-documents",
+"inheritance"
+]
+},
   {
     "slug": "consulting-agreement-creative",
     "title": "Consulting Agreement — Creative",
@@ -104,6 +320,56 @@
     "tags": ["subcontractor","contract","services"]
   },
   {
+"slug": "dog-stud-service-contract-template",
+"title": "Dog Stud Service Contract Template",
+"description": "Free dog stud service contract template for breeding agreements, stud fees, litter terms, and breeder responsibilities. Copy, customize, and download instantly.",
+"category": {
+"name": "Contracts",
+"slug": "contracts"
+},
+"intro": "A dog stud service contract outlines the responsibilities, fees, health requirements, and breeding terms between the owner of a stud dog and the owner of a female dog. This template is useful for breeders and dog owners who want a clear written agreement regarding breeding arrangements, litter expectations, and payment terms.",
+"whenToUse": "Use this template when arranging a dog breeding agreement involving stud services, breeding fees, litter guarantees, or puppy selection rights. It is commonly used by professional breeders, kennel operators, and registered dog owners.",
+"template": "DOG STUD SERVICE CONTRACT\n\nThis Dog Stud Service Contract (“Agreement”) is entered into on [Date] by and between:\n\nStud Owner:\nName: [Stud Owner Full Name]\nAddress: [Address]\n\nand\n\nBitch Owner:\nName: [Bitch Owner Full Name]\nAddress: [Address]\n\n1. DOG INFORMATION\n\nStud Dog Information\nRegistered Name: [Stud Dog Registered Name]\nCall Name: [Stud Dog Call Name]\nBreed: [Breed]\nAge: [Age]\nRegistration Number: [Registration Number]\nSire: [Sire Name]\nChampion Status: [Champion / Non-Champion]\n\nFemale Dog Information\nRegistered Name: [Female Dog Registered Name]\nCall Name: [Female Dog Call Name]\nBreed: [Breed]\nAge: [Age]\nRegistration Number: [Registration Number]\nSire: [Sire Name]\n\n2. STUD FEE\nThe Bitch Owner agrees to pay the Stud Owner the following:\n\nTotal Stud Fee: [$Amount]\nNon-Refundable Deposit: [$Amount]\nRemaining Balance Due: [Payment Terms]\n\nThe parties further agree that:\n\n[ ] The remaining balance shall be paid in cash or agreed payment form\n[ ] The Stud Owner may select one puppy from the litter in lieu of remaining payment\n\nIf puppy selection applies, the selected puppy shall be:\n\n[ ] Male\n[ ] Female\n[ ] First available pick\n[ ] Other: [Specify]\n\n3. BREEDING ARRANGEMENTS\nThe Bitch Owner agrees to deliver or transport the female dog to the Stud Owner for breeding services.\n\nLength of Stay: [Number] days maximum\n\nThe Bitch Owner agrees to provide:\n\n- Medical information\n- Vaccination records\n- Any required medications\n- Feeding instructions or dietary requirements\n\nThe Stud Owner agrees to provide reasonable care, shelter, food, and supervision during the female dog's stay.\n\n4. HEALTH REQUIREMENTS\nBoth parties confirm that their dogs are in suitable health condition for breeding.\n\nThe parties agree that both dogs should be free from known contagious illnesses or conditions, including but not limited to:\n\n- Parasites\n- Contagious infections\n- Reproductive health conditions\n- Communicable diseases\n\nOptional health certifications and testing:\n[OFA certifications, genetic testing, brucellosis testing, vaccinations, or veterinary records]\n\n5. LITTER TERMS\nA successful litter shall be defined as:\n\n[Number] or more live puppies surviving at least [Number] days.\n\nIf no successful litter results from the breeding, the parties agree to the following:\n\n[ ] Repeat breeding during next heat cycle\n[ ] Partial refund\n[ ] No additional breeding obligation\n[ ] Other arrangement: [Specify]\n\nNotification of unsuccessful litter must be provided within [Number] days.\n\n6. LIABILITY\nBoth parties acknowledge that breeding animals involves risks and that no guarantees are made regarding litter size, fertility, puppy quality, or future health outcomes unless specifically stated in writing.\n\n7. GOVERNING TERMS\nThis Agreement represents the complete understanding between the parties regarding the stud service arrangement.\n\n8. SIGNATURES\nBy signing below, both parties acknowledge and agree to the terms of this Agreement.\n\nStud Owner Signature: __________________________\nPrinted Name: _________________________________\nDate: ________________________________________\n\nBitch Owner Signature: _________________________\nPrinted Name: _________________________________\nDate: ________________________________________",
+"example": "DOG STUD SERVICE CONTRACT\n\nDate: February 8, 2026\n\nStud Owner:\nName: Westbrook Kennels\n\nBitch Owner:\nName: Amanda Collins\n\nStud Dog Information:\nRegistered Name: Silver Ridge Titan\nCall Name: Titan\nBreed: Golden Retriever\nAge: 4 Years\nRegistration Number: AKC-447882\nChampion Status: Champion\n\nFemale Dog Information:\nRegistered Name: Maple Grove Luna\nCall Name: Luna\nBreed: Golden Retriever\nAge: 3 Years\nRegistration Number: AKC-559921\n\nStud Fee:\nTotal Fee: $2,000\nDeposit: $500\nRemaining Balance Due after successful litter confirmation.\n\nPuppy Selection:\nStud Owner may select one male puppy from the litter in lieu of the remaining balance.\n\nLength of Stay:\n5 days maximum.\n\nSuccessful Litter Definition:\nAt least 2 live puppies surviving 7 days.\n\nStud Owner Signature: Daniel Westbrook\nDate: February 8, 2026\n\nBitch Owner Signature: Amanda Collins\nDate: February 8, 2026",
+"tips": [
+"Verify health testing and vaccination records before breeding.",
+"Define payment terms and puppy selection rights clearly.",
+"Document litter guarantees and repeat breeding policies in writing.",
+"Specify transportation and care responsibilities during the dog's stay.",
+"Keep signed copies and veterinary records for future reference."
+],
+"faqs": [
+{
+"question": "What is a dog stud service contract?",
+"answer": "It is a written agreement outlining breeding terms between the owner of a stud dog and the owner of a female dog."
+},
+{
+"question": "What is typically included in a stud fee?",
+"answer": "Stud fees may include breeding services, repeat breeding rights, or puppy selection arrangements."
+},
+{
+"question": "Should health testing be required before breeding?",
+"answer": "Many breeders require health testing, vaccinations, and veterinary certifications before breeding."
+},
+{
+"question": "What happens if no litter is produced?",
+"answer": "The agreement may provide for a repeat breeding, refund terms, or other arrangements if no successful litter occurs."
+},
+{
+"question": "Can the stud owner choose a puppy instead of payment?",
+"answer": "Yes, some breeding agreements allow the stud owner to select a puppy from the litter in place of part of the fee."
+}
+],
+"tags": [
+"dog-breeding",
+"stud-service",
+"breeder-contract",
+"kennel-agreement",
+"pet-contract",
+"contracts"
+]
+},
+  {
     "slug": "vendor-contract-template",
     "title": "Vendor Contract Template",
     "description": "Template for agreements with vendors supplying goods or services.",
@@ -115,6 +381,72 @@
     "tips": ["List delivery terms","Include inspection windows","Clarify return policy"],
     "faqs": [{ "question": "Who pays shipping?", "answer": "Specify shipping/FOB terms in the contract." }],
     "tags": ["vendor","procurement","supply"]
+  },
+  {
+"slug": "property-access-authorization-form",
+"title": "Property Access Authorization Form",
+"description": "Free property access authorization form for granting temporary entry to contractors, service providers, inspectors, or authorized personnel. Copy, customize, and download instantly.",
+"category": {
+"name": "Forms",
+"slug": "forms"
+},
+"intro": "A property access authorization form allows a property owner or authorized occupant to grant temporary access to a third party for work, inspections, maintenance, or other approved activities. This template is useful for homeowners, landlords, contractors, service companies, and property managers who need written permission for entry onto private property.",
+"whenToUse": "Use this template when granting access to contractors, repair personnel, landscapers, inspectors, utility workers, or other authorized individuals who need temporary entry onto a property. It is commonly used for maintenance projects, repairs, inspections, and scheduled services.",
+"template": "PROPERTY ACCESS AUTHORIZATION FORM\n\nDate: [Date]\n\nPROPERTY OWNER OR AUTHORIZED OCCUPANT\n\nFull Name: [Full Name]\nAddress: [Street Address]\nCity, State, ZIP: [City, State, ZIP]\nPhone Number: [Phone Number]\nEmail Address: [Email Address]\n\n1. PROPERTY INFORMATION\nProperty Address:\n[Property Address]\n\nDescription of Property or Area to Be Accessed:\n[Describe the property, building, unit, land area, or work zone]\n\n2. AUTHORIZED PARTY\nI, the undersigned property owner or authorized occupant, hereby authorize the following individual or company to access the property listed above:\n\nAuthorized Individual or Company: [Name]\nRepresentative or Personnel Included:\n[Employees, subcontractors, technicians, or personnel names if applicable]\n\nPurpose of Access:\n[Describe repairs, inspections, maintenance, installation, cleanup, or other activities]\n\n3. ACCESS PERIOD\nAuthorized Access Date(s):\n[Date or Date Range]\n\nAuthorized Access Hours:\n[Times or Schedule]\n\n4. PROJECT ACKNOWLEDGMENT\nI understand and acknowledge that the authorized activities may:\n\n- Require multiple visits or workdays\n- Involve tools, equipment, or machinery\n- Cause temporary noise, dust, debris, or limited disruptions\n- Require reasonable access to specified work areas\n\nAdditional project details or restrictions:\n[Insert instructions, safety concerns, gate codes, parking information, or limitations]\n\n5. LIABILITY AND RESPONSIBILITY\nThe authorized party agrees to exercise reasonable care while on the property and to comply with applicable laws, regulations, and safety practices.\n\nThe property owner acknowledges that certain risks may exist during the authorized activities and understands that responsibility for damages or injuries may depend on the circumstances and applicable agreements between the parties.\n\n6. REVOCATION\nThis authorization may be revoked in writing by the property owner or authorized occupant at any time before the scheduled access period ends.\n\n7. SIGNATURES\nBy signing below, the parties acknowledge and agree to the terms of this authorization.\n\nProperty Owner/Authorized Occupant Signature: ______________________\nPrinted Name: _________________________________________________\nDate: _________________________________________________________\n\nAuthorized Party Signature: _____________________________________\nPrinted Name: _________________________________________________\nDate: _________________________________________________________\n\nWitness Signature (Optional): ___________________________________\nPrinted Name: _________________________________________________\nDate: _________________________________________________________",
+"example": "PROPERTY ACCESS AUTHORIZATION FORM\n\nDate: April 18, 2026\n\nProperty Owner:\nName: Sarah Mitchell\nAddress: 910 Palm Grove Avenue\nCity, State, ZIP: Tampa, FL 33602\nPhone Number: (555) 204-8891\n\nProperty Address:\n910 Palm Grove Avenue, Tampa, FL 33602\n\nAuthorized Party:\nCoastal Roofing Services LLC\n\nPurpose of Access:\nRoof inspection and storm damage repair.\n\nAuthorized Access Date(s):\nApril 20, 2026 through April 24, 2026\n\nAuthorized Access Hours:\n8:00 AM to 5:00 PM\n\nAdditional Instructions:\nUse side gate for equipment access and avoid blocking driveway access.\n\nProperty Owner Signature: Sarah Mitchell\nDate: April 18, 2026\n\nAuthorized Party Signature: Daniel Perez\nDate: April 18, 2026",
+"tips": [
+"Clearly define the dates and times access is permitted.",
+"Describe the work or activity being authorized in detail.",
+"Include any restrictions related to parking, gates, pets, or safety.",
+"Keep signed copies for both the property owner and service provider.",
+"Review insurance or contractor requirements before granting access."
+],
+"faqs": [
+{
+"question": "What is a property access authorization form?",
+"answer": "It is a document granting temporary permission for a person or company to enter a property for a specific purpose."
+},
+{
+"question": "Who commonly uses this form?",
+"answer": "Homeowners, landlords, contractors, inspectors, landscapers, and property managers frequently use property access authorization forms."
+},
+{
+"question": "Can access be limited to certain dates or times?",
+"answer": "Yes, the form can specify exact access dates, schedules, and restrictions."
+},
+{
+"question": "Should the purpose of access be included?",
+"answer": "Yes, describing the purpose helps clarify the scope of authorized activities."
+},
+{
+"question": "Can this authorization be revoked?",
+"answer": "Yes, the property owner may typically revoke authorization before the access period ends."
+}
+],
+"tags": [
+"property-access",
+"authorization-form",
+"contractor-access",
+"property-management",
+"maintenance",
+"forms"
+]
+},
+  {
+    "slug": "professional-wedding-planner-contract-template",
+    "title": "Professional Wedding Planner Contract Template",
+    "description": "A comprehensive contract for wedding planners covering services, payment, cancellation, and liability.",
+    "category": { "name": "Contracts", "slug": "contracts" },
+    "intro": "This contract formalizes the relationship between the Wedding Planner (\"Planner\") and the Client for planning, coordination, and execution of wedding services.",
+    "whenToUse": "Use this template when entering into an engagement to plan or coordinate a wedding or related events.",
+    "template": "Parties:\nPlanner: [Planner Name], [Address], [Contact].\nClient: [Client Name], [Address], [Contact].\n\n1. Services:\nPlanner agrees to provide planning and coordination services as detailed in Schedule A (the \"Services\"). Services may include vendor management, timeline creation, venue coordination, and event-day management.\n\n2. Term:\nThis Agreement commences on [Start Date] and continues until completion of the Services or earlier termination as described herein.\n\n3. Fees and Payment:\nTotal Fee: $[Total Amount].\nDeposit: $[Deposit Amount] due to secure date (non-refundable except as set out herein).\nPayment Schedule: [Milestone / date schedule].\nLate Fees: Overdue amounts may incur interest at [rate].\n\n4. Expenses:\nClient will reimburse Planner for reasonable out-of-pocket expenses (vendor deposits, travel, rentals) incurred while providing Services, provided Planner obtains Client approval for expenses above $[threshold].\n\n5. Cancellation and Refunds:\nIf Client cancels more than [X] days before event: refund of paid amounts minus non-refundable deposit and confirmed vendor commitments.\nIf cancellation within [X] days: no refund of deposit and Client remains responsible for unpaid vendor commitments secured by Planner.\n\n6. Vendor Contracts and Payments:\nPlanner may negotiate vendor agreements on Client’s behalf but is not a party to most vendor contracts unless explicitly stated. Client is ultimately responsible for payments due to vendors unless Planner agrees otherwise in writing.\n\n7. Liability and Insurance:\nPlanner will exercise reasonable care in performing Services but is not liable for vendor performance, acts of God, or other events outside Planner’s control. Client is encouraged to maintain event insurance.\n\n8. Force Majeure:\nNeither party will be liable for delays or failures caused by events beyond reasonable control (e.g., natural disasters, strikes, governmental actions).\n\n9. Cancellation by Planner:\nPlanner may cancel for material breach by Client or factors that make performance impossible; deposits may be refunded minus costs incurred.\n\n10. Confidentiality and Publicity:\nPlanner and Client agree to keep sensitive information confidential. Planner may use non-identifying images of the event for promotional purposes unless Client opts out in writing.\n\n11. Termination:\nEither party may terminate for material breach if the breach remains uncured after [days] notice. Termination does not relieve Client of obligations to pay for Services provided or costs incurred prior to termination.\n\n12. Dispute Resolution:\nParties agree to attempt mediation before pursuing litigation, and venue for disputes will be [Jurisdiction].\n\n13. Miscellaneous:\nEntire Agreement: This document and Schedule A constitute the full agreement.\nAmendments: Any changes must be in writing and signed by both parties.\nGoverning Law: [State/Country law applies].\n\nSignatures:\nPlanner: ____________________ Date: ________\nClient: ____________________ Date: ________",
+    "example": "This Agreement is between Everlasting Events and Jordan Lee for a wedding on June 20. Services include full planning, vendor coordination, and day-of management. Deposit $2,000. Balance paid in three installments.",
+    "tips": ["Keep the deposit non-refundable only to cover commitments","Specify vendor payment responsibilities","Recommend event insurance"],
+    "faqs": [
+      { "question": "What if a vendor doesn't perform?", "answer": "The Planner will assist in resolving issues, but vendor performance is generally the vendor's responsibility; contract limits Planner liability." },
+      { "question": "Can I change the guest count later?", "answer": "Major changes may affect pricing and vendor commitments; notify Planner as soon as possible." }
+    ],
+    "tags": ["wedding","event-planning","contract","planner","client-agreement"]
   },
   {
     "slug": "retainer-agreement-template",
@@ -129,6 +461,56 @@
     "faqs": [{ "question": "Can retainers be paused?", "answer": "Yes, define pause and refund policy in the agreement." }],
     "tags": ["retainer","ongoing","services"]
   },
+  {
+"slug": "proxy-voting-authorization-form",
+"title": "Proxy Voting Authorization Form",
+"description": "Free proxy voting authorization form for assigning voting authority to another individual for meetings, elections, or organizational decisions. Copy, customize, and download instantly.",
+"category": {
+"name": "Forms",
+"slug": "forms"
+},
+"intro": "A proxy voting authorization form allows an individual to appoint another person to vote on their behalf during meetings, elections, or organizational proceedings. This template is useful for corporations, associations, nonprofit organizations, homeowner associations, and board members who cannot attend an official vote in person.",
+"whenToUse": "Use this template when a member, shareholder, director, or authorized participant needs to delegate voting authority for a specific meeting or decision. It is commonly used for corporate meetings, board elections, association votes, and member resolutions.",
+"template": "PROXY VOTING AUTHORIZATION FORM\n\nDate: [Date]\n\nI, [Full Name], serving as [Title or Position], hereby appoint:\n\nProxy Representative: [Proxy Full Name]\nAddress: [Proxy Address]\n\nas my authorized proxy to act and vote on my behalf regarding the following meeting, election, or matter:\n\nMeeting/Event Description:\n[Insert meeting name, organization, election, or specific matter]\n\nMeeting Date:\n[Meeting Date]\n\nOrganization or Governing Body:\n[Organization Name]\n\n1. AUTHORITY GRANTED\nThe proxy representative is authorized to cast votes and participate in proceedings on my behalf concerning:\n\n[ ] All matters presented during the meeting\n[ ] Specific matters only:\n[Describe specific voting items or agenda topics]\n\n2. DURATION\nThis authorization shall become effective on [Start Date] and shall expire on [End Date], unless revoked earlier in writing.\n\nThis authorization applies only to the meeting or voting matter identified above and does not extend to future meetings unless specifically stated.\n\n3. VOTING INSTRUCTIONS\nThe proxy representative shall:\n\n[ ] Vote according to their reasonable judgment and discretion\n[ ] Follow instructions provided by me in advance\n\nAdditional instructions:\n[Insert optional voting instructions]\n\n4. REVOCATION\nI understand that I may revoke this proxy authorization at any time before the meeting or vote by providing notice in writing or by appearing and voting in person.\n\n5. COMPLIANCE\nThis proxy authorization is executed in accordance with the applicable governing documents, organizational bylaws, or relevant laws and regulations.\n\n6. SIGNATURES\nBy signing below, both parties acknowledge and accept the terms of this authorization.\n\nGrantor Signature: __________________________\nPrinted Name: ______________________________\nDate: _____________________________________\n\nProxy Representative Signature: ______________\nPrinted Name: ______________________________\nDate: _____________________________________",
+"example": "PROXY VOTING AUTHORIZATION FORM\n\nDate: August 15, 2026\n\nI, Rebecca Morales, serving as Treasurer, hereby appoint:\n\nProxy Representative: Jason Patel\nAddress: 420 Harbor View Drive\n\nas my authorized proxy to act and vote on my behalf regarding the following meeting:\n\nMeeting/Event Description:\nAnnual Board Election and Budget Approval Meeting\n\nMeeting Date:\nAugust 28, 2026\n\nOrganization or Governing Body:\nLakeside Community Association\n\nAuthority Granted:\n[X] All matters presented during the meeting\n\nVoting Instructions:\n[X] Follow instructions provided by me in advance\n\nAdditional instructions:\nVote in favor of the proposed annual maintenance budget.\n\nAuthorization Start Date: August 15, 2026\nAuthorization End Date: August 28, 2026\n\nGrantor Signature: Rebecca Morales\nDate: August 15, 2026\n\nProxy Representative Signature: Jason Patel\nDate: August 15, 2026",
+"tips": [
+"Clearly identify the meeting or voting matter covered by the authorization.",
+"Specify whether the proxy may vote freely or must follow instructions.",
+"Include an expiration date to avoid unintended future use.",
+"Review organizational bylaws before assigning a proxy.",
+"Keep signed copies for organizational records."
+],
+"faqs": [
+{
+"question": "What is a proxy voting authorization form?",
+"answer": "It is a document that allows another person to vote or act on someone's behalf during a meeting or election."
+},
+{
+"question": "Can a proxy authorization be revoked?",
+"answer": "Yes, most proxy authorizations can be revoked before the meeting or vote takes place."
+},
+{
+"question": "Does this form apply to future meetings automatically?",
+"answer": "No, unless specifically stated, the authorization applies only to the meeting identified in the document."
+},
+{
+"question": "Can voting instructions be included in the form?",
+"answer": "Yes, the grantor may provide specific instructions for how the proxy should vote."
+},
+{
+"question": "Who commonly uses proxy voting forms?",
+"answer": "Shareholders, board members, association members, and organizational participants commonly use proxy voting forms."
+}
+],
+"tags": [
+"proxy-voting",
+"authorization-form",
+"board-meeting",
+"corporate-governance",
+"association-vote",
+"forms"
+]
+},
   {
     "slug": "contractor-agreement-template",
     "title": "Contractor Agreement Template",
@@ -182,6 +564,56 @@
     "tags": ["home","cleaning","service"]
   },
   {
+"slug": "right-of-first-refusal-agreement-template",
+"title": "Right of First Refusal Agreement Template",
+"description": "Free right of first refusal agreement template for property, business, or asset sale arrangements. Copy, customize, and download instantly.",
+"category": {
+"name": "Contracts",
+"slug": "contracts"
+},
+"intro": "A right of first refusal agreement gives one party the opportunity to match an offer before a seller transfers property or assets to another buyer. This template is useful for real estate transactions, business ownership arrangements, investments, and private asset sales where parties want to establish purchase priority rights in writing.",
+"whenToUse": "Use this template when a seller wants to grant a specific individual or entity the first opportunity to purchase property or assets before accepting offers from third parties. It is commonly used in real estate, shareholder agreements, partnerships, and private asset transactions.",
+"template": "RIGHT OF FIRST REFUSAL AGREEMENT\n\nThis Right of First Refusal Agreement (“Agreement”) is entered into on [Date] by and between:\n\nSeller:\nName: [Seller Full Name or Entity]\nAddress: [Seller Address]\n\nBuyer:\nName: [Buyer Full Name or Entity]\nAddress: [Buyer Address]\n\n1. PROPERTY OR ASSET DESCRIPTION\nThe Seller owns the following property or asset (“Property”):\n\n[Describe the property, shares, business interest, equipment, or other asset]\n\n2. GRANT OF RIGHT OF FIRST REFUSAL\nThe Seller agrees that before selling, transferring, assigning, leasing, or otherwise disposing of the Property to a third party, the Seller shall first offer the Property to the Buyer under the same material terms and conditions offered by the third party.\n\n3. THIRD-PARTY OFFER\nIf the Seller receives a bona fide written offer from a third party that the Seller intends to accept, the Seller shall provide written notice to the Buyer containing:\n\n- Purchase price\n- Material terms of the proposed transaction\n- Deadline for acceptance\n- Relevant transaction details\n\n4. BUYER RESPONSE PERIOD\nThe Buyer shall have [Number] calendar days from receipt of written notice to either:\n\n[ ] Accept the offer in writing\n[ ] Decline the offer in writing\n\nFailure to respond within the response period shall be considered a rejection of the offer.\n\n5. ACCEPTANCE\nIf the Buyer accepts the offer within the required timeframe, the parties agree to proceed with the transaction under substantially the same terms presented in the third-party offer.\n\n6. REJECTION OR EXPIRATION\nIf the Buyer declines the offer or fails to respond before the deadline, the Seller may proceed with the proposed transaction with the third party under terms that are not materially more favorable than those offered to the Buyer.\n\n7. DELIVERY AND TRANSFER\nUpon completion of the transaction, the Seller agrees to transfer ownership or possession of the Property within [Number] days unless otherwise agreed in writing.\n\n8. TERM OF AGREEMENT\nThis Agreement shall remain effective beginning on [Start Date] and ending on [End Date], unless terminated earlier by written agreement between the parties.\n\n9. GOVERNING TERMS\nThis Agreement shall be interpreted in accordance with applicable laws and any related agreements between the parties.\n\n10. SIGNATURES\nBy signing below, the parties acknowledge that they understand and agree to the terms of this Agreement.\n\nSeller Signature: __________________________\nPrinted Name: _____________________________\nDate: ____________________________________\n\nBuyer Signature: __________________________\nPrinted Name: _____________________________\nDate: ____________________________________",
+"example": "RIGHT OF FIRST REFUSAL AGREEMENT\n\nDate: July 14, 2026\n\nSeller:\nName: Pinecrest Holdings LLC\nAddress: 455 Riverfront Avenue\n\nBuyer:\nName: Jonathan Reed\nAddress: 88 Maple Grove Lane\n\nProperty Description:\n25% ownership interest in Pinecrest Holdings LLC.\n\nBuyer Response Period:\n15 calendar days from written notice.\n\nTransfer Timeline:\nOwnership interest shall be transferred within 10 business days after closing.\n\nAgreement Term:\nEffective July 14, 2026 through July 14, 2029.\n\nSeller Signature: Michael Turner\nDate: July 14, 2026\n\nBuyer Signature: Jonathan Reed\nDate: July 14, 2026",
+"tips": [
+"Clearly describe the property or asset covered by the agreement.",
+"Define response deadlines to avoid disputes or delays.",
+"Include how notice must be delivered between parties.",
+"Specify whether the right applies to future transfers or only one transaction.",
+"Review local laws and related agreements before signing."
+],
+"faqs": [
+{
+"question": "What is a right of first refusal agreement?",
+"answer": "It is an agreement giving one party the opportunity to match a third-party offer before a sale or transfer occurs."
+},
+{
+"question": "Can this agreement apply to real estate or business interests?",
+"answer": "Yes, right of first refusal agreements are commonly used for property, shares, partnerships, and other assets."
+},
+{
+"question": "What happens if the buyer does not respond in time?",
+"answer": "If the buyer fails to respond before the deadline, the seller may usually proceed with the third-party transaction."
+},
+{
+"question": "Can the seller offer better terms to another buyer later?",
+"answer": "Many agreements require the seller to offer substantially similar terms before accepting a more favorable deal elsewhere."
+},
+{
+"question": "Should response deadlines be included in the agreement?",
+"answer": "Yes, clearly defined timelines help avoid misunderstandings and transaction delays."
+}
+],
+"tags": [
+"right-of-first-refusal",
+"property-sale",
+"business-agreement",
+"asset-transfer",
+"contracts",
+"purchase-rights"
+]
+},
+  {
     "slug": "photographer-contract",
     "title": "Photographer Contract",
     "description": "Agreement for photography services including usage rights and delivery.",
@@ -207,6 +639,56 @@
     "faqs": [{ "question": "Who owns raw footage?", "answer": "State whether raw footage is included or retained by the videographer." }],
     "tags": ["video","creative","production"]
   },
+  {
+"slug": "billboard-lease-agreement-template",
+"title": "Billboard Lease Agreement Template",
+"description": "Free billboard lease agreement template for advertising space rentals, signage rights, maintenance obligations, and property use terms. Copy, customize, and download instantly.",
+"category": {
+"name": "Real Estate",
+"slug": "real-estate"
+},
+"intro": "A billboard lease agreement outlines the terms under which a property owner grants advertising or signage rights to another party for the placement and operation of a billboard. This template is useful for landowners, advertising companies, commercial property operators, and businesses managing outdoor advertising installations.",
+"whenToUse": "Use this template when leasing land or property space for billboard placement, outdoor signage, or advertising displays. It is commonly used for roadside advertising, commercial property signage, highway billboard installations, and long-term advertising arrangements.",
+"template": "BILLBOARD LEASE AGREEMENT\n\nThis Billboard Lease Agreement (“Agreement”) is entered into on [Date] by and between:\n\nLessor:\nName: [Lessor Full Name or Company Name]\nAddress: [Address]\nPhone Number: [Phone Number]\n\nand\n\nLessee:\nName: [Lessee Full Name or Company Name]\nAddress: [Address]\nPhone Number: [Phone Number]\n\n1. LEASED PREMISES\nThe Lessor grants the Lessee the right to use the following portion of the property (“Premises”):\n\nProperty Address:\n[Street Address, City, State, ZIP]\n\nDescription of Billboard Area:\n[Describe the location, dimensions, access points, easements, or placement area]\n\n2. PURPOSE OF LEASE\nThe Premises shall be used solely for the installation, operation, maintenance, and display of billboard advertising structures and related equipment.\n\nThe Lessor reserves the right to continue using, leasing, or developing other portions of the property that do not unreasonably interfere with the billboard operations.\n\n3. TERM OF LEASE\nLease Start Date: [Start Date]\nLease End Date: [End Date]\n\nThe Lessee may renew this Agreement by providing written notice at least [Number] days before the expiration date.\n\n4. RENT AND PAYMENT TERMS\nThe Lessee agrees to pay the following compensation to the Lessor:\n\n[ ] Lump Sum Payment: [$Amount]\n[ ] Monthly Rent: [$Amount] per month\n[ ] Annual Rent: [$Amount] per year\n\nPayment Schedule:\n[Describe due dates and payment method]\n\n5. BILLBOARD INSTALLATION AND MAINTENANCE\nThe Lessee agrees that:\n\n- All billboard construction, lighting, signage, and equipment shall be installed at the Lessee’s expense\n- Billboard structures and advertising materials shall remain the property of the Lessee unless otherwise agreed\n- The Premises shall be maintained in a reasonably clean and safe condition\n- Maintenance and repairs shall be performed at the Lessee’s expense\n\nMaximum number of billboard structures permitted:\n[Number]\n\n6. INSURANCE AND LIABILITY\nThe Lessee agrees to maintain appropriate liability insurance related to the billboard operations.\n\nThe Lessee agrees to indemnify and hold harmless the Lessor from claims, damages, liabilities, or expenses arising from the Lessee’s use of the Premises, except where prohibited by applicable law.\n\n7. SUBLEASING AND ASSIGNMENT\nThe Lessee:\n\n[ ] May sublease or assign rights under this Agreement with written consent\n[ ] May not sublease or assign rights under this Agreement\n\nAny approved sublease or assignment shall not relieve the Lessee of obligations under this Agreement.\n\n8. TERMINATION\nThe Lessor may terminate this Agreement upon [Number] days written notice if:\n\n- The Lessee materially violates the terms of this Agreement\n- Required payments remain unpaid\n- Applicable laws or regulations prohibit billboard operation\n- Significant environmental, traffic, zoning, or access changes materially affect billboard use\n- Other conditions agreed by the parties:\n[Insert additional termination conditions]\n\n9. RESTORATION OF PROPERTY\nUpon expiration or termination of this Agreement, the Lessee agrees to remove billboard structures and restore the affected property to substantially the same condition as before installation, reasonable wear and tear excepted.\n\n10. GOVERNING TERMS\nThis Agreement represents the full understanding between the parties regarding the lease of billboard advertising space.\n\n11. SIGNATURES\nBy signing below, both parties acknowledge and agree to the terms of this Agreement.\n\nLessor Signature: __________________________\nPrinted Name: _____________________________\nDate: ____________________________________\n\nLessee Signature: __________________________\nPrinted Name: _____________________________\nDate: ____________________________________",
+"example": "BILLBOARD LEASE AGREEMENT\n\nDate: January 15, 2026\n\nLessor:\nName: Greenfield Commercial Properties LLC\n\nLessee:\nName: Skyline Outdoor Advertising Inc.\n\nProperty Address:\n4550 Interstate Parkway, Dallas, Texas\n\nDescription of Billboard Area:\nRoadside parcel adjacent to Interstate 75 with access easement for maintenance vehicles.\n\nLease Term:\nStart Date: February 1, 2026\nEnd Date: January 31, 2031\n\nRenewal Notice Requirement:\n120 days before lease expiration.\n\nPayment Terms:\nMonthly Rent: $2,500 per month\n\nMaximum Billboard Structures:\n1 illuminated digital billboard.\n\nSubleasing:\nLessee may not sublease without written consent from the Lessor.\n\nTermination Notice:\n60 days written notice for material breach or regulatory restrictions.\n\nLessor Signature: Amanda Lewis\nDate: January 15, 2026\n\nLessee Signature: Daniel Harper\nDate: January 15, 2026",
+"tips": [
+"Clearly describe the exact billboard location and access rights.",
+"Specify who is responsible for maintenance, lighting, and utilities.",
+"Include insurance requirements and liability protections in writing.",
+"Address zoning, permitting, and regulatory compliance before installation.",
+"Define restoration obligations when the lease ends."
+],
+"faqs": [
+{
+"question": "What is a billboard lease agreement?",
+"answer": "A billboard lease agreement is a contract allowing a company or advertiser to use property space for billboard advertising."
+},
+{
+"question": "Who usually maintains the billboard?",
+"answer": "The lessee or advertising company typically handles maintenance, repairs, and operating expenses."
+},
+{
+"question": "Can billboard leases include renewal options?",
+"answer": "Yes, many billboard leases include options to renew the agreement before expiration."
+},
+{
+"question": "Why are zoning and permit requirements important?",
+"answer": "Billboards are often regulated by local zoning laws, signage ordinances, and permitting requirements."
+},
+{
+"question": "What happens when the lease ends?",
+"answer": "The agreement may require the lessee to remove the billboard and restore the property condition."
+}
+],
+"tags": [
+"billboard-lease",
+"advertising-space",
+"commercial-real-estate",
+"signage-agreement",
+"outdoor-advertising",
+"real-estate"
+]
+},
   {
     "slug": "dj-contract",
     "title": "DJ Contract",
@@ -234,6 +716,56 @@
     "tags": ["wedding","vendor","events"]
   },
   {
+"slug": "horse-boarding-contract-template",
+"title": "Horse Boarding Contract Template",
+"description": "Free horse boarding contract template for boarding services, payment terms, veterinary care, and stable responsibilities. Copy, customize, and download instantly.",
+"category": {
+"name": "Contracts",
+"slug": "contracts"
+},
+"intro": "A horse boarding contract outlines the responsibilities, fees, and care arrangements between a horse owner and a boarding stable. This template is useful for equestrian facilities, private stable owners, trainers, and horse owners who want a clear written agreement covering boarding services, payments, health requirements, and emergency care authorization.",
+"whenToUse": "Use this template when boarding a horse at a stable, equestrian facility, ranch, or private barn. It is commonly used for monthly boarding arrangements, pasture boarding, full-care boarding, and long-term horse care agreements.",
+"template": "HORSE BOARDING CONTRACT\n\nThis Horse Boarding Contract (“Agreement”) is entered into on [Date] by and between:\n\nHorse Owner:\nName: [Horse Owner Full Name]\nAddress: [Address]\nPhone Number: [Phone Number]\nEmail Address: [Email]\n\nand\n\nStable:\nStable Name: [Stable or Facility Name]\nAddress: [Stable Address]\nPhone Number: [Phone Number]\nEmail Address: [Email]\n\n1. PURPOSE\nThe Horse Owner desires to board one or more horses at the Stable, and the Stable agrees to provide boarding services according to the terms of this Agreement.\n\n2. HORSE INFORMATION\nHorse Name: [Horse Name]\nBreed: [Breed]\nColor/Markings: [Description]\nAge: [Age]\nRegistration Number (Optional): [Registration Number]\n\nAdditional Horse Information:\n[Temperament, feeding instructions, medical conditions, or special care requirements]\n\n3. TERM OF BOARDING\nBoarding services shall begin on [Start Date] and continue on a:\n\n[ ] Month-to-month basis\n[ ] Fixed-term basis ending on [End Date]\n\nEither party may terminate this Agreement by providing [Number] days written notice unless otherwise stated.\n\n4. BOARDING FEES\nThe Horse Owner agrees to pay the Stable:\n\nBoarding Fee: [$Amount] per month\nPayment Due Date: [Day of Month]\n\nLate Payment Fee:\n[$Amount] after [Number] days past due.\n\nAdditional charges may apply for:\n\n- Veterinary visits\n- Farrier services\n- Medication administration\n- Special feeding or supplements\n- Training or exercise services\n- Emergency care\n\n5. HEALTH AND VACCINATION REQUIREMENTS\nBefore admission, the Horse Owner shall provide proof of current vaccinations and health records as required by the Stable.\n\nRequired vaccinations or testing may include:\n\n- Tetanus\n- Influenza\n- Eastern/Western encephalitis\n- Rabies\n- Coggins test\n- Other health requirements established by the Stable\n\nThe Horse Owner agrees to maintain updated vaccinations and veterinary care throughout the boarding term.\n\n6. CARE OF HORSE\nThe Stable agrees to provide reasonable care, feeding, shelter, and daily supervision for the horse during the boarding term.\n\nUnless otherwise agreed, the Stable is not responsible for training, exercising, or transporting the horse.\n\n7. RISK AND LIABILITY\nThe Horse Owner understands that horse activities involve inherent risks.\n\nThe Horse Owner agrees that the Stable shall not be responsible for illness, injury, theft, escape, loss, death, or damages involving the horse except where prohibited by applicable law.\n\nThe Horse Owner agrees to indemnify and hold harmless the Stable from claims arising from the horse’s actions or behavior.\n\n8. EMERGENCY VETERINARY CARE\nIn the event of illness, injury, or emergency, the Stable shall make reasonable efforts to contact the Horse Owner using the following emergency contact information:\n\nEmergency Contact Name: [Name]\nPhone Number(s): [Phone Number]\n\nIf the Horse Owner cannot be reached in a reasonable time, the Stable is authorized to obtain veterinary treatment deemed reasonably necessary for the horse’s health and safety.\n\nThe Horse Owner agrees to pay all veterinary, medication, transportation, and emergency treatment costs.\n\nPreferred Veterinarian (Optional):\n[Veterinarian Name and Contact Information]\n\n9. STABLE RULES\nThe Horse Owner agrees to comply with all Stable rules, facility policies, riding schedules, safety procedures, and access requirements.\n\n10. GOVERNING TERMS\nThis Agreement represents the complete understanding between the parties regarding horse boarding services.\n\n11. SIGNATURES\nBy signing below, both parties acknowledge and agree to the terms of this Agreement.\n\nHorse Owner Signature: ________________________\nPrinted Name: _________________________________\nDate: ________________________________________\n\nStable Representative Signature: __________________\nPrinted Name: __________________________________\nDate: ________________________________________",
+"example": "HORSE BOARDING CONTRACT\n\nDate: May 6, 2026\n\nHorse Owner:\nName: Emily Dawson\nAddress: 445 Cedar Trail Road\nPhone Number: (555) 220-7741\n\nStable:\nStable Name: Willow Creek Equestrian Center\nAddress: 1280 Meadow Ridge Lane\nPhone Number: (555) 881-2400\n\nHorse Information:\nHorse Name: Dakota\nBreed: Quarter Horse\nAge: 9 Years\n\nBoarding Term:\nMonth-to-month beginning May 15, 2026.\n\nBoarding Fee:\n$850 per month due on the 1st of each month.\n\nLate Fee:\n$25 after 5 days past due.\n\nRequired Vaccinations:\nCurrent Coggins test, influenza, tetanus, and rabies vaccinations.\n\nEmergency Contact:\nName: Jason Dawson\nPhone Number: (555) 330-1884\n\nPreferred Veterinarian:\nRiver Valley Equine Clinic\n\nHorse Owner Signature: Emily Dawson\nDate: May 6, 2026\n\nStable Representative Signature: Laura Mitchell\nDate: May 6, 2026",
+"tips": [
+"Specify boarding services included in the monthly fee.",
+"Require updated vaccination and veterinary records before boarding.",
+"Document emergency veterinary authorization procedures clearly.",
+"Include stable rules regarding riding, turnout, and facility access.",
+"Keep payment policies and late fees clearly defined in writing."
+],
+"faqs": [
+{
+"question": "What is a horse boarding contract?",
+"answer": "A horse boarding contract is an agreement outlining the care, payment terms, and responsibilities related to boarding a horse at a stable."
+},
+{
+"question": "What services are usually included in horse boarding?",
+"answer": "Boarding services often include feeding, stall cleaning, turnout, shelter, and daily supervision."
+},
+{
+"question": "Why are vaccination records required?",
+"answer": "Vaccination records help protect the health and safety of horses at the stable."
+},
+{
+"question": "Who pays for emergency veterinary care?",
+"answer": "The horse owner is typically responsible for veterinary expenses incurred during boarding."
+},
+{
+"question": "Can either party terminate the boarding agreement?",
+"answer": "Yes, most horse boarding contracts allow termination with advance written notice."
+}
+],
+"tags": [
+"horse-boarding",
+"stable-contract",
+"equestrian",
+"horse-care",
+"boarding-agreement",
+"contracts"
+]
+},
+  {
     "slug": "musician-contract",
     "title": "Musician Contract",
     "description": "Agreement for live musicians including performance length and setup.",
@@ -246,6 +778,56 @@
     "faqs": [{ "question": "Who supplies monitors/PA?", "answer": "State which party provides sound equipment." }],
     "tags": ["music","performance","event"]
   },
+  {
+"slug": "car-rental-agreement-template",
+"title": "Car Rental Agreement Template",
+"description": "Free car rental agreement template for vehicle rentals, mileage terms, driver requirements, and rental responsibilities. Copy, customize, and download instantly.",
+"category": {
+"name": "Contracts",
+"slug": "contracts"
+},
+"intro": "A car rental agreement outlines the terms and conditions between a vehicle owner and a renter for temporary use of a vehicle. This template is useful for private vehicle rentals, peer-to-peer car sharing, independent rental businesses, and short-term transportation arrangements where both parties want clear written expectations regarding fees, liability, mileage, and vehicle use.",
+"whenToUse": "Use this template when renting a vehicle for personal or business purposes, whether through a private arrangement or an independent rental operation. It is commonly used for daily rentals, temporary transportation, travel, and replacement vehicle arrangements.",
+"template": "CAR RENTAL AGREEMENT\n\nThis Car Rental Agreement (“Agreement”) is entered into on [Date] by and between:\n\nVehicle Owner:\nName: [Owner Full Name or Company Name]\nAddress: [Address]\nPhone Number: [Phone Number]\n\nand\n\nRenter:\nName: [Renter Full Name]\nAddress: [Address]\nPhone Number: [Phone Number]\nDriver’s License Number: [License Number]\n\n1. VEHICLE INFORMATION\nThe Owner agrees to rent the following vehicle to the Renter:\n\nMake: [Vehicle Make]\nModel: [Vehicle Model]\nYear: [Year]\nColor: [Color]\nLicense Plate Number: [Plate Number]\nVIN: [VIN]\nCurrent Mileage: [Mileage]\n\n2. RENTAL PERIOD\nRental Start Date and Time:\n[Start Date and Time]\n\nRental End Date and Time:\n[End Date and Time]\n\n3. RENTAL FEES\nThe Renter agrees to pay:\n\nBase Rental Fee: [$Amount]\nIncluded Mileage: [Mileage Allowance]\nAdditional Mileage Charge: [$Amount] per mile over the included mileage\n\nAdditional fees or deposits:\n[Security deposit, cleaning fees, tolls, fuel charges, or late fees]\n\n4. VEHICLE RETURN CONDITIONS\nThe Renter agrees to return the vehicle:\n\n- In substantially the same condition as received, excluding normal wear and tear\n- With the following fuel level:\n[Fuel Requirement]\n- On or before the agreed return date and time\n\nApproved return location(s):\n[Return Address or Alternate Locations]\n\n5. PERMITTED USE\nThe vehicle may only be used for lawful personal or business purposes.\n\nPermitted geographic area:\n[Approved States, Regions, or Locations]\n\nRestricted locations or uses:\n[Out-of-country travel, off-road use, racing, towing restrictions, etc.]\n\n6. DRIVER REQUIREMENTS\nThe Renter confirms that:\n\n- They hold a valid driver’s license\n- They are legally permitted to operate the vehicle\n- Their driving privileges are not suspended or revoked\n- They maintain applicable insurance coverage if required\n\nAuthorized additional drivers:\n\nName: [Authorized Driver Name]\nLicense Number: [License Number]\n\nNo other individuals may operate the vehicle without written authorization from the Owner.\n\n7. DAMAGE, LIABILITY, AND RESPONSIBILITY\nThe Renter accepts responsibility for:\n\n- Traffic violations or parking citations during the rental period\n- Damage caused by misuse, negligence, or unauthorized use\n- Excessive cleaning costs beyond normal use\n- Loss of keys, accessories, or documents\n\nThe Renter acknowledges that they had the opportunity to inspect the vehicle before taking possession.\n\n8. OWNER REPRESENTATIONS\nThe Owner represents that the vehicle is in reasonably safe operating condition at the start of the rental period.\n\n9. TERMINATION\nThe Owner may terminate this Agreement if the Renter violates the terms of this Agreement or uses the vehicle unlawfully.\n\n10. SIGNATURES\nBy signing below, both parties acknowledge and agree to the terms of this Agreement.\n\nRenter Signature: __________________________\nPrinted Name: _____________________________\nDate: ____________________________________\n\nOwner Signature: __________________________\nPrinted Name: _____________________________\nDate: ____________________________________",
+"example": "CAR RENTAL AGREEMENT\n\nDate: August 3, 2026\n\nVehicle Owner:\nName: Horizon Auto Rentals LLC\n\nRenter:\nName: Marcus Hill\nDriver’s License Number: F123-5589-7721\n\nVehicle Information:\nMake: Toyota\nModel: Camry\nYear: 2024\nColor: Silver\nLicense Plate Number: FLX-8821\nVIN: 4T1G11AK2RU123456\nCurrent Mileage: 18,400\n\nRental Period:\nStart: August 5, 2026 at 9:00 AM\nEnd: August 9, 2026 at 5:00 PM\n\nRental Fees:\nBase Rental Fee: $320\nIncluded Mileage: 500 miles\nAdditional Mileage Charge: $0.35 per mile over limit\n\nFuel Requirement:\nReturn with a full tank of fuel.\n\nPermitted Use Area:\nVehicle may be operated within the state of Florida only.\n\nAuthorized Additional Driver:\nName: Olivia Reed\nLicense Number: F882-4481-1192\n\nRenter Signature: Marcus Hill\nDate: August 3, 2026\n\nOwner Signature: Daniel Foster\nDate: August 3, 2026",
+"tips": [
+"Document the vehicle condition with photos before the rental begins.",
+"Clearly define mileage limits and fuel return expectations.",
+"Verify driver licenses and insurance information before handing over the vehicle.",
+"Include policies for late returns, cleaning fees, and unauthorized drivers.",
+"Keep signed copies and inspection records for both parties."
+],
+"faqs": [
+{
+"question": "What is a car rental agreement?",
+"answer": "A car rental agreement is a contract outlining the terms for temporary use of a vehicle between an owner and a renter."
+},
+{
+"question": "Should mileage limits be included in the agreement?",
+"answer": "Yes, mileage allowances and overage fees help avoid disputes regarding vehicle usage."
+},
+{
+"question": "Can additional drivers be authorized?",
+"answer": "Yes, authorized additional drivers can be listed in the agreement along with license information."
+},
+{
+"question": "Who is responsible for traffic tickets during the rental period?",
+"answer": "The renter is typically responsible for traffic violations and parking citations incurred during the rental term."
+},
+{
+"question": "Should the vehicle condition be documented before renting?",
+"answer": "Yes, documenting the vehicle condition before and after the rental helps protect both parties."
+}
+],
+"tags": [
+"car-rental",
+"vehicle-rental",
+"rental-agreement",
+"transportation",
+"auto-contract",
+"contracts"
+]
+},
   {
     "slug": "landscaper-contract",
     "title": "Landscaper Contract",
@@ -273,6 +855,106 @@
     "tags": ["trade","plumbing","service"]
   },
   {
+"slug": "relationship-separation-agreement-template",
+"title": "Relationship Separation Agreement Template",
+"description": "Free relationship separation agreement template for outlining communication boundaries, shared property arrangements, and mutual expectations after a breakup. Copy, customize, and download instantly.",
+"category": {
+"name": "Personal",
+"slug": "personal"
+},
+"intro": "A relationship separation agreement helps two individuals establish respectful expectations and boundaries after ending a romantic relationship. This template is useful for couples who want a written understanding regarding communication, shared belongings, privacy, and personal boundaries during the transition after a breakup.",
+"whenToUse": "Use this template when ending a dating relationship, long-term partnership, or shared living arrangement and both parties want to document expectations respectfully. It is commonly used to address communication boundaries, division of shared items, and mutual privacy concerns.",
+"template": "RELATIONSHIP SEPARATION AGREEMENT\n\nThis Relationship Separation Agreement (“Agreement”) is entered into on [Date] by and between:\n\nParty 1:\nName: [Full Name]\nAddress: [Address]\n\nand\n\nParty 2:\nName: [Full Name]\nAddress: [Address]\n\n1. PURPOSE\nThe parties acknowledge that they have mutually decided to end or transition their romantic relationship and wish to establish respectful expectations and boundaries moving forward.\n\n2. COMMUNICATION BOUNDARIES\nThe parties agree to respect each other’s requests regarding communication and personal space.\n\nThis may include:\n\n- Limiting phone calls, messages, or visits\n- Allowing time apart for emotional adjustment\n- Respecting blocked or restricted communication requests\n- Avoiding unwanted contact through third parties\n\nAdditional communication terms:\n[Insert specific communication expectations]\n\n3. SHARED PROPERTY AND BELONGINGS\nThe parties agree to cooperate in the fair division or return of shared property, belongings, pets, digital accounts, or household items.\n\nProperty arrangements:\n[Describe items to be returned, divided, or transferred]\n\n4. PRIVACY AND CONFIDENTIALITY\nThe parties agree not to share, distribute, post, or misuse private, personal, or sensitive information, messages, photos, videos, or other materials belonging to the other party without consent.\n\n5. MUTUAL RESPECT\nThe parties agree to:\n\n- Avoid harassment, threats, or intentionally harmful behavior\n- Refrain from making malicious or knowingly false statements about the other party\n- Handle disagreements respectfully when communication is necessary\n\n6. EMOTIONAL WELL-BEING\nThe parties acknowledge that emotional reactions may vary and agree to allow each other reasonable space and privacy during the transition.\n\n7. SOCIAL AND DIGITAL BOUNDARIES\nThe parties may agree to additional boundaries regarding:\n\n- Social media interactions\n- Shared subscriptions or accounts\n- Friend groups or social gatherings\n- Future contact expectations\n\nAdditional terms:\n[Insert additional agreements]\n\n8. VOLUNTARY AGREEMENT\nBoth parties acknowledge that this Agreement is voluntary and intended to support respectful conduct and mutual understanding.\n\n9. SIGNATURES\nBy signing below, both parties acknowledge and agree to the terms of this Agreement.\n\nParty 1 Signature: __________________________\nPrinted Name: ______________________________\nDate: _____________________________________\n\nParty 2 Signature: __________________________\nPrinted Name: ______________________________\nDate: _____________________________________",
+"example": "RELATIONSHIP SEPARATION AGREEMENT\n\nDate: September 18, 2026\n\nParty 1:\nName: Jordan Ellis\n\nParty 2:\nName: Taylor Morgan\n\nCommunication Boundaries:\nThe parties agree to limit communication to essential matters for 30 days following the separation.\n\nShared Property Arrangements:\nJordan Ellis will retain the apartment furniture, and Taylor Morgan will retain the home office equipment and personal electronics.\n\nPrivacy Agreement:\nBoth parties agree not to share private photos, messages, or personal information online or with mutual acquaintances.\n\nSocial Media Terms:\nBoth parties agree to remove shared account access and update passwords within 7 days.\n\nParty 1 Signature: Jordan Ellis\nDate: September 18, 2026\n\nParty 2 Signature: Taylor Morgan\nDate: September 18, 2026",
+"tips": [
+"Keep the agreement focused on practical expectations and respectful boundaries.",
+"Address shared property and digital account access early.",
+"Be specific about communication preferences and limitations.",
+"Avoid emotional or accusatory language in the document.",
+"Update passwords and account access promptly if applicable."
+],
+"faqs": [
+{
+"question": "What is a relationship separation agreement?",
+"answer": "It is a written agreement outlining boundaries, expectations, and arrangements after the end of a romantic relationship."
+},
+{
+"question": "Can this agreement address shared belongings?",
+"answer": "Yes, the agreement can include arrangements for dividing or returning shared property and personal items."
+},
+{
+"question": "Should privacy expectations be included?",
+"answer": "Yes, many people include provisions regarding private messages, photos, and personal information."
+},
+{
+"question": "Can communication boundaries be customized?",
+"answer": "Yes, the agreement can specify contact preferences, social media boundaries, and future communication expectations."
+},
+{
+"question": "Is this the same as a divorce agreement?",
+"answer": "No, this template is intended for personal relationship boundaries and is not a substitute for formal legal separation or divorce documents."
+}
+],
+"tags": [
+"relationship-separation",
+"breakup-agreement",
+"personal-boundaries",
+"shared-property",
+"privacy-agreement",
+"personal"
+]
+},
+  {
+"slug": "waiver-of-right-of-inheritance-template",
+"title": "Waiver of Right of Inheritance Template",
+"description": "Free waiver of right of inheritance template for heirs voluntarily relinquishing inheritance claims or estate rights. Copy, customize, and download instantly.",
+"category": {
+"name": "Legal",
+"slug": "legal"
+},
+"intro": "A waiver of right of inheritance allows an heir or beneficiary to formally give up potential claims to part or all of an estate. This template is useful for estate settlements, probate matters, family agreements, and situations where an individual voluntarily declines inheritance rights or specific assets.",
+"whenToUse": "Use this template when an heir, beneficiary, or family member wishes to waive inheritance rights to property, assets, funds, or other estate interests. It is commonly used during probate administration, estate planning, and family asset distribution arrangements.",
+"template": "WAIVER OF RIGHT OF INHERITANCE\n\nDate: [Date]\n\nI, [Full Legal Name], being an heir, beneficiary, or interested party related to the Estate of [Decedent Full Name], hereby voluntarily waive and relinquish any present or future claim, right, title, or interest that I may have in the following inheritance, property, or estate asset:\n\n[Describe specific property, inheritance rights, funds, accounts, real estate, or other assets]\n\nI acknowledge and agree to the following:\n\n1. VOLUNTARY DECISION\nI am making this waiver freely, voluntarily, and without coercion, pressure, or undue influence from any person or entity.\n\n2. UNDERSTANDING OF RIGHTS\nI understand that by signing this document, I may permanently give up legal rights or financial interests connected to the above-described estate or inheritance.\n\n3. NO FUTURE CLAIMS\nI agree not to make future claims regarding the waived property or inheritance rights unless otherwise required by applicable law.\n\n4. ACKNOWLEDGMENT\nI confirm that I have had the opportunity to seek independent legal or financial advice regarding this waiver before signing.\n\n5. GOVERNING TERMS\nThis waiver shall apply to the estate administration, probate proceedings, or distribution of assets related to the Estate of [Decedent Full Name].\n\nSIGNATURES\n\nWaiving Party Signature: __________________________\nPrinted Name: __________________________________\nDate: _________________________________________\n\nWitness Signature (Optional): _____________________\nPrinted Name: __________________________________\nDate: _________________________________________\n\nNotary Acknowledgment (Optional)\n\nNotary Signature: _______________________________\nPrinted Name: __________________________________\nDate: _________________________________________\nNotary Seal: ___________________________________",
+"example": "WAIVER OF RIGHT OF INHERITANCE\n\nDate: November 3, 2026\n\nI, Michael Turner, being an heir to the Estate of Eleanor Turner, hereby voluntarily waive any present or future claim to the decedent’s vacation property located at 88 Harbor Lane.\n\nI acknowledge that I am making this decision freely and without coercion.\n\nI understand that I may permanently give up any legal or financial interest related to this property.\n\nWaiving Party Signature: Michael Turner\nDate: November 3, 2026\n\nWitness Signature: Karen Ellis\nDate: November 3, 2026",
+"tips": [
+"Clearly identify the estate and the specific inheritance rights being waived.",
+"Review estate documents and probate filings before signing.",
+"Consider obtaining legal advice before relinquishing inheritance rights.",
+"Use witnesses or notarization if required by local law or probate procedures.",
+"Keep signed copies with estate administration records."
+],
+"faqs": [
+{
+"question": "What is a waiver of right of inheritance?",
+"answer": "It is a document where an heir or beneficiary voluntarily gives up rights to inherit property or assets from an estate."
+},
+{
+"question": "Can inheritance rights be waived for only one asset?",
+"answer": "Yes, a waiver may apply to a specific property, account, or inheritance interest instead of the entire estate."
+},
+{
+"question": "Should a waiver of inheritance be notarized?",
+"answer": "Some jurisdictions or probate courts may require notarization or witness signatures for estate-related documents."
+},
+{
+"question": "Can someone revoke a waiver after signing it?",
+"answer": "Whether a waiver can be revoked may depend on applicable laws and whether estate proceedings have already progressed."
+},
+{
+"question": "Why would someone waive inheritance rights?",
+"answer": "People may waive inheritance rights for family agreements, tax considerations, debt concerns, or personal reasons."
+}
+],
+"tags": [
+"inheritance-waiver",
+"estate-planning",
+"probate",
+"beneficiary-rights",
+"legal-documents",
+"estate-administration"
+]
+},
+  {
     "slug": "electrician-contract",
     "title": "Electrician Contract",
     "description": "Agreement covering electrical work, safety standards, and inspections.",
@@ -285,6 +967,56 @@
     "faqs": [{ "question": "Do electricians provide permits?", "answer": "Often yes — confirm permit responsibilities in the contract." }],
     "tags": ["electrician","safety","trade"]
   },
+  {
+"slug": "adult-child-living-agreement-template",
+"title": "Adult Child Living Agreement Template",
+"description": "Free adult child living agreement template for setting household expectations, rent contributions, chores, and privacy boundaries when moving back home. Copy, customize, and download instantly.",
+"category": {
+"name": "Family",
+"slug": "family"
+},
+"intro": "An adult child living agreement helps parents and adult children establish clear expectations for living arrangements, household contributions, privacy, and responsibilities. This template is useful for families managing temporary or long-term living situations after graduation, relocation, financial hardship, or career transitions.",
+"whenToUse": "Use this template when an adult child is moving back into a parent’s home and both parties want written expectations regarding rent, chores, schedules, guests, and household boundaries. It is commonly used during transitional living arrangements and shared family housing situations.",
+"template": "ADULT CHILD LIVING AGREEMENT\n\nThis Adult Child Living Agreement (“Agreement”) is entered into on [Date] by and between:\n\nAdult Child:\nName: [Adult Child Full Name]\n\nand\n\nParent(s) or Guardian(s):\nName(s): [Parent or Guardian Names]\n\n1. PURPOSE\nThe purpose of this Agreement is to establish respectful household expectations, financial responsibilities, privacy boundaries, and shared living arrangements while the Adult Child resides in the family home.\n\n2. MOVE-IN DATE\nThe Adult Child will move into the residence on:\n[Move-In Date]\n\nExpected move-out or independent housing target date:\n[Expected Move-Out Date]\n\n3. EMPLOYMENT AND FINANCIAL EXPECTATIONS\nThe Adult Child agrees to:\n\n- Seek or maintain employment, education, or other agreed responsibilities\n- Contribute financially to the household as outlined below\n\nMonthly Contributions:\n\nRent Contribution: [$Amount]\nGroceries Contribution: [$Amount]\nUtilities Contribution: [$Amount]\n\nUtilities may include:\n\n- Water\n- Electricity\n- Internet\n- Heating or cooling\n- Streaming or cable services\n\nPayment Due Date:\n[Date or Schedule]\n\n4. HOUSEHOLD RESPONSIBILITIES\nThe Adult Child agrees to:\n\n- Maintain their bedroom and personal space\n- Clean up after meals and personal activities\n- Handle personal laundry responsibilities\n- Help maintain shared spaces in reasonable condition\n\nAssigned household chores:\n[Describe chores or responsibilities]\n\n5. MEALS AND SHARED HOUSEHOLD DUTIES\nThe Adult Child agrees to contribute to meal preparation or household tasks as follows:\n\n[Meal schedule, grocery responsibilities, pet care, yard work, etc.]\n\n6. QUIET HOURS AND HOUSE RULES\nThe Adult Child may maintain independent schedules and activities while respecting household quiet hours.\n\nQuiet Hours:\nFrom [Time] to [Time]\n\nAdditional house rules:\n[Parking rules, shared bathroom schedules, smoking rules, pet policies, etc.]\n\n7. GUESTS AND VISITORS\nOvernight guests or extended visitors:\n\n[ ] Require advance notice\n[ ] Require approval from the Parent(s)\n[ ] Are permitted under agreed conditions\n\nAdditional guest policies:\n[Insert additional terms]\n\n8. PRIVACY AND PERSONAL SPACE\nThe parties agree to respect each other’s privacy and personal boundaries.\n\nParent(s) agree to:\n\n- Respect the Adult Child’s personal living space\n- Provide reasonable privacy when possible\n\nAdult Child agrees to:\n\n- Respect household rules and shared spaces\n- Communicate regarding schedules or concerns affecting the household\n\n9. TRANSPORTATION AND SHARED PROPERTY\nIf applicable, the parties agree to the following regarding vehicles, parking, fuel costs, or shared household property:\n\n[Describe transportation arrangements]\n\n10. MODIFICATIONS AND TERMINATION\nThis Agreement may be modified by mutual agreement between the parties.\n\nEither party may end the arrangement with reasonable notice.\n\n11. SIGNATURES\nBy signing below, the parties acknowledge and agree to the terms of this Agreement.\n\nAdult Child Signature: ________________________\nPrinted Name: ________________________________\nDate: _______________________________________\n\nParent/Guardian Signature: ____________________\nPrinted Name: ________________________________\nDate: _______________________________________\n\nParent/Guardian Signature: ____________________\nPrinted Name: ________________________________\nDate: _______________________________________",
+"example": "ADULT CHILD LIVING AGREEMENT\n\nDate: August 10, 2026\n\nAdult Child:\nName: Rachel Turner\n\nParents:\nNames: David and Melissa Turner\n\nMove-In Date:\nAugust 15, 2026\n\nExpected Move-Out Date:\nJune 1, 2027\n\nMonthly Contributions:\nRent Contribution: $450\nGroceries Contribution: $150\nUtilities Contribution: $100\n\nHousehold Responsibilities:\n- Cook dinner twice per week\n- Vacuum common areas every Saturday\n- Handle personal laundry and dishes\n\nQuiet Hours:\n11:00 PM to 7:00 AM\n\nGuest Policy:\nOvernight guests require advance notice.\n\nTransportation Arrangement:\nFuel costs for the shared family vehicle will be split equally.\n\nAdult Child Signature: Rachel Turner\nDate: August 10, 2026\n\nParent Signature: David Turner\nDate: August 10, 2026\n\nParent Signature: Melissa Turner\nDate: August 10, 2026",
+"tips": [
+"Set clear financial expectations before move-in.",
+"Discuss privacy and communication boundaries openly.",
+"Define chores and household responsibilities specifically.",
+"Review guest policies and quiet hours together.",
+"Revisit the agreement periodically if circumstances change."
+],
+"faqs": [
+{
+"question": "What is an adult child living agreement?",
+"answer": "It is a written agreement outlining household expectations and responsibilities when an adult child lives with parents or guardians."
+},
+{
+"question": "Should rent contributions be included?",
+"answer": "Yes, many families include rent, utility, or grocery contributions to clarify financial expectations."
+},
+{
+"question": "Can the agreement include privacy rules?",
+"answer": "Yes, privacy expectations and boundaries are commonly addressed in shared living agreements."
+},
+{
+"question": "Should chores and household duties be listed?",
+"answer": "Yes, clearly listing chores helps avoid misunderstandings and supports shared responsibility."
+},
+{
+"question": "Can this agreement be updated later?",
+"answer": "Yes, the agreement can be revised if schedules, finances, or household needs change."
+}
+],
+"tags": [
+"family-agreement",
+"adult-child",
+"shared-living",
+"household-rules",
+"room-and-board",
+"family"
+]
+},
   {
     "slug": "handyman-contract",
     "title": "Handyman Contract",
@@ -325,19 +1057,153 @@
     "tags": ["auto","repair","service"]
   },
   {
-    "slug": "professional-wedding-planner-contract-template",
-    "title": "Professional Wedding Planner Contract Template",
-    "description": "A comprehensive contract for wedding planners covering services, payment, cancellation, and liability.",
-    "category": { "name": "Contracts", "slug": "contracts" },
-    "intro": "This contract formalizes the relationship between the Wedding Planner (\"Planner\") and the Client for planning, coordination, and execution of wedding services.",
-    "whenToUse": "Use this template when entering into an engagement to plan or coordinate a wedding or related events.",
-    "template": "Parties:\nPlanner: [Planner Name], [Address], [Contact].\nClient: [Client Name], [Address], [Contact].\n\n1. Services:\nPlanner agrees to provide planning and coordination services as detailed in Schedule A (the \"Services\"). Services may include vendor management, timeline creation, venue coordination, and event-day management.\n\n2. Term:\nThis Agreement commences on [Start Date] and continues until completion of the Services or earlier termination as described herein.\n\n3. Fees and Payment:\nTotal Fee: $[Total Amount].\nDeposit: $[Deposit Amount] due to secure date (non-refundable except as set out herein).\nPayment Schedule: [Milestone / date schedule].\nLate Fees: Overdue amounts may incur interest at [rate].\n\n4. Expenses:\nClient will reimburse Planner for reasonable out-of-pocket expenses (vendor deposits, travel, rentals) incurred while providing Services, provided Planner obtains Client approval for expenses above $[threshold].\n\n5. Cancellation and Refunds:\nIf Client cancels more than [X] days before event: refund of paid amounts minus non-refundable deposit and confirmed vendor commitments.\nIf cancellation within [X] days: no refund of deposit and Client remains responsible for unpaid vendor commitments secured by Planner.\n\n6. Vendor Contracts and Payments:\nPlanner may negotiate vendor agreements on Client’s behalf but is not a party to most vendor contracts unless explicitly stated. Client is ultimately responsible for payments due to vendors unless Planner agrees otherwise in writing.\n\n7. Liability and Insurance:\nPlanner will exercise reasonable care in performing Services but is not liable for vendor performance, acts of God, or other events outside Planner’s control. Client is encouraged to maintain event insurance.\n\n8. Force Majeure:\nNeither party will be liable for delays or failures caused by events beyond reasonable control (e.g., natural disasters, strikes, governmental actions).\n\n9. Cancellation by Planner:\nPlanner may cancel for material breach by Client or factors that make performance impossible; deposits may be refunded minus costs incurred.\n\n10. Confidentiality and Publicity:\nPlanner and Client agree to keep sensitive information confidential. Planner may use non-identifying images of the event for promotional purposes unless Client opts out in writing.\n\n11. Termination:\nEither party may terminate for material breach if the breach remains uncured after [days] notice. Termination does not relieve Client of obligations to pay for Services provided or costs incurred prior to termination.\n\n12. Dispute Resolution:\nParties agree to attempt mediation before pursuing litigation, and venue for disputes will be [Jurisdiction].\n\n13. Miscellaneous:\nEntire Agreement: This document and Schedule A constitute the full agreement.\nAmendments: Any changes must be in writing and signed by both parties.\nGoverning Law: [State/Country law applies].\n\nSignatures:\nPlanner: ____________________ Date: ________\nClient: ____________________ Date: ________",
-    "example": "This Agreement is between Everlasting Events and Jordan Lee for a wedding on June 20. Services include full planning, vendor coordination, and day-of management. Deposit $2,000. Balance paid in three installments.",
-    "tips": ["Keep the deposit non-refundable only to cover commitments","Specify vendor payment responsibilities","Recommend event insurance"],
-    "faqs": [
-      { "question": "What if a vendor doesn't perform?", "answer": "The Planner will assist in resolving issues, but vendor performance is generally the vendor's responsibility; contract limits Planner liability." },
-      { "question": "Can I change the guest count later?", "answer": "Major changes may affect pricing and vendor commitments; notify Planner as soon as possible." }
-    ],
-    "tags": ["wedding","event-planning","contract","planner","client-agreement"]
-  }
+"slug": "land-sale-contract-template",
+"title": "Land Sale Contract Template",
+"description": "Free land sale contract template for property transactions, installment payments, financing terms, and land ownership transfers. Copy, customize, and download instantly.",
+"category": {
+"name": "Real Estate",
+"slug": "real-estate"
+},
+"intro": "A land sale contract outlines the terms and conditions for the purchase and sale of vacant land or undeveloped property between a buyer and seller. This template is useful for private land transactions, owner-financed sales, installment payment arrangements, and property transfers where both parties want clear written documentation regarding pricing, payments, taxes, and title transfer responsibilities.",
+"whenToUse": "Use this template when buying or selling vacant land, rural acreage, undeveloped lots, or privately financed property. It is commonly used for installment land sales, owner financing agreements, and direct real estate transactions between private parties.",
+"template": "LAND SALE CONTRACT\n\nThis Land Sale Contract (“Agreement”) is entered into on [Date] by and between:\n\nSeller:\nName: [Seller Full Name]\nAddress: [Address]\nPhone Number: [Phone Number]\n\nand\n\nBuyer:\nName: [Buyer Full Name]\nAddress: [Address]\nPhone Number: [Phone Number]\n\n1. PROPERTY DESCRIPTION\nThe Seller agrees to sell and the Buyer agrees to purchase the following property (“Land”):\n\nProperty Address:\n[Street Address, City, County, State]\n\nLegal Description:\n[Insert legal description from deed, survey, or public records]\n\nParcel Number (Optional):\n[Parcel or Tax Identification Number]\n\n2. PURCHASE PRICE\nThe total purchase price for the Land shall be:\n\nTotal Purchase Price: [$Amount]\nDown Payment: [$Amount]\nRemaining Balance Financed: [$Amount]\n\n3. PAYMENT TERMS\nThe Buyer agrees to make installment payments as follows:\n\nMonthly Payment Amount: [$Amount]\nInterest Rate: [Percentage]% per year\nInterest Calculation Method:\n[Simple interest, amortized schedule, or other method]\n\nPayment Start Date:\n[Date]\n\nPayment Due Date:\nPayments shall be due on the [Day] of each month until the balance is paid in full.\n\nAccepted Payment Methods:\n[Check, bank transfer, online payment, etc.]\n\n4. LATE PAYMENTS\nIf a payment is not received within [Number] days after the due date, the Buyer agrees to pay a late fee of [$Amount].\n\n5. FINAL PAYMENT AND CONTRACT COMPLETION\nThe remaining balance must be paid in full no later than [Final Payment Date].\n\nIf the remaining balance is unpaid after this date, additional interest or penalties may apply as permitted by applicable law and this Agreement.\n\n6. DEFAULT\nThe Buyer shall be considered in default if:\n\n- Payments remain unpaid beyond agreed deadlines\n- Multiple payment obligations are missed\n- The Buyer materially breaches this Agreement\n\nIn the event of default, the Seller may exercise remedies permitted under applicable law and this Agreement.\n\n7. TITLE AND TRANSFER\nUpon receipt of the full purchase price and satisfaction of all obligations under this Agreement, the Seller agrees to transfer legal ownership of the Land to the Buyer.\n\nThe Buyer agrees to accept responsibility for the property after title transfer, including maintenance, liabilities, and future obligations.\n\n8. TAXES AND INSURANCE\nProperty taxes, assessments, utilities, and related property expenses shall be allocated as follows:\n\n[Describe responsibility for taxes, insurance, utilities, or maintenance]\n\nIf insurance is required before title transfer, the parties agree to the following:\n[Describe insurance requirements]\n\n9. ADDITIONAL TERMS\n[Insert any additional agreed terms, easements, contingencies, inspections, zoning disclosures, or financing conditions]\n\n10. GOVERNING TERMS\nThis Agreement represents the complete understanding between the parties regarding the sale of the Land.\n\n11. SIGNATURES\nBy signing below, the parties acknowledge and agree to the terms of this Agreement.\n\nSeller Signature: __________________________\nPrinted Name: _____________________________\nDate: ____________________________________\n\nBuyer Signature: __________________________\nPrinted Name: _____________________________\nDate: ____________________________________\n\nWitness Signature (Optional): ______________\nPrinted Name: _____________________________\nDate: ____________________________________",
+"example": "LAND SALE CONTRACT\n\nDate: June 21, 2026\n\nSeller:\nName: Oakview Property Holdings LLC\n\nBuyer:\nName: Daniel Mercer\n\nProperty Address:\n1450 Pine Ridge Road, Madison County, Georgia\n\nLegal Description:\n5.2-acre vacant parcel identified as Lot 14 of Pine Ridge Estates Subdivision.\n\nPurchase Price:\nTotal Purchase Price: $95,000\nDown Payment: $15,000\nRemaining Balance Financed: $80,000\n\nPayment Terms:\nMonthly Payment Amount: $975\nInterest Rate: 6.5% annually\nPayment Due Date: 1st day of each month\n\nLate Fee:\n$50 after 10 days past due.\n\nFinal Payment Date:\nJune 1, 2031\n\nTaxes and Insurance:\nBuyer responsible for all property taxes beginning on the contract date.\n\nSeller Signature: Karen Lewis\nDate: June 21, 2026\n\nBuyer Signature: Daniel Mercer\nDate: June 21, 2026",
+"tips": [
+"Use the exact legal description from official property records.",
+"Clearly define payment schedules, interest terms, and late fees.",
+"Specify who is responsible for taxes, insurance, and maintenance.",
+"Document all additional terms before signing the agreement.",
+"Consider title searches and property inspections before closing."
+],
+"faqs": [
+{
+"question": "What is a land sale contract?",
+"answer": "A land sale contract is an agreement outlining the terms for the purchase and transfer of vacant land or real property."
+},
+{
+"question": "Can land be sold through installment payments?",
+"answer": "Yes, many land sale contracts allow buyers to pay through monthly installments or owner financing arrangements."
+},
+{
+"question": "Why is the legal property description important?",
+"answer": "The legal description identifies the exact parcel being sold and helps avoid disputes regarding property boundaries."
+},
+{
+"question": "Who usually pays property taxes during the contract period?",
+"answer": "Responsibility for property taxes depends on the agreement and should be clearly stated in the contract."
+},
+{
+"question": "When does ownership transfer to the buyer?",
+"answer": "Ownership typically transfers after the purchase price and contract obligations are fully satisfied."
+}
+],
+"tags": [
+"land-sale",
+"real-estate-contract",
+"owner-financing",
+"property-sale",
+"vacant-land",
+"real-estate"
+]
+},
+  {
+"slug": "shared-fence-agreement-template",
+"title": "Shared Fence Agreement Template",
+"description": "Free shared fence agreement template for neighbors managing fence installation, repairs, maintenance, and cost sharing. Copy, customize, and download instantly.",
+"category": {
+"name": "Contracts",
+"slug": "contracts"
+},
+"intro": "A shared fence agreement helps neighboring property owners document responsibilities for fence installation, maintenance, repairs, and shared expenses. This template is designed for homeowners, landlords, and property managers who want a clear written understanding to avoid disputes and clarify expectations.",
+"whenToUse": "Use this template when two neighboring property owners are sharing the cost or responsibility of building, repairing, replacing, or maintaining a boundary fence. It is useful before starting fence work or when updating an existing arrangement.",
+"template": "SHARED FENCE AGREEMENT\n\nThis Shared Fence Agreement (“Agreement”) is entered into on [Date] by and between:\n\nProperty Owner 1:\nName: [Owner 1 Full Name]\nAddress: [Owner 1 Address]\n\nand\n\nProperty Owner 2:\nName: [Owner 2 Full Name]\nAddress: [Owner 2 Address]\n\n1. PURPOSE\nThe parties agree to share responsibilities related to the fence located along the boundary between their respective properties.\n\n2. PROPERTY DESCRIPTION\nFence Location and Description:\n[Describe the fence location, dimensions, materials, and any relevant details]\n\n3. SCOPE OF WORK\nThe parties agree to jointly participate in the following activities:\n\n[ ] Fence installation\n[ ] Fence repair\n[ ] Fence replacement\n[ ] Fence painting or staining\n[ ] General maintenance\n\nAdditional details:\n[Insert project details, contractor information, or work specifications]\n\n4. COST SHARING\nEstimated Total Project Cost: [$Amount]\n\nOwner 1 agrees to pay:\n[Describe materials, labor, percentages, or fixed amounts]\n\nOwner 2 agrees to pay:\n[Describe materials, labor, percentages, or fixed amounts]\n\nPayment Schedule:\n[Insert payment terms or due dates]\n\n5. MAINTENANCE RESPONSIBILITIES\nEach party agrees to maintain their side of the fence in reasonable condition and to promptly address any damage caused by themselves, members of their household, guests, tenants, or animals.\n\n6. PROPERTY USE\nNeither party may intentionally alter, damage, or attach structures to the shared fence without prior written agreement from the other party.\n\nEach party agrees to reasonably maintain landscaping, vegetation, and animals in a manner that does not interfere with the neighboring property.\n\n7. TERM AND TERMINATION\nThis Agreement begins on [Start Date] and will remain in effect until:\n\n[ ] Completion of the project\n[ ] Written termination by both parties\n[ ] Transfer of ownership of either property\n[ ] Other: [Specify]\n\n8. DISPUTE RESOLUTION\nIf a disagreement arises regarding this Agreement, the parties agree to first attempt to resolve the matter through good-faith discussion before pursuing legal remedies.\n\n9. SIGNATURES\nBy signing below, both parties acknowledge that they understand and agree to the terms of this Agreement.\n\nOwner 1 Signature: __________________________\nPrinted Name: ______________________________\nDate: _____________________________________\n\nOwner 2 Signature: __________________________\nPrinted Name: ______________________________\nDate: _____________________________________",
+"example": "SHARED FENCE AGREEMENT\n\nThis Agreement is entered into on June 10, 2026 by and between:\n\nProperty Owner 1:\nName: Daniel Carter\nAddress: 15 Oak Ridge Lane\n\nProperty Owner 2:\nName: Melissa Nguyen\nAddress: 17 Oak Ridge Lane\n\nFence Description:\nSix-foot wooden privacy fence located along the rear property boundary.\n\nScope of Work:\n[X] Fence replacement\n[X] Fence staining\n\nEstimated Total Project Cost: $3,200\n\nOwner 1 agrees to pay 50% of materials and labor.\nOwner 2 agrees to pay 50% of materials and labor.\n\nPayment Schedule:\nEach owner will pay their share directly to the contractor before work begins.\n\nAgreement Start Date: June 10, 2026\n\nOwner 1 Signature: Daniel Carter\nDate: June 10, 2026\n\nOwner 2 Signature: Melissa Nguyen\nDate: June 10, 2026",
+"tips": [
+"Describe the fence location and materials clearly.",
+"Specify how costs will be divided before work begins.",
+"Include payment deadlines and contractor details if applicable.",
+"Document maintenance responsibilities for both parties.",
+"Keep a signed copy of the agreement for future reference."
+],
+"faqs": [
+{
+"question": "Can neighbors split fence repair costs equally?",
+"answer": "Yes, many neighbors choose to divide costs equally, but the agreement should clearly state the arrangement."
+},
+{
+"question": "Should a shared fence agreement be signed before work starts?",
+"answer": "Yes, signing before work begins helps prevent misunderstandings about costs and responsibilities."
+},
+{
+"question": "Can this agreement cover fence maintenance?",
+"answer": "Yes, the agreement can outline ongoing maintenance and repair responsibilities for both parties."
+},
+{
+"question": "What happens if one property owner sells their home?",
+"answer": "The agreement can specify whether it ends automatically or transfers to the new owner."
+},
+{
+"question": "Can this template be used for different fence types?",
+"answer": "Yes, the template can be customized for wood, vinyl, chain-link, metal, or other fence types."
+}
+],
+"tags": [
+"shared-fence",
+"neighbor-agreement",
+"property-maintenance",
+"homeowners",
+"fence-repair",
+"contracts"
+]
+},
+{
+"slug": "kids-chore-agreement-template",
+"title": "Kids Chore Agreement Template",
+"description": "Free kids chore agreement template for setting household responsibilities, allowances, rewards, and expectations. Copy, customize, and download instantly.",
+"category": {
+"name": "Family",
+"slug": "family"
+},
+"intro": "A kids chore agreement helps parents and children establish clear expectations for household responsibilities, routines, rewards, and privileges. This template is useful for families who want to encourage accountability, organization, independence, and consistent participation in household tasks.",
+"whenToUse": "Use this template when assigning regular chores, creating allowance expectations, or setting household routines for children or teenagers. It is especially helpful for managing daily responsibilities and encouraging consistency at home.",
+"template": "KIDS CHORE AGREEMENT\n\nDate: [Date]\n\nThis Chore Agreement is made between:\n\nParent/Guardian: [Parent or Guardian Name]\nChild: [Child Name]\n\n1. PURPOSE\nThe purpose of this agreement is to establish clear household responsibilities, expectations, and rewards for completing chores and maintaining personal spaces.\n\n2. PERSONAL RESPONSIBILITIES\nThe child agrees to:\n\n- Keep their bedroom reasonably clean and organized\n- Place dirty clothes in the laundry hamper\n- Make their bed regularly\n- Return toys, books, and belongings to their proper places\n- Follow household rules regarding food, drinks, and electronics in bedrooms\n\n3. DAILY CHORES\nThe child agrees to complete the following daily tasks:\n\n1. [Kitchen or Meal Duties]\n2. [Living Room or Shared Space Duties]\n3. [Pet Care Responsibilities]\n4. [Outdoor or Yard Responsibilities]\n5. [Other Daily Chores]\n\n4. WEEKLY CHORES\nThe child agrees to complete the following weekly tasks:\n\n1. [Laundry Duties]\n2. [Bathroom Cleaning]\n3. [Vacuuming or Sweeping]\n4. [Trash or Recycling Duties]\n5. [Other Weekly Chores]\n\n5. EXPECTATIONS\nThe child agrees to complete chores responsibly and within the expected timeframe without repeated reminders whenever possible.\n\nIf help is needed, the child agrees to ask a parent or guardian for assistance.\n\n6. REWARDS AND ALLOWANCE\nIf responsibilities are completed consistently, the child may receive:\n\nWeekly Allowance: [$Amount]\nAdditional Rewards or Privileges:\n[Screen time, outings, sports, activities, social events, etc.]\n\n7. CONSEQUENCES\nIf chores are not completed, the parent or guardian may reduce privileges, adjust allowance amounts, or assign additional responsibilities.\n\nAllowance deductions or consequences:\n[Describe deduction amounts or consequences]\n\n8. AGREEMENT\nBoth parties agree to communicate respectfully and work together to maintain household responsibilities.\n\nChild Signature: __________________________\nPrinted Name: ____________________________\nDate: __________________________________\n\nParent/Guardian Signature: ________________\nPrinted Name: ____________________________\nDate: __________________________________",
+"example": "KIDS CHORE AGREEMENT\n\nDate: September 1, 2026\n\nParent/Guardian: Nicole Ramirez\nChild: Ethan Ramirez\n\nDaily Chores:\n1. Feed the family dog each morning\n2. Clear dishes after dinner\n3. Put away toys and school supplies\n4. Make bed before school\n\nWeekly Chores:\n1. Fold laundry on Saturdays\n2. Take recycling bins to the curb\n3. Vacuum bedroom\n\nWeekly Allowance: $15\n\nAdditional Rewards:\nWeekend video game time and sleepovers with friends.\n\nConsequences:\nAllowance may be reduced by $2 for incomplete chores.\n\nChild Signature: Ethan Ramirez\nDate: September 1, 2026\n\nParent/Guardian Signature: Nicole Ramirez\nDate: September 1, 2026",
+"tips": [
+"Assign chores that are appropriate for the child’s age and ability.",
+"Keep expectations clear and easy to understand.",
+"Use consistent rewards and consequences.",
+"Review the agreement regularly as responsibilities change.",
+"Encourage positive reinforcement instead of focusing only on penalties."
+],
+"faqs": [
+{
+"question": "What is a kids chore agreement?",
+"answer": "A kids chore agreement is a written document outlining household responsibilities, rewards, and expectations for children."
+},
+{
+"question": "Should chores be tied to an allowance?",
+"answer": "Some families choose to connect chores to allowances, while others use chores to teach responsibility without payment."
+},
+{
+"question": "Can this template be used for teenagers?",
+"answer": "Yes, the template can be customized for children of different ages, including teenagers."
+},
+{
+"question": "What happens if chores are not completed?",
+"answer": "Parents may reduce privileges, adjust allowances, or assign additional responsibilities based on household rules."
+},
+{
+"question": "Can parents modify chores over time?",
+"answer": "Yes, chores and expectations can be updated as the child grows or household needs change."
+}
+],
+"tags": [
+"kids-chores",
+"family-routine",
+"allowance",
+"parenting",
+"household-responsibilities",
+"family"
+]
+}
 ]

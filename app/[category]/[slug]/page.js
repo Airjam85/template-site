@@ -11,6 +11,7 @@ import { generateWebPageSchema } from "../../../lib/schema/webpage";
 import { SITE_URL } from "../../../lib/constants";
 import { generateCanonical } from "../../../lib/seo";
 import { getRelatedTemplates } from "../../../lib/getRelatedTemplates";
+import Footer from "../../components/Footer";
 
 export async function generateStaticParams() {
   return templates.map((template) => ({
@@ -59,14 +60,17 @@ export default async function TemplatePage({ params }) {
   5
 );
 
-const faqSchema = generateFAQSchema(template.faqs || []);
 const breadcrumbSchema = generateBreadcrumbSchema(template);
 const webpageSchema = generateWebPageSchema(template);
+
 const combinedSchema = [
-  faqSchema,
   breadcrumbSchema,
   webpageSchema,
 ];
+
+if (template.faqs?.length > 0) {
+  combinedSchema.push(generateFAQSchema(template.faqs));
+}
 
   return (
     <main className="max-w-3xl mx-auto p-10">
@@ -168,6 +172,22 @@ const combinedSchema = [
   </div>
 )}
 
+{template.sourceAttribution && (
+  <div className="mt-10 text-sm text-gray-500">
+    <p>
+      {template.sourceAttribution.label}{" "}
+      <a
+        href={template.sourceAttribution.url}
+        target="_blank"
+        rel="noopener noreferrer"
+        className="underline"
+      >
+        Learn more
+      </a>
+    </p>
+  </div>
+)}
+
       {related.length > 0 && (
   <div className="mt-10">
     <h2 className="text-2xl font-semibold mb-4">
@@ -193,6 +213,7 @@ const combinedSchema = [
     </div>
   </div>
 )}
+<Footer />
     </main>
   );
 }

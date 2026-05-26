@@ -7,6 +7,7 @@ import { notFound } from "next/navigation";
 import { categories } from "../../content/categories";
 import { generateItemListSchema } from "../../lib/schema/itemList";
 import { SITE_URL } from "../../lib/constants";
+import Footer from "../components/Footer";
 
 export async function generateStaticParams() {
   const categorySlugs = getCategorySlugs();
@@ -24,10 +25,6 @@ export async function generateMetadata({ params }) {
 if (!filtered.length) notFound();
 
 const categoryName = filtered[0].category.name;
-
-if (!first) notFound();
-
-const categoryName = first.category.name;
 
   return {
     title: `${categoryName} Templates | MangoGranola`,
@@ -162,6 +159,7 @@ export default async function CategoryPage({
 </div>
 </div>
 
+<Footer />
   </main>
 );
 }
