@@ -62,11 +62,13 @@ export default async function TemplatePage({ params }) {
 
 const breadcrumbSchema = generateBreadcrumbSchema(template);
 const webpageSchema = generateWebPageSchema(template);
+const faqSchema = generateFAQSchema(template.faqs || []);
 
 const combinedSchema = [
   breadcrumbSchema,
   webpageSchema,
-];
+  faqSchema,
+].filter(Boolean);
 
 if (template.faqs?.length > 0) {
   combinedSchema.push(generateFAQSchema(template.faqs));
