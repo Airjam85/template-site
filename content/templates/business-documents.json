@@ -1,28 +1,55 @@
 [
   {
-    "slug": "project-proposal-basic",
-    "title": "Basic Project Proposal",
-    "description": "A simple proposal template to outline scope and pricing.",
-    "category": {
-      "name": "Business Documents",
-      "slug": "business-documents"
-    },
-    "intro": "Use this proposal to summarize scope, deliverables, timeline, and cost.",
-    "whenToUse": "When pitching services or projects to clients.",
-    "template": "Proposal Title: [Project]\nClient: [Name]\nScope: [Deliverables]\nTimeline: [Dates]\nCost: [Amount]",
-    "example": "Proposal Title: Branding Refresh\nClient: Greenleaf Co.\nScope: Logo, color palette, basic guidelines\nTimeline: 4 weeks\nCost: $4,500",
-    "faqs": [
-      {
-        "question": "Should I include payment milestones?",
-        "answer": "Yes — they help manage expectations and cash flow."
-      }
-    ],
-    "tags": [
-      "proposal",
-      "pitch",
-      "business"
-    ]
-  },
+"slug": "project-proposal-template",
+"qualityTier": "hand-polished",
+"title": "Professional Project Proposal Template",
+"description": "Free professional project proposal template for freelancers, agencies, consultants, and service providers. Copy, customize, and download instantly.",
+"category": {
+"name": "Business",
+"slug": "business"
+},
+"intro": "A professional project proposal helps freelancers, consultants, agencies, and service providers present a clear solution, define deliverables, establish timelines, and secure client approval before work begins. This template is designed to build trust, reduce misunderstandings, and improve project alignment through structured scope, pricing, milestones, and approval terms.  ",
+"whenToUse": "Use this template when pitching services, consulting work, creative projects, marketing campaigns, software development, operational improvements, or client engagements. It is commonly used for freelance work, agency retainers, B2B service proposals, and professional project bids.",
+"template": "PROJECT PROPOSAL\n\nPrepared For:\n[Client Name or Company]\n\nPrepared By:\n[Your Name or Company]\n\nProposal Date:\n[Date]\n\nProject Title:\n[Project Name]\n\n1. EXECUTIVE SUMMARY\n\nThis proposal outlines a recommended solution to address:\n\n[Brief summary of the client’s challenge, opportunity, or business objective]\n\nOur proposed approach is designed to:\n\n- Improve [specific outcome]\n- Solve [specific problem]\n- Support [business objective or KPI]\n- Deliver measurable results through [brief solution summary]\n\nExpected business value:\n\n[Describe anticipated benefits, efficiencies, revenue opportunities, growth potential, or operational improvements]\n\n2. PROJECT OBJECTIVES\n\nThe primary objectives of this project are:\n\n- [Objective 1]\n- [Objective 2]\n- [Objective 3]\n\nSuccess metrics or KPIs may include:\n\n- [KPI or deliverable target]\n- [Performance metric]\n- [Operational outcome]\n\n3. PROJECT SCOPE\n\nIncluded Services:\n\n- [Service or deliverable]\n- [Service or deliverable]\n- [Service or deliverable]\n\nDeliverables:\n\n- [Deliverable 1]\n- [Deliverable 2]\n- [Deliverable 3]\n\nOut-of-Scope Items:\n\nThe following items are not included unless separately approved in writing:\n\n- [Out-of-scope item]\n- [Additional service]\n- [Future enhancement]\n\nAdditional work outside the approved scope may require:\n\n- Revised pricing\n- Timeline adjustments\n- Written approval\n\n4. PROJECT TIMELINE AND MILESTONES\n\n| Phase | Description | Start Date | Completion Date |\n|-------|-------------|-------------|------------------|\n| Discovery | [Description] | [Date] | [Date] |\n| Planning | [Description] | [Date] | [Date] |\n| Production | [Description] | [Date] | [Date] |\n| Review & Revisions | [Description] | [Date] | [Date] |\n| Final Delivery | [Description] | [Date] | [Date] |\n\nKey Milestones:\n\n- [Milestone and expected completion date]\n- [Milestone and expected completion date]\n- [Milestone and expected completion date]\n\nTimeline assumptions:\n\n- Client feedback will be provided within [Number] business days\n- Required materials and approvals will be delivered on schedule\n- Delays in approvals or content may extend deadlines accordingly\n\n5. PRICING AND COST BREAKDOWN\n\n| Service or Deliverable | Quantity | Rate | Total |\n|-----------------------|----------|------|-------|\n| [Item] | [Qty] | [$Amount] | [$Amount] |\n| [Item] | [Qty] | [$Amount] | [$Amount] |\n| [Item] | [Qty] | [$Amount] | [$Amount] |\n\nEstimated Total Project Cost: [$Total Amount]\n\nOptional Add-Ons:\n\n| Optional Service | Price |\n|-----------------|-------|\n| [Optional Item] | [$Amount] |\n| [Optional Item] | [$Amount] |\n\n6. PAYMENT TERMS\n\nPayment Schedule:\n\n- Deposit Due Before Work Begins: [Percentage or Amount]\n- Milestone Payment(s): [Details]\n- Final Payment Due: [Details]\n\nInvoices are due within:\n[Net 15 / Net 30 / Number of Days]\n\nLate payments may result in:\n\n- Delayed delivery\n- Work suspension\n- Late fees where applicable\n\n7. CLIENT RESPONSIBILITIES\n\nThe Client agrees to:\n\n- Provide necessary materials, access, and approvals\n- Designate a primary project contact\n- Respond to review requests promptly\n- Supply accurate project information\n\n8. ASSUMPTIONS AND CONDITIONS\n\nThis proposal is based on the following assumptions:\n\n- Scope remains consistent with the approved deliverables\n- Required third-party licenses or tools are available\n- Project approvals occur within agreed timelines\n\nChanges to the scope, schedule, or deliverables may require a revised proposal.\n\n9. CANCELLATION OR TERMINATION\n\nEither party may terminate the project with written notice.\n\nIf the project is canceled after work begins:\n\n- Completed work shall be invoiced\n- Deposits may remain non-refundable\n- Outstanding balances remain payable for approved work completed\n\n10. ACCEPTANCE AND AUTHORIZATION\n\nTo approve and begin this project, please sign below.\n\nBy signing below, both parties acknowledge acceptance of the proposal terms outlined above.\n\nCLIENT\n\nSignature: ________________________________\nPrinted Name: _____________________________\nTitle: ____________________________________\nDate: ____________________________________\n\nSERVICE PROVIDER\n\nSignature: ________________________________\nPrinted Name: _____________________________\nTitle: ____________________________________\nDate: ____________________________________",
+"example": "PROJECT PROPOSAL\n\nPrepared For:\nEvergreen Wellness Co.\n\nPrepared By:\nNorth Peak Digital Studio\n\nProposal Date:\nApril 14, 2027\n\nProject Title:\nWebsite Redesign and Lead Generation Campaign\n\nEXECUTIVE SUMMARY\n\nEvergreen Wellness Co. is seeking to improve online lead generation and modernize its website experience.\n\nNorth Peak Digital Studio proposes a redesigned website, updated landing pages, and a targeted lead generation strategy designed to improve conversion rates and increase qualified inquiries.\n\nPROJECT OBJECTIVES\n\n- Improve website conversion rate\n- Increase monthly consultation inquiries\n- Modernize mobile user experience\n\nPROJECT TIMELINE\n\n| Phase | Description | Start Date | Completion Date |\n|-------|-------------|-------------|------------------|\n| Discovery | Stakeholder meetings and research | May 1, 2027 | May 5, 2027 |\n| Design | Website and landing page design | May 6, 2027 | May 20, 2027 |\n| Development | Website implementation | May 21, 2027 | June 10, 2027 |\n| Launch | Final review and deployment | June 11, 2027 | June 15, 2027 |\n\nPRICING\n\n| Service | Quantity | Rate | Total |\n|---------|----------|------|-------|\n| Website Redesign | 1 | $6,500 | $6,500 |\n| Landing Pages | 3 | $750 | $2,250 |\n| Lead Generation Setup | 1 | $1,200 | $1,200 |\n\nEstimated Total Project Cost: $9,950\n\nPAYMENT TERMS\n\n50% deposit due before work begins.\nRemaining balance due upon final launch approval.\n\nCLIENT SIGNATURE:\nJordan Patel\nDate: April 14, 2027\n\nSERVICE PROVIDER SIGNATURE:\nAvery Collins\nDate: April 14, 2027",
+"tips": [
+"Keep the executive summary concise and focused on business value.",
+"Clearly define deliverables and out-of-scope items to prevent scope creep.",
+"Use tables for timelines and pricing to improve readability.",
+"Include realistic milestone dates and client approval assumptions.",
+"Provide a simple approval process to reduce project delays."
+],
+"faqs": [
+{
+"question": "What is a project proposal?",
+"answer": "A project proposal is a structured document that outlines a solution, project scope, timeline, pricing, and terms in order to secure client or stakeholder approval."
+},
+{
+"question": "Why should project proposals include out-of-scope items?",
+"answer": "Clearly defining out-of-scope work helps prevent misunderstandings, unexpected revisions, and scope creep during the project."
+},
+{
+"question": "Should pricing be itemized in a proposal?",
+"answer": "Yes, transparent pricing tables help clients understand exactly what services and deliverables are included."
+},
+{
+"question": "Why are timelines and milestones important?",
+"answer": "Milestones help establish accountability, track progress, and set expectations for project delivery."
+},
+{
+"question": "What should happen after a proposal is approved?",
+"answer": "After approval, both parties typically sign the proposal or move into a formal project agreement or contract."
+}
+],
+"tags": [
+"project-proposal",
+"business-proposal",
+"client-services",
+"consulting",
+"freelance",
+"business"
+]
+},
   {
     "slug": "meeting-agenda-template",
     "title": "Meeting Agenda Template",

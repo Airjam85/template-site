@@ -24,29 +24,55 @@
     ]
   },
   {
-    "slug": "email-intro-networking",
-    "title": "Networking Introduction Email",
-    "description": "A networking email template for requesting an introduction or meeting.",
-    "category": {
-      "name": "Email Templates",
-      "slug": "email-templates"
-    },
-    "intro": "Networking Introduction Email helps you write a concise, professional message for common business situations.",
-    "whenToUse": "Use this template when you need a clear and polished email for a specific work or personal request.",
-    "template": "Subject: [Subject]\n\nHi [Name],\n\n[Opening sentence].\n\n[Body details].\n\n[Closing sentence].\n\nBest,\n[Your Name]",
-    "example": "Subject: Follow-Up from Today’s Meeting\n\nHi Alex,\n\nThank you for meeting today. I appreciated the discussion about the new website project and will share the draft proposal by Friday.\n\nBest,\nJordan",
-    "faqs": [
-      {
-        "question": "Should I keep business emails short?",
-        "answer": "Yes, keep emails concise while including the necessary details."
-      }
-    ],
-    "tags": [
-      "email",
-      "communication",
-      "professional"
-    ]
-  },
+"slug": "professional-networking-email-template",
+"title": "Professional Networking Introduction Email Template",
+"description": "Free professional networking email template for informational interviews, career outreach, alumni connections, and industry networking. Copy, customize, and download instantly.",
+"category": {
+"name": "Career",
+"slug": "career"
+},
+"intro": "A professional networking introduction email helps students, job seekers, entrepreneurs, and professionals build meaningful career connections through concise, personalized outreach. This template is designed to maximize response rates by combining a strong subject line, relevant personalization, a low-pressure request, and a clear call to action while remaining professional and easy to read.",
+"whenToUse": "Use this template when reaching out to alumni, industry professionals, hiring managers, founders, recruiters, mentors, or mutual connections for informational interviews, career advice, networking conversations, or professional introductions.",
+"template": "SUBJECT: [Mutual Connection / Shared Interest / Industry Topic]\n\nHi [First Name],\n\nI hope you are doing well. My name is [Your Name], and I am currently [your current role, degree program, industry background, or career stage].\n\nI came across your profile through [LinkedIn, alumni network, company website, mutual connection, event, article, podcast, etc.], and I was particularly interested in your experience with [specific project, role, article, company initiative, industry insight, or accomplishment].\n\nI am currently exploring opportunities and learning more about [industry, field, company type, specialization, or career path], and I thought your perspective would be especially valuable given your background in [specific area].\n\nBriefly about me:\n\n- [Relevant background or experience]\n- [Shared connection, school, industry interest, or professional goal]\n- [Current project, transition, or area of focus]\n\nIf you are open to it, I would greatly appreciate the opportunity to ask you a few questions about your experience during a brief:\n\n- 15–20 minute phone call\n- Zoom conversation\n- Coffee chat\n- Informational interview\n\nI am happy to work around your schedule and keep the conversation concise.\n\nThank you for your time and consideration. I truly appreciate it and would value the opportunity to learn from your experience.\n\nBest regards,\n\n[Your Full Name]\n[Phone Number]\n[Email Address]\n[LinkedIn URL]\n[Portfolio or Website URL if applicable]",
+"example": "SUBJECT: Exploring Healthcare Technology and Operations Careers\n\nHi Dr. Ramirez,\n\nI hope you are doing well. My name is [Your Name], and I am currently completing internal medicine training while exploring opportunities at the intersection of healthcare, technology, and digital education.\n\nI came across your profile through LinkedIn and was especially interested in your recent work building clinical workflow tools for outpatient practices.\n\nI have been increasingly interested in healthcare operations and digital health strategy, and your career path stood out to me because of your transition from clinical practice into health technology leadership.\n\nBriefly about me:\n\n- Background in healthcare and analytics\n- Interested in healthcare systems, operations, and digital products\n- Currently building online projects related to educational and digital tools\n\nIf you are open to it, I would greatly appreciate the opportunity to ask you a few questions during a brief 15–20 minute Zoom or phone conversation sometime over the next couple of weeks.\n\nI am happy to work around your schedule and keep the conversation concise.\n\nThank you very much for your time and consideration. I appreciate it and would value the opportunity to learn from your experience.\n\nBest regards,\n\n[Your Name]\n[Phone Number]\n[LinkedIn URL]",
+"tips": [
+"Keep the email short enough to read in under one minute.",
+"Reference something specific about the recipient to show genuine interest.",
+"Ask for advice or insight rather than directly asking for a job.",
+"Offer a low-pressure and time-limited conversation request.",
+"Use a clear, professional subject line with personalization whenever possible."
+],
+"faqs": [
+{
+"question": "What is a networking introduction email?",
+"answer": "A networking introduction email is a professional outreach message used to connect with industry professionals, alumni, mentors, or recruiters for advice, insights, or career conversations."
+},
+{
+"question": "How long should a networking email be?",
+"answer": "Most effective networking emails are concise and can be read in under one minute."
+},
+{
+"question": "Should I ask for a job directly in a networking email?",
+"answer": "Generally, it is more effective to request advice, insights, or a brief informational conversation rather than directly asking for a job."
+},
+{
+"question": "Why is personalization important in networking outreach?",
+"answer": "Personalization shows genuine interest, demonstrates preparation, and increases the likelihood of receiving a response."
+},
+{
+"question": "What is a low-friction networking request?",
+"answer": "A low-friction request is a simple ask, such as a brief 15–20 minute conversation, that respects the recipient’s time and makes responding easier."
+}
+],
+"tags": [
+"networking-email",
+"career-development",
+"informational-interview",
+"professional-outreach",
+"job-networking",
+"career"
+]
+},
   {
     "slug": "email-thank-you-client",
     "title": "Thank-You Email to Client",
@@ -288,29 +314,55 @@
     ]
   },
   {
-    "slug": "email-offer-acceptance",
-    "title": "Job Offer Acceptance Email",
-    "description": "A professional email accepting a job offer.",
-    "category": {
-      "name": "Email Templates",
-      "slug": "email-templates"
-    },
-    "intro": "Job Offer Acceptance Email helps you write a concise, professional message for common business situations.",
-    "whenToUse": "Use this template when you need a clear and polished email for a specific work or personal request.",
-    "template": "Subject: [Subject]\n\nHi [Name],\n\n[Opening sentence].\n\n[Body details].\n\n[Closing sentence].\n\nBest,\n[Your Name]",
-    "example": "Subject: Follow-Up from Today’s Meeting\n\nHi Alex,\n\nThank you for meeting today. I appreciated the discussion about the new website project and will share the draft proposal by Friday.\n\nBest,\nJordan",
-    "faqs": [
-      {
-        "question": "Should I keep business emails short?",
-        "answer": "Yes, keep emails concise while including the necessary details."
-      }
-    ],
-    "tags": [
-      "email",
-      "communication",
-      "professional"
-    ]
-  },
+"slug": "job-offer-acceptance-email-template",
+"title": "Professional Job Offer Acceptance Email Template",
+"description": "Free professional job offer acceptance email template for confirming employment terms, start dates, and onboarding details. Copy, customize, and download instantly.",
+"category": {
+"name": "Career",
+"slug": "career"
+},
+"intro": "A professional job offer acceptance email helps candidates formally confirm employment terms while creating a strong first impression with a new employer. This template is designed to clearly communicate acceptance, confirm compensation and start details, and maintain a polished, enthusiastic tone that supports a smooth onboarding process.",
+"whenToUse": "Use this template after receiving and deciding to accept a formal job offer from an employer. It is commonly used after verbal offers, offer letters, recruitment conversations, or hiring negotiations.",
+"template": "SUBJECT: Job Offer Acceptance – [Your Full Name]\n\nDear [Hiring Manager or Recruiter Name],\n\nThank you very much for offering me the position of [Job Title] at [Company Name]. I am pleased to formally accept the offer and excited for the opportunity to join your team.\n\nAs discussed, I understand the key terms of my employment to include:\n\n- Position: [Job Title]\n- Start Date: [Start Date]\n- Salary or Compensation: [Salary or Compensation Details]\n- Reporting To: [Supervisor or Manager Name]\n- Work Location: [Office, Remote, Hybrid, etc.]\n\nI have attached the signed offer letter and any requested documents to this email.\n\nPlease let me know if there are any additional forms, onboarding materials, background check requirements, or next steps I should complete before my start date.\n\nThank you again for this opportunity. I truly appreciate your confidence in me, and I look forward to contributing to the team at [Company Name].\n\nBest regards,\n\n[Your Full Name]\n[Phone Number]\n[Email Address]\n[LinkedIn URL if applicable]",
+"example": "SUBJECT: Job Offer Acceptance – Taylor Morgan\n\nDear Sarah,\n\nThank you very much for offering me the position of Marketing Operations Specialist at Horizon Digital Group. I am excited to formally accept the offer and join the team.\n\nAs discussed, my starting salary will be $82,000 annually, and my official start date will be July 8, 2027. I understand that I will be reporting directly to Jennifer Ellis in the Miami office.\n\nI have attached the signed offer letter to this email.\n\nPlease let me know if there are any additional onboarding forms, documents, or steps I should complete before my first day.\n\nThank you again for this wonderful opportunity. I appreciate your time throughout the hiring process and look forward to getting started with Horizon Digital Group.\n\nBest regards,\n\nTaylor Morgan\n(555) 555-2044\nlinkedin.com/in/taylormorgan",
+"tips": [
+"Send your acceptance email within 24 hours when possible.",
+"Clearly restate salary, start date, and position details.",
+"Keep the tone enthusiastic but professional.",
+"Attach signed offer documents if requested by the employer.",
+"Proofread carefully before sending the email."
+],
+"faqs": [
+{
+"question": "What is a job offer acceptance email?",
+"answer": "A job offer acceptance email is a formal written response confirming that a candidate accepts an employer’s offer of employment."
+},
+{
+"question": "Should salary and start date be restated in the email?",
+"answer": "Yes, restating important terms helps ensure both parties are aligned on employment details."
+},
+{
+"question": "How quickly should I send a job offer acceptance email?",
+"answer": "Many professionals recommend responding within 24 hours after deciding to accept the offer."
+},
+{
+"question": "Should signed offer documents be attached?",
+"answer": "Yes, if the employer requested signed paperwork, it is appropriate to attach those documents to the acceptance email."
+},
+{
+"question": "Can a job offer acceptance email ask about next steps?",
+"answer": "Yes, it is common to ask about onboarding, paperwork, and other pre-employment requirements."
+}
+],
+"tags": [
+"job-offer",
+"acceptance-email",
+"career",
+"employment",
+"professional-email",
+"career-development"
+]
+},
   {
     "slug": "email-offer-decline",
     "title": "Job Offer Decline Email",

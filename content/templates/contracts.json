@@ -1,6 +1,7 @@
 [
   {
 "slug": "freelance-services-contract-template",
+"qualityTier": "hand-polished",
 "title": "Freelance Services Contract Template",
 "description": "Free freelance services contract template for designers, writers, developers, consultants, and independent contractors. Copy, customize, and download instantly.",
 "category": {
@@ -101,6 +102,7 @@
 },
   {
 "slug": "freelance-writing-contract-template",
+"qualityTier": "hand-polished",
 "title": "Freelance Writing Contract Template",
 "description": "Free freelance writing contract template for copywriters, bloggers, ghostwriters, journalists, and content creators. Copy, customize, and download instantly.",
 
@@ -207,31 +209,73 @@
   {
     "slug": "freelance-contract-website-design",
     "title": "Freelance Contract — Website Design",
-    "description": "Website-specific freelance agreement covering deliverables and hosting handoff.",
+    "description": "Freelance web design contract covering deliverables, design revisions, hosting responsibilities, and payment terms for custom website projects.",
     "category": { "name": "Contracts", "slug": "contracts" },
-    "intro": "Use for web design projects including CMS handoff and deployment scope.",
-    "whenToUse": "For freelance web design and development engagements.",
-    "template": "This Agreement is between [Client] and [Developer].\n\nScope: [Site pages].\nDeliverables: [Design, dev, deployment].\nHosting: [Responsibility].\nPayment: [Terms].",
-    "example": "Design and build 5 pages, handoff CMS access, payment in 2 installments.",
-    "tips": ["List assets included","Define post-launch support","Include testing responsibilities"],
-    "faqs": [{ "question": "Who provides hosting?", "answer": "Specify whether developer or client handles hosting and costs." }],
-    "tags": ["web","design","freelance"]
+    "intro": "A website design freelance contract establishes clear expectations between a web designer and client regarding project scope, deliverables, revisions, hosting responsibilities, and timeline. This template is useful for independent web designers, design agencies, and clients who need a professional written agreement for custom website projects.",
+    "whenToUse": "Use this template when contracting freelance web design services for custom sites, redesigns, or development projects. It is commonly used for fixed-price projects, responsive design work, CMS setup, and hosting handoff arrangements.",
+    "template": "FREELANCE WEBSITE DESIGN CONTRACT\n\nThis Website Design Contract (\"Agreement\") is entered into on [Date] by and between:\n\nDesigner:\nName: [Designer Name or Design Business]\nAddress: [Address]\nEmail: [Email]\nPhone: [Phone]\n\nand\n\nClient:\nName: [Client Name or Company]\nAddress: [Address]\nEmail: [Email]\nPhone: [Phone]\n\n1. PROJECT DESCRIPTION\nThe Designer agrees to provide website design and development services as follows:\n\nProject Name: [Website Name or Description]\nWebsite Purpose: [Business type, goals, or target audience]\nNumber of Pages: [Number] primary pages\n\nScope of Design Services:\n- Responsive design for desktop, tablet, and mobile devices\n- [Number] custom page layouts or templates\n- Branding integration and visual design\n- Navigation structure and information architecture\n- [Additional design elements]\n\n2. PROJECT TIMELINE\nProject Start Date: [Date]\nDesign Delivery Date: [Date]\nRevisions Due: [Date]\nFinal Deliverables: [Date]\nProject Go-Live: [Date]\n\nTimeline assumes timely client feedback and approved direction at each stage.\n\n3. DESIGN AND REVISION PROCESS\nThe Designer includes:\n\n- Initial design concepts: [Number] concept variations\n- Design revisions: [Number] rounds of revisions on approved concept\n- Additional revisions beyond the included rounds: $[Amount] per round or per hour\n\nRevision requests must be submitted in writing within [Number] days of receiving deliverables.\n\n4. CONTENT AND ASSETS\nClient Responsibilities:\n- Provide all text content, images, videos, logos, and brand materials\n- Grant permission for all third-party content used on the website\n- Approve design direction and content layout before development begins\n- Provide timely feedback on deliverables\n\nDesigner Responsibilities:\n- Organize and implement client-provided content within the design\n- Create placeholder content if client materials are incomplete\n- Ensure content is properly formatted and optimized\n\n5. HOSTING AND DEPLOYMENT\nHosting Responsibility:\n[ ] Client arranges and pays for hosting\n[ ] Designer arranges hosting at client's expense\n[ ] Designer provides hosting included in project fee\n\nIf Designer arranges hosting:\nEstimated Hosting Cost: $[Amount] per month\nHosting Provider: [Provider name]\n\nDeployment:\nThe Designer will deploy the website to the agreed hosting environment upon final payment.\n\n6. CMS AND MAINTENANCE\nContent Management System (CMS):\n[ ] WordPress\n[ ] Custom CMS\n[ ] Shopify or other platform\n[ ] Other: [Specify]\n\nDesigner agrees to provide:\n- CMS setup and configuration\n- Admin account access and login credentials\n- Basic training documentation or video walkthrough\n- [Number] hours of post-launch technical support\n\nOngoing maintenance and updates:\n- Client is responsible for content updates and regular maintenance\n- Designer is available for additional support at: $[Amount] per hour\n\n7. PROJECT FEES AND PAYMENT\nTotal Project Fee: $[Amount]\n\nPayment Schedule:\n- Deposit Due (50% of fee): $[Amount] to secure project date\n- Mid-project Payment (25% of fee): $[Amount] upon design approval\n- Final Payment (25% of fee): $[Amount] due before site go-live\n\nPayment Terms:\nInvoices are due within [Number] days of invoice date.\nLate payments subject to: [Percentage]% monthly interest or $[Amount] late fee.\n\nAccepted Payment Methods:\n[Bank transfer, PayPal, credit card, check, etc.]\n\n8. DOMAIN AND EMAIL\nDomain Registration:\n[ ] Client registers domain separately\n[ ] Designer assists with domain registration at client's expense\n[ ] Designer includes domain registration in project fee\n\nDomain Ownership:\nThe client retains full ownership of the domain name.\nThe Designer will transfer domain control to the client upon final payment.\n\nEmail Hosting:\n[ ] Included in hosting package\n[ ] Client arranges separately\n[ ] Additional cost: $[Amount] per month\n\n9. INTELLECTUAL PROPERTY AND OWNERSHIP\nClient owns the final website design, layout, and custom code developed specifically for this project.\n\nDesigner retains ownership of:\n- Pre-existing design templates, frameworks, or tools\n- Reusable code libraries and components\n- Designer's original creative concepts not used in final project\n\nThe Designer retains the right to display the finished website in their portfolio and case studies unless the Client opts out in writing.\n\n10. ADDITIONAL SERVICES AND CHANGE ORDERS\nWork outside the original scope requires a Change Order signed by both parties.\n\nCommon additional services:\n- Extra page design: $[Amount] per page\n- E-commerce integration: $[Amount]\n- Mailchimp or email marketing setup: $[Amount]\n- SEO optimization: $[Amount]\n- Photography or graphic design: $[Amount]\n\n11. BROWSER AND DEVICE COMPATIBILITY\nThe website will be tested and optimized for:\n\n- Chrome, Safari, Firefox, Edge (latest versions)\n- Desktop, tablet, and mobile devices\n- iOS and Android\n\nCompatibility with outdated browsers or custom requirements: additional fee applies.\n\n12. SECURITY AND BACKUPS\nThe Designer includes:\n- SSL certificate installation\n- Basic security best practices\n- Backup recommendations\n\nThe Client is responsible for:\n- Regular backups of the website\n- Security updates and maintenance after project completion\n- Password management and access control\n\n13. CANCELLATION AND REFUNDS\nIf Client cancels before project start:\n- Full refund of deposit\n\nIf Client cancels during design phase:\n- Deposit retained (non-refundable)\n- Client pays for work completed through cancellation date\n- Client receives all materials created to date\n\nIf Client cancels during development:\n- Deposit retained\n- Client pays for all work completed\n- Incomplete project delivered as-is without further development\n\n14. CONFIDENTIALITY\nBoth parties agree to maintain confidentiality of business information, design processes, client data, and unpublished website content.\n\n15. DISPUTE RESOLUTION\nParties agree to attempt good-faith discussion to resolve disputes before pursuing legal action.\n\n16. TERMINATION\nEither party may terminate this Agreement with [Number] days written notice if the other party materially breaches the terms.\n\n17. SIGNATURES\nBy signing below, both parties agree to the terms of this Agreement.\n\nDesigner Signature: __________________________\nPrinted Name: _______________________________\nDate: ______________________________________\n\nClient Signature: ____________________________\nPrinted Name: _______________________________\nDate: ______________________________________",
+    "example": "FREELANCE WEBSITE DESIGN CONTRACT\n\nDate: March 15, 2026\n\nDesigner:\nName: Creative Web Solutions LLC\n\nClient:\nName: Beacon Wellness Coaching\n\nProject Name:\nBeacon Wellness Services Website Redesign\n\nScope:\n8-page website with responsive design, service pages, blog section, and contact forms. WordPress CMS for easy content updates.\n\nProject Timeline:\nStart: April 1, 2026\nDesign Concepts Due: April 15, 2026\nFinal Design: May 1, 2026\nDevelopment Complete: May 30, 2026\nGo-Live: June 1, 2026\n\nRevisions:\nIncludes 2 rounds of design revisions. Additional revisions at $75/hour.\n\nTotal Project Fee: $4,200\nPayment Schedule:\n- Deposit (50%): $2,100 due April 1\n- Mid-Project (25%): $1,050 due May 1\n- Final (25%): $1,050 due June 1\n\nHosting:\nClient arranges hosting with recommended provider. Designer will deploy for no additional charge.\n\nCMS:\nWordPress setup with admin training video and documentation provided.\n\nPost-Launch Support:\n15 hours of technical support included. Additional support at $60/hour.\n\nDesigner Signature: Sarah Mitchell\nDate: March 15, 2026\n\nClient Signature: David Torres\nDate: March 15, 2026",
+    "tips": [
+      "Define the exact number of pages and design concepts upfront.",
+      "Specify revision limits clearly to avoid scope creep.",
+      "Clarify who provides hosting and domain registration before signing.",
+      "Include CMS training or documentation in deliverables.",
+      "Document payment schedule and late payment terms in writing.",
+      "Define post-launch support hours and additional service rates clearly."
+    ],
+    "faqs": [
+      {
+        "question": "What if the client wants more revisions than included?",
+        "answer": "Additional revisions beyond the agreed rounds can be billed hourly or as a separate change order."
+      },
+      {
+        "question": "Who owns the website design after the project?",
+        "answer": "The client owns the final design and website. The designer retains rights to pre-existing tools and portfolio use."
+      },
+      {
+        "question": "What happens if the client delays providing content?",
+        "answer": "Project timelines may be extended. The contract should specify how delays affect the delivery date."
+      },
+      {
+        "question": "Does the designer provide ongoing maintenance after launch?",
+        "answer": "Ongoing maintenance is typically a separate service. The contract should define what support is included vs. additional costs."
+      },
+      {
+        "question": "What if the website has technical issues after launch?",
+        "answer": "Include post-launch support hours and clearly separate warranty period from ongoing paid maintenance."
+      }
+    ],
+    "tags": ["web-design","freelance","website","design-contract","responsive-design","cms","wordpress"]
   },
   {
     "slug": "consulting-agreement-strategy",
-    "title": "Consulting Agreement — Strategy",
-    "description": "Agreement for strategic consulting engagements.",
+    "title": "Strategy Consulting Agreement",
+    "description": "Free strategy consulting agreement template for advisory engagements, market research, deliverables, and confidentiality terms.",
     "category": { "name": "Contracts", "slug": "contracts" },
-    "intro": "Covers advisory scope, deliverables, and confidentiality.",
-    "whenToUse": "For hiring consultants on strategy, planning, or advisory work.",
-    "template": "This Agreement is between [Client] and [Consultant].\n\nScope: [Services].\nDeliverables: [Reports].\nConfidentiality: [Clause].\nPayment: [Terms].",
-    "example": "6-week market entry strategy, deliverables include final report and slide deck.",
-    "tips": ["Add confidentiality","Set milestones","Clarify travel expenses"],
-    "faqs": [{ "question": "Should I include an NDA?", "answer": "Yes, attach or reference an NDA if sensitive information is shared." }],
-    "tags": ["consulting","strategy","services"]
+    "intro": "A strategy consulting agreement documents the scope, deliverables, payment, and confidentiality terms for business advisory work. It is designed for consultants, advisers, and clients collaborating on market strategy, growth planning, or operating model improvements.",
+    "whenToUse": "Use this template when hiring a consultant for a discrete strategic project, market entry plan, business model review, or ongoing advisory services that require clear responsibilities and deliverables.",
+    "template": "STRATEGY CONSULTING AGREEMENT\n\nThis Agreement is entered into on [Date] by and between:\n\nConsultant:\nName: [Consultant Name or Firm]\nAddress: [Address]\nEmail: [Email Address]\nPhone: [Phone Number]\n\nClient:\nName: [Client Name or Company]\nAddress: [Address]\nEmail: [Email Address]\nPhone: [Phone Number]\n\n1. SCOPE OF WORK\nThe Consultant agrees to provide the following services:\n\n- Market research and competitive analysis\n- Business model or pricing assessment\n- Growth strategy and opportunity recommendations\n- Implementation roadmap and milestones\n- Stakeholder presentations and summary reports\n\n2. DELIVERABLES\nDeliverables may include:\n\n- Discovery interview summaries\n- Strategic findings report\n- Prioritized recommendations\n- Implementation plan with timelines\n- Presentation deck for leadership\n\n3. CLIENT RESPONSIBILITIES\nThe Client agrees to provide:\n\n- Access to relevant business data and documents\n- Availability of key stakeholders for interviews\n- Prompt feedback on draft materials\n- Information needed to complete the analysis\n\n4. TIMELINE\nProject Start Date: [Date]\nDiscovery Phase: [Duration]\nDraft Recommendations: [Date]\nFinal Presentation: [Date]\nProject End Date: [Date]\n\n5. FEES AND PAYMENT\nFee Structure:\n- [ ] Fixed project fee: $[Amount]\n- [ ] Time and materials: $[Amount] per hour\n- [ ] Retainer: $[Amount] per month\n\nPayment Schedule:\n- Deposit: [Amount or Percentage] due upon signing\n- Interim payment: [Amount or Percentage] due at midpoint\n- Final payment: [Amount or Percentage] due at completion\n\nInvoices are due within [Net 15 / Net 30] days. Late payments may incur [Percentage]% interest.\n\n6. CONFIDENTIALITY\nBoth parties agree to keep proprietary business information, financial data, and strategic recommendations confidential unless otherwise authorized.\n\n7. INTELLECTUAL PROPERTY\nThe Consultant retains ownership of pre-existing methodologies, tools, and frameworks. The Client receives rights to use final deliverables internally.\n\n8. EXPENSES\nThe Client will reimburse approved travel, research, and materials expenses with receipts. Expense limits and approval thresholds are documented in writing.\n\n9. INDEPENDENT CONTRACTOR\nThe Consultant is an independent contractor and not an employee of the Client. The Consultant is responsible for taxes, insurance, and professional liabilities.\n\n10. TERMINATION\nEither party may terminate with [Number] days written notice. The Client pays for work completed through termination.\n\n11. DISPUTE RESOLUTION\nParties agree to attempt good-faith discussion before pursuing formal dispute resolution.\n\n12. SIGNATURES\nBy signing below, both parties acknowledge they agree to this Agreement.\n\nConsultant Signature: __________________________\nPrinted Name: _________________________________\nDate: ________________________________________\n\nClient Signature: ______________________________\nPrinted Name: _________________________________\nDate: ________________________________________",
+    "example": "STRATEGY CONSULTING AGREEMENT\n\nDate: May 18, 2026\n\nConsultant:\nName: North Star Strategy LLC\n\nClient:\nName: Beacon Health Foods\n\nScope of Work:\nMarket entry assessment for a direct-to-consumer wellness brand expanding into west coast retail channels.\n\nDeliverables:\n- Competitive landscape report\n- Positioning recommendations\n- 12-month launch roadmap\n- Leadership presentation deck\n\nTimeline:\nStart Date: June 1, 2026\nDiscovery Phase: June 1–June 10\nDraft Recommendations: June 24, 2026\nFinal Presentation: July 8, 2026\nProject End Date: July 15, 2026\n\nFees:\nFixed Project Fee: $22,500\nDeposit: $6,750\nFinal Payment: $11,250 due upon delivery\n\nExpense Terms:\nClient reimburses approved travel and research costs over $250 with receipts.\n\nConsultant Signature: Priya Sharma\nDate: May 18, 2026\n\nClient Signature: Melissa Reyes\nDate: May 18, 2026",
+    "tips": [
+      "Document the exact data and access the client needs to provide.",
+      "Clarify whether the engagement is fixed fee, hourly, or retainer-based.",
+      "Define the format and delivery schedule for each key deliverable.",
+      "Include confidentiality terms for business and financial information.",
+      "Specify how expenses will be approved and reimbursed."
+    ],
+    "faqs": [
+      { "question": "What types of work should be listed in a strategy consulting agreement?", "answer": "List research, analysis, recommendations, stakeholder interviews, reports, and presentations that the consultant will deliver." },
+      { "question": "Who owns the final consulting deliverables?", "answer": "The client receives rights to use final deliverables internally, while the consultant retains ownership of pre-existing frameworks and methodologies." },
+      { "question": "Can a strategy engagement include travel expenses?", "answer": "Yes, if travel is required the agreement should describe which expenses are reimbursable and how they will be approved." },
+      { "question": "What if the scope changes during the project?", "answer": "Major scope changes should be handled with a written amendment or change order that updates fees and timelines." },
+      { "question": "How should confidentiality be handled?", "answer": "Include a clause requiring both parties to protect proprietary information and sensitive business data."
+      }
+    ],
+    "tags": ["strategy","consulting","business-advisory","market-analysis","engagement","planning"]
   },
   {
-"slug": "last-will-and-testament-template",
+    "slug": "last-will-and-testament-template",
+"qualityTier": "hand-polished",
 "title": "Last Will and Testament Template",
 "description": "Free last will and testament template for outlining asset distribution, beneficiaries, executors, and final wishes. Copy, customize, and download instantly.",
 "category": {
@@ -282,45 +326,115 @@
 },
   {
     "slug": "consulting-agreement-creative",
-    "title": "Consulting Agreement — Creative",
-    "description": "A consulting agreement for creative advisory and project oversight.",
+    "title": "Creative Consulting Agreement",
+    "description": "Free creative consulting agreement template for brand strategy, creative direction, and campaign advisory work.",
     "category": { "name": "Contracts", "slug": "contracts" },
-    "intro": "Good for creative directors, brand consultants, or campaign advisors.",
-    "whenToUse": "When hiring creative consultants for project-based guidance.",
-    "template": "This Agreement is between [Client] and [Creative Consultant].\n\nScope: [Creative services].\nPayment: [Terms].\nDeliverables: [Work].",
-    "example": "3-month brand refresh including mood boards and campaign concepts.",
-    "tips": ["Define ownership of concepts","Limit revisions","Set time commitments"],
-    "faqs": [{ "question": "Who owns creative concepts?", "answer": "Specify whether ideas or final deliverables transfer on payment." }],
-    "tags": ["creative","consulting","brand"]
+    "intro": "A creative consulting agreement captures the relationship between a brand strategist or creative director and a client, including project goals, deliverables, revisions, and ownership. It is ideal for advisory engagements on branding, campaigns, or creative direction.",
+    "whenToUse": "Use this template when engaging a creative consultant for brand refreshes, campaign concepts, design direction, or creative oversight that requires clear expectations and deliverables.",
+    "template": "CREATIVE CONSULTING AGREEMENT\n\nThis Agreement is entered into on [Date] by and between:\n\nConsultant:\nName: [Consultant Name or Firm]\nAddress: [Address]\nEmail: [Email Address]\nPhone: [Phone Number]\n\nClient:\nName: [Client Name or Company]\nAddress: [Address]\nEmail: [Email Address]\nPhone: [Phone Number]\n\n1. SCOPE OF SERVICES\nThe Consultant will provide the following creative advisory services:\n\n- Brand or campaign discovery and research\n- Concept development and mood board direction\n- Messaging and positioning guidance\n- Creative review and feedback summaries\n- Final creative direction deliverables\n\n2. DELIVERABLES\nDeliverables may include:\n\n- Brand strategy brief\n- Creative direction document\n- Visual mood boards or concept sketches\n- Messaging framework or tagline recommendations\n- Presentation deck for stakeholders\n\n3. CLIENT RESPONSIBILITIES\nThe Client agrees to provide:\n\n- Brand materials and existing creative assets\n- Access to stakeholders and key team members\n- Feedback on interim deliverables within [Number] business days\n- Any required background research or market data\n\n4. TIMELINE\nProject Start Date: [Date]\nDiscovery and Research: [Duration]\nConcept Delivery: [Date]\nFeedback Round: [Date]\nFinal Deliverable: [Date]\n\n5. FEES AND PAYMENT\nFee Structure:\n- [ ] Fixed project fee: $[Amount]\n- [ ] Hourly rate: $[Amount] per hour\n- [ ] Day rate: $[Amount] per day\n- [ ] Retainer: $[Amount] per month\n\nPayment Schedule:\n- Deposit: [Amount or Percentage] due upon signing\n- Interim payment: [Amount or Percentage] due at mid-project\n- Final payment: [Amount or Percentage] due upon delivery\n\nInvoices are due within [Net 15 / Net 30] days. Late payments may incur [Percentage]% interest.\n\n6. REVISIONS\nThe engagement includes:\n\n- [Number] concept directions\n- [Number] rounds of feedback integration\n\nAdditional revisions beyond the included rounds are billed at $[Amount] per hour.\n\n7. INTELLECTUAL PROPERTY\nThe Consultant retains ownership of pre-existing frameworks, templates, and creative processes. The Client receives rights to use the final approved deliverables for the intended project.\n\n8. PORTFOLIO AND CREDIT\nThe Consultant may showcase the final work in a portfolio or case study unless the Client requests anonymity in writing.\n\n9. CONFIDENTIALITY\nBoth parties agree to protect confidential business information, creative concepts, and proprietary materials shared during the engagement.\n\n10. EXPENSES\nThe Client will reimburse approved expenses for research, stock assets, or travel with receipts. Expenses above $[Amount] require prior written approval.\n\n11. INDEPENDENT CONTRACTOR\nThe Consultant is an independent contractor responsible for taxes, insurance, and professional liability.\n\n12. TERMINATION\nEither party may terminate with [Number] days written notice. The Client will pay for work completed through termination.\n\n13. DISPUTE RESOLUTION\nParties agree to attempt good-faith negotiation before pursuing other remedies.\n\n14. SIGNATURES\nBy signing below, both parties agree to this Agreement.\n\nConsultant Signature: __________________________\nPrinted Name: _________________________________\nDate: ________________________________________\n\nClient Signature: ______________________________\nPrinted Name: _________________________________\nDate: ________________________________________",
+    "example": "CREATIVE CONSULTING AGREEMENT\n\nDate: March 18, 2026\n\nConsultant:\nName: Studio Ember Creative\n\nClient:\nName: Rise & Root Wellness\n\nScope of Services:\nBrand clarity and campaign creative direction for a new subscription box launch.\n\nDeliverables:\n- Brand strategy brief\n- Visual mood board\n- Messaging framework\n- Presentation deck for launch stakeholders\n\nTimeline:\nStart Date: April 1, 2026\nConcept Delivery: April 15, 2026\nFeedback Round: April 22, 2026\nFinal Deliverables: May 1, 2026\n\nFees:\nFixed Fee: $7,200\nDeposit: $2,160\nFinal Payment: $3,600 upon delivery\n\nRevision Terms:\nIncludes 2 rounds of feedback integration. Additional revisions billed at $95/hour.\n\nConsultant Signature: Amelia Grant\nDate: March 18, 2026\n\nClient Signature: Daniel Lee\nDate: March 18, 2026",
+    "tips": [
+      "Describe the creative deliverables and how they will be presented.",
+      "Clarify whether assets like photos or illustrations are included. ",
+      "Set expectations for how quickly the client must review drafts.",
+      "Document portfolio usage and confidentiality preferences early.",
+      "Define the approval process for final creative direction."
+    ],
+    "faqs": [
+      { "question": "What is creative consulting?", "answer": "Creative consulting provides strategic direction on branding, messaging, campaigns, and visual concepts without executing the full production work." },
+      { "question": "Can I request extra concept directions?", "answer": "Yes, additional concept directions should be approved in writing and are usually billed separately." },
+      { "question": "Who owns the creative direction document?", "answer": "The client receives rights to use the final approved direction, while the consultant keeps ownership of templates and tools." },
+      { "question": "Should expenses be pre-approved?", "answer": "Yes, include a clause requiring prior written approval for expenses over a set threshold." },
+      { "question": "Is the consultant responsible for implementation?", "answer": "Not unless the agreement explicitly includes production or implementation services." }
+    ],
+    "tags": ["creative","consulting","brand-strategy","design-direction","campaign","creative-advisory"]
   },
   {
     "slug": "service-agreement-gig-work",
     "title": "Service Agreement — Gig Work",
-    "description": "Short-form service agreement for gig or on-demand work.",
+    "description": "A clear short-form service agreement for one-off gig jobs, event setup, delivery, and on-demand work with defined scope, timing, and payment.",
     "category": { "name": "Contracts", "slug": "contracts" },
-    "intro": "Simple contract for one-off service gigs.",
-    "whenToUse": "For short-term or single-deliverable engagements.",
-    "template": "This Agreement is between [Client] and [Service Provider].\n\nService: [Describe].\nFee: [Amount].\nDate: [When].",
-    "example": "One-day event setup paid at $300 on completion.",
-    "tips": ["Keep scope narrow","State payment upon completion","Record acceptance criteria"],
-    "faqs": [{ "question": "Is a written contract necessary for small jobs?", "answer": "Yes — even short agreements reduce misunderstandings." }],
-    "tags": ["gig","service","short-form"]
+    "intro": "This gig work service agreement formalizes a short-term engagement between a service provider and client for a specific task or project. It helps both parties agree on scope, timing, fees, and cancellation terms for on-demand work.",
+    "whenToUse": "Use this template for moving help, event setup, delivery services, home repairs, photography sessions, or other single-day or short-duration service jobs that need a simple written agreement.",
+    "template": "SERVICE AGREEMENT — GIG WORK\n\nThis Service Agreement (\"Agreement\") is entered into on [Date] by and between:\n\nService Provider:\nName: [Provider Name]\nPhone: [Phone]\nEmail: [Email]\n\nand\n\nClient:\nName: [Client Name]\nAddress: [Service Location]\nPhone: [Phone]\nEmail: [Email]\n\n1. SERVICE DESCRIPTION\nThe Service Provider agrees to provide the following service:\n\nService Type: [Describe the service: moving, event setup, delivery, cleaning, photography, etc.]\n\nScope of Work:\n[Detailed description of what will be completed]\n\nSpecific Tasks or Deliverables:\n- [Task 1]\n- [Task 2]\n- [Task 3]\n\nMaterials and Equipment:\n[ ] Service Provider provides all materials and equipment\n[ ] Client provides materials; Provider supplies labor\n[ ] Client provides [specific materials]; Provider provides [specific equipment]\n\n2. SERVICE DATE AND TIME\nService Date: [Date]\nService Time: [Start time] to [End time]\nService Location: [Full Address]\n\nEstimated Duration: [Number] hours\n\nIf the service requires longer than estimated, additional time will be billed at $[Amount] per [hour/quarter-hour].\n\n3. ACCEPTANCE CRITERIA\nThe service will be considered complete when:\n\n- All agreed tasks have been completed\n- Work meets reasonable professional standards\n- Client approves the completed work\n- [Specific quality metrics or standards]\n\nThe Client agrees to inspect the work and communicate any concerns immediately upon completion.\n\n4. FEES AND PAYMENT\nTotal Service Fee: $[Amount]\n\nPayment Terms:\n[ ] Payment in full due upon completion\n[ ] Payment due within [Number] days of invoice\n[ ] Deposit of $[Amount] required in advance; balance due upon completion\n\nAdditional Charges:\n- Hourly overage (if applicable): $[Amount] per hour\n- Travel or fuel fee: $[Amount]\n- Material costs: [Actual cost + markup percentage]\n- [Other charges, if applicable]\n\nAccepted Payment Methods:\n[Cash, check, Venmo, PayPal, card, bank transfer, etc.]\n\n5. CANCELLATION POLICY\nClient Cancellation:\n\n- If cancelled [Number] days or more before scheduled service: Full refund of any deposit\n- If cancelled within [Number] days: Deposit is [refundable/non-refundable]\n- If cancelled same day: [No refund / [Percentage]% cancellation fee]\n\nProvider Cancellation:\n\nIf the Service Provider must cancel, the Client will receive a full refund of any advance payment and the right to reschedule at a mutually convenient time.\n\n6. CLIENT RESPONSIBILITIES\nThe Client agrees to:\n\n- Provide clear access to the service location\n- Ensure adequate workspace or setup area\n- Provide parking if in an urban area\n- Be present at the service location during scheduled time\n- Communicate any special instructions or concerns clearly\n\n7. LIABILITY AND DAMAGE\nThe Service Provider will exercise reasonable care while performing services.\n\nThe Client assumes responsibility for:\n- Damage caused by the Client's negligence or failure to follow instructions\n- Damage to items not identified or protected before service begins\n- Accidents or injuries caused by Client behavior\n\nThe Service Provider is not liable for:\n- Pre-existing damage or defects\n- Damage from normal wear and tear\n- Accidents caused by Client's property condition\n\n8. INDEPENDENT CONTRACTOR\nThe Service Provider is an independent contractor and responsible for:\n\n- All applicable taxes and self-employment contributions\n- Liability insurance (if applicable)\n- Professional licenses or certifications required\n\n9. CONFIDENTIALITY\nBoth parties agree to maintain confidentiality regarding:\n\n- Client's personal information and home address\n- Details about the Client's property or possessions\n- Any sensitive information observed during service\n\n10. WEATHER AND UNFORESEEN CIRCUMSTANCES\nIf weather, traffic, or other unforeseen circumstances prevent service completion:\n\n[ ] Service will be rescheduled for the next available date\n[ ] Client will be refunded or charged for the portion completed\n[ ] [Other arrangement]\n\n11. DISPUTE RESOLUTION\nFor disputes regarding service quality or payment, the parties agree to discuss the issue directly before pursuing other remedies.\n\n12. ACKNOWLEDGMENT OF TERMS\nBy signing below, both parties acknowledge they have read, understand, and agree to the terms of this Agreement.\n\nService Provider Signature: __________________\nPrinted Name: ______________________________\nDate: ____________________________________\n\nClient Signature: ____________________________\nPrinted Name: ______________________________\nDate: ____________________________________",
+    "example": "SERVICE AGREEMENT — GIG WORK\n\nDate: March 8, 2026\n\nService Provider:\nName: Alex Chen\nPhone: (555) 123-4567\n\nClient:\nName: Jennifer Martinez\nAddress: 405 Maple Street, Apartment 3B\n\nService:\nMoving and furniture setup assistance\n\nTasks:\n- Load and unload moving truck (furniture, boxes, appliances)\n- Arrange furniture in new apartment\n- Assembly of basic furniture pieces\n- Cleanup of packing materials\n\nDate and Time:\nMarch 15, 2026\nStart: 10:00 AM\nEnd: 4:00 PM (approximately 6 hours)\n\nFee:\n$360 total ($60 per hour)\nAdditional hours beyond 6: $65 per hour\n\nPayment:\nPayment due in full upon completion\nAccepted: Cash or Venmo\n\nCancellation Policy:\n- More than 2 days notice: Full refund\n- Within 2 days: $100 non-refundable cancellation fee\n- Same day: No refund\n\nService Provider Signature: Alex Chen\nDate: March 8, 2026\n\nClient Signature: Jennifer Martinez\nDate: March 8, 2026",
+    "tips": [
+      "Be specific about tasks and expected outcomes.",
+      "Clarify who provides materials and equipment upfront.",
+      "Set clear payment terms and accepted payment methods.",
+      "Define cancellation policies and fees.",
+      "Document service date, time, and location clearly.",
+      "Include overage fees if the service takes longer than estimated."
+    ],
+    "faqs": [
+      {
+        "question": "What if the service takes longer than expected?",
+        "answer": "Include overage rates in the agreement so the client knows the hourly cost if the work extends beyond the estimate."
+      },
+      {
+        "question": "Who pays for materials if they're needed?",
+        "answer": "Clarify upfront whether materials are included in the fee, marked up, or charged separately with receipts."
+      },
+      {
+        "question": "What if the client cancels at the last minute?",
+        "answer": "Define a cancellation policy with specific cutoff times and refund or cancellation fee amounts."
+      },
+      {
+        "question": "Is the service provider insured?",
+        "answer": "Document whether the provider carries liability insurance, especially for services involving physical labor or property access."
+      },
+      {
+        "question": "What if damage occurs during the service?",
+        "answer": "Clarify liability limits and that the provider is not responsible for pre-existing damage or accidents caused by the client."
+      }
+    ],
+    "tags": ["gig-work","service","short-term","one-off","task","contract"]
   },
   {
     "slug": "subcontractor-agreement",
     "title": "Subcontractor Agreement",
-    "description": "A subcontractor agreement for work performed under a main contractor.",
+    "description": "Subcontractor agreement defining work scope, payment terms, insurance requirements, and liability responsibilities for subcontracted project work.",
     "category": { "name": "Contracts", "slug": "contracts" },
-    "intro": "Defines responsibilities between contractor and subcontractor.",
-    "whenToUse": "When hiring subcontractors for parts of a larger project.",
-    "template": "This Agreement is between [Contractor] and [Subcontractor].\n\nScope: [Tasks].\nPayment: [Terms].\nInsurance: [Requirements].",
-    "example": "Subcontract for front-end development modules with payment on milestones.",
-    "tips": ["Require proof of insurance","Define indemnity","Include termination terms"],
-    "faqs": [{ "question": "Can subcontractors sign NDAs?", "answer": "Yes — include confidentiality obligations as needed." }],
-    "tags": ["subcontractor","contract","services"]
+    "intro": "A subcontractor agreement establishes the legal relationship between a main contractor and a subcontractor for completing specific portions of a larger project. This template is useful for general contractors, project managers, and subcontractors who need a clear written agreement regarding scope, payment, insurance, and performance standards.",
+    "whenToUse": "Use this template when hiring subcontractors for specialized work, portions of a larger project, or temporary labor on construction, renovation, or service projects. It is commonly used in construction, IT, design, and skilled trade industries.",
+    "template": "SUBCONTRACTOR AGREEMENT\n\nThis Subcontractor Agreement (\"Agreement\") is entered into on [Date] by and between:\n\nContractor (Prime Contractor):\nName: [Contractor Name or Company]\nAddress: [Address]\nEmail: [Email]\nPhone: [Phone]\nLicense Number: [If Applicable]\n\nand\n\nSubcontractor:\nName: [Subcontractor Name or Company]\nAddress: [Address]\nEmail: [Email]\nPhone: [Phone]\nLicense Number: [If Applicable]\nInsurance Certificate: [Attached]\n\n1. PROJECT INFORMATION\nProject Name: [Project Name]\nProject Location: [Address]\nProject Description: [Describe the overall project]\n\nMain Client: [Client Name]\n\n2. SCOPE OF SUBCONTRACTED WORK\nThe Subcontractor agrees to complete the following specific work:\n\n[Detailed description of subcontractor's responsibilities]\n\nIncludes:\n- [Specific tasks or deliverables]\n- [Materials or equipment to be provided]\n- [Quantity and specifications]\n- [Quality standards or workmanship requirements]\n\nDoes NOT include:\n[Clearly list what is outside the scope]\n\n3. PROJECT TIMELINE\nProject Start Date: [Date]\nScheduled Completion Date: [Date]\nMajor Milestones: [List key dates]\n\nSubcontractor agrees to:\n- Start work on the scheduled date\n- Maintain the agreed work schedule\n- Notify the Contractor of any delays within [Number] hours\n- Coordinate with other trades and the main Contractor\n\n4. CONTRACT PRICE AND PAYMENT\nTotal Contract Price: $[Amount]\n\nPayment Structure:\n[ ] Fixed Price for Complete Project\n[ ] Cost Plus: Labor at $[Amount] per hour + Materials at cost + [Percentage]% markup\n[ ] Unit Price: $[Amount] per [unit]\n[ ] Day Rate: $[Amount] per day\n\nPayment Schedule:\n[ ] Progress Payments: [Percentage] upon milestone completion\n[ ] Retainage: [Percentage] held until final completion and inspection\n[ ] Final Payment: Due [Number] days after final completion\n\nAccepted Payment Methods:\n[Check, bank transfer, ACH, etc.]\n\nInvoicing:\n- Subcontractor submits invoices [weekly/bi-weekly/monthly]\n- Invoices must detail work completed and materials used\n- Payment due within [Number] days of invoice receipt\n\n5. MATERIALS AND EQUIPMENT\nMaterials Responsibility:\n[ ] Contractor provides all materials\n[ ] Subcontractor provides all materials\n[ ] Contractor provides [specific materials]; Subcontractor provides [other materials]\n\nEquipment Responsibility:\n[ ] Contractor provides equipment\n[ ] Subcontractor provides equipment and tools\n[ ] Subcontractor provides labor only\n\nStorage and Site Maintenance:\nSubcontractor agrees to keep the work area reasonably clean and organized.\nSubcontractor is responsible for removal of their own waste and debris daily.\n\n6. INSURANCE AND LIABILITY\nSubcontractor must maintain throughout the project term:\n\n- General Liability Insurance: Minimum $[Amount]\n- Workers' Compensation Insurance: As required by state law\n- Auto Liability (if vehicles are used): Minimum $[Amount]\n- [Other required insurance]\n\nProof of Insurance:\nSubcontractor must provide Certificates of Insurance before work begins.\nCertificates must name Contractor as \"additional insured.\"\n\nLiability:\n- Subcontractor is responsible for injuries to their own workers\n- Subcontractor indemnifies Contractor for claims arising from Subcontractor's work\n- Subcontractor assumes responsibility for damage caused by their work or negligence\n\n7. INDEPENDENT CONTRACTOR STATUS\nSubcontractor is an independent contractor, not an employee of Contractor.\n\nSubcontractor is responsible for:\n- All payroll taxes and self-employment contributions\n- Workers' compensation insurance (or proof of exemption)\n- Professional licenses and certifications\n- Safety equipment and compliance\n\n8. QUALITY OF WORK\nSubcontractor agrees to:\n\n- Perform work in a professional, workmanlike manner\n- Comply with all applicable building codes and regulations\n- Meet industry standards for the type of work\n- Complete work according to project specifications\n- Pass all required inspections\n\nInspections and Defects:\n- Contractor has the right to inspect work at any time\n- Deficient work must be corrected immediately at no additional cost\n- Subcontractor warrants workmanship for [Number] [days/months/years] after completion\n\n9. PERMITS AND COMPLIANCE\nPermits Responsibility:\n[ ] Contractor obtains all permits\n[ ] Subcontractor obtains permits for their portion of work\n[ ] Shared responsibility: [Describe]\n\nCompliance:\nSubcontractor agrees to comply with:\n- All building codes and regulations\n- Safety standards and requirements\n- Environmental requirements\n- OSHA standards (if applicable)\n- Project-specific requirements or specifications\n\n10. CHANGE ORDERS\nNo changes to the scope of work, timeline, or price without written Change Order approval.\n\nChange Order Process:\n- Subcontractor submits written request for scope change\n- Includes impact on timeline and cost\n- Contractor approves or denies in writing\n- Only approved changes are billable\n\n11. TERMINATION\nContractor may terminate this Agreement if:\n\n- Subcontractor materially breaches the Agreement\n- Work quality falls below acceptable standards\n- Subcontractor abandons the project\n- [Other termination conditions]\n\nTermination Procedures:\n- Contractor provides written notice of breach\n- Subcontractor has [Number] days to correct the issue\n- If not corrected, termination becomes effective\n- Contractor pays for work completed through termination date\n\n12. DISPUTE RESOLUTION\nParties agree to attempt good-faith resolution of disputes before pursuing legal action.\n\n13. SIGNATURES\nBy signing below, both parties agree to the terms of this Agreement.\n\nContractor Signature: __________________________\nPrinted Name: _________________________________\nTitle: _______________________________________\nDate: ________________________________________\n\nSubcontractor Signature: _______________________\nPrinted Name: _________________________________\nDate: ________________________________________",
+    "example": "SUBCONTRACTOR AGREEMENT\n\nDate: January 20, 2026\n\nContractor:\nName: Summit Construction Services\n\nSubcontractor:\nName: Premier Electrical Solutions\nLicense Number: #EL-45891\n\nProject:\nBayshore Office Park Renovation\nLocation: 850 Commerce Drive\n\nScope of Work:\nElectrical wiring, outlet installation, panel upgrades, and lighting system installation for Phases 1 & 2 renovation.\n\nContract Price: $28,500 (fixed price)\n\nPayment Schedule:\n- 30% upon contract execution: $8,550\n- 40% at 50% completion: $11,400\n- 30% upon final inspection: $8,550\n\nProject Timeline:\nStart: February 1, 2026\nCompletion: April 15, 2026\n\nInsurance Requirements:\n- General Liability: $1,000,000 minimum\n- Workers' Compensation: Required by state law\n- Contractor added as additional insured\n\nWarranty:\n12 months warranty on all electrical work and installation.\n\nTermination Notice:\n14 days written notice required if work is below standards.\n\nContractor Signature: Robert Chen\nDate: January 20, 2026\n\nSubcontractor Signature: Michael Torres\nDate: January 20, 2026",
+    "tips": [
+      "Clearly define the scope of work and what is NOT included.",
+      "Require proof of insurance and workers' compensation before work begins.",
+      "Specify payment schedule with clear milestones.",
+      "Include defect correction and warranty terms.",
+      "Document change order procedures to prevent scope creep.",
+      "Define who provides materials and equipment upfront.",
+      "Include termination conditions and notice requirements."
+    ],
+    "faqs": [
+      {
+        "question": "What if the subcontractor's work is defective?",
+        "answer": "The contract should require the subcontractor to correct deficient work immediately at no additional cost and include a workmanship warranty."
+      },
+      {
+        "question": "Who is responsible for obtaining permits?",
+        "answer": "The contract should clearly specify whether the prime contractor or subcontractor obtains permits for their portion of work."
+      },
+      {
+        "question": "Can the contractor withhold retainage from the final payment?",
+        "answer": "Yes, retainage (typically 5-10%) is commonly held until final inspection and approval of work."
+      },
+      {
+        "question": "What if the project timeline changes?",
+        "answer": "Timeline changes must be documented in a written Change Order that specifies the new schedule and any cost impact."
+      },
+      {
+        "question": "Is insurance required for all subcontractors?",
+        "answer": "Yes, most contracts require general liability and workers' compensation insurance with the prime contractor as additional insured."
+      }
+    ],
+    "tags": ["subcontractor","construction","contractor-agreement","project-management","scope-of-work","trades"]
   },
   {
 "slug": "dog-stud-service-contract-template",
+"qualityTier": "hand-polished",
 "title": "Dog Stud Service Contract Template",
 "description": "Free dog stud service contract template for breeding agreements, stud fees, litter terms, and breeder responsibilities. Copy, customize, and download instantly.",
 "category": {
@@ -372,15 +486,44 @@
   {
     "slug": "vendor-contract-template",
     "title": "Vendor Contract Template",
-    "description": "Template for agreements with vendors supplying goods or services.",
+    "description": "Vendor supply agreement covering goods delivery, warranty terms, payment conditions, and procurement terms.",
     "category": { "name": "Contracts", "slug": "contracts" },
-    "intro": "Use to define goods, delivery, warranties, and payment terms.",
-    "whenToUse": "When purchasing from an external supplier or vendor.",
-    "template": "This Agreement is between [Buyer] and [Vendor].\n\nGoods: [Describe].\nDelivery: [Dates/terms].\nWarranties: [Details].\nPayment: [Terms].",
-    "example": "Agreement for supply of 100 branded mugs with delivery in 4 weeks and 30-day warranty.",
-    "tips": ["List delivery terms","Include inspection windows","Clarify return policy"],
-    "faqs": [{ "question": "Who pays shipping?", "answer": "Specify shipping/FOB terms in the contract." }],
-    "tags": ["vendor","procurement","supply"]
+    "intro": "A vendor contract defines the terms between a buyer and supplier for purchasing goods or materials for business use. This template is useful for businesses, contractors, and organizations that need a standardized agreement with suppliers covering pricing, delivery, quality, and payment terms.",
+    "whenToUse": "Use this template when establishing supplier relationships for purchasing goods, materials, equipment, or branded merchandise. It is commonly used for one-time purchases, ongoing supply agreements, and procurement from manufacturers or distributors.",
+    "template": "VENDOR CONTRACT\n\nThis Vendor Agreement (\"Agreement\") is entered into on [Date] by and between:\n\nBuyer:\nName: [Company or Individual Name]\nAddress: [Address]\nContact: [Email and Phone]\n\nand\n\nVendor/Supplier:\nName: [Vendor Name or Company]\nAddress: [Address]\nContact: [Email and Phone]\nBusiness License: [License Number]\n\n1. PRODUCTS AND SERVICES\nThe Vendor agrees to supply the following goods or materials:\n\nProduct Description: [Detailed description]\nQuantity: [Number] units\nUnit Price: $[Amount]\nTotal Order Value: $[Amount]\n\nProduct Specifications:\n- [Quality or performance standards]\n- [Materials and composition]\n- [Colors, sizes, or variations]\n- [Packaging requirements]\n- [Certifications or compliance standards]\n\n2. DELIVERY TERMS\nDelivery Date: [Specific date or timeframe]\nDelivery Location: [Full address or shipping instructions]\n\nShipping Method:\n[ ] Vendor arranges and pays for shipping\n[ ] Buyer arranges shipping; Vendor pays\n[ ] Buyer pays shipping costs\n[ ] FOB Vendor location\n[ ] FOB Destination\n\nDelivery Requirements:\n- Products must arrive in undamaged condition\n- Packaging must be appropriate for safe delivery\n- Delivery within [Number] days of order\n- Risk of loss transfers upon delivery\n\nLate Delivery:\nIf delivery is late, Buyer may [cancel order / accept late delivery / impose penalties].\n\n3. PRICE AND PAYMENT TERMS\nUnit Price: $[Amount] per [unit]\nTotal Order Price: $[Amount]\n\nPrice Modifications:\n[ ] Fixed price for this order\n[ ] Price subject to change if material costs increase\n[ ] Volume discounts apply for orders over [quantity]\n\nPayment Schedule:\n[ ] 50% deposit upon order; 50% upon delivery\n[ ] Full payment upon delivery\n[ ] Net 30 days (due within 30 days of invoice)\n[ ] Net 15 days (due within 15 days of invoice)\n[ ] [Other payment terms]\n\nAccepted Payment Methods:\n[Wire transfer, check, credit card, ACH, etc.]\n\nLate Payment Fees:\nOverdue invoices subject to [Percentage]% monthly interest or $[Amount] late fee.\n\n4. QUALITY AND INSPECTION\nProduct Quality:\nAll products must:\n- Meet or exceed specifications\n- Be free of defects and damage\n- Be suitable for the intended purpose\n- Comply with applicable regulations\n\nInspection Period:\nBuyer has [Number] days after delivery to inspect and identify defective goods.\n\nDefective Products:\n[ ] Vendor will replace defective products at no cost\n[ ] Vendor will refund price of defective products\n[ ] Vendor will repair or service products\n\n5. WARRANTY\nVendor warrants that:\n\n- Products are fit for their intended purpose\n- Products are free of defects in materials and workmanship\n- Products comply with all applicable laws and regulations\n- Products will function as described for [Number] days/months from delivery\n\nWarranty Disclaimer:\nVendor is not responsible for:\n- Damage from misuse or improper storage\n- Damage from normal wear and tear\n- Modifications to products not authorized by Vendor\n- Damage from failure to follow care instructions\n\n6. RETURNS AND RESTOCKING\nReturn Period:\nDefective or damaged goods may be returned within [Number] days of delivery.\n\nReturn Procedure:\n- Buyer notifies Vendor in writing within return period\n- Vendor provides return authorization number\n- Products returned in original packaging\n- Buyer arranges and pays return shipping (unless product was defective)\n\nRestocking Fee:\n[ ] No restocking fee for defective products\n[ ] [Percentage]% restocking fee for non-defective returns\n\n7. INTELLECTUAL PROPERTY\nAll product designs, trademarks, patents, and intellectual property remain the property of the Vendor.\n\nBuyer receives only the right to use and resell the products as delivered.\n\nBuyer may not:\n- Reproduce the products\n- Modify designs without permission\n- Use Vendor's brand or trademark without authorization\n\n8. MINIMUM ORDERS\nMinimum Order Quantity: [Number] units\nMinimum Order Value: $[Amount]\n\nOrders below the minimum may be:\n[ ] Rejected by Vendor\n[ ] Subject to additional handling fees\n[ ] Subject to higher per-unit pricing\n\n9. REORDERING AND TERM\nInitial Order: [Date through Date]\nReorder Process: [Buyer submits PO; Vendor confirms within [Number] days]\n\nContinuing Relationship:\n- This Agreement continues until terminated by either party\n- Either party may terminate with [Number] days written notice\n- Orders placed before termination are binding\n\n10. CONFIDENTIALITY\nBoth parties agree to maintain confidentiality of:\n\n- Pricing and discount terms\n- Business information shared\n- Customer lists or sales data\n- Product specifications not public\n\n11. LIABILITY AND DISPUTES\nVendor's Liability:\nVendor's total liability is limited to the purchase price of the products.\n\nVendor is not liable for:\n- Lost profits or business interruption\n- Consequential or indirect damages\n- Damages from improper use or storage\n\nDispute Resolution:\nParties agree to attempt good-faith discussion to resolve disputes before pursuing legal action.\n\n12. FORCE MAJEURE\nNeither party is liable for delays or failures caused by:\n\n- Natural disasters\n- War, terrorism, or civil unrest\n- Government action\n- Supply chain disruptions\n- [Other unforeseen circumstances]\n\n13. AMENDMENTS\nNo modifications to this Agreement without written consent from both parties.\n\n14. SIGNATURES\nBy signing below, both parties agree to the terms of this Agreement.\n\nBuyer Signature: ____________________________\nPrinted Name: _______________________________\nDate: ______________________________________\n\nVendor Signature: ____________________________\nPrinted Name: _______________________________\nTitle: ______________________________________\nDate: ______________________________________",
+    "example": "VENDOR CONTRACT\n\nDate: February 10, 2026\n\nBuyer:\nName: Northside Retail Group\n\nVendor:\nName: Global Merchandise Suppliers Inc.\nBusiness License: #GMS-78392\n\nProducts:\n500 branded fleece jackets (embroidered company logo)\nColor: Navy Blue\nSizes: XS-3XL (mixed quantities as specified)\nUnit Price: $18.50\nTotal Order Value: $9,250\n\nDelivery:\nDelivery Date: April 1, 2026\nShipping: Vendor arranges and pays via FedEx Ground\nDelivery Location: Northside Distribution Center\n\nPayment:\nNet 15 days from delivery\nPayment: Bank transfer or check accepted\n\nQuality Standards:\nAll jackets must:\n- Feature quality embroidery without defects\n- Match Pantone color #533\n- Include size tags and care instructions\n- Be free of stains, tears, or manufacturing defects\n\nInspection Period:\n10 days after delivery to report defects\n\nWarranty:\n30-day warranty against manufacturing defects\nDefective jackets replaced at no cost\n\nMinimum Order:\nFuture orders require minimum 250 units\n\nBuyer Signature: Sarah Mitchell\nDate: February 10, 2026\n\nVendor Signature: Carlos Ruiz\nDate: February 10, 2026",
+    "tips": [
+      "Specify exact product descriptions, quantities, and quality standards upfront.",
+      "Define shipping responsibility (FOB terms) and delivery timeline clearly.",
+      "Include inspection periods and procedures for identifying defective goods.",
+      "Clarify warranty coverage and exclusions before signing.",
+      "Document payment terms, methods, and late payment consequences.",
+      "Include return procedures and restocking fees for non-defective products.",
+      "Set minimum order quantities if applicable."
+    ],
+    "faqs": [
+      {
+        "question": "What if products arrive damaged?",
+        "answer": "The contract should specify a return period and whether the vendor will replace or refund damaged products."
+      },
+      {
+        "question": "Who pays for return shipping if products are defective?",
+        "answer": "Vendor typically pays return shipping for defective products, but buyer pays for non-defective returns."
+      },
+      {
+        "question": "Can we negotiate payment terms?",
+        "answer": "Yes, payment terms (Net 30, Net 15, COD, etc.) should be negotiated and documented before signing."
+      },
+      {
+        "question": "What if we need to place large reorders?",
+        "answer": "Large orders may qualify for volume discounts. Reorder pricing and terms can be negotiated in advance."
+      },
+      {
+        "question": "Are we allowed to resell the vendor's products?",
+        "answer": "Yes, unless the contract specifies otherwise. Bulk purchases are typically intended for resale or commercial use."
+      }
+    ],
+    "tags": ["vendor","supplier","procurement","purchase-agreement","goods","supplies","wholesale"]
   },
   {
 "slug": "property-access-authorization-form",
@@ -434,6 +577,7 @@
 },
   {
     "slug": "professional-wedding-planner-contract-template",
+    "qualityTier": "hand-polished",
     "title": "Professional Wedding Planner Contract Template",
     "description": "A comprehensive contract for wedding planners covering services, payment, cancellation, and liability.",
     "category": { "name": "Contracts", "slug": "contracts" },
@@ -451,15 +595,44 @@
   {
     "slug": "retainer-agreement-template",
     "title": "Retainer Agreement Template",
-    "description": "Agreement for ongoing retainer-based services.",
+    "description": "Monthly retainer agreement for ongoing service work, including scope of services, hours, deliverables, and renewal terms.",
     "category": { "name": "Contracts", "slug": "contracts" },
-    "intro": "Sets scope, hours, deliverables, and renewal terms for retainer work.",
-    "whenToUse": "When engaging a provider on a recurring basis.",
-    "template": "This Agreement is between [Client] and [Provider].\n\nServices: [Scope].\nRetainer Fee: [Amount].\nTerm: [Months].\nTermination: [Clause].",
-    "example": "Monthly marketing retainer for 10 hours at $1,200 per month.",
-    "tips": ["Define unused hours policy","Set renewal notice period","Track deliverables monthly"],
-    "faqs": [{ "question": "Can retainers be paused?", "answer": "Yes, define pause and refund policy in the agreement." }],
-    "tags": ["retainer","ongoing","services"]
+    "intro": "A retainer agreement establishes ongoing service availability and support for a recurring monthly fee. This template is useful for service providers, consultants, and agencies that provide ongoing advisory services, support, or project work to clients on a recurring basis.",
+    "whenToUse": "Use this template when providing ongoing retainer-based services such as marketing, legal, accounting, IT support, design services, or strategic advisory. It is commonly used for monthly retainers with varying hour allocations or recurring deliverables.",
+    "template": "RETAINER AGREEMENT\n\nThis Retainer Agreement (\"Agreement\") is entered into on [Date] by and between:\n\nService Provider:\nName: [Provider Name or Agency]\nAddress: [Address]\nEmail: [Email]\nPhone: [Phone]\n\nand\n\nClient:\nName: [Client Name or Company]\nAddress: [Address]\nContact: [Email and Phone]\n\n1. SERVICES DESCRIPTION\nThe Service Provider agrees to provide the following ongoing services:\n\n[Describe services: marketing support, IT support, legal consulting, design services, etc.]\n\nScope of Services Includes:\n- [Service type 1 with details]\n- [Service type 2 with details]\n- [Service type 3 with details]\n- [Response time or availability commitment]\n\nScope Does NOT Include:\n[List services outside the retainer]\n\n2. RETAINER STRUCTURE\nMonthly Retainer Fee: $[Amount] per month\nBilingual Hours: [Number] hours per month\n\nServices Included in Retainer:\n[ ] [Number] hours of consulting or project work\n[ ] Access to [specific services or resources]\n[ ] [Number] meetings or check-ins per month\n[ ] Priority support and response times\n[ ] [Other included services]\n\nUnused Hours Policy:\n[ ] Unused hours roll over to the next month\n[ ] Unused hours do not carry forward\n[ ] Unused hours may be accrued for [Number] months\n[ ] Partial refund for significant unused hours\n\n3. RETAINER TERM AND RENEWAL\nInitial Term: [Number] months\nStart Date: [Date]\nRenewal Date: [Date]\n\nAutomatic Renewal:\n[ ] Agreement automatically renews for successive [Number]-month periods\n[ ] Unless either party provides written notice [Number] days before renewal date\n[ ] Renewal at same terms unless parties agree to modifications\n\nRenewal Pricing:\n[ ] Fee remains fixed during initial term\n[ ] Fee subject to [Percentage]% annual increase after first year\n[ ] Pricing reviewed and renegotiated at each renewal\n\n4. MONTHLY DELIVERABLES AND CHECK-INS\nThe Service Provider agrees to:\n\n- Provide [specific deliverable] each month\n- Schedule [Number] strategy/check-in calls per month\n- Submit monthly progress report on [date]\n- Respond to emails within [Number] business hours\n- Maintain current knowledge of Client's business and goals\n\nClient agrees to:\n\n- Provide timely feedback on deliverables\n- Schedule meetings in advance when possible\n- Communicate priorities and urgent issues promptly\n- Provide necessary information to support services\n\n5. INVOICING AND PAYMENT\nBilling Cycle: Monthly, due on the [day] of each month\n\nPayment Terms:\n- Payment due within [Number] days of invoice\n- [Payment method: ACH, check, wire, etc.]\n\nLate Payment:\n- Late fees of [Percentage]% per month on overdue amounts\n- Or fixed fee of $[Amount] after [Number] days\n\nInvoice Details:\nEach invoice will show:\n- Services provided during billing period\n- Hours used against monthly allocation (if applicable)\n- Any additional services or expenses\n- Next month's retainer amount\n\n6. ADDITIONAL SERVICES\nServices or hours beyond the retainer allocation are billed separately at:\n\n- Hourly Rate: $[Amount] per hour\n- Or Project Rate: $[Amount] per project\n\nAdditional Service Request Process:\n- Client requests additional work in writing\n- Service Provider provides estimate\n- Client approves estimate before work begins\n- Additional services invoiced separately\n\n7. COMMUNICATION AND RESPONSIVENESS\nPrimary Contact:\n- Service Provider: [Name and contact]\n- Client: [Name and contact]\n\nResponse Times:\n- Emergency issues: [Number] hours\n- Standard requests: [Number] business days\n- Routine matters: [Number] business days\n\nAvailability:\n- Service Provider available [days and hours]\n- Vacation or unavailability: [Number] days advance notice\n- Backup contact: [Name and contact] if primary unavailable\n\n8. CONFIDENTIALITY\nBoth parties agree to maintain confidentiality of:\n\n- Proprietary business information\n- Client strategies and plans\n- Financial data\n- Customer or employee information\n- Work product and deliverables\n\nConfidentiality obligations survive termination for [Number] years.\n\n9. INTELLECTUAL PROPERTY\nClient owns:\n- All work product and deliverables created specifically for Client\n- Strategic recommendations and plans\n- Customized reports and analysis\n\nService Provider retains:\n- Pre-existing methodologies, templates, and tools\n- General concepts and strategies (not specific to Client)\n- Right to reference engagement in portfolio with Client consent\n\n10. TERMINATION\nEither party may terminate this Agreement with [Number] days written notice.\n\nTermination Procedures:\n- Notice must be provided in writing\n- Final invoice due [Number] days after termination\n- Service Provider delivers all work-in-progress and materials\n- Confidentiality obligations remain in effect\n\nEarly Termination:\n[ ] No penalty for early termination\n[ ] Early termination fee of [Number] months' retainer\n[ ] Pro-rated final month's retainer\n\n11. PERFORMANCE AND ADJUSTMENTS\nMonthly Reviews:\n- Service Provider and Client review monthly progress\n- Discuss priorities for upcoming month\n- Adjust services if needed via written amendment\n\nSemi-Annual Assessment:\n- Parties review whether retainer level is appropriate\n- Discuss whether services meet expectations\n- Negotiate any changes to scope or fee\n\n12. DISPUTE RESOLUTION\nParties agree to attempt good-faith discussion to resolve disputes before pursuing other remedies.\n\n13. SIGNATURES\nBy signing below, both parties agree to the terms of this Retainer Agreement.\n\nService Provider Signature: ____________________\nPrinted Name: ________________________________\nDate: _______________________________________\n\nClient Signature: ______________________________\nPrinted Name: ________________________________\nDate: _______________________________________",
+    "example": "RETAINER AGREEMENT\n\nDate: January 5, 2026\n\nService Provider:\nName: Bright Marketing Solutions\n\nClient:\nName: Eco Wellness Brands Inc.\n\nServices:\nDigital marketing support including content strategy, social media management, email marketing, and advertising campaign oversight.\n\nRetainer Fee: $2,500 per month\nIncluded Hours: 20 hours per month of strategic and tactical work\n\nServices Included:\n- Social media content calendar and posting (3x weekly)\n- Monthly email marketing campaign creation and management\n- Campaign performance reporting and analysis\n- 2 strategy meetings per month\n- Ad campaign monitoring and optimization\n- Slack workspace for ongoing communication\n\nUnused Hours Policy:\nUnused hours roll over to the following month (max 2 months accrual).\n\nMonthly Deliverables:\n- Performance report (due 1st of month)\n- Upcoming month social content calendar\n- Email campaign creative and deployment\n\nAdditional Services:\nHours beyond 20/month: $125 per hour\nCustom design or development: Quote separately\n\nTerm:\nInitial Term: 12 months\nStart Date: February 1, 2026\nAutomatic Renewal: 12-month periods unless 30 days notice given\n\nPayment:\nDue on the 5th of each month via ACH transfer\nLate Fee: 1.5% per month on overdue amounts\n\nTermination:\nEither party may terminate with 30 days written notice\nNo early termination penalty\n\nService Provider Signature: Jennifer Lee\nDate: January 5, 2026\n\nClient Signature: Michael Patel\nDate: January 5, 2026",
+    "tips": [
+      "Clearly define the number of hours or deliverables included in the monthly retainer.",
+      "Specify what happens to unused hours (rollover, expiration, refund).",
+      "Include response time expectations and availability commitments.",
+      "Schedule regular monthly check-ins to assess performance and priorities.",
+      "Define pricing for additional services or hours beyond the retainer.",
+      "Include automatic renewal terms and termination notice requirements.",
+      "Document response times and communication expectations upfront."
+    ],
+    "faqs": [
+      {
+        "question": "What if we don't use all the retainer hours in a month?",
+        "answer": "The agreement should specify whether unused hours roll over, expire, or can be refunded."
+      },
+      {
+        "question": "Can we cancel the retainer at any time?",
+        "answer": "Most retainers allow termination with notice (typically 30 days), though some charge early termination fees."
+      },
+      {
+        "question": "How are additional services charged if we exceed the retainer hours?",
+        "answer": "The agreement should define hourly rates or project rates for work beyond the included retainer allocation."
+      },
+      {
+        "question": "Does the retainer fee increase annually?",
+        "answer": "Some retainers include annual increases, while others keep fees fixed. This should be documented upfront."
+      },
+      {
+        "question": "How often should we review the retainer arrangement?",
+        "answer": "Regular monthly check-ins help track progress, and semi-annual or annual reviews allow for scope adjustments."
+      }
+    ],
+    "tags": ["retainer","ongoing","services","monthly","subscription","consulting"]
   },
   {
 "slug": "proxy-voting-authorization-form",
@@ -514,57 +687,121 @@
   {
     "slug": "contractor-agreement-template",
     "title": "Contractor Agreement Template",
-    "description": "Standard agreement for independent contractors.",
+    "description": "A contractor agreement template for independent contractors, consultants, freelancers, and small service firms with clear deliverables, payment, and ownership terms.",
     "category": { "name": "Contracts", "slug": "contracts" },
-    "intro": "Covers contractor responsibilities, payment, and IP handling.",
-    "whenToUse": "For longer-term or repeat contractor engagements.",
-    "template": "This Agreement is between [Company] and [Contractor].\n\nServices: [Tasks].\nPayment: [Rates].\nIP: [Ownership].\nTermination: [Notice].",
-    "example": "6-month development contract with milestone payments and IP assignment on completion.",
-    "tips": ["Include tax/responsibility clauses","Define notice periods","Clarify deliverable ownership"],
-    "faqs": [{ "question": "Is a contractor an employee?", "answer": "Define independent contractor relationship and tax responsibilities." }],
-    "tags": ["contractor","agreement","services"]
+    "intro": "Use this template to formalize work arrangements between a business and an independent contractor, including scope, payment schedule, intellectual property, and termination terms.",
+    "whenToUse": "Use when engaging a contractor for a fixed project, ongoing retainer, or variable services where written expectations are needed.",
+    "template": "CONTRACTOR AGREEMENT\n\nThis Contractor Agreement (\"Agreement\") is entered into on [Date] by and between:\n\nCompany:\nName: [Company Name]\nAddress: [Company Address]\nContact: [Email / Phone]\n\nand\n\nContractor:\nName: [Contractor Name]\nAddress: [Contractor Address]\nContact: [Email / Phone]\n\n1. SERVICES\nThe Contractor agrees to provide the following services:\n\n- [Detailed description of services]\n- [Deliverables and milestones]\n- [Any specified project phases]\n\n2. TIMELINE\nStart Date: [Date]\nCompletion Date: [Date] or ongoing until terminated by either party.\nMilestones: [List key milestone dates or deliverables].\n\n3. FEES AND PAYMENT\nPayment Type:\n[ ] Fixed fee: $[Amount]\n[ ] Hourly rate: $[Amount] per hour\n[ ] Retainer: $[Amount] per month\n\nPayment Schedule:\n- Deposit: $[Amount] due on signing\n- Interim payment: $[Amount or Percentage] due on [Milestone/Date]\n- Final payment: $[Amount] due upon delivery of final deliverables\n\nInvoices are due within [Number] days of receipt. Late payments may incur [Percentage]% interest.\n\n4. EXPENSES\nThe Company agrees to reimburse Contractor for pre-approved expenses, including:\n\n- Travel and lodging\n- Materials and subscriptions\n- Third-party services\n\nExpenses require receipts and prior approval for amounts above $[Amount].\n\n5. INTELLECTUAL PROPERTY\nContractor agrees that all work product and deliverables created under this Agreement are the exclusive property of the Company, except for Contractor's pre-existing intellectual property.\n\nThe Company receives a perpetual, worldwide license to use the deliverables for the intended business purpose.\n\n6. INDEPENDENT CONTRACTOR STATUS\nContractor is an independent contractor, not an employee. Contractor is responsible for taxes, insurance, benefits, and compliance with applicable laws.\n\n7. CONFIDENTIALITY\nContractor will keep confidential all non-public business information, trade secrets, and proprietary materials shared by the Company during the engagement.\n\n8. TERMINATION\nEither party may terminate this Agreement with [Number] days written notice. The Company will pay for work completed through the termination date.\n\n9. WARRANTIES AND LIABILITY\nContractor warrants that services will be performed in a professional, workmanlike manner.\n\nContractor's liability is limited to the amount paid under this Agreement, except for gross negligence or willful misconduct.\n\n10. DISPUTE RESOLUTION\nParties agree to attempt good-faith negotiation or mediation before pursuing litigation.\n\n11. MISCELLANEOUS\nThis Agreement constitutes the entire understanding between the parties. Amendments must be in writing and signed by both parties.\n\nSignatures:\n\nCompany Representative: __________________________\nPrinted Name: _________________________________\nDate: ________________________________________\n\nContractor: _________________________________\nPrinted Name: _________________________________\nDate: ________________________________________",
+    "example": "CONTRACTOR AGREEMENT\n\nDate: April 4, 2026\n\nCompany: BrightWave Digital LLC\nContractor: Sarah Kim\n\nServices: UX design, website copy, and conversion optimization for the launch of a new product page.\n\nPayment: $9,500 fixed fee, 30% deposit, 40% at design delivery, final 30% on launch.\n\nDeliverables: homepage redesign, product landing page, two rounds of revisions, final delivery by May 20, 2026.",
+    "tips": [
+      "Define the scope clearly to avoid scope creep.",
+      "State whether the contractor keeps ownership of pre-existing IP.",
+      "Include payment schedule milestones and late payment terms.",
+      "Clarify termination notice periods and post-termination obligations.",
+      "Confirm whether the contractor can subcontract parts of the work."
+    ],
+    "faqs": [
+      {
+        "question": "Is a contractor an employee?",
+        "answer": "No. A contractor is an independent business entity responsible for taxes, insurance, and their own equipment unless otherwise agreed."
+      },
+      {
+        "question": "What should the agreement cover?",
+        "answer": "Cover scope, payment, timelines, ownership, confidentiality, and termination terms."
+      }
+    ],
+    "tags": ["contractor","agreement","freelance","consultant","services"]
   },
   {
     "slug": "partnership-agreement-template",
     "title": "Partnership Agreement Template",
-    "description": "A simple partnership agreement for business partners.",
+    "description": "A partnership agreement template for business partners that sets ownership stakes, decision rights, profit split, and exit rules in writing.",
     "category": { "name": "Contracts", "slug": "contracts" },
-    "intro": "Defines roles, profits, decision-making, and exit terms.",
-    "whenToUse": "When forming a partnership between two or more parties.",
-    "template": "This Agreement is between [Partner A] and [Partner B].\n\nContributions: [Capital/time].\nProfit Share: [Split].\nDecisions: [Voting].\nExit: [Terms].",
-    "example": "Two partners contributing capital and splitting profits 50/50 with defined buyout terms.",
-    "tips": ["Put percentages in writing","Plan for buyouts","Address dispute resolution"],
-    "faqs": [{ "question": "Should we register a partnership?", "answer": "Check local laws — many partnerships benefit from formal registration and legal advice." }],
-    "tags": ["partnership","business","agreement"]
+    "intro": "Use this template to document the terms of a business partnership, including what each partner contributes, how profits are shared, how decisions are made, and how a partner can leave the business.",
+    "whenToUse": "Use when forming a new partnership or updating an existing partnership to ensure expectations are clear and disputes are easier to resolve.",
+    "template": "PARTNERSHIP AGREEMENT\n\nThis Partnership Agreement (\"Agreement\") is entered into on [Date] by and between the following partners:\n\nPartner A:\nName: [Partner A Name]\nContribution: [Capital / services / assets]\nOwnership Share: [Percentage]\n\nPartner B:\nName: [Partner B Name]\nContribution: [Capital / services / assets]\nOwnership Share: [Percentage]\n\n1. BUSINESS PURPOSE\nThe partners agree to operate the business of [Business Description] under the name [Partnership Name].\n\n2. CAPITAL CONTRIBUTIONS\nEach partner will contribute the following to the partnership:\n- Partner A: [Cash / equipment / intellectual property / services]\n- Partner B: [Cash / equipment / intellectual property / services]\n\n3. PROFITS AND LOSSES\nProfits and losses will be allocated as follows:\n- Partner A: [Percentage]\n- Partner B: [Percentage]\n\nDistributions will be made [monthly / quarterly / annually] after accounting for business expenses and reserves.\n\n4. MANAGEMENT AND DECISION-MAKING\nPartner responsibilities and decision authority include:\n- Partner A: [Role and duties]\n- Partner B: [Role and duties]\n\nMajor decisions require [unanimous / majority] approval, including:\n- Adding new partners\n- Borrowing money or entering into loans\n- Selling major assets\n- Changing business purpose\n\n5. PARTNER WITHDRAWAL AND BUYOUT\nIf a partner chooses to leave, the remaining partner(s) may buy the departing partner's interest under these terms:\n- Valuation method: [Book value / agreed formula / independent appraisal]\n- Payment schedule: [Lump sum / installment plan]\n- Notice period: [Number] days\n\n6. DISPUTE RESOLUTION\nThe partners agree to resolve disputes through good-faith negotiation, mediation, or arbitration before seeking court action.\n\n7. TERM AND TERMINATION\nThis Agreement continues until terminated by the partners or by law. Upon termination, partnership assets will be distributed after paying debts and obligations.\n\n8. CONFIDENTIALITY\nPartners agree to keep business information, customer data, and financial details confidential.\n\n9. MISCELLANEOUS\nThis Agreement contains the entire understanding between the partners. Amendments must be in writing and signed by all partners.\n\nSignatures:\n\nPartner A: __________________________\nPrinted Name: _____________________\nDate: _____________________________\n\nPartner B: __________________________\nPrinted Name: _____________________\nDate: _____________________________",
+    "example": "PARTNERSHIP AGREEMENT\n\nDate: May 10, 2026\n\nPartner A: Jordan Smith (51% ownership, marketing and operations)\nPartner B: Priya Patel (49% ownership, sales and customer success)\n\nContributions: $60,000 cash from Partner A and client relationships from Partner B.\n\nProfit Split: 51% to Partner A, 49% to Partner B.\n\nMajor decisions require unanimous partner approval. Buyout terms use book value plus a 10% premium.\n",
+    "tips": [
+      "Put ownership percentages and profit splits in writing.",
+      "Define partner roles and decision-making authority.",
+      "Agree on a clear buyout process for partner exit events.",
+      "Keep financial and customer information confidential.",
+      "Use mediation or arbitration to resolve partnership disputes."
+    ],
+    "faqs": [
+      {
+        "question": "Should we register a partnership?",
+        "answer": "Check local laws — many partnerships benefit from formal registration, tax registration, and legal advice."
+      },
+      {
+        "question": "How are profits shared?",
+        "answer": "Profits should be shared according to the ownership percentage or another agreed formula specified in the agreement."
+      }
+    ],
+    "tags": ["partnership","business","agreement","ownership","profit-sharing"]
   },
   {
     "slug": "non-compete-addendum",
     "title": "Non-Compete Addendum",
-    "description": "A short addendum restricting competition for a defined period and geography.",
+    "description": "A practical non-compete addendum that sets a reasonable restricted activity period, geographic limit, and scope for former employees or contractors.",
     "category": { "name": "Contracts", "slug": "contracts" },
-    "intro": "Attach to employment or contractor agreements to limit competitive activity.",
-    "whenToUse": "When protecting business interests and client relationships.",
-    "template": "This Addendum prohibits [Party] from engaging in [Competitive activity] within [Geography] for [Period] after termination.",
-    "example": "No solicitation of clients within 50 miles for 12 months post-termination.",
-    "tips": ["Keep restrictions reasonable","Consult legal counsel","Define geographic scope"],
-    "faqs": [{ "question": "Are non-competes enforceable?", "answer": "Enforceability varies by jurisdiction — seek legal advice." }],
-    "tags": ["non-compete","employment","addendum"]
+    "intro": "This addendum attaches to an employment or services agreement to protect business relationships, confidential information, and client goodwill by limiting competitive activity after the engagement ends.",
+    "whenToUse": "Use when an employee, consultant, or contractor will have access to confidential information or client contacts and the business needs a written restriction on post-termination competition.",
+    "template": "NON-COMPETE ADDENDUM\n\nThis Non-Compete Addendum (\"Addendum\") is made on [Date] and is attached to the Agreement dated [Original Agreement Date] between [Company Name] and [Party Name].\n\n1. RESTRICTED ACTIVITIES\nThe Party agrees not to engage in or provide services for any business that competes with the Company in the field of [Describe industry or services] during the restricted period.\n\n2. GEOGRAPHIC SCOPE\nThis restriction applies within the following geographic area:\n[Specify city, county, state, region, or radius].\n\n3. RESTRICTED PERIOD\nThe non-compete period begins on the termination date of the Agreement and continues for [Number] months.\n\n4. CLIENT AND CUSTOMER NON-SOLICITATION\nThe Party also agrees not to solicit or accept work from the Company's clients or customers identified during the engagement, including: [List client types or categories].\n\n5. CONFIDENTIAL INFORMATION\nThe Party must continue to protect confidential information in accordance with the original Agreement and may not use it to compete with the Company.\n\n6. ENFORCEABILITY\nIf any provision of this Addendum is found unenforceable, the remaining provisions remain in effect to the greatest extent permitted by law.\n\n7. GOVERNING LAW\nThis Addendum is governed by the laws of [State/Country].\n\nSignatures:\n\nCompany Representative: __________________________\nPrinted Name: _________________________________\nDate: ________________________________________\n\nParty Name: _________________________________\nPrinted Name: _________________________________\nDate: ________________________________________",
+    "example": "NON-COMPETE ADDENDUM\n\nDate: May 20, 2026\n\nAttached to: Consulting Agreement dated March 1, 2026\n\nRestricted Activity: Consulting with direct competitors of the Company in digital marketing services.\n\nGeographic Scope: Within 50 miles of the Company's headquarters.\n\nRestricted Period: 12 months after termination.\n\nClient Non-Solicitation: No approach or service for clients introduced during the engagement.\n",
+    "tips": [
+      "Keep time and geographic restrictions reasonable for enforceability.",
+      "Describe the restricted activities clearly without being overly broad.",
+      "Align the addendum with the original engagement agreement.",
+      "Consider asking legal counsel to review the final language."
+    ],
+    "faqs": [
+      {
+        "question": "Are non-competes enforceable?",
+        "answer": "Enforceability varies by jurisdiction — seek legal advice and keep restrictions reasonable."
+      },
+      {
+        "question": "How long can a non-compete last?",
+        "answer": "A reasonable period is typically 6 to 12 months, depending on the role and local law."
+      }
+    ],
+    "tags": ["non-compete","employment","addendum","restrictions"]
   },
   {
     "slug": "house-cleaner-contract",
     "title": "House Cleaner Contract",
-    "description": "A simple agreement for residential cleaning services.",
+    "description": "A residential cleaning services contract that defines the scope of work, schedule, supplies, payment, and cancellation terms.",
     "category": { "name": "Contracts", "slug": "contracts" },
-    "intro": "Covers frequency, scope, supplies, and payment for cleaning work.",
-    "whenToUse": "When hiring a cleaner for recurring or one-off services.",
-    "template": "Service: [Cleaning tasks].\nSchedule: [Dates].\nPayment: [Rate].\nSupplies: [Who provides].",
-    "example": "Weekly cleaning every Monday at $80 per visit; client supplies cleaning products.",
-    "tips": ["List rooms included","Define cancellation policy","Confirm access arrangements"],
-    "faqs": [{ "question": "Should cleaners be insured?", "answer": "Yes, ask for proof of insurance if doing valuable or risky tasks." }],
-    "tags": ["home","cleaning","service"]
+    "intro": "Use this template to set clear expectations for recurring or one-time home cleaning services, including what areas are cleaned, who provides supplies, and how changes are handled.",
+    "whenToUse": "When hiring a house cleaner, maid service, or residential cleaning professional for a one-off visit or regular cleaning schedule.",
+    "template": "HOUSE CLEANER CONTRACT\n\nThis House Cleaner Contract (\"Agreement\") is entered into on [Date] by and between:\n\nClient:\nName: [Client Name]\nAddress: [Service Address]\nPhone: [Phone]\nEmail: [Email]\n\nCleaner:\nName: [Cleaner Name or Company]\nAddress: [Address]\nPhone: [Phone]\nEmail: [Email]\n\n1. SCOPE OF SERVICES\nThe Cleaner agrees to perform the following tasks:\n\n- [List rooms and areas to be cleaned]\n- [Dusting, vacuuming, mopping, trash removal, bathroom cleaning, kitchen cleaning]\n- [Optional deep clean tasks such as appliances, windows, or upholstery]\n\n2. SERVICE SCHEDULE\nService Date(s): [Date(s)]\nService Time: [Start Time] to [End Time]\nFrequency: [One-time / Weekly / Bi-weekly / Monthly]\n\n3. SUPPLIES AND EQUIPMENT\nSupplies Provided By:\n[ ] Cleaner provides cleaning supplies and equipment\n[ ] Client provides cleaning supplies and equipment\n[ ] Client provides specific supplies: [List items]\n\n4. PAYMENT TERMS\nTotal Fee: $[Amount]\n\nPayment Terms:\n[ ] Payment due upon completion\n[ ] Payment due within [Number] days of invoice\n[ ] Deposit of $[Amount] required to reserve service\n\nAdditional Charges:\n- Extra time beyond scheduled service: $[Amount] per hour\n- Special cleaning requests: $[Amount] per service\n- Supplies purchased by Cleaner: [Cost reimbursement terms]\n\n5. CANCELLATION AND RESCHEDULING\nClient Cancellation:\n- More than [Number] days notice: Full refund of deposit\n- Within [Number] days: [Refund / non-refundable deposit / partial fee]\n- Same day: [No refund / cancellation fee]\n\nCleaner Cancellation:\nIf the Cleaner must cancel, the Client may reschedule at no additional charge or receive a refund of any deposit.\n\n6. ACCESS AND SAFETY\nThe Client agrees to provide access to the property and disclose any hazards or pets in advance.\n\n7. LIABILITY\nThe Cleaner will exercise reasonable care, but is not responsible for pre-existing damage, fragile items, or damage caused by improper storage.\n\n8. CONFIDENTIALITY\nThe Cleaner agrees to respect the Client's privacy and not disclose sensitive information observed during the service.\n\n9. SIGNATURES\nBy signing below, both parties agree to the terms of this Agreement.\n\nClient Signature: __________________________\nPrinted Name: _____________________________\nDate: ____________________________________\n\nCleaner Signature: _________________________\nPrinted Name: _____________________________\nDate: ____________________________________",
+    "example": "HOUSE CLEANER CONTRACT\n\nDate: June 1, 2026\n\nClient: Emma Green\nAddress: 320 Willow Lane\n\nCleaner: Sparkle Home Services\n\nScope: Kitchen, living room, bathrooms, bedrooms, and hallway.\n\nSchedule: Weekly service on Mondays, 9:00 AM to 12:00 PM.\n\nPayment: $120 per visit, payable upon completion.\n\nSupplies: Client provides cleaning products and vacuum.\n\nCancellation: 48 hours notice required for full refund.\n\nClient Signature: Emma Green\nDate: June 1, 2026\n\nCleaner Signature: Maya Lopez\nDate: June 1, 2026",
+    "tips": [
+      "List the rooms and tasks included in the cleaning service.",
+      "Clarify who supplies cleaning products and equipment.",
+      "Set a cancellation policy for both client and cleaner.",
+      "Document how extra time or special cleaning requests are billed.",
+      "Confirm access instructions and any pet or safety considerations."
+    ],
+    "faqs": [
+      {
+        "question": "Should the cleaner bring their own supplies?",
+        "answer": "It depends on the agreement. Include a clause specifying whether the cleaner or client provides supplies."
+      },
+      {
+        "question": "What if I need to cancel at the last minute?",
+        "answer": "A cancellation policy with notice deadlines helps protect both parties from lost time and last-minute schedule changes."
+      },
+      {
+        "question": "Can I ask for deep cleaning tasks?",
+        "answer": "Yes. List any deep cleaning or specialty tasks separately and agree on additional fees if needed."
+      }
+    ],
+    "tags": ["cleaning","house-cleaning","service-agreement","home-services","residential"]
   },
   {
 "slug": "right-of-first-refusal-agreement-template",
+"qualityTier": "hand-polished",
 "title": "Right of First Refusal Agreement Template",
 "description": "Free right of first refusal agreement template for property, business, or asset sale arrangements. Copy, customize, and download instantly.",
 "category": {
@@ -717,6 +954,7 @@
   },
   {
 "slug": "horse-boarding-contract-template",
+"qualityTier": "hand-polished",
 "title": "Horse Boarding Contract Template",
 "description": "Free horse boarding contract template for boarding services, payment terms, veterinary care, and stable responsibilities. Copy, customize, and download instantly.",
 "category": {
@@ -780,6 +1018,7 @@
   },
   {
 "slug": "car-rental-agreement-template",
+"qualityTier": "hand-polished",
 "title": "Car Rental Agreement Template",
 "description": "Free car rental agreement template for vehicle rentals, mileage terms, driver requirements, and rental responsibilities. Copy, customize, and download instantly.",
 "category": {
@@ -856,6 +1095,7 @@
   },
   {
 "slug": "relationship-separation-agreement-template",
+"qualityTier": "hand-polished",
 "title": "Relationship Separation Agreement Template",
 "description": "Free relationship separation agreement template for outlining communication boundaries, shared property arrangements, and mutual expectations after a breakup. Copy, customize, and download instantly.",
 "category": {
@@ -906,6 +1146,7 @@
 },
   {
 "slug": "waiver-of-right-of-inheritance-template",
+"qualityTier": "hand-polished",
 "title": "Waiver of Right of Inheritance Template",
 "description": "Free waiver of right of inheritance template for heirs voluntarily relinquishing inheritance claims or estate rights. Copy, customize, and download instantly.",
 "category": {
@@ -969,6 +1210,7 @@
   },
   {
 "slug": "adult-child-living-agreement-template",
+"qualityTier": "hand-polished",
 "title": "Adult Child Living Agreement Template",
 "description": "Free adult child living agreement template for setting household expectations, rent contributions, chores, and privacy boundaries when moving back home. Copy, customize, and download instantly.",
 "category": {
@@ -1058,6 +1300,7 @@
   },
   {
 "slug": "land-sale-contract-template",
+"qualityTier": "hand-polished",
 "title": "Land Sale Contract Template",
 "description": "Free land sale contract template for property transactions, installment payments, financing terms, and land ownership transfers. Copy, customize, and download instantly.",
 "category": {
@@ -1108,6 +1351,7 @@
 },
   {
 "slug": "shared-fence-agreement-template",
+"qualityTier": "hand-polished",
 "title": "Shared Fence Agreement Template",
 "description": "Free shared fence agreement template for neighbors managing fence installation, repairs, maintenance, and cost sharing. Copy, customize, and download instantly.",
 "category": {
@@ -1158,6 +1402,7 @@
 },
 {
 "slug": "kids-chore-agreement-template",
+"qualityTier": "hand-polished",
 "title": "Kids Chore Agreement Template",
 "description": "Free kids chore agreement template for setting household responsibilities, allowances, rewards, and expectations. Copy, customize, and download instantly.",
 "category": {

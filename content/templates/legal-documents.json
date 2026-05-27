@@ -1,32 +1,55 @@
 [
   {
-    "slug": "nda-template",
-    "title": "NDA Template",
-    "description": "Free non-disclosure agreement template for protecting confidential information.",
-    "category": {
-      "name": "Legal Documents",
-      "slug": "legal-documents"
-    },
-    "intro": "This NDA template helps businesses and freelancers protect confidential business information.",
-    "whenToUse": "Use before sharing sensitive business or project information.",
-    "template": "This NDA is made between [Party A] and [Party B].\n\nBoth parties agree not to disclose confidential information.\n\nDuration: [Time Period]",
-    "example": "This NDA is made between Startup X and Contractor Y.\n\nDuration: 2 years",
-    "faqs": [
-      {
-        "question": "What is an NDA?",
-        "answer": "An NDA is a legal agreement used to protect confidential information."
-      },
-      {
-        "question": "Who uses NDAs?",
-        "answer": "Businesses, startups, freelancers, and employees commonly use NDAs."
-      }
-    ],
-    "tags": [
-      "nda",
-      "confidentiality",
-      "legal"
-    ]
-  },
+"slug": "non-disclosure-agreement-template",
+"qualityTier": "hand-polished",
+"title": "Professional Non-Disclosure Agreement Template",
+"description": "Free professional non-disclosure agreement template for protecting confidential business information, trade secrets, intellectual property, and sensitive data. Copy, customize, and download instantly.",
+"category": {
+"name": "Legal",
+"slug": "legal"
+},
+"intro": "A non-disclosure agreement (NDA) helps businesses, founders, freelancers, consultants, and collaborators protect confidential information shared during business discussions, projects, negotiations, or partnerships. This professionally structured NDA template is designed to clearly define protected information, permitted use, confidentiality obligations, exclusions, legal remedies, and return or destruction requirements while remaining practical and readable.  ",
+"whenToUse": "Use this template before sharing confidential business information, trade secrets, financial data, product ideas, software, marketing plans, client lists, or proprietary processes with another party. It is commonly used for startup discussions, freelance projects, investor meetings, vendor negotiations, employment relationships, consulting arrangements, and strategic partnerships.",
+"template": "NON-DISCLOSURE AGREEMENT (NDA)\n\nThis Non-Disclosure Agreement (“Agreement”) is entered into on [Effective Date] by and between:\n\nDisclosing Party:\nName: [Full Legal Name or Company Name]\nEntity Type: [Corporation, LLC, Individual, etc.]\nAddress: [Address]\nEmail: [Email]\n\nand\n\nReceiving Party:\nName: [Full Legal Name or Company Name]\nEntity Type: [Corporation, LLC, Individual, etc.]\nAddress: [Address]\nEmail: [Email]\n\nThe parties agree as follows:\n\n1. PURPOSE\nThe parties wish to discuss or evaluate:\n\n[Describe business relationship, partnership, investment opportunity, project, employment relationship, acquisition, consulting arrangement, or other purpose]\n\nThe Receiving Party may access certain confidential or proprietary information solely for the following permitted purpose (“Permitted Use”):\n\n[Describe permitted use]\n\n2. TYPE OF AGREEMENT\nThis Agreement shall operate as:\n\n[ ] Unilateral NDA (one party discloses confidential information)\n[ ] Mutual NDA (both parties may disclose confidential information)\n\n3. DEFINITION OF CONFIDENTIAL INFORMATION\nFor purposes of this Agreement, “Confidential Information” means all non-public, proprietary, confidential, technical, commercial, financial, or business information disclosed by the Disclosing Party, whether disclosed orally, visually, electronically, digitally, or in writing.\n\nConfidential Information may include, but is not limited to:\n\n- Trade secrets\n- Software, source code, algorithms, and databases\n- Business plans and financial information\n- Marketing strategies and customer lists\n- Product designs, prototypes, and specifications\n- Research and development materials\n- Vendor, supplier, or pricing information\n- Intellectual property and know-how\n- Internal reports, forecasts, and analytics\n- Proprietary workflows or operational processes\n\nConfidential Information also includes information that a reasonable person would understand to be confidential based on the nature of the information and circumstances of disclosure, even if not specifically labeled confidential.  \n\n4. EXCLUSIONS FROM CONFIDENTIAL INFORMATION\nConfidential Information shall not include information that:\n\n- Is or becomes publicly available through no fault of the Receiving Party\n- Was lawfully known by the Receiving Party before disclosure\n- Is independently developed without use of the Confidential Information\n- Is lawfully received from a third party without confidentiality restrictions\n- Must be disclosed pursuant to law, court order, or governmental request\n\nIf disclosure is legally required, the Receiving Party shall provide prompt notice to the Disclosing Party when legally permitted to do so.  \n\n5. OBLIGATIONS OF THE RECEIVING PARTY\nThe Receiving Party agrees to:\n\n- Use Confidential Information only for the Permitted Use\n- Maintain reasonable safeguards to protect Confidential Information\n- Limit disclosure to employees, contractors, advisors, or representatives with a legitimate need to know\n- Ensure that authorized recipients are bound by confidentiality obligations\n- Not reproduce, distribute, reverse engineer, exploit, or misuse the Confidential Information outside the Permitted Use\n- Promptly notify the Disclosing Party of unauthorized access, disclosure, or misuse\n\nThe Receiving Party shall exercise at least reasonable care in protecting Confidential Information. \n\n6. NO LICENSE OR TRANSFER OF RIGHTS\nNothing in this Agreement grants the Receiving Party ownership, license rights, intellectual property rights, or other interests in the Confidential Information except for the limited right to use the information for the Permitted Use.\n\n7. RETURN OR DESTRUCTION OF CONFIDENTIAL INFORMATION\nUpon written request by the Disclosing Party or termination of the relationship between the parties, the Receiving Party shall promptly:\n\n- Return all Confidential Information\n- Permanently destroy electronic or physical copies\n- Cease all use of the Confidential Information\n\nIf requested, the Receiving Party shall provide written certification confirming compliance with this section. \n\n8. TERM OF AGREEMENT\nThis Agreement shall begin on the Effective Date and continue until:\n\n[End Date or Event]\n\nConfidentiality obligations shall survive:\n\n[Number] years after termination of this Agreement.\n\nTrade secrets and information protected by applicable trade secret laws shall remain protected for so long as they qualify as trade secrets under applicable law. \n\n9. REMEDIES FOR BREACH\nThe parties acknowledge that unauthorized disclosure or misuse of Confidential Information may cause irreparable harm.\n\nThe Disclosing Party may seek:\n\n- Injunctive relief\n- Specific performance\n- Monetary damages\n- Legal fees and costs where permitted by law\n- Any other remedies available under applicable law\n\n10. NO WARRANTY\nAll Confidential Information is provided “as is” without warranties regarding completeness, accuracy, or fitness for a particular purpose.\n\n11. GOVERNING LAW AND VENUE\nThis Agreement shall be governed by the laws of:\n\n[State/Country]\n\nAny disputes arising under this Agreement shall be resolved in:\n\n[County, State, Country or Court Jurisdiction]\n\n12. ASSIGNMENT\nNeither party may assign this Agreement without prior written consent, except in connection with a merger, acquisition, or sale of substantially all business assets.\n\n13. ENTIRE AGREEMENT\nThis Agreement represents the complete understanding between the parties regarding confidentiality and supersedes prior discussions or agreements relating to the subject matter herein.\n\n14. SEVERABILITY\nIf any provision of this Agreement is found unenforceable, the remaining provisions shall remain in full force and effect.\n\n15. WAIVER\nFailure to enforce any provision of this Agreement shall not constitute a waiver of future enforcement rights.\n\n16. SIGNATURES\nBy signing below, the parties acknowledge and agree to the terms of this Agreement.\n\nDISCLOSING PARTY\n\nSignature: ________________________________\nPrinted Name: _____________________________\nTitle: ____________________________________\nDate: ____________________________________\n\nRECEIVING PARTY\n\nSignature: ________________________________\nPrinted Name: _____________________________\nTitle: ____________________________________\nDate: ____________________________________",
+"example": "NON-DISCLOSURE AGREEMENT (NDA)\n\nEffective Date: February 10, 2027\n\nDisclosing Party:\nName: Nova Analytics Inc.\nEntity Type: Delaware Corporation\nAddress: 450 Mission Street, San Francisco, CA 94105\n\nReceiving Party:\nName: Atlas Venture Partners LLC\nEntity Type: Limited Liability Company\nAddress: 1200 Market Avenue, New York, NY 10001\n\nPurpose:\nEvaluation of a potential investment and strategic partnership.\n\nPermitted Use:\nReviewing financial projections, proprietary software demonstrations, customer metrics, and technical documentation solely for evaluating a business relationship.\n\nType of Agreement:\nMutual NDA.\n\nConfidential Information Includes:\n- Source code and software architecture\n- Customer acquisition metrics\n- Financial forecasts\n- Product roadmaps\n- Proprietary machine learning models\n\nConfidentiality Duration:\n5 years following termination of the Agreement.\n\nGoverning Law:\nState of Delaware.\n\nDisclosing Party Signature: Sarah Kim\nTitle: CEO\nDate: February 10, 2027\n\nReceiving Party Signature: Michael Turner\nTitle: Managing Partner\nDate: February 10, 2027",
+"tips": [
+"Define confidential information as specifically as possible.",
+"Limit disclosure strictly to the stated permitted purpose.",
+"Include clear return or destruction requirements for sensitive materials.",
+"Protect trade secrets separately from ordinary confidential information.",
+"Never share sensitive information before the NDA is signed."
+],
+"faqs": [
+{
+"question": "What is a non-disclosure agreement?",
+"answer": "A non-disclosure agreement is a legal contract requiring parties to keep certain information confidential and restricting how it may be used."
+},
+{
+"question": "What is the difference between a unilateral and mutual NDA?",
+"answer": "A unilateral NDA protects information disclosed by one party, while a mutual NDA protects confidential information exchanged by both parties."
+},
+{
+"question": "How long should confidentiality obligations last?",
+"answer": "Many NDAs use confidentiality periods between 1 and 5 years, while trade secrets may remain protected indefinitely."
+},
+{
+"question": "Should public information be excluded from confidentiality obligations?",
+"answer": "Yes, NDAs commonly exclude information that is already public, independently developed, or legally required to be disclosed."
+},
+{
+"question": "What happens if someone breaches an NDA?",
+"answer": "A breach may allow the non-breaching party to seek injunctions, damages, legal costs, or other remedies available under applicable law."
+}
+],
+"tags": [
+"nda",
+"non-disclosure-agreement",
+"confidentiality",
+"trade-secrets",
+"intellectual-property",
+"legal"
+]
+},
   {
     "slug": "employment-verification-letter",
     "title": "Employment Verification Letter Template",
@@ -489,6 +512,7 @@
   },
   {
     "slug": "roommate agreement-template",
+    "qualityTier": "hand-polished",
     "title": "Roommate Agreement Template",
     "description": "A roommate agreement template for shared living arrangements.",
     "category": {
@@ -887,44 +911,56 @@
     ]
   },
   {
-    "slug": "cease-and-desist-letter",
-    "title": "Cease And Desist Letter Template",
-    "description": "Free cease and desist letter template for legal documentation.",
-    "category": {
-      "name": "Legal Documents",
-      "slug": "legal-documents"
-    },
-    "intro": "This cease and desist letter template provides a framework for creating professional legal documents.",
-    "whenToUse": "Use this template when you need to create formal legal documentation.",
-    "template": "[Legal Template Structure]\n\n[Key Provisions]\n\n[Signatures and Dates]",
-    "example": "[Example usage with realistic details]",
-    "tips": [
-      "Consult with legal counsel for important documents",
-      "Customize for your specific jurisdiction and situation",
-      "Keep signed copies for legal records",
-      "Ensure all parties understand the document",
-      "Notarize if required by your jurisdiction"
-    ],
-    "faqs": [
-      {
-        "question": "Do I need a lawyer to use this template?",
-        "answer": "For simple documents, templates work; for complex legal matters, consult an attorney."
-      },
-      {
-        "question": "Is this template valid in all states?",
-        "answer": "Verify local and state requirements; laws vary by jurisdiction."
-      },
-      {
-        "question": "Can I modify the template?",
-        "answer": "Yes, but ensure modifications comply with legal requirements in your area."
-      }
-    ],
-    "tags": [
-      "legal",
-      "document",
-      "template"
-    ]
-  },
+"slug": "cease-and-desist-letter-template",
+"qualityTier": "hand-polished",
+"title": "Cease and Desist Letter Template",
+"description": "Free cease and desist letter template for harassment, copyright infringement, defamation, contract violations, and unauthorized conduct. Copy, customize, and download instantly.",
+"category": {
+"name": "Legal",
+"slug": "legal"
+},
+"intro": "A cease and desist letter is a formal written notice demanding that an individual or organization immediately stop conduct that allegedly violates legal rights, contractual obligations, or personal protections. This template is useful for addressing intellectual property disputes, harassment, defamation, contract violations, unauthorized use of materials, and other harmful or unlawful behavior before escalating to legal action.",
+"whenToUse": "Use this template when requesting that a person or business stop specific conduct such as copyright infringement, unauthorized use of content, harassment, defamation, breach of contract, or misuse of confidential information. It is commonly used as an initial formal step before pursuing legal remedies.",
+"template": "CEASE AND DESIST LETTER\n\nDate: [Date]\n\nFrom:\n[Sender Full Name or Company Name]\n[Address]\n[City, State, ZIP]\n[Phone Number]\n[Email Address]\n\nTo:\n[Recipient Full Name or Company Name]\n[Address]\n[City, State, ZIP]\n\nSubject: Notice to Cease and Desist – [Describe Matter]\n\nDear [Recipient Name],\n\nThis letter serves as a formal demand that you immediately cease and desist from the following conduct:\n\n[Describe the specific actions, behavior, statements, infringement, communications, or activities at issue]\n\nThe conduct described above has occurred on or about the following dates and circumstances:\n\n[Insert relevant dates, communications, screenshots, publications, transactions, or events]\n\nYour actions have allegedly caused or may continue to cause harm including:\n\n- Financial damages\n- Business disruption\n- Reputational harm\n- Unauthorized use of intellectual property\n- Emotional distress\n- Contractual interference\n- Other damages or losses\n\nLEGAL BASIS\n\nThe conduct described above may violate:\n\n[Describe relevant laws, regulations, contractual obligations, copyrights, trademarks, confidentiality agreements, or other legal rights]\n\nDEMAND TO CEASE AND DESIST\n\nYou are hereby directed to immediately:\n\n- Stop the conduct described above\n- Refrain from repeating similar actions in the future\n- Remove, delete, return, or discontinue any related materials or communications if applicable\n\nAdditional requested actions:\n[Describe any requested remedies, corrections, removals, or written assurances]\n\nCOMPLIANCE DEADLINE\n\nYou must comply with the demands in this letter no later than:\n\n[Deadline Date or Number of Business Days]\n\nWRITTEN CONFIRMATION\n\nPlease provide written confirmation that you have complied with these demands by the deadline stated above.\n\nFAILURE TO COMPLY\n\nIf you fail to comply within the stated timeframe, the sender reserves the right to pursue any remedies available under applicable law, including legal proceedings, claims for damages, injunctive relief, or other appropriate action.\n\nRESERVATION OF RIGHTS\n\nNothing contained in this letter shall be construed as a waiver of any rights, claims, remedies, or causes of action available to the sender, all of which are expressly reserved.\n\nThis letter is sent without prejudice and without admission of liability.\n\nSincerely,\n\n[Sender Full Name]\n[Title or Position, if applicable]\n[Company Name, if applicable]\n\nSignature: ________________________________\nDate: ____________________________________\n\nOptional Attachments:\n[Copies of screenshots, contracts, invoices, registrations, communications, or supporting documents]",
+"example": "CEASE AND DESIST LETTER\n\nDate: September 14, 2026\n\nFrom:\nLighthouse Creative Studio\n455 Harbor Avenue\nSan Diego, CA 92101\n\nTo:\nBrightWave Media LLC\n220 Market Street\nAustin, TX 78701\n\nSubject: Notice to Cease and Desist – Unauthorized Use of Copyrighted Design Materials\n\nDear BrightWave Media,\n\nThis letter serves as a formal demand that you immediately cease and desist from the unauthorized use and reproduction of branding materials originally created by Lighthouse Creative Studio.\n\nSpecifically, your company has continued to use logo files and website graphics originally delivered under a limited-use licensing agreement that expired on August 30, 2026.\n\nThe unauthorized materials remain publicly displayed on your website and marketing advertisements as of September 12, 2026.\n\nLEGAL BASIS\n\nYour continued use of these materials may violate copyright protections and the terms of the original design agreement.\n\nDEMAND TO CEASE AND DESIST\n\nYou are hereby directed to:\n\n- Remove all unauthorized design materials from websites and marketing assets\n- Stop reproducing or distributing the materials\n- Confirm removal in writing\n\nCOMPLIANCE DEADLINE\n\nYou must comply with these demands within 7 business days from receipt of this letter.\n\nFAILURE TO COMPLY\n\nFailure to comply may result in further legal action and claims for damages.\n\nSincerely,\n\nLauren Mitchell\nCreative Director\nLighthouse Creative Studio\n\nSignature: Lauren Mitchell\nDate: September 14, 2026",
+"tips": [
+"Keep the tone professional, factual, and specific.",
+"Include dates, evidence, and detailed descriptions of the conduct.",
+"Avoid emotional language or unsupported accusations.",
+"Send the letter using certified mail or another trackable delivery method.",
+"Keep copies of the signed letter and all supporting documentation."
+],
+"faqs": [
+{
+"question": "What is a cease and desist letter?",
+"answer": "A cease and desist letter is a formal notice demanding that someone stop conduct that allegedly violates legal rights or causes harm."
+},
+{
+"question": "Is a cease and desist letter legally enforceable?",
+"answer": "The letter itself is not automatically enforceable, but it may serve as evidence if legal action later becomes necessary."
+},
+{
+"question": "What types of issues can a cease and desist letter address?",
+"answer": "Common issues include copyright infringement, defamation, harassment, contract violations, trademark disputes, and unauthorized use of materials."
+},
+{
+"question": "Should a compliance deadline be included?",
+"answer": "Yes, providing a reasonable compliance deadline helps establish clear expectations and documentation."
+},
+{
+"question": "How should a cease and desist letter be delivered?",
+"answer": "Many people use certified mail, courier delivery, or another trackable method to document receipt of the letter."
+}
+],
+"tags": [
+"cease-and-desist",
+"demand-letter",
+"copyright-infringement",
+"harassment",
+"legal-notice",
+"legal"
+]
+},
   {
     "slug": "demand-letter",
     "title": "Demand Letter Template",
