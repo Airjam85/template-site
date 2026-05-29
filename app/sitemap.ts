@@ -1,4 +1,4 @@
-import templates from "../content/templates.json";
+import { templates } from "../lib/loadTemplates";
 
 export default function sitemap() {
   const baseUrl = "https://mangogranola.com";
