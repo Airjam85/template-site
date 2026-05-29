@@ -1,70 +1,157 @@
 [
   {
-    "slug": "write-up-employee-performance",
-    "title": "Employee Performance Write-Up",
-    "description": "A formal write-up template documenting performance issues.",
-    "category": {
-      "name": "Employment",
-      "slug": "employment"
-    },
-    "intro": "Use this template to document performance or conduct concerns.",
-    "whenToUse": "When an employee needs a formal warning or documentation in performance files.",
-    "template": "Date: [Date]\nEmployee: [Name]\nIssue: [Details]\nAction Required: [Improvement Steps]\nFollow-up Date: [Date]",
-    "example": "Date: May 1, 2026\nEmployee: Jordan Smith\nIssue: Repeated missed deadlines\nAction Required: Submit weekly status and meet deadlines\nFollow-up Date: May 29, 2026",
-    "faqs": [
-      {
-        "question": "Is HR review required?",
-        "answer": "Often yes; coordinate with HR before issuing formal write-ups."
-      }
-    ],
-    "tags": [
-      "employment",
-      "verification",
-      "documents"
-    ]
-  },
+"slug": "employee-performance-write-up-template",
+"qualityTier": "hand-polished",
+"title": "Professional Employee Performance Write-Up Template",
+"description": "Free professional employee performance write-up template for performance reviews, corrective feedback, coaching plans, and employee development. Copy, customize, and download instantly.",
+"category": {
+"name": "Human Resources",
+"slug": "human-resources"
+},
+"intro": "A professional employee performance write-up helps managers document performance discussions clearly, fairly, and constructively while creating actionable development plans and maintaining consistent workplace expectations. This template is designed to support objective feedback, measurable accountability, employee growth, coaching conversations, and formal documentation using structured, evidence-based performance management practices.",
+"whenToUse": "Use this template during performance reviews, coaching sessions, corrective action discussions, improvement plans, probationary evaluations, annual reviews, disciplinary documentation, or employee development meetings.",
+"template": "EMPLOYEE PERFORMANCE WRITE-UP\n\n1. EMPLOYEE INFORMATION\n\nEmployee Name: [Full Name]\nJob Title: [Position]\nDepartment: [Department Name]\nManager or Supervisor: [Manager Name]\nReview Date: [MM/DD/YYYY]\nPerformance Period: [Start Date] to [End Date]\nEmployee ID (Optional): [ID Number]\n\n2. PERFORMANCE SUMMARY\n\nOverall Performance Status:\n[Exceeds Expectations / Meets Expectations / Needs Improvement / Unsatisfactory]\n\nSummary Overview:\n[Provide a concise overview of the employee’s overall performance during the review period, including major accomplishments, responsibilities, and general observations.]\n\n3. KEY STRENGTHS AND ACCOMPLISHMENTS\n\nMajor Contributions:\n\n- [Project or achievement]\n- [Metric or business outcome]\n- [Leadership contribution]\n- [Customer or client impact]\n- [Operational improvement]\n\nExamples of Strong Performance:\n\nSituation:\n[Describe the specific context or project]\n\nBehavior:\n[Describe the employee’s specific actions]\n\nImpact:\n[Describe the measurable or operational result]\n\nAdditional Strengths:\n\n- Communication\n- Leadership\n- Team collaboration\n- Problem-solving\n- Technical skills\n- Customer service\n- Initiative\n- Reliability\n- Adaptability\n- Productivity\n\n4. AREAS FOR GROWTH AND DEVELOPMENT\n\nPerformance Concerns or Improvement Areas:\n\n- [Issue or skill gap]\n- [Missed deadlines or process concerns]\n- [Communication challenges]\n- [Attendance or reliability concerns]\n- [Quality or productivity issues]\n\nBehavioral Feedback Using SBI Framework:\n\nSituation:\n[Describe the specific event, assignment, or context]\n\nBehavior:\n[Describe the observable behavior or performance issue objectively]\n\nImpact:\n[Explain the operational, team, client, or business impact]\n\nAdditional Development Areas:\n\n- Time management\n- Communication consistency\n- Attention to detail\n- Cross-team collaboration\n- Leadership development\n- Project organization\n- Accountability\n- Technical proficiency\n\n5. PERFORMANCE METRICS AND OBJECTIVE DATA\n\n| Performance Area | Goal or Standard | Actual Performance | Status |\n|------------------|------------------|-------------------|--------|\n| Attendance | [Goal] | [Actual] | [Met / Not Met] |\n| Productivity | [Goal] | [Actual] | [Met / Not Met] |\n| Project Completion | [Goal] | [Actual] | [Met / Not Met] |\n| Client Satisfaction | [Goal] | [Actual] | [Met / Not Met] |\n| Sales or Revenue | [Goal] | [Actual] | [Met / Not Met] |\n| Quality Metrics | [Goal] | [Actual] | [Met / Not Met] |\n\n6. ACTION PLAN AND NEXT STEPS\n\nPrimary Objective:\n[Describe the primary improvement or development goal]\n\nActionable Steps:\n\n- [Specific measurable action]\n- [Training or certification]\n- [Workflow adjustment]\n- [Communication process improvement]\n- [Project management strategy]\n\nTimeline:\n[Specific deadlines or milestones]\n\nManager Support:\n\n- Scheduled check-ins\n- Mentorship or coaching\n- Additional resources or training\n- Process clarification\n- Performance monitoring support\n\nSuccess Metrics:\n[How improvement will be measured]\n\n7. EMPLOYEE COMMENTS AND RESPONSE\n\nEmployee Feedback:\n[Space for employee comments, clarification, or self-assessment]\n\nAdditional Notes:\n[Optional additional context]\n\n8. FOLLOW-UP PLAN\n\nNext Review Date:\n[MM/DD/YYYY]\n\nFollow-Up Expectations:\n\n- Weekly check-ins\n- Monthly progress reviews\n- Additional training sessions\n- Project milestone evaluations\n\n9. ACKNOWLEDGMENT\n\nEmployee Acknowledgment:\n\nMy signature below confirms that this performance review or write-up has been discussed with me. My signature does not necessarily indicate agreement with all statements contained in this document.\n\nEmployee Signature: ___________________________\nDate: _______________________________________\n\nManager Signature: ____________________________\nDate: _______________________________________\n\nHR Representative Signature (Optional): ____________________________\nDate: _______________________________________",
+"example": "EMPLOYEE PERFORMANCE WRITE-UP\n\n1. EMPLOYEE INFORMATION\n\nEmployee Name: Taylor Morgan\nJob Title: Project Coordinator\nDepartment: Operations\nManager: Jordan Lee\nReview Date: 05/22/2027\nPerformance Period: January 2027 – May 2027\n\n2. PERFORMANCE SUMMARY\n\nOverall Performance Status:\nMeets Expectations with Areas for Improvement\n\nSummary Overview:\nTaylor consistently demonstrated strong client communication and organizational skills during the review period while successfully supporting multiple operational projects.\n\n3. KEY STRENGTHS AND ACCOMPLISHMENTS\n\nMajor Contributions:\n\n- Successfully coordinated onboarding for 12 new clients\n- Improved internal reporting turnaround times\n- Assisted with Q1 operations transition project\n\nExamples of Strong Performance:\n\nSituation:\nDuring the Q1 onboarding expansion project.\n\nBehavior:\nTaylor proactively organized project timelines and maintained regular communication with both clients and internal teams.\n\nImpact:\nClient onboarding completion times improved by approximately 20%.\n\n4. AREAS FOR GROWTH AND DEVELOPMENT\n\nBehavioral Feedback Using SBI Framework:\n\nSituation:\nDuring the March reporting cycle.\n\nBehavior:\nTwo internal reporting deadlines were missed without advance communication to the operations team.\n\nImpact:\nThe delays created scheduling challenges for leadership reporting and required additional follow-up from multiple departments.\n\n5. ACTION PLAN AND NEXT STEPS\n\nPrimary Objective:\nImprove deadline management and proactive communication.\n\nActionable Steps:\n\n- Begin using project management tracking software\n- Provide weekly project status updates\n- Escalate timeline concerns earlier\n\nTimeline:\nImplementation to begin within two weeks.\n\nManager Support:\nWeekly 15-minute progress meetings with supervisor.\n\n9. ACKNOWLEDGMENT\n\nEmployee Signature: ___________________________\nDate: _______________________________________\n\nManager Signature: ____________________________\nDate: _______________________________________",
+"tips": [
+"Use objective examples and measurable data whenever possible.",
+"Focus feedback on observable behaviors rather than personal traits.",
+"Avoid introducing surprise issues that were never previously discussed.",
+"Include actionable improvement plans with timelines and support.",
+"Allow employees space to provide comments or clarification."
+],
+"faqs": [
+{
+"question": "What is an employee performance write-up?",
+"answer": "An employee performance write-up is a formal document used to record performance feedback, accomplishments, concerns, and improvement expectations."
+},
+{
+"question": "What is the SBI feedback framework?",
+"answer": "SBI stands for Situation, Behavior, and Impact, a structured method used to provide objective and actionable performance feedback."
+},
+{
+"question": "Why should performance reviews include measurable data?",
+"answer": "Objective metrics help reduce bias, improve fairness, and provide clearer performance expectations."
+},
+{
+"question": "Should employees be allowed to respond to write-ups?",
+"answer": "Yes, providing space for employee comments supports transparency, fairness, and two-way communication."
+},
+{
+"question": "Why are action plans important in performance write-ups?",
+"answer": "Action plans help employees understand expectations, timelines, support resources, and measurable improvement goals."
+}
+],
+"tags": [
+"employee-review",
+"performance-management",
+"human-resources",
+"employee-development",
+"workplace",
+"hr"
+]
+},
   {
-    "slug": "pto-request-template",
-    "title": "PTO Request Email",
-    "description": "Template to request paid time off from a manager.",
-    "category": {
-      "name": "Employment",
-      "slug": "employment"
-    },
-    "intro": "A concise email for requesting PTO.",
-    "whenToUse": "Requesting planned vacation, personal days, or medical leave.",
-    "template": "Subject: PTO Request - [Dates]\n\nHi [Manager Name],\n\nI’d like to request PTO from [Start Date] to [End Date]. I will ensure [Coverage Plan].\n\nThanks,\n[Your Name]",
-    "example": "Subject: PTO Request - June 10–14\n\nHi Maria,\n\nI’d like to request PTO June 10–14. I will hand off current tasks to Priya and leave instructions.\n\nThanks,\nSam",
-    "faqs": [
-      {
-        "question": "How much notice?",
-        "answer": "As much as possible — two weeks is common for planned time off."
-      }
-    ],
-    "tags": [
-      "employment",
-      "verification",
-      "documents"
-    ]
-  },
+"slug": "pto-request-email-template",
+"qualityTier": "hand-polished",
+"title": "Professional PTO Request Email Template",
+"description": "Free professional PTO request email template for vacation requests, paid time off, personal leave, and workplace scheduling. Copy, customize, and download instantly.",
+"category": {
+"name": "Career",
+"slug": "career"
+},
+"intro": "A professional PTO request email helps employees request vacation time or personal leave clearly while minimizing workflow disruptions and maintaining strong workplace communication. This template is designed to improve approval speed by presenting leave dates upfront, outlining coverage plans, and demonstrating thoughtful preparation before time away from work.  ",
+"whenToUse": "Use this template when requesting paid time off for vacations, personal leave, family travel, rest and recovery, appointments, short-term absences, or other planned time away from work.",
+"template": "SUBJECT: PTO Request – [Your Name] – [Start Date] through [End Date]\n\nDear [Manager or Supervisor Name],\n\nI hope you are doing well.\n\nI am writing to formally request paid time off from [Start Date] through [End Date]. I plan to return to work on [Return Date].\n\nReason for Leave (Optional):\n[Vacation / Personal travel / Family event / Personal time / Rest and recovery / Other brief explanation]\n\nTo help ensure a smooth workflow during my absence, I will complete all priority assignments and organize coverage for ongoing responsibilities before my leave begins.\n\nCoverage Plan:\n\n- [Colleague Name] will assist with [tasks or responsibilities]\n- Pending projects will be updated before departure\n- Important files and status updates will be documented\n- Client or team communications will be addressed before leave begins\n\nAvailability During Leave:\n\n[ ] I will have limited access to email.\n[ ] I will be unavailable during this time.\n[ ] For urgent matters only, I may be reached at:\n[Phone Number or Email]\n\nI have reviewed current team schedules and deadlines and believe this timeframe will minimize disruption to ongoing operations.\n\nIf approved, I will also ensure the request is submitted through the company’s official HR or payroll system if required.\n\nPlease let me know if you need any additional information or if there are any concerns regarding these dates.\n\nThank you very much for your time and consideration.\n\nBest regards,\n\n[Your Full Name]\n[Job Title]\n[Department]\n[Phone Number]\n[Email Address]",
+"example": "SUBJECT: PTO Request – Taylor Morgan – July 8 through July 15\n\nDear Sarah,\n\nI hope you are doing well.\n\nI am writing to formally request paid time off from July 8, 2027 through July 15, 2027. I plan to return to work on July 16, 2027.\n\nI will be traveling with family during this time.\n\nBefore my departure, I will complete all open client deliverables and finalize status updates for ongoing projects.\n\nCoverage Plan:\n\n- Jordan Lee will monitor incoming client requests\n- Weekly reports will be submitted before departure\n- Shared project files will be fully updated\n\nAvailability During Leave:\n\nI will have limited access to email during this time, but for urgent matters I can be reached by phone.\n\nI have reviewed the current team schedule and do not anticipate any conflicts with major project deadlines.\n\nPlease let me know if these dates work for the team schedule or if you need any additional information.\n\nThank you very much for considering my request.\n\nBest regards,\n\nTaylor Morgan\nOperations Coordinator",
+"tips": [
+"Submit PTO requests as early as possible whenever dates are known.",
+"Clearly state your requested dates near the beginning of the email.",
+"Provide a thoughtful workload coverage plan before taking leave.",
+"Check company PTO procedures and HR systems before submitting requests.",
+"Avoid oversharing personal details unrelated to the request."
+],
+"faqs": [
+{
+"question": "What is a PTO request email?",
+"answer": "A PTO request email is a professional message used to formally request paid time off or planned leave from work."
+},
+{
+"question": "How far in advance should PTO requests be submitted?",
+"answer": "Many employers encourage employees to submit PTO requests several weeks in advance whenever possible."
+},
+{
+"question": "Should PTO requests include a reason for leave?",
+"answer": "Providing a brief reason can be helpful, but extensive personal details are usually unnecessary."
+},
+{
+"question": "Why is a coverage plan important in PTO requests?",
+"answer": "A coverage plan demonstrates professionalism and helps minimize workflow disruptions during an employee’s absence."
+},
+{
+"question": "Should PTO requests also be entered into HR systems?",
+"answer": "Many companies require PTO requests to be submitted through official HR or payroll platforms in addition to email approval."
+}
+],
+"tags": [
+"pto-request",
+"vacation-request",
+"paid-time-off",
+"career",
+"workplace",
+"professional-email"
+]
+},
   {
-    "slug": "write-up-attendance-issue",
-    "title": "Attendance Write-Up",
-    "description": "Documenting attendance concerns in a formal write-up.",
-    "category": {
-      "name": "Employment",
-      "slug": "employment"
-    },
-    "intro": "Use to document repeated attendance or punctuality issues.",
-    "whenToUse": "When attendance policies are violated repeatedly.",
-    "template": "Employee: [Name]\nIssue: Tardiness on [Dates]\nAction: Improvement plan and follow-up on [Date]",
-    "example": "Employee: Chris\nIssue: Tardy on May 3, 5, 7\nAction: Submit weekly schedule and meet with manager on May 21",
-    "tags": [
-      "nda",
-      "confidentiality",
-      "employment"
-    ]
-  },
+"slug": "employee-attendance-write-up-template",
+"qualityTier": "hand-polished",
+"title": "Professional Employee Attendance Write-Up Template",
+"description": "Free professional employee attendance write-up template for tardiness, absenteeism, no-call no-shows, and attendance policy violations. Copy, customize, and download instantly.",
+"category": {
+"name": "Human Resources",
+"slug": "human-resources"
+},
+"intro": "A professional employee attendance write-up helps managers document attendance issues fairly, consistently, and objectively while reinforcing workplace expectations and supporting operational reliability. This template is designed to address absenteeism, chronic tardiness, no-call no-shows, early departures, and attendance policy violations while promoting accountability, improvement planning, and legal compliance.  ",
+"whenToUse": "Use this template when documenting excessive absenteeism, repeated tardiness, no-call no-shows, attendance policy violations, unauthorized early departures, or recurring attendance concerns requiring formal corrective action.",
+"template": "EMPLOYEE ATTENDANCE WRITE-UP\n\n1. EMPLOYEE INFORMATION\n\nEmployee Name: [Full Name]\nJob Title: [Position]\nDepartment: [Department Name]\nSupervisor or Manager: [Manager Name]\nDate of Write-Up: [MM/DD/YYYY]\nEmployee ID (Optional): [Employee ID]\n\n2. PURPOSE OF THIS NOTICE\n\nThis document serves as a formal attendance warning regarding violations of [Company Name]’s attendance and punctuality policies.\n\nThe purpose of this write-up is to:\n\n- Document attendance-related concerns\n- Clarify attendance expectations\n- Provide an opportunity for improvement\n- Outline potential future consequences if attendance issues continue\n\n3. ATTENDANCE INFRACTION DETAILS\n\nType of Attendance Concern:\n\n[ ] Excessive absenteeism\n[ ] Chronic tardiness\n[ ] No-call no-show\n[ ] Unauthorized early departures\n[ ] Attendance policy violation\n[ ] Failure to follow call-out procedures\n[ ] Patterned absences\n[ ] Other: [Specify]\n\nDescription of Attendance Issue:\n\n[Provide objective details regarding attendance concerns, including dates, times, duration, and operational impact.]\n\nDocumented Attendance Violations:\n\n| Date | Attendance Issue | Time or Duration | Policy Violated |\n|------|------------------|------------------|-----------------|\n| [Date] | [Late arrival / Absence / No-call no-show] | [Time] | [Policy Reference] |\n| [Date] | [Late arrival / Absence / No-call no-show] | [Time] | [Policy Reference] |\n| [Date] | [Late arrival / Absence / No-call no-show] | [Time] | [Policy Reference] |\n\nOperational Impact:\n\n[Describe how attendance issues affected scheduling, workload, customer service, project timelines, staffing coverage, or team operations.]\n\n4. POLICY REFERENCE\n\nRelevant Attendance Policy:\n\n[Insert relevant attendance or punctuality policy language from employee handbook or HR policy manual.]\n\nExamples:\n\n- Employees are expected to arrive on time for all scheduled shifts.\n- Employees must notify supervisors before the start of scheduled shifts when absences occur.\n- Excessive absenteeism or repeated tardiness may result in disciplinary action.\n\nEmployee Handbook or Policy Link:\n[Insert policy location or reference]\n\n5. PREVIOUS DISCUSSIONS OR DISCIPLINARY ACTION\n\nPrevious Coaching or Corrective Action:\n\n| Date | Action Taken | Supervisor |\n|------|--------------|-------------|\n| [Date] | Informal coaching conversation | [Manager Name] |\n| [Date] | Verbal warning | [Manager Name] |\n| [Date] | Prior written warning | [Manager Name] |\n\nSummary of Previous Discussions:\n\n[Describe prior conversations or attempts to address attendance concerns.]\n\n6. EXPECTATIONS FOR IMPROVEMENT\n\nAttendance Expectations Going Forward:\n\n- Arrive on time for all scheduled shifts\n- Follow proper call-out procedures for absences\n- Notify supervisors promptly regarding emergencies or delays\n- Minimize unexcused absences\n- Adhere to all company attendance and punctuality policies\n\nImprovement Timeline:\n\n[Insert monitoring period or review timeframe]\n\n7. CORRECTIVE ACTION PLAN\n\nAction Steps:\n\n- Review attendance policy\n- Improve punctuality and communication\n- Use scheduling or reminder tools if needed\n- Discuss scheduling concerns with supervisor or HR\n- Seek support if personal circumstances are affecting attendance\n\nManager Support Provided:\n\n- Schedule review meeting\n- Clarification of attendance expectations\n- HR guidance or accommodations review if applicable\n- Employee assistance resources if available\n\n8. CONSEQUENCES OF CONTINUED VIOLATIONS\n\nFailure to improve attendance or continued policy violations may result in additional disciplinary action, including:\n\n- Additional written warnings\n- Probationary status\n- Suspension\n- Final warning\n- Termination of employment\n\n9. EMPLOYEE COMMENTS\n\nEmployee Response or Comments:\n\n[Space for employee explanation, comments, or acknowledgment]\n\n10. ACKNOWLEDGMENT\n\nEmployee Acknowledgment:\n\nMy signature below confirms that I have received and reviewed this attendance write-up. My signature does not necessarily indicate agreement with the contents.\n\nEmployee Signature: ___________________________\nDate: _______________________________________\n\nSupervisor Signature: __________________________\nDate: _______________________________________\n\nHR Representative Signature (Optional): __________________________\nDate: _______________________________________\n\n11. IMPORTANT HR AND LEGAL NOTE\n\nAttendance concerns may intersect with legally protected leave or accommodation rights, including FMLA, ADA accommodations, paid sick leave laws, workers’ compensation protections, or other local labor regulations. Attendance enforcement should be reviewed carefully with HR when protected leave or medical circumstances may apply.",
+"example": "EMPLOYEE ATTENDANCE WRITE-UP\n\n1. EMPLOYEE INFORMATION\n\nEmployee Name: Taylor Morgan\nJob Title: Customer Service Representative\nDepartment: Client Support\nSupervisor: Jordan Lee\nDate of Write-Up: 06/12/2027\n\n3. ATTENDANCE INFRACTION DETAILS\n\nType of Attendance Concern:\n[X] Chronic tardiness\n\nDescription of Attendance Issue:\nDuring the past 60 days, Taylor arrived late for scheduled shifts on multiple occasions without advance notice.\n\nDocumented Attendance Violations:\n\n| Date | Attendance Issue | Time or Duration | Policy Violated |\n|------|------------------|------------------|-----------------|\n| 05/02/2027 | Late arrival | 18 minutes | Punctuality Policy |\n| 05/10/2027 | Late arrival | 24 minutes | Attendance Policy |\n| 05/21/2027 | Late arrival | 15 minutes | Attendance Policy |\n\nOperational Impact:\nRepeated late arrivals caused delays in morning client support coverage and increased workload for other team members.\n\n5. PREVIOUS DISCUSSIONS OR DISCIPLINARY ACTION\n\n| Date | Action Taken | Supervisor |\n|------|--------------|-------------|\n| 05/11/2027 | Informal coaching conversation | Jordan Lee |\n| 05/25/2027 | Verbal warning | Jordan Lee |\n\n6. EXPECTATIONS FOR IMPROVEMENT\n\n- Arrive on time for all scheduled shifts\n- Notify supervisor promptly if delays occur\n- Follow attendance reporting procedures\n\nImprovement Timeline:\nAttendance performance will be reviewed over the next 30 days.\n\n8. CONSEQUENCES OF CONTINUED VIOLATIONS\n\nContinued attendance violations may result in additional disciplinary action, including probation or termination.\n\nEmployee Signature: ___________________________\nDate: _______________________________________",
+"tips": [
+"Use objective facts, dates, and documented attendance records whenever possible.",
+"Address attendance issues consistently across all employees.",
+"Reference specific attendance policies directly in the write-up.",
+"Focus on corrective improvement rather than emotional or punitive language.",
+"Review potential FMLA, ADA, or protected leave considerations before issuing discipline."
+],
+"faqs": [
+{
+"question": "What is an employee attendance write-up?",
+"answer": "An employee attendance write-up is a formal document used to address attendance-related policy violations such as tardiness, absenteeism, or no-call no-shows."
+},
+{
+"question": "When should attendance issues become formal write-ups?",
+"answer": "Formal write-ups are often used after repeated attendance problems, failed coaching efforts, serious no-call no-show incidents, or ongoing policy violations."
+},
+{
+"question": "Why should attendance write-ups include specific dates and times?",
+"answer": "Specific documentation helps ensure fairness, consistency, legal compliance, and accurate performance tracking."
+},
+{
+"question": "Can attendance discipline apply to protected leave situations?",
+"answer": "Protected leave categories such as FMLA, ADA accommodations, or legally protected sick leave may require separate review before disciplinary action is taken."
+},
+{
+"question": "Why are improvement plans important in attendance write-ups?",
+"answer": "Improvement plans clarify expectations, support employee accountability, and provide measurable opportunities for corrective progress."
+}
+],
+"tags": [
+"attendance-write-up",
+"employee-discipline",
+"human-resources",
+"attendance-policy",
+"employee-management",
+"workplace"
+]
+},
   {
     "slug": "pto-request-urgent",
     "title": "Urgent PTO Request",
@@ -357,44 +444,107 @@
     ]
   },
   {
-    "slug": "contract-extension-letter",
-    "title": "Contract Extension Letter Template",
-    "description": "Free contract extension letter template for professional use.",
-    "category": {
-      "name": "Employment",
-      "slug": "employment"
-    },
-    "intro": "This contract extension letter template helps you create professional documentation effectively.",
-    "whenToUse": "Use this template for your professional needs and documentation.",
-    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
-    "example": "[Example content demonstrating proper usage]",
-    "tips": [
-      "Customize the template to fit your specific needs",
-      "Review all details before finalizing",
-      "Keep copies for your records",
-      "Follow any legal requirements in your jurisdiction",
-      "Seek professional advice if needed"
-    ],
-    "faqs": [
-      {
-        "question": "Can I customize this template?",
-        "answer": "Yes, templates are meant to be customized for your specific situation."
-      },
-      {
-        "question": "Is this legally binding?",
-        "answer": "Templates provide structure; consult legal counsel for legal documents."
-      },
-      {
-        "question": "Can I use this for commercial purposes?",
-        "answer": "Check your local laws and usage rights for commercial use."
-      }
-    ],
-    "tags": [
-      "employment",
-      "template",
-      "professional"
-    ]
-  },
+"slug": "pto-request-denial-letter-template",
+"qualityTier": "hand-polished",
+"title": "Professional PTO Request Denial Letter Template",
+"description": "Free professional PTO request denial letter template for managers, HR teams, and supervisors handling vacation requests, scheduling conflicts, and staffing coverage issues.",
+"category": {
+"name": "Human Resources",
+"slug": "human-resources"
+},
+"intro": "A professional PTO request denial letter helps managers communicate scheduling decisions clearly, fairly, and respectfully while protecting workplace morale and maintaining operational coverage. This template is designed to support transparent communication, policy consistency, legal awareness, and employee trust by balancing business needs with empathy and alternative scheduling options.  ",
+"whenToUse": "Use this template when declining vacation requests, PTO requests, leave requests, blackout-period absences, overlapping team vacations, or scheduling conflicts that create operational challenges or staffing shortages.",
+"template": "SUBJECT: Regarding Your PTO Request for [Requested Dates]\n\nDear [Employee Name],\n\nThank you for submitting your paid time off request for [Requested Dates]. I appreciate you providing advance notice and planning ahead.\n\nAfter reviewing current staffing levels, project timelines, departmental coverage, and operational needs, we are unfortunately unable to approve your request for the requested dates.\n\nReason for Denial:\n\n[Examples]\n- Critical business deadlines\n- Peak operational season\n- Existing approved employee absences\n- Staffing coverage limitations\n- Blackout period restrictions\n- Major client or project commitments\n- Compliance or scheduling requirements\n\nAt this time, your role and responsibilities are necessary to support ongoing operations during this period.\n\nAlternative Options:\n\nWe would be happy to discuss alternative time-off dates, including:\n\n- [Alternative Date Option 1]\n- [Alternative Date Option 2]\n- Partial PTO arrangements\n- Adjusted scheduling options\n\nWe understand the importance of personal time, rest, and work-life balance, and this decision is based solely on operational scheduling needs during the requested timeframe.\n\nIf you would like to discuss other scheduling options or future PTO availability, please feel free to schedule time with me.\n\nThank you for your understanding, flexibility, and continued contributions to the team.\n\nBest regards,\n\n[Manager Name]\n[Job Title]\n[Department]\n[Company Name]\n[Phone Number]\n[Email Address]\n\nIMPORTANT HR AND COMPLIANCE NOTE:\n\nVacation or general PTO requests may be subject to scheduling approval and operational requirements depending on company policy and local labor laws. However, legally protected leave categories — including qualifying paid sick leave, protected medical leave, ADA accommodations, or FMLA-related leave — may be governed by separate legal requirements and should be reviewed carefully with HR or legal counsel before denial.",
+"example": "SUBJECT: Regarding Your PTO Request for July 15 – July 19\n\nDear Taylor,\n\nThank you for submitting your paid time off request for July 15 through July 19. I appreciate you providing advance notice.\n\nAfter reviewing current project schedules and staffing coverage, we are unfortunately unable to approve PTO during this specific week.\n\nThe operations department will be supporting a major client system migration during this period, and multiple team members already have approved leave scheduled. Your project expertise and support coverage are necessary to help ensure successful completion of the transition.\n\nAlternative Options:\n\nWe would be happy to approve PTO for one of the following alternative periods:\n\n- July 29 – August 2\n- August 12 – August 16\n\nWe understand the importance of taking time away from work to recharge, and this decision is based entirely on operational scheduling needs.\n\nPlease let me know if either alternative timeframe may work for you, and we can review scheduling together.\n\nThank you for your understanding and continued hard work.\n\nBest regards,\n\nJordan Lee\nOperations Manager",
+"tips": [
+"Respond to PTO requests promptly so employees can adjust plans if necessary.",
+"Apply PTO approval and denial policies consistently across all employees.",
+"Clearly explain the operational reason for the denial without sounding punitive.",
+"Offer alternative dates or flexible scheduling options whenever possible.",
+"Review local leave laws carefully before denying protected leave categories."
+],
+"faqs": [
+{
+"question": "Can employers deny vacation or PTO requests?",
+"answer": "In many workplaces, employers may deny vacation or PTO requests based on operational needs, staffing coverage, scheduling conflicts, or company policy."
+},
+{
+"question": "Should managers explain why a PTO request was denied?",
+"answer": "Yes. Providing a clear and respectful explanation improves transparency, fairness, and employee trust."
+},
+{
+"question": "Why should alternative dates be offered?",
+"answer": "Offering alternative dates shows flexibility and demonstrates that employee rest and work-life balance are still valued."
+},
+{
+"question": "Can legally protected leave be denied?",
+"answer": "Certain leave categories, such as qualifying sick leave, FMLA leave, ADA accommodations, or protected medical leave, may be subject to separate legal protections and should be reviewed carefully."
+},
+{
+"question": "Why is documentation important when denying PTO?",
+"answer": "Consistent documentation helps support fairness, operational decision-making, and legal compliance while maintaining an audit trail."
+}
+],
+"tags": [
+"pto-denial",
+"human-resources",
+"employee-management",
+"vacation-policy",
+"manager-template",
+"workplace"
+]
+},
+  {
+"slug": "contract-extension-letter-template",
+"qualityTier": "hand-polished",
+"title": "Professional Contract Extension Letter Template",
+"description": "Free professional contract extension letter template for extending business, employment, service, lease, vendor, consulting, or partnership agreements with updated timelines and terms.",
+"category": {
+"name": "Business Contracts",
+"slug": "business-contracts"
+},
+"intro": "A contract extension letter formally extends the term of an existing agreement while preserving legal clarity and protecting both parties. This template is designed for professional use across business services, employment agreements, consulting engagements, leases, vendor relationships, and project-based contracts. It clearly references the original agreement, establishes the new contract period, outlines any revised terms, and provides signature acceptance for enforceability. ",
+"whenToUse": "Use this template when extending the duration of an existing contract before its expiration date, including service agreements, employment contracts, leases, consulting arrangements, maintenance agreements, vendor partnerships, or ongoing project engagements.",
+"template": "CONTRACT EXTENSION LETTER\n\n[Your Company Name]\n[Your Address]\n[City, State ZIP]\n[Phone Number]\n[Email Address]\n\nDate: [MM/DD/YYYY]\n\nTO:\n[Recipient Name]\n[Recipient Title]\n[Recipient Company Name]\n[Recipient Address]\n[City, State ZIP]\n\nSubject: Contract Extension for [Original Contract Name or Reference Number]\n\nDear [Recipient Name],\n\nThis letter serves as a formal agreement to extend the terms of the existing contract titled \"[Original Contract Name]\" originally executed on [Original Contract Date] between [Your Company Name] and [Recipient Company or Individual Name].\n\nThe parties mutually agree to extend the contract term for an additional period of [Extension Duration]. The extended contract term shall begin on [New Start Date] and continue through [New End Date], unless terminated earlier in accordance with the original agreement or this extension letter.\n\n1. ORIGINAL AGREEMENT REFERENCE\n\nOriginal Contract Name: [Contract Title]\nOriginal Effective Date: [MM/DD/YYYY]\nOriginal Expiration Date: [MM/DD/YYYY]\nContract or Reference Number: [Reference Number]\n\n2. EXTENSION PERIOD\n\nExtended Contract Start Date: [MM/DD/YYYY]\nExtended Contract End Date: [MM/DD/YYYY]\n\n3. TERMS AND CONDITIONS\n\nExcept as specifically modified in this extension letter, all terms, conditions, obligations, rights, warranties, confidentiality provisions, indemnification clauses, dispute resolution procedures, and other provisions contained within the original agreement shall remain unchanged and in full force and effect throughout the extension period.\n\n4. MODIFICATIONS TO ORIGINAL AGREEMENT\n\n[Select one]\n\n[ ] No modifications are being made to the original agreement.\n\n[ ] The following provisions are amended during the extension period:\n\n- Compensation or pricing adjustment: [Describe updated pricing, rates, or payment terms]\n- Revised deliverables or scope: [Describe changes]\n- Updated milestones or deadlines: [Describe revisions]\n- Renewal or termination updates: [Describe modifications]\n- Additional provisions: [Describe additional terms]\n\n5. EFFECTIVE DATE\n\nThis contract extension shall become effective upon execution by both parties.\n\n6. TERMINATION\n\nAll termination rights and notice provisions contained in the original agreement shall continue to apply during the extension period unless otherwise modified herein.\n\n7. ENTIRE AGREEMENT\n\nThis extension letter, together with the original agreement, constitutes the entire understanding between the parties regarding the extension of the contract term. In the event of any conflict between this extension and the original agreement, the terms of this extension shall control solely with respect to the modified provisions.\n\n8. COUNTERPARTS AND ELECTRONIC SIGNATURES\n\nThis extension may be executed in counterparts and delivered electronically. Electronic signatures shall be considered legally binding to the same extent as original signatures.\n\n9. ACCEPTANCE DEADLINE\n\nTo confirm acceptance of this extension, please sign and return a copy of this letter no later than [Deadline Date].\n\nWe appreciate the opportunity to continue our professional relationship and look forward to a successful extension of our agreement.\n\nSincerely,\n\n__________________________________\n[Your Name]\n[Your Title]\n[Company Name]\nDate: ****************************\n\n\nACCEPTANCE OF CONTRACT EXTENSION\n\nThe undersigned acknowledges and agrees to the terms of this Contract Extension Letter.\n\n****************************______\n[Recipient Name]\n[Recipient Title]\n[Recipient Company Name]\nDate: ****************************\n\n10. OPTIONAL LEGAL CLAUSES\n\nForce Majeure:\nNeither party shall be liable for delays or failure to perform caused by circumstances beyond reasonable control, including natural disasters, government actions, labor disputes, or other force majeure events.\n\nSeverability:\nIf any provision of this extension is found unenforceable, the remaining provisions shall remain valid and enforceable.\n\nSurvival:\nConfidentiality, indemnification, intellectual property, payment obligations, and dispute resolution provisions shall survive expiration or termination of the agreement where applicable.",
+"example": "CONTRACT EXTENSION LETTER\n\nBrightPath Marketing Group\n455 River Avenue\nChicago, IL 60611\n(312) 555-0198\ncontracts@brightpathmarketing.com\n\nDate: 08/14/2027\n\nTO:\nJordan Blake\nOperations Director\nNorthline Retail Solutions\n221 West Monroe Street\nChicago, IL 60606\n\nSubject: Contract Extension for Digital Marketing Services Agreement\n\nDear Jordan,\n\nThis letter serves as a formal agreement to extend the terms of the existing Digital Marketing Services Agreement originally executed on 09/01/2026 between BrightPath Marketing Group and Northline Retail Solutions.\n\nThe parties mutually agree to extend the contract term for an additional 12 months. The extended contract term shall begin on 09/01/2027 and continue through 08/31/2028.\n\n4. MODIFICATIONS TO ORIGINAL AGREEMENT\n\n- Monthly retainer adjusted from $6,000 to $7,500 per month\n- Addition of quarterly analytics reporting deliverables\n- Updated campaign management response time reduced to 24 hours\n\n9. ACCEPTANCE DEADLINE\n\nPlease sign and return this agreement by 08/25/2027.\n\nWe value our continued partnership and look forward to another successful year working together.\n\nSincerely,\n\n****************************______\nAlex Carter\nManaging Director\nBrightPath Marketing Group\n\nACCEPTANCE OF CONTRACT EXTENSION\n\n__________________________________\nJordan Blake\nOperations Director\nNorthline Retail Solutions",
+"tips": [
+"Extend contracts before the original expiration date whenever possible.",
+"Clearly reference the exact original contract title and execution date.",
+"Specify whether original terms remain unchanged or are being modified.",
+"Use precise start and end dates for the extension period.",
+"Include signature acceptance blocks for both parties to ensure enforceability."
+],
+"faqs": [
+{
+"question": "What is a contract extension letter?",
+"answer": "A contract extension letter is a formal agreement used to extend the duration of an existing contract while preserving or modifying its original terms."
+},
+{
+"question": "Can contract terms change during an extension?",
+"answer": "Yes. Parties may extend the timeline while also modifying pricing, deliverables, deadlines, or other agreed provisions."
+},
+{
+"question": "Should a contract extension be signed by both parties?",
+"answer": "Yes. Both parties should sign the extension letter to confirm mutual agreement and legal enforceability."
+},
+{
+"question": "When should a contract extension be used?",
+"answer": "A contract extension should generally be completed before the original agreement expires."
+},
+{
+"question": "What happens if the original contract already expired?",
+"answer": "If the original contract has already expired, parties may need a new agreement or legal review rather than a simple extension letter."
+}
+],
+"tags": [
+"contract-extension",
+"business-contract",
+"agreement-extension",
+"contract-renewal",
+"legal-document",
+"service-agreement"
+]
+},
   {
     "slug": "job-description-update",
     "title": "Job Description Update Template",
