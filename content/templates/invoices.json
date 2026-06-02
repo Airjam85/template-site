@@ -102,6 +102,62 @@
     ]
   },
   {
+"slug": "creator-invoice-template",
+"qualityTier": "hand-polished",
+"title": "Creator Invoice Template",
+"description": "Professional invoice template for influencers, content creators, UGC creators, photographers, videographers, streamers, podcasters, and digital entrepreneurs. Use this invoice to bill brands, agencies, clients, and sponsors for content creation services, sponsored campaigns, licensing, and creative work.",
+"category": {
+"name": "Creator Business",
+"slug": "creator-business"
+},
+"intro": "A Creator Invoice is a professional billing document used to request payment for content creation, influencer marketing, UGC production, photography, videography, consulting, sponsorships, licensing, and other creator services. A well-structured invoice improves payment speed, creates a professional client experience, and provides documentation for accounting and tax purposes.",
+"whenToUse": "Use this invoice template after completing sponsored content, UGC projects, photography shoots, videography work, editing services, consulting engagements, affiliate campaigns, licensing agreements, or any other creator-related service requiring payment.",
+"template": "INVOICE\n\n----------------------------------------\nCREATOR INFORMATION\n----------------------------------------\n\nBusiness Name: [Business Name]\nCreator Name: [Full Name]\nAddress: [Business Address]\nEmail: [Email]\nPhone: [Phone]\nWebsite: [Website]\nTax ID / EIN: [Tax ID]\n\n----------------------------------------\nBILL TO\n----------------------------------------\n\nCompany Name: [Client Company]\nContact Person: [Contact Name]\nAddress: [Billing Address]\nEmail: [Billing Email]\nPhone: [Phone]\n\n----------------------------------------\nINVOICE DETAILS\n----------------------------------------\n\nInvoice Number: INV-[Year]-[Number]\nIssue Date: [Date]\nDue Date: [Date]\nPayment Terms: Net 15 / Net 30 / Due Upon Receipt\nCampaign Name: [Campaign Name]\nProject Reference: [Project Number]\nPurchase Order (PO): [PO Number]\n\n----------------------------------------\nDELIVERABLES\n----------------------------------------\n\nDescription                                      Qty      Rate      Total\n\n[Instagram Reel - 60 Seconds]                    1      $[ ]     $[ ]\n[TikTok Video - Sponsored Post]                  1      $[ ]     $[ ]\n[Instagram Story Set]                            3      $[ ]     $[ ]\n[UGC Video Asset]                                2      $[ ]     $[ ]\n[Photography Session]                            1      $[ ]     $[ ]\n[Video Editing]                                  5 hrs  $[ ]     $[ ]\n[Content Licensing Fee]                          1      $[ ]     $[ ]\n[Usage Rights Extension]                         1      $[ ]     $[ ]\n[Whitelisting Rights]                            1      $[ ]     $[ ]\n[Exclusivity Fee]                                1      $[ ]     $[ ]\n[Travel Expenses]                                1      $[ ]     $[ ]\n\n----------------------------------------\nUSAGE RIGHTS SUMMARY\n----------------------------------------\n\nContent Covered:\n[Description]\n\nUsage Rights Granted:\n\n• Organic Social Usage\n• Paid Advertising Usage\n• Website Usage\n• Email Marketing Usage\n• Other: [Specify]\n\nUsage Period:\n[30 Days / 90 Days / 6 Months / 1 Year]\n\nTerritory:\n[Worldwide / Country / Region]\n\n----------------------------------------\nPAYMENT SUMMARY\n----------------------------------------\n\nSubtotal:                         $[Amount]\nTax (if applicable):              $[Amount]\nAdditional Fees:                  $[Amount]\n\nTOTAL DUE:                        $[Amount]\n\n----------------------------------------\nPAYMENT INSTRUCTIONS\n----------------------------------------\n\nPreferred Payment Method:\n\n[ACH Transfer]\n[Wire Transfer]\n[PayPal]\n[Stripe]\n[Check]\n\nAccount Name: [Name]\nBank Name: [Bank]\nRouting Number: [Routing Number]\nAccount Number: [Account Number]\nPayPal Email: [Email]\n\n----------------------------------------\nLATE PAYMENT POLICY\n----------------------------------------\n\nPayment is due on or before the due date listed above.\n\nInvoices unpaid after the due date may incur a late fee of 1.5% per month or the maximum amount permitted by law.\n\n----------------------------------------\nNOTES\n----------------------------------------\n\nThank you for your business.\n\nPlease reference Invoice Number [Invoice Number] when submitting payment.\n\nFor billing questions, contact:\n[Email Address]\n\nWe appreciate the opportunity to work together and look forward to future collaborations.",
+"example": "A UGC creator delivers three TikTok-style product videos and one set of product photos to a skincare brand. The invoice includes separate line items for content creation, editing, six months of paid advertising usage rights, and a whitelisting fee, with payment due within 30 days.",
+"tips": [
+"Send invoices immediately after final content delivery.",
+"Always include a unique invoice number.",
+"Itemize each deliverable separately.",
+"Include usage rights and licensing terms.",
+"List payment instructions clearly.",
+"Reference campaign names and PO numbers when available.",
+"Track all invoices for accounting and tax purposes.",
+"Follow up on overdue invoices promptly."
+],
+"faqs": [
+{
+"question": "Should creators include usage rights on invoices?",
+"answer": "Yes. Usage rights are often a significant part of the value being purchased and should be clearly documented."
+},
+{
+"question": "Do creators need to charge taxes?",
+"answer": "Tax requirements depend on your country, state, and business structure. Consult a qualified tax professional."
+},
+{
+"question": "What payment terms are most common?",
+"answer": "Net 15 and Net 30 are the most common payment terms for creator partnerships."
+},
+{
+"question": "Can I invoice for licensing separately from content creation?",
+"answer": "Yes. Many creators separate content production fees from licensing, usage rights, exclusivity, and whitelisting fees."
+},
+{
+"question": "Should I include late payment fees?",
+"answer": "Including a late fee policy encourages timely payment and creates clear expectations."
+}
+],
+"tags": [
+"creator-invoice-template",
+"influencer-invoice-template",
+"ugc-invoice-template",
+"content-creator-invoice",
+"freelancer-invoice-template",
+"sponsored-content-invoice",
+"creator-business-template",
+"brand-partnership-invoice"
+]
+},
+  {
     "slug": "invoice-template-for-consultants",
     "title": "Consultant Invoice Template",
     "description": "Free consultant invoice template for billing hourly advisory, project-based consulting, and retainer services. Includes time tracking, deliverables, and payment terms.",

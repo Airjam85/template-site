@@ -139,6 +139,35 @@ if (template.faqs?.length > 0) {
 
 <TemplateActions templateContent={template.template} />
 
+{template.tags?.some((tag) =>
+  [
+    "freelance",
+    "creator",
+    "contract",
+    "proposal",
+    "invoice",
+    "small-business",
+  ].includes(tag)
+) && (
+  <div className="mt-8 border rounded p-5 bg-gray-50">
+    <h2 className="text-xl font-semibold mb-2">
+      Want the complete freelance pack?
+    </h2>
+
+    <p className="text-gray-600 mb-4">
+      This template pairs well with the Freelance Starter Kit, which includes
+      contracts, proposals, and invoice templates for freelancers and creators.
+    </p>
+
+    <Link
+      href="/packs/freelance-starter-kit"
+      className="inline-block rounded bg-black px-4 py-2 text-white font-semibold hover:bg-gray-800"
+    >
+      View Freelance Starter Kit
+    </Link>
+  </div>
+)}
+
 {template.example && (
   <div className="mt-8">
     <h2 className="text-2xl font-semibold mb-2">
