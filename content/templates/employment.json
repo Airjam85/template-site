@@ -405,44 +405,115 @@
     ]
   },
   {
-    "slug": "employment-offer-letter",
-    "title": "Employment Offer Letter Template",
-    "description": "Free employment offer letter template for professional use.",
-    "category": {
-      "name": "Employment",
-      "slug": "employment"
-    },
-    "intro": "This employment offer letter template helps you create professional documentation effectively.",
-    "whenToUse": "Use this template for your professional needs and documentation.",
-    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
-    "example": "[Example content demonstrating proper usage]",
-    "tips": [
-      "Customize the template to fit your specific needs",
-      "Review all details before finalizing",
-      "Keep copies for your records",
-      "Follow any legal requirements in your jurisdiction",
-      "Seek professional advice if needed"
-    ],
-    "faqs": [
-      {
-        "question": "Can I customize this template?",
-        "answer": "Yes, templates are meant to be customized for your specific situation."
-      },
-      {
-        "question": "Is this legally binding?",
-        "answer": "Templates provide structure; consult legal counsel for legal documents."
-      },
-      {
-        "question": "Can I use this for commercial purposes?",
-        "answer": "Check your local laws and usage rights for commercial use."
-      }
-    ],
-    "tags": [
-      "employment",
-      "template",
-      "professional"
-    ]
-  },
+"slug": "medical-assistant-job-offer-letter",
+"qualityTier": "hand-polished",
+"title": "Medical Assistant Job Offer Letter Template",
+"description": "Professional job offer letter template for hiring medical assistants in clinics, physician offices, urgent care centers, specialty practices, hospitals, and healthcare organizations.",
+"category": {
+"name": "Human Resources",
+"slug": "human-resources"
+},
+"intro": "A Medical Assistant Job Offer Letter is a formal document used by healthcare employers to offer employment to a qualified medical assistant candidate. It outlines the position, compensation, benefits, work schedule, reporting structure, employment conditions, and next steps for onboarding.",
+"whenToUse": "Use this template after selecting a candidate for a medical assistant position and before onboarding begins. It can be used by physician practices, outpatient clinics, hospitals, specialty offices, urgent care centers, and other healthcare organizations.",
+"template": "Subject: Employment Offer – Medical Assistant Position\n\nDear [Candidate Name],\n\nWe are pleased to offer you the position of Medical Assistant with [Practice Name]. After carefully reviewing your qualifications, experience, and professional background, we are confident that you will be a valuable addition to our healthcare team.\n\nPOSITION DETAILS\n\nPosition Title: Medical Assistant\nDepartment: [Department Name]\nSupervisor: [Manager or Physician Name]\nEmployment Status: [Full-Time / Part-Time]\nStart Date: [Start Date]\nWork Location: [Location]\nSchedule: [Days and Hours]\n\nCOMPENSATION\n\nYou will receive compensation at a rate of $[Hourly Rate] per hour, payable according to our regular payroll schedule.\n\nOvertime compensation, when applicable, will be paid in accordance with federal, state, and local employment laws.\n\nBENEFITS\n\nAs an eligible employee, you may participate in company-sponsored benefit programs, which may include:\n\n• Medical Insurance\n• Dental Insurance\n• Vision Insurance\n• Retirement Plan\n• Paid Time Off (PTO)\n• Paid Holidays\n• Continuing Education Assistance\n• Professional Development Opportunities\n• Employee Wellness Programs\n\nAdditional information regarding benefits eligibility and enrollment will be provided during onboarding.\n\nPRIMARY RESPONSIBILITIES\n\nAs a Medical Assistant, your responsibilities may include:\n\n• Rooming patients and obtaining vital signs\n• Recording patient medical histories\n• Assisting physicians and providers during examinations and procedures\n• Administering medications and injections as permitted by law\n• Scheduling appointments and coordinating patient care\n• Preparing examination rooms and maintaining clinical supplies\n• Performing basic laboratory procedures and specimen collection\n• Maintaining accurate medical records and documentation\n• Complying with HIPAA and patient privacy requirements\n• Supporting clinical and administrative operations as assigned\n\nEMPLOYMENT CONDITIONS\n\nThis offer is contingent upon:\n\n• Successful completion of a background check\n• Verification of identity and work authorization\n• Verification of certifications, licenses, and credentials (if applicable)\n• Completion of required onboarding documentation\n• Compliance with all employment and healthcare regulatory requirements\n\nCONFIDENTIALITY AND COMPLIANCE\n\nAs a condition of employment, you will be required to comply with all patient privacy, confidentiality, HIPAA, workplace safety, and organizational policies and procedures.\n\nAT-WILL EMPLOYMENT\n\nEmployment with [Practice Name] is at-will. This means either you or the employer may terminate the employment relationship at any time, with or without cause or notice, subject to applicable law.\n\nACCEPTANCE OF OFFER\n\nTo accept this offer, please sign and return this letter by [Acceptance Deadline].\n\nWe are excited about the possibility of you joining our team and contributing to the exceptional care we provide to our patients.\n\nIf you have any questions regarding this offer, please contact [Hiring Manager Name] at [Phone Number] or [Email Address].\n\nSincerely,\n\n[Hiring Manager Name]\n[Title]\n[Practice Name]\n[Phone Number]\n[Email Address]\n\n----------------------------------------\nACCEPTANCE OF OFFER\n----------------------------------------\n\nI accept the position of Medical Assistant with [Practice Name] under the terms outlined in this offer letter.\n\nEmployee Name: __________________________\n\nEmployee Signature: ______________________\n\nDate: _________________________________",
+"example": "A family medicine clinic offers a full-time Medical Assistant position to a candidate at $22.00 per hour with health insurance, PTO, paid holidays, and a Monday–Friday schedule. The candidate signs and returns the offer letter before beginning onboarding and credential verification.",
+"tips": [
+"Clearly state whether the position is full-time or part-time.",
+"Include compensation and payroll schedule details.",
+"Outline key benefits offered by the practice.",
+"Specify any certification or credential requirements.",
+"Include contingencies such as background checks and employment verification.",
+"Use clear acceptance deadlines to avoid hiring delays.",
+"Maintain compliance with federal, state, and local employment laws."
+],
+"faqs": [
+{
+"question": "Should a medical assistant offer letter include benefits information?",
+"answer": "Yes. Providing an overview of benefits helps candidates evaluate the full compensation package."
+},
+{
+"question": "Can employment offers be contingent on background checks?",
+"answer": "Yes. Most healthcare employers require successful completion of background and credential verification before employment begins."
+},
+{
+"question": "Should HIPAA requirements be mentioned?",
+"answer": "Yes. Medical assistants regularly handle protected health information and should be informed of confidentiality obligations."
+},
+{
+"question": "Is an offer letter the same as an employment contract?",
+"answer": "No. In most cases, an offer letter outlines employment terms but does not create a fixed-term employment contract."
+},
+{
+"question": "Should acceptance deadlines be included?",
+"answer": "Yes. Acceptance deadlines help employers move forward efficiently with hiring and onboarding."
+}
+],
+"tags": [
+"medical-assistant-job-offer-letter",
+"healthcare-job-offer-template",
+"medical-office-hiring",
+"clinic-job-offer-letter",
+"healthcare-hr-template",
+"medical-assistant-employment-offer",
+"job-offer-letter-template",
+"human-resources-template"
+]
+},
+{
+"slug": "job-offer-letter-template",
+"qualityTier": "hand-polished",
+"title": "Job Offer Letter Template",
+"description": "Professional job offer letter template for employers hiring full-time, part-time, remote, hybrid, temporary, and permanent employees. Use this template to formally extend an employment offer and outline compensation, benefits, work expectations, and onboarding requirements.",
+"category": {
+"name": "Human Resources",
+"slug": "human-resources"
+},
+"intro": "A Job Offer Letter is a formal document used by an employer to offer employment to a candidate. It confirms key employment details such as job title, compensation, start date, benefits, reporting structure, and employment conditions. A well-written offer letter creates clarity, improves the candidate experience, and serves as an important record of the employment agreement.",
+"whenToUse": "Use this template after selecting a candidate for a position and before onboarding begins. It is suitable for businesses of all sizes hiring employees across a wide range of industries and job functions.",
+"template": "Subject: Employment Offer – [Position Title]\n\nDear [Candidate Name],\n\nWe are pleased to offer you employment with [Company Name] for the position of [Position Title]. We were impressed with your qualifications, experience, and professionalism throughout the hiring process and believe you will make a valuable contribution to our organization.\n\nPOSITION DETAILS\n\nPosition Title: [Job Title]\nDepartment: [Department]\nReports To: [Supervisor Name and Title]\nEmployment Type: [Full-Time / Part-Time / Temporary / Permanent]\nWork Location: [Office / Hybrid / Remote]\nStart Date: [Start Date]\nWork Schedule: [Schedule]\n\nCOMPENSATION\n\nYour compensation will be:\n\nBase Salary / Hourly Rate: $[Amount]\nPayroll Schedule: [Weekly / Biweekly / Semi-Monthly / Monthly]\nBonus Eligibility: [If Applicable]\nCommission Eligibility: [If Applicable]\n\nAll compensation is subject to applicable tax withholdings and deductions as required by law.\n\nBENEFITS\n\nSubject to eligibility requirements and company policies, you may participate in the following benefit programs:\n\n• Health Insurance\n• Dental Insurance\n• Vision Insurance\n• Retirement Savings Plan\n• Paid Time Off (PTO)\n• Paid Holidays\n• Professional Development Programs\n• Employee Assistance Programs\n• Additional Company Benefits\n\nDetailed information regarding benefit plans will be provided during onboarding.\n\nJOB RESPONSIBILITIES\n\nYour primary duties and responsibilities will include:\n\n• [Responsibility 1]\n• [Responsibility 2]\n• [Responsibility 3]\n• [Responsibility 4]\n• Additional duties as assigned\n\nThe company reserves the right to modify job duties and responsibilities as business needs evolve.\n\nEMPLOYMENT CONDITIONS\n\nThis employment offer is contingent upon:\n\n• Successful completion of any required background checks\n• Verification of employment eligibility and work authorization\n• Verification of credentials, certifications, or licenses (if applicable)\n• Completion of onboarding documentation\n• Compliance with all company policies and procedures\n\nCONFIDENTIALITY AND COMPANY POLICIES\n\nAs a condition of employment, you may be required to sign confidentiality, non-disclosure, intellectual property, technology use, or other company agreements as applicable.\n\nYou are expected to comply with all company policies, procedures, standards of conduct, and applicable laws throughout your employment.\n\nAT-WILL EMPLOYMENT\n\nUnless otherwise required by law or specified in a separate written employment agreement, your employment with [Company Name] is at-will. This means that either you or the company may terminate the employment relationship at any time, with or without cause or notice, subject to applicable law.\n\nACCEPTANCE OF OFFER\n\nTo accept this offer, please sign and return this letter no later than [Acceptance Deadline].\n\nUpon acceptance, we will provide additional onboarding instructions and information regarding your first day of employment.\n\nWe are excited about the opportunity to welcome you to our team and look forward to your contributions to [Company Name].\n\nIf you have any questions regarding this offer, please contact [Hiring Manager Name] at [Phone Number] or [Email Address].\n\nSincerely,\n\n[Hiring Manager Name]\n[Title]\n[Company Name]\n[Company Address]\n[Phone Number]\n[Email Address]\n\n----------------------------------------\nACCEPTANCE OF EMPLOYMENT OFFER\n----------------------------------------\n\nI accept the position of [Position Title] with [Company Name] under the terms outlined in this offer letter.\n\nEmployee Name: __________________________\n\nEmployee Signature: ______________________\n\nDate: __________________________________\n\nEmployer Representative: _________________\n\nEmployer Signature: ______________________\n\nDate: __________________________________",
+"example": "A marketing agency offers a candidate a full-time Marketing Coordinator position with a starting salary of $58,000 per year, health insurance benefits, paid time off, and a hybrid work schedule beginning June 1. The candidate signs and returns the offer letter before onboarding begins.",
+"tips": [
+"Clearly state compensation and payment schedules.",
+"Include the reporting structure and work location.",
+"Specify employment contingencies such as background checks.",
+"Provide a deadline for offer acceptance.",
+"Include benefit information to help candidates evaluate the opportunity.",
+"Use clear language and avoid unnecessary legal jargon.",
+"Customize responsibilities to match the specific role."
+],
+"faqs": [
+{
+"question": "What should be included in a job offer letter?",
+"answer": "A job offer letter should include the position title, compensation, start date, work schedule, reporting structure, benefits, employment conditions, and acceptance instructions."
+},
+{
+"question": "Is a job offer letter legally binding?",
+"answer": "A job offer letter generally documents the employment offer and accepted terms, but it is not usually a long-term employment contract unless specifically stated."
+},
+{
+"question": "Should employers include benefits information?",
+"answer": "Yes. Providing benefit information helps candidates understand the total compensation package and make informed decisions."
+},
+{
+"question": "Can employers make offers contingent on background checks?",
+"answer": "Yes. Many employers require background checks, employment verification, credential verification, or other pre-employment screenings."
+},
+{
+"question": "What is at-will employment?",
+"answer": "At-will employment generally means either the employer or employee may terminate the employment relationship at any time, with or without cause, subject to applicable law."
+}
+],
+"tags": [
+"job-offer-letter-template",
+"employment-offer-letter",
+"offer-letter-template",
+"employee-hiring-template",
+"human-resources-template",
+"employment-letter",
+"job-offer-document",
+"new-hire-template"
+]
+},
   {
 "slug": "pto-request-denial-letter-template",
 "qualityTier": "hand-polished",

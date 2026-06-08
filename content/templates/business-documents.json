@@ -210,6 +210,241 @@
     ]
   },
   {
+"slug": "receipt-template",
+"qualityTier": "hand-polished",
+"title": "Receipt Template",
+"description": "Professional receipt template for businesses, freelancers, contractors, service providers, and retailers. Use this receipt to document completed payments, provide proof of purchase, and maintain accurate financial records.",
+"category": {
+"name": "Finance",
+"slug": "finance"
+},
+"intro": "A Receipt is a document that confirms payment has been received for goods or services. It serves as proof of purchase for customers and provides businesses with an organized record of completed transactions. A well-designed receipt improves customer trust, simplifies bookkeeping, supports tax compliance, and helps resolve payment disputes.",
+"whenToUse": "Use this template whenever a payment has been received for products, services, deposits, rentals, subscriptions, consultations, repairs, or any other completed transaction.",
+"template": "RECEIPT\n\nReceipt Number: [Receipt Number]\nDate: [MM/DD/YYYY]\nTime: [HH:MM AM/PM]\n\n----------------------------------------\nBUSINESS INFORMATION\n----------------------------------------\nBusiness Name: [Business Name]\nAddress: [Business Address]\nPhone: [Phone Number]\nEmail: [Email Address]\nWebsite: [Website URL]\nTax ID / VAT Number: [Tax ID]\n\n----------------------------------------\nCUSTOMER INFORMATION\n----------------------------------------\nCustomer Name: [Customer Name]\nCompany Name: [Company Name]\nPhone: [Phone Number]\nEmail: [Email Address]\n\n----------------------------------------\nTRANSACTION DETAILS\n----------------------------------------\nSales Representative: [Employee Name]\nOrder Number: [Order Number]\nInvoice Number: [Related Invoice Number]\n\nITEMIZED PURCHASES\n\nDescription                      Qty      Unit Price      Total\n--------------------------------------------------------------\n[Item/Service 1]                 [#]      $[Amount]       $[Amount]\n[Item/Service 2]                 [#]      $[Amount]       $[Amount]\n[Item/Service 3]                 [#]      $[Amount]       $[Amount]\n[Item/Service 4]                 [#]      $[Amount]       $[Amount]\n\n--------------------------------------------------------------\nSubtotal:                                         $[Subtotal]\nDiscount:                                        -$[Discount]\nTax ([Tax Rate]%):                                $[Tax Amount]\nAdditional Fees:                                 $[Fee Amount]\n--------------------------------------------------------------\nTOTAL PAID:                                      $[Total Paid]\n--------------------------------------------------------------\n\nPAYMENT INFORMATION\n\nPayment Method: [Cash / Credit Card / Debit Card / ACH / Wire Transfer / Check / PayPal / Other]\nTransaction ID: [Transaction Number]\nAuthorization Code: [Authorization Code]\nCard Type: [Visa / Mastercard / American Express / Discover]\nCard Ending In: [Last 4 Digits]\n\nPAYMENT STATUS: PAID IN FULL\n\n----------------------------------------\nRETURN / REFUND POLICY\n----------------------------------------\n[Insert Return, Refund, Exchange, or Cancellation Policy]\n\n----------------------------------------\nADDITIONAL NOTES\n----------------------------------------\n[Additional Notes]\n\nThank you for your business.\nWe appreciate your support and look forward to serving you again.\n\nBusiness Website: [Website]\nFollow Us: [Social Media Handles]\nCustomer Support: [Support Email or Phone Number]",
+"example": "A freelance graphic designer receives a $1,200 payment for logo design services. The receipt lists the project name, payment date, invoice reference number, subtotal of $1,200, payment method via ACH transfer, and confirms that the balance has been paid in full.",
+"tips": [
+"Use sequential receipt numbers for easier record-keeping.",
+"Always include the transaction date and payment method.",
+"Provide detailed descriptions rather than generic item names.",
+"Clearly separate subtotal, taxes, discounts, and total paid.",
+"Include business contact information for future support requests.",
+"Save digital copies of all receipts for tax and accounting purposes.",
+"Send receipts immediately after receiving payment."
+],
+"faqs": [
+{
+"question": "What is the difference between a receipt and an invoice?",
+"answer": "An invoice requests payment before it is received, while a receipt confirms that payment has already been received."
+},
+{
+"question": "Should a receipt include tax information?",
+"answer": "Yes. If taxes apply, the receipt should clearly display the tax rate and tax amount separately from the subtotal."
+},
+{
+"question": "Do businesses need receipt numbers?",
+"answer": "Sequential receipt numbers help with accounting, audits, customer service inquiries, and transaction tracking."
+},
+{
+"question": "Can receipts be sent electronically?",
+"answer": "Yes. Digital receipts in PDF format are widely accepted and help businesses maintain organized records."
+},
+{
+"question": "How long should businesses keep receipts?",
+"answer": "Many businesses retain receipts for at least 3 to 7 years for tax, accounting, and audit purposes."
+}
+],
+"tags": [
+"receipt-template",
+"payment-receipt",
+"proof-of-payment",
+"sales-receipt-template",
+"business-receipt",
+"customer-receipt",
+"cash-receipt-template",
+"professional-receipt"
+]
+},
+{
+"slug": "expense-tracking-sheet-template",
+"qualityTier": "hand-polished",
+"title": "Expense Tracking Sheet Template",
+"description": "Free expense tracking spreadsheet template for Google Sheets and Excel. Track spending, monitor budgets, analyze expenses by category, and visualize financial trends with a professional expense tracker.",
+"category": {
+"name": "Finance",
+"slug": "finance"
+},
+"intro": "An Expense Tracking Sheet helps individuals, freelancers, families, and businesses monitor spending, identify financial trends, and stay within budget. A well-designed expense tracker separates transaction data from reporting and dashboard analytics, making it easier to understand where money is going and make informed financial decisions.",
+"whenToUse": "Use this template to track personal expenses, household budgets, business spending, side hustle costs, travel expenses, subscription management, or annual financial planning.",
+"template": "EXPENSE TRACKING WORKBOOK\n\n========================================\nTAB 1 — TRANSACTIONS LOG\n========================================\n\nPurpose:\nThis is the only tab where data is entered manually.\n\nColumns:\n\n| Date | Description | Category | Amount | Payment Method | Notes |\n|------|-------------|----------|--------|----------------|-------|\n| YYYY-MM-DD | Grocery Store | Groceries | $85.43 | Debit Card | Weekly groceries |\n| YYYY-MM-DD | Rent Payment | Housing | $1,500.00 | ACH | Monthly rent |\n| YYYY-MM-DD | Internet Bill | Utilities | $79.99 | Credit Card | Home internet |\n\nSuggested Categories:\n\nHousing\nUtilities\nGroceries\nDining\nTransportation\nHealth\nInsurance\nShopping\nEntertainment\nSubscriptions\nTravel\nEducation\nBusiness Expenses\nSavings\nDebt Payments\nMiscellaneous\n\nSuggested Payment Methods:\n\nCash\nDebit Card\nCredit Card\nACH\nBank Transfer\nPayPal\nVenmo\nCheck\n\nData Validation:\nUse dropdown menus for Category and Payment Method to maintain consistency.\n\n========================================\nTAB 2 — BUDGET & CATEGORY SUMMARY\n========================================\n\n| Category | Budgeted | Actual Spent | Remaining |\n|-----------|----------|--------------|------------|\n| Housing | $1,500 | $1,500 | $0 |\n| Groceries | $600 | $520 | $80 |\n| Dining | $250 | $310 | -$60 |\n| Transportation | $300 | $240 | $60 |\n\nFORMULAS\n\nActual Spent:\n=SUMIF(Transactions!C:C,A2,Transactions!D:D)\n\nRemaining:\n=B2-C2\n\nConditional Formatting:\n\nGreen = Under Budget\nYellow = Near Budget Limit\nRed = Over Budget\n\nMonthly Totals:\n\nTotal Budget:\n=SUM(B:B)\n\nTotal Actual Spending:\n=SUM(C:C)\n\nRemaining Budget:\n=SUM(D:D)\n\n========================================\nTAB 3 — FINANCIAL DASHBOARD\n========================================\n\nKEY PERFORMANCE INDICATORS (KPIs)\n\nTotal Expenses YTD:\n=SUM(Transactions!D:D)\n\nAverage Monthly Spending:\n=[Annual Expenses]/12\n\nLargest Expense Category:\n[Calculated via Pivot Table]\n\nAverage Daily Spending:\n=[Total Expenses]/365\n\nSuggested Dashboard Metrics:\n\n• Year-to-Date Expenses\n• Current Month Expenses\n• Budget vs Actual Spending\n• Top Spending Category\n• Number of Transactions\n• Average Transaction Amount\n\nRecommended Charts:\n\n1. Spending by Category (Pie Chart)\n2. Monthly Expenses (Bar Chart)\n3. Budget vs Actual (Clustered Bar Chart)\n4. Expense Trend Over Time (Line Chart)\n5. Payment Method Breakdown (Pie Chart)\n\n========================================\nMONTHLY REVIEW SECTION\n========================================\n\nHighest Spending Category:\n[Category]\n\nBiggest Single Expense:\n$[Amount]\n\nTotal Saved This Month:\n$[Amount]\n\nAreas to Reduce Spending:\n[Notes]\n\nFinancial Goals Next Month:\n[Notes]\n\n========================================\nYEAR-END SUMMARY\n========================================\n\nAnnual Income:\n$[Amount]\n\nAnnual Expenses:\n$[Amount]\n\nNet Savings:\n$[Amount]\n\nSavings Rate:\n[Percentage]\n\nTop 5 Expense Categories:\n1. [Category]\n2. [Category]\n3. [Category]\n4. [Category]\n5. [Category]\n\nNotes & Financial Insights:\n[Year-End Review]",
+"example": "A freelancer tracks every business and personal expense throughout the year. Transactions are entered into the Transactions Log, category spending is automatically summarized in the Budget tab using SUMIF formulas, and the Dashboard displays spending trends, monthly averages, and annual savings progress.",
+"tips": [
+"Use dropdown menus to prevent inconsistent category names.",
+"Record expenses daily or weekly to avoid missing transactions.",
+"Keep categories broad at first and refine later if necessary.",
+"Review spending trends monthly rather than obsessing over daily totals.",
+"Use conditional formatting to instantly identify overspending.",
+"Track payment methods to simplify account reconciliation.",
+"Create backup copies of your spreadsheet regularly.",
+"Use charts and dashboards to visualize spending patterns."
+],
+"faqs": [
+{
+"question": "What is the difference between an expense tracker and a budget?",
+"answer": "A budget is a spending plan, while an expense tracker records what you actually spend. The two tools work best when used together."
+},
+{
+"question": "How often should I update my expense tracker?",
+"answer": "Most people achieve the best results by updating expenses daily or weekly."
+},
+{
+"question": "What categories should I use?",
+"answer": "Start with broad categories such as Housing, Groceries, Transportation, Utilities, Dining, Entertainment, and Savings."
+},
+{
+"question": "Can I use this template for business expenses?",
+"answer": "Yes. The template works for personal finances, small businesses, freelancers, contractors, and side hustles."
+},
+{
+"question": "Which software works best for expense tracking?",
+"answer": "Google Sheets and Microsoft Excel are the most popular options because they support formulas, charts, dashboards, and data validation."
+}
+],
+"tags": [
+"expense-tracker-template",
+"expense-tracking-sheet",
+"budget-spreadsheet",
+"expense-log",
+"monthly-expense-tracker",
+"google-sheets-budget-template",
+"excel-expense-tracker",
+"personal-finance-template",
+"business-expense-tracker",
+"budget-planner"
+]
+},
+{
+"slug": "profit-and-loss-statement-template",
+"qualityTier": "hand-polished",
+"title": "Profit and Loss Statement Template",
+"description": "Free Profit and Loss Statement (P&L) template for small businesses, freelancers, startups, and service providers. Track revenue, expenses, gross profit, operating income, EBITDA, and net profit with a professional income statement format.",
+"category": {
+"name": "Finance",
+"slug": "finance"
+},
+"intro": "A Profit and Loss Statement (P&L), also known as an Income Statement, summarizes a business's revenue, expenses, and profitability over a specific period. It helps business owners, investors, lenders, and accountants evaluate financial performance, monitor growth, identify cost-saving opportunities, and make informed strategic decisions.",
+"whenToUse": "Use this template monthly, quarterly, or annually to track business performance, prepare tax filings, apply for financing, create investor reports, monitor profitability, or compare year-over-year financial results.",
+"template": "PROFIT AND LOSS STATEMENT\n\nBusiness Name: ***************************\nReporting Period: _______________________**\nPrepared Date: ***************************\n\n==================================================\nREVENUE\n==================================================\n\nProduct Sales .................................. $*********\nService Revenue ................................ $*********\nSubscription Revenue ........................... $*********\nConsulting Revenue ............................. $*********\nAffiliate Revenue .............................. $*********\nOther Revenue .................................. $*********\n\nTOTAL REVENUE .................................. $*********\n\n==================================================\nCOST OF GOODS SOLD (COGS)\n==================================================\n\nRaw Materials .................................. $*********\nDirect Labor ................................... $*********\nManufacturing Costs ............................ $*********\nPackaging & Shipping ........................... $*********\nContractor Delivery Costs ...................... $*********\nMerchant Processing Fees ....................... $*********\nOther Direct Costs ............................. $*********\n\nTOTAL COGS ..................................... $*********\n\n==================================================\nGROSS PROFIT\n==================================================\n\nGross Profit = Revenue - COGS\n\nGROSS PROFIT ................................... $*********\n\nGross Margin % ................................ ____****%\n\n==================================================\nOPERATING EXPENSES (OPEX)\n==================================================\n\nPayroll & Salaries ............................. $*********\nPayroll Taxes .................................. $*********\nRent / Office Space ............................ $*********\nUtilities ...................................... $*********\nInternet & Phone ............................... $*********\nSoftware & Subscriptions ....................... $*********\nMarketing & Advertising ....................... $*********\nProfessional Services .......................... $*********\nInsurance ...................................... $*********\nTravel & Meals ................................. $*********\nVehicle Expenses ............................... $*********\nOffice Supplies ................................ $*********\nTraining & Education ........................... $*********\nDepreciation ................................... $*********\nAmortization ................................... $*********\nOther Operating Expenses ....................... $*********\n\nTOTAL OPERATING EXPENSES ....................... $*********\n\n==================================================\nEBITDA\n==================================================\n\nEBITDA = Gross Profit - Operating Expenses\n(Excluding Interest, Taxes, Depreciation, and Amortization)\n\nEBITDA ......................................... $*********\n\nEBITDA Margin % ................................ ____****%\n\n==================================================\nOPERATING INCOME\n==================================================\n\nOperating Income = EBITDA - Depreciation - Amortization\n\nOPERATING INCOME ............................... $*********\n\n==================================================\nOTHER INCOME & EXPENSES\n==================================================\n\nInterest Income ................................ $*********\nInvestment Income .............................. $*********\nAsset Sale Gains ............................... $*********\n\nTOTAL OTHER INCOME ............................. $*********\n\nInterest Expense ............................... $*********\nLoan Fees ...................................... $*********\nAsset Sale Losses .............................. $*********\nOther Non-Operating Expenses ................... $*********\n\nTOTAL OTHER EXPENSES ........................... $*********\n\n==================================================\nEARNINGS BEFORE TAXES (EBT)\n==================================================\n\nEBT = Operating Income + Other Income - Other Expenses\n\nEARNINGS BEFORE TAXES .......................... $*********\n\n==================================================\nINCOME TAXES\n==================================================\n\nFederal Taxes .................................. $*********\nState Taxes .................................... $*********\nLocal Taxes .................................... $*********\n\nTOTAL TAXES .................................... $*********\n\n==================================================\nNET INCOME\n==================================================\n\nNet Income = EBT - Taxes\n\nNET PROFIT / (LOSS) ............................ $****_****\n\nNet Profit Margin % ............................ ********%\n\n==================================================\nKEY PERFORMANCE METRICS\n==================================================\n\nRevenue Growth % ............................... ********%\nGross Margin % ................................. ********%\nOperating Margin % ............................. ********%\nEBITDA Margin % ................................ ********%\nNet Profit Margin % ............................ ********%\n\n==================================================\nYEAR-OVER-YEAR COMPARISON\n==================================================\n\n| Category | Current Period | Prior Period | Change | % Change |\n|-----------|---------------|--------------|---------|----------|\n| Revenue | | | | |\n| Gross Profit | | | | |\n| Operating Income | | | | |\n| Net Income | | | | |\n\n==================================================\nMANAGEMENT NOTES\n==================================================\n\nKey Business Wins:\n*********************************************\n********************************_____________\n\nAreas Requiring Attention:\n_____________________________________________\n_____________________________________________\n\nPlanned Cost Reductions:\n_____________________________________________\n_____________________________________________\n\nGrowth Opportunities:\n_____________________________________________\n_____________________________________________",
+"example": "A digital marketing agency generated $150,000 in quarterly revenue. Direct contractor and delivery costs totaled $45,000, producing a gross profit of $105,000. After $65,000 in operating expenses and $5,000 in taxes, the agency reported $35,000 in net profit and a 23.3% net profit margin.",
+"tips": [
+"Prepare your P&L monthly to identify financial trends early.",
+"Use consistent revenue and expense categories across all reporting periods.",
+"Track both dollar amounts and percentages of revenue.",
+"Compare results against prior periods to identify growth patterns.",
+"Review gross margin regularly to ensure pricing remains profitable.",
+"Separate operating expenses from direct production costs.",
+"Monitor EBITDA for a clearer picture of operational performance.",
+"Automate bookkeeping whenever possible using accounting software."
+],
+"faqs": [
+{
+"question": "What is the difference between a Profit and Loss Statement and a Balance Sheet?",
+"answer": "A Profit and Loss Statement shows revenue, expenses, and profitability over a period of time, while a Balance Sheet shows assets, liabilities, and equity at a specific point in time."
+},
+{
+"question": "How often should a P&L statement be prepared?",
+"answer": "Most businesses prepare P&L statements monthly, quarterly, and annually to monitor financial performance and support decision-making."
+},
+{
+"question": "What is EBITDA?",
+"answer": "EBITDA stands for Earnings Before Interest, Taxes, Depreciation, and Amortization. It measures core operating performance before financing and accounting adjustments."
+},
+{
+"question": "What is gross profit?",
+"answer": "Gross profit is revenue minus Cost of Goods Sold (COGS). It measures how efficiently a business delivers its products or services."
+},
+{
+"question": "Can freelancers and solopreneurs use a P&L statement?",
+"answer": "Yes. P&L statements are valuable for freelancers, consultants, creators, agencies, and businesses of any size."
+}
+],
+"tags": [
+"profit-and-loss-statement-template",
+"income-statement-template",
+"p-and-l-template",
+"small-business-financial-statement",
+"profit-loss-spreadsheet",
+"monthly-pnl-template",
+"financial-report-template",
+"business-income-statement",
+"profitability-report",
+"accounting-template"
+]
+},
+{
+"slug": "creator-rate-card-template",
+"qualityTier": "hand-polished",
+"title": "Creator Rate Card Template",
+"description": "Professional creator rate card template for influencers, UGC creators, TikTok creators, Instagram creators, YouTubers, and content creators to present sponsorship pricing, platform rates, usage rights, add-ons, and brand collaboration packages.",
+"category": {
+"name": "Creator Business",
+"slug": "creator-business"
+},
+"intro": "A Creator Rate Card is a professional pricing document that helps creators clearly present their services, base rates, content packages, usage rights, and add-on fees to brands and agencies. It gives creators a consistent starting point for negotiations while helping brands quickly understand what each deliverable includes. A strong rate card should balance audience value, engagement, production time, niche demand, and commercial usage rights.",
+"whenToUse": "Use this template when responding to brand deal inquiries, pitching sponsored content, pricing UGC projects, negotiating usage rights, building influencer packages, creating a media kit, or presenting your creator services to brands, agencies, and marketing teams.",
+"template": "CREATOR RATE CARD\n\nCreator Name: [Creator Name]\nBusiness Name: [Business Name]\nPrimary Niche: [Niche]\nLocation: [City, State/Country]\nEmail: [Email]\nWebsite / Portfolio: [Website]\nSocial Handles: [Handles]\nEffective Date: [Date]\n\n==================================================\n1. CREATOR OVERVIEW\n==================================================\n\nAbout:\n[Brief creator bio explaining your niche, audience, content style, and brand value.]\n\nPrimary Content Niches:\n\n1. [Niche / Topic]\n2. [Niche / Topic]\n3. [Niche / Topic]\n4. [Niche / Topic]\n\nAudience Summary:\n\nTotal Followers / Subscribers: [Number]\nAverage Engagement Rate: [Percentage]\nAverage Monthly Reach: [Number]\nAverage Monthly Impressions: [Number]\nTop Audience Locations: [Locations]\nPrimary Audience Age Range: [Age Range]\nPrimary Audience Gender Split: [Gender Breakdown]\n\n==================================================\n2. PRICING FORMULA NOTES\n==================================================\n\nBase pricing is calculated using a combination of:\n\n- Audience size;\n- Engagement rate;\n- Platform performance;\n- Content production time;\n- Niche value;\n- Usage rights;\n- Exclusivity requirements;\n- Campaign complexity.\n\nBase Rate Formula:\nFollower Count x Engagement Multiplier = Starting Rate\n\nOptional Engagement-Based Formula:\nFollower Count x Engagement Rate x Tier Multiplier = Estimated Sponsored Post Rate\n\nCPM Formula:\nCampaign Fee / Estimated Impressions x 1,000 = CPM\n\nThese formulas are used as internal pricing guides. Final campaign pricing may vary based on scope, usage rights, exclusivity, timeline, deliverables, and brand requirements.\n\n==================================================\n3. INSTAGRAM RATES\n==================================================\n\nInstagram Feed Post:\nStarting Rate: $[Amount]\n\nInstagram Carousel:\nStarting Rate: $[Amount]\n\nInstagram Reel:\nStarting Rate: $[Amount]\n\nInstagram Story Set - 3 Frames:\nStarting Rate: $[Amount]\n\nInstagram Story Set - 5 Frames:\nStarting Rate: $[Amount]\n\nInstagram Live Appearance:\nStarting Rate: $[Amount]\n\nNotes:\nInstagram Reels may be priced higher than static posts due to additional scripting, filming, editing, and performance value.\n\n==================================================\n4. TIKTOK RATES\n==================================================\n\nTikTok Video - 15 to 30 Seconds:\nStarting Rate: $[Amount]\n\nTikTok Video - 30 to 60 Seconds:\nStarting Rate: $[Amount]\n\nTikTok Video - 60+ Seconds:\nStarting Rate: $[Amount]\n\nTikTok Series - 3 Videos:\nStarting Rate: $[Amount]\n\nTikTok Series - 5 Videos:\nStarting Rate: $[Amount]\n\nTrend-Based TikTok Concept:\nStarting Rate: $[Amount]\n\nNotes:\nTikTok rates may increase for scripted content, complex editing, trend research, product demonstrations, or rush delivery.\n\n==================================================\n5. YOUTUBE RATES\n==================================================\n\nYouTube Dedicated Video:\nStarting Rate: $[Amount]\n\nYouTube Sponsored Integration:\nStarting Rate: $[Amount]\n\nYouTube Short:\nStarting Rate: $[Amount]\n\nYouTube Mention / Link in Description:\nStarting Rate: $[Amount]\n\nYouTube Community Post:\nStarting Rate: $[Amount]\n\nEstimated CPM Basis:\n$[Amount] per 1,000 average views\n\nNotes:\nYouTube pricing is typically based on average views, production complexity, audience fit, and long-term content value.\n\n==================================================\n6. UGC CONTENT RATES\n==================================================\n\nUGC Video - 15 Seconds:\nStarting Rate: $[Amount]\n\nUGC Video - 30 Seconds:\nStarting Rate: $[Amount]\n\nUGC Video - 60 Seconds:\nStarting Rate: $[Amount]\n\nUGC Product Demo:\nStarting Rate: $[Amount]\n\nUGC Testimonial Video:\nStarting Rate: $[Amount]\n\nUGC Unboxing Video:\nStarting Rate: $[Amount]\n\nUGC Photography Package:\nStarting Rate: $[Amount]\n\nRaw Footage Add-On:\nStarting Rate: $[Amount]\n\nNotes:\nUGC rates are based on content production, not audience distribution. Posting to creator-owned channels is not included unless specifically agreed.\n\n==================================================\n7. PACKAGE OPTIONS\n==================================================\n\nBRONZE PACKAGE\n\nBest For:\nSmall campaigns, product launches, and introductory brand collaborations.\n\nIncludes:\n- [Deliverable 1]\n- [Deliverable 2]\n- [Deliverable 3]\n\nInvestment:\n$[Amount]\n\nSILVER PACKAGE\n\nBest For:\nMulti-touch campaigns requiring stronger audience exposure.\n\nIncludes:\n- [Deliverable 1]\n- [Deliverable 2]\n- [Deliverable 3]\n- [Deliverable 4]\n\nInvestment:\n$[Amount]\n\nGOLD PACKAGE\n\nBest For:\nFull campaign activations, long-term partnerships, and product launch support.\n\nIncludes:\n- [Deliverable 1]\n- [Deliverable 2]\n- [Deliverable 3]\n- [Deliverable 4]\n- [Deliverable 5]\n\nInvestment:\n$[Amount]\n\nCUSTOM PACKAGE\n\nCustom packages are available for long-term partnerships, ambassador programs, multi-platform campaigns, and recurring monthly content.\n\n==================================================\n8. USAGE RIGHTS ADD-ONS\n==================================================\n\nBase rates include organic posting rights only unless otherwise stated.\n\nOrganic Brand Usage - 30 Days:\nIncluded / $[Amount]\n\nOrganic Brand Usage - 90 Days:\n+$[Amount]\n\nOrganic Brand Usage - 6 Months:\n+$[Amount]\n\nOrganic Brand Usage - 12 Months:\n+$[Amount]\n\nPaid Ads Usage - 30 Days:\n+[Percentage]% of Base Rate or $[Amount]\n\nPaid Ads Usage - 90 Days:\n+[Percentage]% of Base Rate or $[Amount]\n\nPaid Ads Usage - 6 Months:\n+[Percentage]% of Base Rate or $[Amount]\n\nPaid Ads Usage - 12 Months:\n+[Percentage]% of Base Rate or $[Amount]\n\nWhitelisting / Spark Ads - 30 Days:\n+$[Amount]\n\nWhitelisting / Spark Ads - 90 Days:\n+$[Amount]\n\nFull Content Buyout:\nCustom Quote\n\n==================================================\n9. EXCLUSIVITY FEES\n==================================================\n\nCategory Exclusivity - 30 Days:\n+[Percentage]% of Total Campaign Fee\n\nCategory Exclusivity - 90 Days:\n+[Percentage]% of Total Campaign Fee\n\nCategory Exclusivity - 6 Months:\nCustom Quote\n\nCategory Exclusivity - 12 Months:\nCustom Quote\n\nCompetitor Category:\n[Define competitor category clearly]\n\nNotes:\nExclusivity limits the creator's ability to work with competing brands and must be compensated separately.\n\n==================================================\n10. ADD-ON MENU\n==================================================\n\nExtra Revision Round:\n+$[Amount]\n\nRush Delivery - Under 7 Days:\n+[Percentage]%\n\nRush Delivery - Under 72 Hours:\n+[Percentage]%\n\nScriptwriting:\n+$[Amount]\n\nAdditional Hook Variation:\n+$[Amount]\n\nAdditional CTA Variation:\n+$[Amount]\n\nRaw Footage Delivery:\n+$[Amount]\n\nProduct Photography Add-On:\n+$[Amount]\n\nLink in Bio Placement:\n+$[Amount]\n\nGiveaway Coordination:\n+$[Amount]\n\nEvent Attendance:\nCustom Quote\n\nTravel Content:\nCustom Quote\n\n==================================================\n11. REVISION POLICY\n==================================================\n\nIncluded Revisions:\n[Number] revision rounds are included unless otherwise stated.\n\nRevisions include:\n- Minor text edits;\n- CTA changes;\n- Caption edits;\n- Minor timing adjustments;\n- Minor visual edits.\n\nRevisions do not include:\n- Full reshoots;\n- New creative concepts;\n- New scripts after approval;\n- New deliverables;\n- Major direction changes after production begins.\n\nAdditional revisions are billed at:\n$[Amount] per round or [Percentage]% of project fee.\n\n==================================================\n12. PAYMENT TERMS\n==================================================\n\nDeposit Required:\n[Percentage]% due upon booking.\n\nFinal Payment:\nDue [before posting / upon approval / Net 15 / Net 30].\n\nAccepted Payment Methods:\n- ACH;\n- Bank Transfer;\n- PayPal;\n- Stripe;\n- Wire Transfer.\n\nLate Payment Policy:\nInvoices unpaid after the due date may incur a late fee of [Percentage]% per month or the maximum amount permitted by law.\n\nUsage rights do not begin until full payment has been received.\n\n==================================================\n13. IMPORTANT NOTES\n==================================================\n\n- Rates are starting rates and may vary based on scope.\n- Custom quotes are provided for complex campaigns.\n- Usage rights, whitelisting, exclusivity, and paid media rights are not included unless specifically listed.\n- Product gifting does not replace payment unless agreed in writing.\n- Campaign timelines begin once the agreement is signed and required products or materials are received.\n- All sponsored content will follow applicable disclosure rules and platform guidelines.\n\n==================================================\n14. CONTACT\n==================================================\n\nFor brand partnerships and campaign inquiries:\n\nName: [Creator Name]\nEmail: [Email]\nWebsite / Portfolio: [Website]\nInstagram: [Handle]\nTikTok: [Handle]\nYouTube: [Channel]\n\nThank you for considering a partnership. Custom packages are available upon request.",
+"example": "A lifestyle creator with 85,000 Instagram followers, 42,000 TikTok followers, and a 5.8% average engagement rate sends a creator rate card to a wellness brand. The card lists $1,200 for an Instagram Reel, $900 for a TikTok video, $2,400 for a three-video UGC package, 30-day organic usage included, and additional paid ad usage billed at 30% of the base content fee per month.",
+"tips": [
+"Treat your rate card as a negotiation starting point, not a rigid final price list.",
+"Separate content creation fees from usage rights, whitelisting, exclusivity, and raw footage.",
+"Use tiered packages to make it easier for brands to choose a campaign level.",
+"Review and update rates every three to six months as your audience, portfolio, and results improve.",
+"Charge more for high-value niches such as finance, tech, B2B, healthcare, luxury, and professional services.",
+"Include revision limits so brands understand what is and is not included.",
+"Use past campaign performance to justify higher rates.",
+"Add rush fees for tight deadlines and premium turnaround times.",
+"Never give away paid advertising rights or perpetual usage by default.",
+"Keep the design clean, scannable, and easy for brand managers to review quickly."
+],
+"faqs": [
+{
+"question": "What is a creator rate card?",
+"answer": "A creator rate card is a professional pricing document that lists a creator's services, deliverables, base rates, usage rights, add-ons, and package options for brand partnerships."
+},
+{
+"question": "How is a rate card different from a media kit?",
+"answer": "A media kit introduces your audience, content style, and past work. A rate card focuses on pricing, deliverables, packages, and negotiation terms."
+},
+{
+"question": "Should creators include usage rights on a rate card?",
+"answer": "Yes. Usage rights should be listed separately because paid ads, whitelisting, organic reposting, and long-term licensing create additional value for the brand."
+},
+{
+"question": "How should creators price sponsored posts?",
+"answer": "Creators often price sponsored posts using a combination of follower count, engagement rate, average views, content type, production time, niche value, and usage rights."
+},
+{
+"question": "What are common creator rate card add-ons?",
+"answer": "Common add-ons include paid usage rights, whitelisting, exclusivity, raw footage, additional revisions, rush delivery, extra hooks, scriptwriting, and link-in-bio placement."
+},
+{
+"question": "How often should a creator update their rate card?",
+"answer": "Most creators should update their rate card every three to six months or whenever their audience, engagement, niche demand, or portfolio quality significantly improves."
+}
+],
+"tags": [
+"creator-rate-card-template",
+"influencer-rate-card-template",
+"ugc-rate-card-template",
+"creator-pricing-sheet",
+"influencer-pricing-guide",
+"brand-deal-rate-card",
+"sponsored-content-pricing",
+"creator-business-template",
+"usage-rights-pricing",
+"creator-monetization"
+]
+},
+  {
     "slug": "consulting-scope-of-work",
     "title": "Consulting Scope of Work",
     "description": "A scope of work template clarifying consulting deliverables.",
@@ -305,6 +540,68 @@
       "professional"
     ]
   },
+  {
+"slug": "standard-operating-procedure-template",
+"qualityTier": "hand-polished",
+"title": "Standard Operating Procedure Template",
+"description": "Professional standard operating procedure template for businesses, teams, agencies, creators, operations managers, and growing organizations. Document repeatable workflows, assign responsibilities, define quality standards, and create clear step-by-step instructions for consistent results.",
+"category": {
+"name": "Business Documents",
+"slug": "business-documents"
+},
+"intro": "A Standard Operating Procedure, or SOP, is a clear step-by-step document that explains how to complete a recurring task consistently. It helps businesses reduce errors, train new team members, preserve institutional knowledge, and make sure important work is completed the same way every time. This template can be used for operations, content creation, brand outreach, editing, approvals, customer service, administrative workflows, and internal business processes.",
+"whenToUse": "Use this template when documenting a repeatable process that needs consistency, training support, quality control, compliance, or team-wide clarity. It is especially useful when a workflow depends on one person's knowledge, produces inconsistent results, or needs to be delegated to employees, contractors, assistants, editors, marketers, or operations staff.",
+"template": "STANDARD OPERATING PROCEDURE\n\nSOP Title: [Process Name]\nSOP ID: [SOP-001]\nDepartment: [Department]\nProcess Owner: [Owner Name]\nPrepared By: [Name]\nApproved By: [Name]\nEffective Date: [Date]\nReview Date: [Date]\nVersion: [Version Number]\n\n==================================================\n1. PURPOSE\n==================================================\n\nThis SOP explains how to complete the following process:\n\n[Describe the process]\n\nThe goal of this SOP is to ensure that the process is completed consistently, accurately, efficiently, and according to company standards.\n\n==================================================\n2. SCOPE\n==================================================\n\nThis SOP applies to:\n\n- [Team / Department / Role]\n- [Employees / Contractors / Vendors]\n- [Specific workflow or task]\n\nThis SOP does not apply to:\n\n- [Excluded process]\n- [Excluded team]\n- [Excluded situation]\n\n==================================================\n3. DEFINITION OF DONE\n==================================================\n\nThis process is complete when:\n\n- [Completion requirement 1]\n- [Completion requirement 2]\n- [Completion requirement 3]\n- [Final output is saved, submitted, published, approved, or delivered]\n\nSuccessful Output:\n\n[Describe exactly what a completed, high-quality result should look like.]\n\n==================================================\n4. ROLES AND RESPONSIBILITIES\n==================================================\n\nProcess Owner:\n[Name / Role]\nResponsible for maintaining and updating this SOP.\n\nTask Performer:\n[Name / Role]\nResponsible for completing the steps in this SOP.\n\nReviewer:\n[Name / Role]\nResponsible for reviewing work for accuracy and quality.\n\nApprover:\n[Name / Role]\nResponsible for final approval before completion or publication.\n\n==================================================\n5. REQUIRED INPUTS AND RESOURCES\n==================================================\n\nTools Required:\n\n- [Tool / Software]\n- [Tool / Software]\n- [Tool / Software]\n\nTemplates Required:\n\n- [Template Name]\n- [Template Name]\n\nAccess Required:\n\n- [Login / System / Folder]\n- [Shared Drive / CRM / CMS / Project Manager]\n\nMaterials Required:\n\n- [Raw file]\n- [Client brief]\n- [Brand guide]\n- [Source document]\n\nReference Documents:\n\n- [Policy]\n- [Checklist]\n- [Style Guide]\n- [Training Guide]\n\n==================================================\n6. PROCEDURE\n==================================================\n\nStep 1: Prepare the Workspace\n\n1. Open [Tool / Platform].\n2. Locate [Folder / Project / Account].\n3. Confirm that all required inputs are available.\n4. If any required input is missing, notify [Responsible Person] before continuing.\n\nStep 2: Review the Request or Brief\n\n1. Read the full request, brief, ticket, or assignment.\n2. Confirm the objective, deadline, audience, and required output.\n3. Check for special instructions, brand rules, compliance requirements, or client notes.\n4. Add questions or blockers to [Communication Channel].\n\nStep 3: Complete the Main Task\n\n1. Follow the approved workflow for [Task Name].\n2. Use the required template, checklist, or system.\n3. Complete each required section carefully.\n4. Save work in the correct file location.\n5. Name files using the approved naming convention:\n\n[YYYY-MM-DD_ProjectName_Deliverable_Version]\n\nStep 4: Quality Check\n\n1. Review the completed work against the Definition of Done.\n2. Confirm that all required fields, steps, files, or deliverables are complete.\n3. Check spelling, formatting, accuracy, links, dates, names, calculations, and attachments.\n4. Confirm that the work follows brand, client, legal, privacy, or compliance requirements.\n\nStep 5: Submit for Review\n\n1. Change task status to [Ready for Review].\n2. Assign the reviewer in [Project Management Tool].\n3. Include a short summary of what was completed.\n4. Attach or link all supporting files.\n\nStep 6: Complete Revisions\n\n1. Review all comments from the reviewer or approver.\n2. Make required changes.\n3. Reply to comments that require clarification.\n4. Resubmit for review when revisions are complete.\n\nStep 7: Final Approval\n\n1. Confirm that the approver has reviewed the final version.\n2. Obtain written approval through [Tool / Email / Checklist / Signature].\n3. Change task status to [Approved] or [Complete].\n\nStep 8: Archive and Record Completion\n\n1. Save the final version in [Folder / System].\n2. Update the tracking sheet, CRM, calendar, or project record.\n3. Record completion date.\n4. Note any issues, delays, or improvements for future updates.\n\n==================================================\n7. QUALITY STANDARDS\n==================================================\n\nAll completed work must meet the following standards:\n\n- Accurate and complete;\n- Clear and easy to understand;\n- Properly formatted;\n- Saved in the correct location;\n- Reviewed before submission;\n- Approved before publication or delivery;\n- Compliant with company policies and applicable requirements.\n\n==================================================\n8. TROUBLESHOOTING\n==================================================\n\nIssue: Required information is missing.\nSolution: Contact [Responsible Person] and pause the workflow until the missing information is provided.\n\nIssue: Access to the required tool is unavailable.\nSolution: Submit an access request to [Person / Department] and notify the process owner.\n\nIssue: Reviewer does not respond by the deadline.\nSolution: Send a follow-up message and escalate to [Manager / Approver] if no response is received within [Timeframe].\n\nIssue: The task does not fit the standard process.\nSolution: Document the exception and ask the process owner for guidance before proceeding.\n\n==================================================\n9. COMMON DECISION POINTS\n==================================================\n\nIf the task is urgent:\nFollow the rush workflow and notify [Approver].\n\nIf the task requires legal, compliance, or client approval:\nDo not publish, send, or finalize until written approval is received.\n\nIf the task requires a new template:\nCreate a draft and submit it to the process owner for review.\n\nIf the task is blocked:\nUpdate the task status to [Blocked] and document the reason.\n\n==================================================\n10. CONTENT CREATION WORKFLOW EXAMPLE\n==================================================\n\n1. Complete the content brief.\n2. Confirm target audience, keyword, goal, deadline, and call-to-action.\n3. Draft the content in [Google Docs / CMS / Writing Tool].\n4. Apply brand formatting and style guidelines.\n5. Add images, captions, alt text, links, and metadata.\n6. Run a self-review for clarity, accuracy, and completeness.\n7. Submit the draft for editorial review.\n8. Complete requested revisions.\n9. Submit for final approval.\n10. Move the asset to the publishing queue.\n\n==================================================\n11. BRAND OUTREACH WORKFLOW EXAMPLE\n==================================================\n\n1. Identify a qualified prospect.\n2. Verify the contact name, company, website, and email address.\n3. Research the brand's recent campaigns, products, and goals.\n4. Personalize the outreach message.\n5. Send the first-touch email.\n6. Log the contact in [CRM / Spreadsheet / Airtable].\n7. Follow up after 3 business days.\n8. Follow up again after 7 business days.\n9. If the brand responds, document next steps.\n10. Move the opportunity to negotiation or closed status.\n\n==================================================\n12. EDITING WORKFLOW EXAMPLE\n==================================================\n\n1. Review the original brief.\n2. Read the full draft before editing.\n3. Check structure, logic, flow, and audience fit.\n4. Edit for clarity, tone, grammar, punctuation, and formatting.\n5. Verify claims, names, links, dates, and sources.\n6. Leave specific comments where the creator must revise.\n7. Mark the draft as [Ready for Approval] when complete.\n\n==================================================\n13. APPROVAL WORKFLOW EXAMPLE\n==================================================\n\n1. Reviewer submits the asset for approval.\n2. Approver reviews the full asset, not only the changed sections.\n3. Approver leaves clear comments or approves the asset.\n4. Creator or editor completes any requested revisions.\n5. Approver gives final written sign-off.\n6. Asset moves to publishing, delivery, or archive.\n\n==================================================\n14. DOCUMENT CONTROL\n==================================================\n\nStorage Location:\n[Shared Drive / Knowledge Base / Wiki / SOP Folder]\n\nNaming Convention:\n[SOP-ID_Process-Name_Version_Date]\n\nReview Frequency:\n[Every 6 Months / Annually / After Major Process Change]\n\nProcess Owner:\n[Name / Role]\n\n==================================================\n15. VERSION HISTORY\n==================================================\n\n| Version | Date | Updated By | Changes Made |\n|---------|------|------------|--------------|\n| 1.0 | [Date] | [Name] | Initial SOP created |\n| 1.1 | [Date] | [Name] | [Update details] |\n| 1.2 | [Date] | [Name] | [Update details] |\n\n==================================================\n16. APPROVAL\n==================================================\n\nPrepared By:\n\nName: ______________________________\nSignature: _________________________\nDate: ______________________________\n\nApproved By:\n\nName: ______________________________\nSignature: _________________________\nDate: ______________________________",
+"example": "A small marketing agency uses this SOP template to document its blog publishing workflow. The SOP defines who creates the content brief, where drafts are written, how editors review work, when the client approves the article, how final files are stored, and what must happen before the post is published.",
+"tips": [
+"Write each step in active voice so the reader knows exactly what action to take.",
+"Test the SOP with someone who has never completed the task before.",
+"Include a clear Definition of Done so quality expectations are obvious.",
+"Store SOPs in a central knowledge base where team members can find them quickly.",
+"Use screenshots, checklists, or flowcharts when the process has many decision points.",
+"Assign one owner responsible for maintaining each SOP.",
+"Review SOPs every six to twelve months or whenever tools, policies, or workflows change.",
+"Keep the language simple and remove unnecessary jargon."
+],
+"faqs": [
+{
+"question": "What is a standard operating procedure?",
+"answer": "A standard operating procedure is a documented set of instructions that explains how to complete a recurring task or process consistently."
+},
+{
+"question": "What should an SOP include?",
+"answer": "An SOP should include the title, purpose, scope, roles, required resources, step-by-step procedure, quality standards, troubleshooting guidance, document control, and approval information."
+},
+{
+"question": "Who should write an SOP?",
+"answer": "An SOP should be written by someone who understands the process well, often with input from the employees, contractors, or stakeholders who perform or review the work."
+},
+{
+"question": "How often should SOPs be reviewed?",
+"answer": "Most SOPs should be reviewed every six to twelve months or whenever a process, tool, regulation, or responsibility changes."
+},
+{
+"question": "What is the difference between a process and an SOP?",
+"answer": "A process explains what needs to happen at a high level, while an SOP explains exactly how to complete the task step by step."
+},
+{
+"question": "What format works best for an SOP?",
+"answer": "Simple tasks work well as numbered steps or checklists, while complex workflows may require hierarchical steps, screenshots, diagrams, or flowcharts."
+}
+],
+"tags": [
+"standard-operating-procedure-template",
+"sop-template",
+"business-process-template",
+"operations-template",
+"workflow-documentation",
+"process-documentation",
+"employee-training-template",
+"business-operations",
+"procedure-manual-template",
+"team-process-template"
+]
+},
   {
     "slug": "employee-handbook-template",
     "title": "Employee Handbook Template Template",
