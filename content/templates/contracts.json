@@ -361,6 +361,7 @@
 },
 {
 "slug": "freelance-services-contract-template-basic",
+"qualityTier": "hand-polished",
 "title": "Basic Freelance Services Contract Template",
 "description": "A rudimentary professional freelance services contract template covering scope of work, payment schedules, revisions, intellectual property rights, timelines, client responsibilities, cancellation terms, and legal protections for freelancers and independent contractors.",
 "category": {
@@ -413,6 +414,176 @@
 "scope-of-work",
 "contract-template"
 ]
+},
+{
+"slug": "dj-contract-template",
+"qualityTier": "hand-polished",
+"title": "DJ Contract Template",
+"description": "Free DJ contract template for weddings, parties, clubs, festivals, corporate events, and private bookings. Protect payment terms, cancellations, equipment responsibilities, and performance expectations.",
+"category": {
+"name": "Contracts",
+"slug": "contracts"
+},
+"intro": "A DJ contract is a written agreement between a DJ and a client that outlines performance details, payment terms, cancellation policies, equipment responsibilities, and event expectations. This template helps DJs and event organizers avoid misunderstandings while ensuring both parties understand their obligations.",
+"whenToUse": "Use this DJ contract when booking performances for weddings, private parties, corporate events, clubs, festivals, fundraisers, school events, or any paid DJ engagement where expectations, compensation, and responsibilities should be documented in writing.",
+"template": "DJ PERFORMANCE AGREEMENT\n\nThis DJ Performance Agreement (\"Agreement\") is entered into on [Date] by and between:\n\nDJ / Performer:\nName: [DJ Name]\nBusiness Name: [Business Name]\nAddress: [Address]\nEmail: [Email]\nPhone: [Phone]\n\nClient / Event Organizer:\nName: [Client Name]\nOrganization: [Organization Name]\nAddress: [Address]\nEmail: [Email]\nPhone: [Phone]\n\n1. EVENT DETAILS\n\nEvent Name: [Event Name]\nEvent Date: [Date]\nVenue Name: [Venue]\nVenue Address: [Address]\nPerformance Start Time: [Time]\nPerformance End Time: [Time]\nGuest Count: [Estimated Attendance]\n\n2. SERVICES PROVIDED\n\nThe DJ agrees to provide professional DJ and music entertainment services including:\n\n- Live music performance\n- Music selection and mixing\n- Crowd engagement\n- Basic microphone announcements (if applicable)\n- Setup and breakdown of DJ equipment (if provided by DJ)\n\nAdditional Services:\n[Specify Additional Services]\n\n3. PAYMENT TERMS\n\nTotal Performance Fee: $[Amount]\nDeposit Due Upon Signing: $[Amount]\nRemaining Balance Due: $[Amount]\n\nPayment Method:\n[Bank Transfer / Cash / Check / Other]\n\nThe deposit is required to reserve the event date and is non-refundable except as otherwise stated in this Agreement.\n\n4. OVERTIME\n\nAny performance time requested beyond the scheduled end time will be billed at:\n\n$[Amount] per hour\n\nOvertime must be approved by both parties.\n\n5. CLIENT RESPONSIBILITIES\n\nThe Client agrees to:\n\n- Provide legal access to the venue\n- Ensure adequate electrical power is available\n- Obtain any permits required for the event\n- Provide safe working conditions\n- Ensure compliance with venue policies\n\n6. EQUIPMENT RESPONSIBILITIES\n\nDJ Provided Equipment:\n[Equipment List]\n\nVenue/Client Provided Equipment:\n[Equipment List]\n\nThe Client shall be responsible for damage caused by guests, venue staff, or third parties to DJ-owned equipment beyond normal wear and tear.\n\n7. MUSIC REQUESTS\n\nThe Client may provide:\n\n- Must-play songs\n- Preferred genres\n- Do-not-play songs\n\nFinal music selection remains at the DJ's professional discretion unless otherwise agreed in writing.\n\n8. RECORDING AND MEDIA\n\nThe Client may photograph or record portions of the performance for personal use.\n\nCommercial use, broadcast, resale, or promotional distribution of recordings requires prior written permission from the DJ.\n\nThe DJ retains all intellectual property rights related to original performances, mixes, recordings, and promotional materials.\n\n9. CANCELLATION POLICY\n\nIf the Client cancels:\n\nMore than 30 days before event:\nDeposit retained.\n\n15-30 days before event:\n50% of total fee becomes due.\n\nLess than 15 days before event:\n100% of total fee becomes due.\n\nIf the DJ cancels due to illness, emergency, or circumstances beyond reasonable control, all payments received shall be refunded unless a mutually acceptable replacement DJ is provided.\n\n10. FORCE MAJEURE\n\nNeither party shall be liable for failure to perform due to circumstances beyond reasonable control, including but not limited to:\n\n- Natural disasters\n- Government restrictions\n- Severe weather\n- Transportation disruptions\n- Public emergencies\n- Venue closures\n\nThe parties will attempt in good faith to reschedule the event whenever possible.\n\n11. INDEPENDENT CONTRACTOR STATUS\n\nThe DJ is an independent contractor and not an employee, agent, or representative of the Client.\n\n12. LIMITATION OF LIABILITY\n\nThe DJ shall not be liable for:\n\n- Venue power failures\n- Internet outages\n- Equipment failures caused by venue infrastructure\n- Event interruptions beyond the DJ's control\n- Indirect or consequential damages\n\n13. DISPUTE RESOLUTION\n\nAny dispute arising from this Agreement shall first be resolved through good-faith negotiation between the parties before pursuing legal remedies.\n\n14. GOVERNING LAW\n\nThis Agreement shall be governed by the laws of [State/Country].\n\n15. ENTIRE AGREEMENT\n\nThis document constitutes the entire agreement between the parties and supersedes all prior discussions and understandings.\n\nSIGNATURES\n\nDJ / Performer\n\nSignature: ______________________\nName: _________________________\nDate: __________________________\n\nClient / Event Organizer\n\nSignature: ______________________\nName: _________________________\nDate: __________________________",
+"example": "A nightclub books a DJ for a four-hour Saturday night performance. The club agrees to pay a $1,000 performance fee with a $500 deposit upon signing and the remaining balance before the event begins. The agreement specifies the DJ's performance times, overtime rate, equipment responsibilities, and cancellation terms, ensuring both parties understand their obligations.",
+"tips": [
+"Always collect a deposit before reserving a date.",
+"Clearly define start times, end times, and overtime rates.",
+"Document equipment responsibilities to avoid disputes.",
+"Include a cancellation policy for both parties.",
+"Keep all event communications in writing.",
+"Customize music request provisions for weddings and private events.",
+"Use a separate technical rider for larger club and festival performances."
+],
+"faqs": [
+{
+"question": "Do DJs need contracts for private parties?",
+"answer": "Yes. A written contract helps clarify payment, event details, cancellations, and expectations for both the DJ and the client."
+},
+{
+"question": "How much deposit should a DJ require?",
+"answer": "Many DJs require a deposit between 25% and 50% of the total booking fee to reserve the event date."
+},
+{
+"question": "Should a DJ contract include overtime rates?",
+"answer": "Yes. Overtime provisions prevent disputes if the client requests additional performance time."
+},
+{
+"question": "Can a DJ keep the deposit if the client cancels?",
+"answer": "Many DJ contracts allow deposits to remain non-refundable, though the specific terms should be clearly stated in the agreement."
+},
+{
+"question": "Who provides sound equipment?",
+"answer": "The contract should specify whether equipment is provided by the DJ, the venue, or the client."
+}
+],
+"tags": [
+"dj contract",
+"dj agreement",
+"disc jockey contract",
+"club dj contract",
+"wedding dj contract",
+"festival dj contract",
+"event entertainment contract",
+"music performance agreement",
+"party dj agreement",
+"dj services contract"
+]
+},
+{
+  "slug": "festival-dj-contract-template",
+  "qualityTier": "hand-polished",
+  "title": "Festival DJ Contract Template",
+  "description": "Professional festival DJ contract template covering performance fees, travel accommodations, technical riders, hospitality requirements, broadcasting rights, exclusivity clauses, and international festival bookings.",
+  "category": {
+    "name": "Contracts",
+    "slug": "contracts"
+  },
+  "intro": "A festival DJ contract is a comprehensive agreement used for large-scale music festivals, major club events, and international performances. It protects both the DJ and promoter by clearly defining compensation, travel arrangements, technical requirements, broadcast rights, hospitality expectations, and cancellation terms.",
+  "whenToUse": "Use this festival DJ contract when booking performances for music festivals, international events, major club appearances, concert series, destination events, or any high-profile DJ engagement requiring travel, accommodations, technical riders, and media rights provisions.",
+  "template": "FESTIVAL DJ PERFORMANCE AGREEMENT\n\nThis Festival DJ Performance Agreement (\"Agreement\") is entered into on [Date] by and between:\n\nArtist / DJ:\nStage Name: [DJ Name]\nLegal Name: [Legal Name]\nManagement Company: [Management Company]\nAddress: [Address]\nEmail: [Email]\nPhone: [Phone]\n\nPromoter / Festival Organizer:\nCompany Name: [Company Name]\nRepresentative: [Name]\nAddress: [Address]\nEmail: [Email]\nPhone: [Phone]\n\n1. EVENT DETAILS\n\nFestival Name: [Festival Name]\nEvent Date: [Date]\nVenue: [Venue Name]\nLocation: [City, State/Country]\nPerformance Date: [Date]\nPerformance Time: [Time]\nPerformance Duration: [Length]\nExpected Attendance: [Attendance]\n\n2. PERFORMANCE SERVICES\n\nArtist shall provide a live DJ performance consisting of professional music entertainment services during the agreed performance slot.\n\nPerformance Length: [Duration]\nSet Time: [Time]\nStage: [Stage Name]\n\nThe Artist agrees to perform professionally and arrive sufficiently in advance of the scheduled set time.\n\n3. PERFORMANCE FEE\n\nPerformance Fee: $[Amount]\n\nPayment Schedule:\n\nDeposit Due Upon Signing: $[Amount]\nSecond Installment: $[Amount]\nFinal Payment: $[Amount]\n\nUnless otherwise agreed, all payments shall be made via wire transfer.\n\nThe final payment shall be received no later than [Date] or immediately following the performance.\n\n4. TRAVEL AND ACCOMMODATIONS\n\nPromoter shall provide and pay for:\n\n- Round-trip airfare\n- Ground transportation\n- Hotel accommodations\n- Airport transfers\n- Daily per diem of $[Amount]\n\nAirfare Class:\n[Economy / Premium Economy / Business Class]\n\nHotel Requirements:\nMinimum [Number]-star hotel\nPrivate room\nCheck-in date: [Date]\nCheck-out date: [Date]\n\nTravel arrangements shall be approved by Artist management before booking.\n\n5. TECHNICAL RIDER\n\nPromoter shall provide the following equipment in good working order:\n\nRequired DJ Setup:\n\n- 4 Pioneer CDJ-3000 Players\n- 1 Pioneer DJM-A9 Mixer\n- Ethernet networking between all players\n- Latest firmware installed\n- Professional booth monitors\n- Stable DJ booth platform\n- Dedicated power supply\n\nAlternative equipment requires prior written approval.\n\n6. SOUNDCHECK\n\nArtist shall be provided a minimum of [Time] minutes for soundcheck and equipment verification before doors open.\n\n7. HOSPITALITY RIDER\n\nPromoter shall provide:\n\n- Private backstage access\n- Bottled water\n- Soft drinks\n- Towels\n- Secure artist area\n\nAdditional hospitality requirements:\n[Specify Additional Requirements]\n\n8. MARKETING AND BILLING\n\nPromoter may use Artist's approved name, logo, image, and promotional materials solely for marketing the event.\n\nArtist billing shall appear as follows:\n\n[Billing Language]\n\nPromoter may not alter logos, artist names, or branding materials without approval.\n\n9. BROADCASTING AND RECORDING RIGHTS\n\nNo audio, video, livestream, television, radio, or internet broadcast of Artist's performance shall occur without written authorization.\n\nIf approved:\n\n- Promoter may broadcast the performance solely for event-related purposes.\n- Artist retains ownership of all original performance rights.\n- Artist may use approved recordings for self-promotion.\n\nCommercial exploitation requires a separate written agreement.\n\n10. INTELLECTUAL PROPERTY\n\nAll trademarks, logos, branding, recordings, original music, and creative works remain the exclusive property of the Artist.\n\nNothing in this Agreement transfers ownership rights to the Promoter.\n\n11. EXCLUSIVITY AND RADIUS CLAUSE\n\nArtist agrees not to perform publicly within a radius of [Miles/Kilometers] of the Festival venue during the period beginning [Number] days before and ending [Number] days after the Festival.\n\nExceptions require written approval from the Promoter.\n\n12. CANCELLATION\n\nIf Promoter cancels:\n\nMore than 90 days before performance:\nDeposit retained.\n\n30-89 days before performance:\n50% of total fee becomes due.\n\nLess than 30 days before performance:\n100% of total fee becomes due.\n\nTravel expenses already incurred shall also be reimbursed.\n\n13. FORCE MAJEURE\n\nNeither party shall be liable for failure to perform due to:\n\n- Natural disasters\n- War\n- Government restrictions\n- Public emergencies\n- Epidemics or pandemics\n- Severe travel disruptions\n- Venue destruction\n\nParties shall attempt in good faith to reschedule the performance.\n\n14. INDEPENDENT CONTRACTOR\n\nArtist is an independent contractor and not an employee, partner, or agent of Promoter.\n\n15. INSURANCE\n\nPromoter shall maintain adequate event liability insurance covering the event venue and attendees.\n\n16. LIMITATION OF LIABILITY\n\nArtist shall not be liable for:\n\n- Venue equipment failures\n- Sound system malfunctions\n- Event cancellations outside Artist control\n- Audience injuries\n- Security incidents\n\n17. GOVERNING LAW\n\nThis Agreement shall be governed by the laws of [State/Country].\n\n18. ENTIRE AGREEMENT\n\nThis Agreement, together with any attached Riders or Addendums, constitutes the entire agreement between the parties.\n\nSIGNATURES\n\nARTIST / DJ\n\nSignature: ______________________\nName: _________________________\nDate: __________________________\n\nMANAGEMENT REPRESENTATIVE\n\nSignature: ______________________\nName: _________________________\nDate: __________________________\n\nPROMOTER / FESTIVAL ORGANIZER\n\nSignature: ______________________\nName: _________________________\nDate: __________________________",
+  "example": "A music festival books an international DJ for a 90-minute headline performance. The promoter agrees to pay a $15,000 performance fee, provide business-class airfare, four-star accommodations, airport transportation, technical equipment matching the artist rider, and broadcasting rights limited to a festival livestream. The contract outlines payment milestones, cancellation penalties, exclusivity restrictions, and media usage permissions.",
+  "tips": [
+    "Require deposits before confirming the booking.",
+    "Separate technical riders from the main agreement for easier updates.",
+    "Specify who is responsible for visas and work permits.",
+    "Negotiate broadcasting rights before signing.",
+    "Include travel reimbursement language.",
+    "Use radius clauses carefully to avoid unnecessary restrictions.",
+    "Document all hospitality requirements in writing."
+  ],
+  "faqs": [
+    {
+      "question": "What is a festival DJ contract?",
+      "answer": "A festival DJ contract is a performance agreement used for large-scale music events that covers fees, travel, accommodations, technical requirements, and media rights."
+    },
+    {
+      "question": "Should festivals pay travel expenses?",
+      "answer": "Most professional festival agreements specify whether the promoter or artist is responsible for travel, hotels, and transportation."
+    },
+    {
+      "question": "What is a technical rider?",
+      "answer": "A technical rider lists the equipment and production requirements needed for the performance."
+    },
+    {
+      "question": "What is a radius clause?",
+      "answer": "A radius clause limits an artist from performing nearby events during a defined period before and after the festival."
+    },
+    {
+      "question": "Who owns festival livestream recordings?",
+      "answer": "Ownership and usage rights should be specifically addressed in the contract because policies vary between promoters and artists."
+    }
+  ],
+  "tags": [
+    "festival dj contract",
+    "music festival contract",
+    "dj rider template",
+    "festival performance agreement",
+    "headliner dj contract",
+    "electronic music contract",
+    "touring dj agreement",
+    "artist performance contract",
+    "festival booking agreement",
+    "international dj contract"
+  ]
+},
+{
+  "slug": "club-dj-contract-template",
+  "title": "Club DJ Contract Template",
+  "description": "Professional club DJ contract template for bars, lounges, restaurants, nightclubs, beach clubs, and recurring residencies. Includes performance fees, set times, overtime rates, cancellation policies, equipment requirements, and payment terms.",
+  "category": {
+    "name": "Contracts",
+    "slug": "contracts"
+  },
+  "intro": "A club DJ contract is a performance agreement between a DJ and a venue that establishes compensation, performance schedules, equipment responsibilities, cancellation terms, and operational expectations. This template is designed for the most common and practical DJ bookings, including bars, restaurants, lounges, beach clubs, rooftops, and nightclub appearances.",
+  "whenToUse": "Use this contract for club appearances, bar gigs, rooftop events, restaurant entertainment, beach club performances, recurring residencies, hotel events, and private venue bookings where a DJ is providing music entertainment services.",
+  "template": "CLUB DJ PERFORMANCE AGREEMENT\n\nThis Club DJ Performance Agreement (\"Agreement\") is entered into on [Date] by and between:\n\nDJ / Performer:\nName: [DJ Name]\nBusiness Name: [Business Name]\nAddress: [Address]\nEmail: [Email]\nPhone: [Phone]\n\nVenue / Client:\nBusiness Name: [Venue Name]\nRepresentative: [Name]\nAddress: [Address]\nEmail: [Email]\nPhone: [Phone]\n\n1. EVENT DETAILS\n\nVenue Name: [Venue Name]\nVenue Address: [Address]\nPerformance Date: [Date]\nPerformance Start Time: [Time]\nPerformance End Time: [Time]\nPerformance Duration: [Hours]\nExpected Attendance: [Attendance]\n\n2. SERVICES PROVIDED\n\nThe DJ agrees to provide professional DJ and music entertainment services including:\n\n- Live DJ performance\n- Music programming and mixing\n- Crowd engagement\n- Venue-appropriate music selection\n- Setup and breakdown of DJ equipment (if applicable)\n\nPerformance Style:\n[Open Format / House / Tech House / Afro House / Hip-Hop / Top 40 / Other]\n\n3. PERFORMANCE FEE\n\nTotal Performance Fee: $[Amount]\n\nDeposit (if applicable): $[Amount]\n\nBalance Due: $[Amount]\n\nPayment Method:\n[Cash / Direct Deposit / Wire Transfer / Other]\n\nPayment Due:\n[Before Performance / End of Night / Within X Days]\n\n4. OVERTIME\n\nAny performance time requested beyond the contracted end time shall be billed at:\n\n$[Amount] per hour\n\nOvertime must be approved by both parties before continuing the performance.\n\n5. RESIDENCY OPTION (OPTIONAL)\n\nIf this booking is part of a recurring residency:\n\nResidency Frequency: [Weekly / Monthly / Other]\nResidency Term: [Dates]\n\nEither party may terminate future residency dates with [Number] days written notice.\n\n6. VENUE RESPONSIBILITIES\n\nThe Venue agrees to provide:\n\n- Safe performance area\n- Adequate electrical power\n- Climate-controlled environment when applicable\n- Reasonable security measures\n- Access to venue during setup and breakdown\n\nThe Venue shall obtain any licenses, permits, or approvals necessary to operate the event.\n\n7. EQUIPMENT RESPONSIBILITIES\n\nDJ Provided Equipment:\n[Equipment List]\n\nVenue Provided Equipment:\n[Equipment List]\n\nIf the Venue is supplying equipment, all equipment must be functional and available at least [Time] prior to performance.\n\nThe Venue is responsible for damage caused by patrons, staff, or third parties to DJ-owned equipment.\n\n8. SOUND AND TECHNICAL REQUIREMENTS\n\nMinimum Requirements:\n\n- Professional sound system\n- Functional DJ booth or table\n- Reliable power supply\n- Adequate booth lighting\n- Secure equipment placement area\n\nAdditional Requirements:\n[Requirements]\n\n9. MUSIC POLICY\n\nThe Venue may provide:\n\n- Preferred music genres\n- Brand guidelines\n- Prohibited music categories\n\nThe DJ maintains professional discretion over song selection, transitions, and programming.\n\n10. HOSPITALITY\n\nVenue shall provide:\n\n- Complimentary water\n- Secure storage area for personal belongings\n\nAdditional Hospitality:\n[Optional Hospitality Details]\n\n11. MARKETING RIGHTS\n\nVenue may use the DJ's approved name and promotional images solely to advertise the event.\n\nThe DJ retains ownership of all branding, logos, likeness rights, and promotional materials.\n\n12. PHOTOGRAPHY AND RECORDING\n\nThe Venue may capture photographs and short video clips for promotional purposes.\n\nFull recordings, livestreams, broadcasts, or commercial distribution require written permission from the DJ.\n\n13. CANCELLATION POLICY\n\nIf Venue Cancels:\n\nMore than 14 days before performance:\nDeposit retained.\n\n7-14 days before performance:\n50% of performance fee due.\n\nLess than 7 days before performance:\n100% of performance fee due.\n\nIf DJ Cancels:\n\nAll deposits shall be refunded unless a mutually acceptable replacement DJ is provided.\n\n14. FORCE MAJEURE\n\nNeither party shall be liable for cancellation caused by:\n\n- Natural disasters\n- Severe weather\n- Government restrictions\n- Public emergencies\n- Venue closures\n- Utility failures beyond reasonable control\n\nThe parties shall attempt to reschedule whenever practical.\n\n15. INDEPENDENT CONTRACTOR STATUS\n\nThe DJ is an independent contractor and not an employee, partner, or agent of the Venue.\n\n16. LIABILITY LIMITATION\n\nThe DJ shall not be liable for:\n\n- Venue equipment failures\n- Electrical issues\n- Patron conduct\n- Security incidents\n- Venue operational problems\n- Lost business revenue\n\n17. DISPUTE RESOLUTION\n\nAny dispute arising from this Agreement shall first be resolved through good-faith negotiation.\n\n18. GOVERNING LAW\n\nThis Agreement shall be governed by the laws of [State/Country].\n\n19. ENTIRE AGREEMENT\n\nThis document constitutes the entire agreement between the parties and supersedes all prior verbal or written discussions.\n\nSIGNATURES\n\nDJ / PERFORMER\n\nSignature: ______________________\nName: _________________________\nDate: __________________________\n\nVENUE REPRESENTATIVE\n\nSignature: ______________________\nName: _________________________\nTitle: __________________________\nDate: __________________________",
+  "example": "A beach club books a DJ for a five-hour Saturday evening performance from 6:00 PM to 11:00 PM. The venue agrees to pay $1,200 upon completion of the performance, provide the sound system and DJ booth, supply complimentary water, and pay an overtime rate of $300 per additional hour if the set is extended. The contract defines cancellation policies, equipment responsibilities, and music programming expectations.",
+  "tips": [
+    "Always specify set times and overtime rates.",
+    "Collect deposits for first-time venues.",
+    "Document who provides sound equipment.",
+    "Include cancellation penalties for last-minute venue cancellations.",
+    "Use residency provisions for recurring bookings.",
+    "Clarify whether recordings or livestreams are permitted.",
+    "Require payment before leaving the venue whenever possible."
+  ],
+  "faqs": [
+    {
+      "question": "Do DJs need contracts for club gigs?",
+      "answer": "Yes. A written agreement helps prevent disputes involving payment, cancellations, set times, and equipment responsibilities."
+    },
+    {
+      "question": "What should a club DJ contract include?",
+      "answer": "A club DJ contract should include event details, performance times, payment terms, overtime rates, cancellation policies, and equipment responsibilities."
+    },
+    {
+      "question": "Should a DJ charge overtime?",
+      "answer": "Most professional DJs include overtime rates so additional performance time is compensated fairly."
+    },
+    {
+      "question": "Can a venue record a DJ performance?",
+      "answer": "Recording permissions should be specifically addressed in the contract because promotional, livestream, and commercial uses may require separate approval."
+    },
+    {
+      "question": "Who provides the sound system?",
+      "answer": "The contract should clearly identify whether the DJ or venue provides speakers, mixers, decks, and related equipment."
+    }
+  ],
+  "tags": [
+    "club dj contract",
+    "nightclub dj agreement",
+    "bar dj contract",
+    "lounge dj contract",
+    "beach club dj contract",
+    "dj residency agreement",
+    "dj services contract",
+    "nightlife contract",
+    "venue entertainment agreement",
+    "professional dj contract"
+  ]
 },
   {
     "slug": "consulting-agreement-strategy",

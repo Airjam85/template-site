@@ -153,101 +153,129 @@
 ]
 },
   {
-    "slug": "pto-request-urgent",
-    "title": "Urgent PTO Request",
-    "description": "Request template for urgent unplanned time off.",
-    "category": {
-      "name": "Employment",
-      "slug": "employment"
-    },
-    "intro": "A short message requesting urgent leave.",
-    "whenToUse": "Emergencies or sudden personal needs.",
-    "template": "Hi [Manager],\n\nI need urgent leave starting [Date] due to [Reason]. I will update you as soon as possible with details.\n\nThanks,\n[Name]",
-    "example": "Hi Alex,\n\nI need urgent leave starting May 19 due to a family emergency. I will share more details soon.\n\nThanks,\nTaylor",
-    "tags": [
-      "employment",
-      "verification",
-      "documents"
-    ]
-  },
+"slug": "urgent-pto-request-template",
+"qualityTier": "hand-polished",
+"title": "Urgent PTO Request Template",
+"description": "Professional urgent PTO request template for employees who need to request paid time off on short notice while providing dates, reason, coverage details, availability, and next steps.",
+"category": {
+"name": "Employment",
+"slug": "employment"
+},
+"intro": "An Urgent PTO Request is used when an employee needs paid time off with limited advance notice. A strong request is direct, respectful, and practical: it explains the dates needed, acknowledges the short notice, provides a coverage plan, and gives the manager enough information to make a fast decision.",
+"whenToUse": "Use this template when you need to request PTO urgently for a family matter, personal emergency, unexpected obligation, travel issue, appointment, short-notice event, or other time-sensitive reason. It can be adapted for email, chat, or an HR portal request.",
+"template": "Subject: Urgent PTO Request: [Your Name] - [Start Date] to [End Date]\n\nHi [Manager Name],\n\nI am writing to request paid time off from [Start Date] through [End Date] due to [brief reason, e.g., an urgent personal matter / a family obligation / an unexpected appointment]. I understand this is short notice, and I apologize for the timing.\n\nI have reviewed my current responsibilities and will take the following steps to minimize disruption:\n\n- [Task or project] will be completed before I leave.\n- [Colleague Name] has agreed to cover [specific responsibility] while I am away.\n- [Urgent item] will be handed off to [Colleague Name / Team Name].\n- I will update [project tracker / shared document / handoff notes] before my time off begins.\n\nI expect to return to work on [Return Date]. During my time away, I will have [no access / limited access / emergency-only access] to email and phone. If something truly urgent comes up, I can be reached at [Phone Number], but I will otherwise plan to be offline.\n\nPlease let me know if this request can be approved or if there are any additional steps I should complete in [HR system / payroll system / PTO portal].\n\nThank you for your understanding and for considering this request on short notice.\n\nBest regards,\n\n[Your Name]\n[Your Title]\n[Phone Number]",
+"example": "Subject: Urgent PTO Request: Jordan Lee - May 14 to May 15\n\nHi Ms. Carter,\n\nI am writing to request paid time off from May 14 through May 15 due to an urgent family matter. I understand this is short notice, and I apologize for the timing.\n\nI have reviewed my current responsibilities and will complete the weekly client report before I leave today. I have also spoken with Priya Shah, who has agreed to monitor the shared inbox and escalate any urgent client issues while I am away. I will update the project tracker and leave handoff notes before the end of the day.\n\nI expect to return to work on May 16. During my time away, I will have limited access to email, but I can be reached by phone for true emergencies.\n\nPlease let me know if this request can be approved or if I should submit anything additional in the HR portal.\n\nThank you for your understanding.\n\nBest regards,\nJordan Lee",
+"tips": [
+"State the requested dates in the subject line and first sentence.",
+"Acknowledge the short notice without over-apologizing.",
+"Keep the reason brief and avoid unnecessary personal details.",
+"Include a coverage plan so your manager sees that you considered the team impact.",
+"Name the colleague covering urgent work if possible.",
+"Clarify whether you will be offline or available for emergencies.",
+"Submit the request through the official HR or payroll system after notifying your manager."
+],
+"faqs": [
+{
+"question": "How do I request PTO on short notice?",
+"answer": "State the dates clearly, acknowledge the short notice, briefly explain the reason, and provide a coverage plan for urgent work."
+},
+{
+"question": "Do I need to explain why my PTO request is urgent?",
+"answer": "You should provide a brief reason, but you do not need to share private details. Phrases like urgent personal matter or family obligation are often enough."
+},
+{
+"question": "Should I offer to be available during urgent PTO?",
+"answer": "Only offer availability if it is realistic. If you need to be fully offline, state that clearly and provide a coverage plan instead."
+},
+{
+"question": "Can urgent PTO be denied?",
+"answer": "Depending on company policy and applicable law, urgent PTO may be denied for staffing or business reasons unless it falls under protected leave or sick leave rules."
+},
+{
+"question": "Should I submit urgent PTO through the HR system too?",
+"answer": "Yes. After notifying your manager, submit the request through the official HR, payroll, or PTO system so it is properly recorded."
+}
+],
+"tags": [
+"urgent-pto-request",
+"pto-request-template",
+"time-off-request",
+"short-notice-pto",
+"employee-email-template",
+"workplace-communication",
+"paid-time-off",
+"leave-request-template",
+"manager-email",
+"employment-template"
+]
+},
   {
-    "slug": "employee-promotion-letter",
-    "title": "Employee Promotion Letter Template",
-    "description": "Free employee promotion letter template for professional use.",
-    "category": {
-      "name": "Employment",
-      "slug": "employment"
-    },
-    "intro": "This employee promotion letter template helps you create professional documentation effectively.",
-    "whenToUse": "Use this template for your professional needs and documentation.",
-    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
-    "example": "[Example content demonstrating proper usage]",
-    "tips": [
-      "Customize the template to fit your specific needs",
-      "Review all details before finalizing",
-      "Keep copies for your records",
-      "Follow any legal requirements in your jurisdiction",
-      "Seek professional advice if needed"
-    ],
-    "faqs": [
-      {
-        "question": "Can I customize this template?",
-        "answer": "Yes, templates are meant to be customized for your specific situation."
-      },
-      {
-        "question": "Is this legally binding?",
-        "answer": "Templates provide structure; consult legal counsel for legal documents."
-      },
-      {
-        "question": "Can I use this for commercial purposes?",
-        "answer": "Check your local laws and usage rights for commercial use."
-      }
-    ],
-    "tags": [
-      "employment",
-      "template",
-      "professional"
-    ]
+  "slug": "employee-demotion-letter-template",
+  "qualityTier": "hand-polished",
+  "title": "Employee Demotion Letter Template",
+  "description": "Professional employee demotion letter template for employers and HR teams to formally document role changes, compensation adjustments, reporting structure updates, expectations, and employee acknowledgment.",
+  "category": {
+    "name": "Human Resources",
+    "slug": "human-resources"
   },
-  {
-    "slug": "employee-demotion-letter",
-    "title": "Employee Demotion Letter Template",
-    "description": "Free employee demotion letter template for professional use.",
-    "category": {
-      "name": "Employment",
-      "slug": "employment"
+  "intro": "An Employee Demotion Letter is a formal notice informing an employee that they are being reassigned to a lower position, level, or title within the organization. A well-crafted demotion letter balances professionalism, transparency, and empathy while clearly outlining the reasons for the change, revised responsibilities, compensation adjustments, and available support during the transition.",
+  "whenToUse": "Use this template when demoting an employee due to performance concerns, organizational restructuring, leadership changes, role realignment, position elimination, policy violations, voluntary demotion requests, or other legitimate business reasons.",
+  "template": "EMPLOYEE DEMOTION LETTER\n\n[Company Letterhead]\n\nDate: [Date]\n\nEmployee Name: [Employee Full Name]\nCurrent Position: [Current Job Title]\nDepartment: [Department]\nEmployee Address: [Address]\nCity, State, ZIP: [City, State, ZIP]\n\nSubject: Notice of Position Change and Demotion\n\nDear [Employee Name],\n\nThis letter serves as formal notification that effective [Effective Date], your position with [Company Name] will change from [Current Job Title] to [New Job Title].\n\nThis decision was made following [performance evaluations / organizational restructuring / business realignment / mutual agreement / other reason]. After careful review, we believe this position better aligns with the current needs of the organization and your skills, experience, and future development opportunities.\n\nREVISED POSITION\n\nEffective Date: [Effective Date]\nNew Job Title: [New Job Title]\nDepartment: [Department]\nSupervisor: [Manager Name and Title]\nWork Location: [Location]\n\nREVISED RESPONSIBILITIES\n\nIn your new role, your primary responsibilities will include:\n\n- [Responsibility 1]\n- [Responsibility 2]\n- [Responsibility 3]\n- [Responsibility 4]\n- [Responsibility 5]\n\nA complete job description is attached and incorporated into this notice.\n\nCOMPENSATION AND BENEFITS\n\nBeginning on [Effective Date], your compensation will be adjusted as follows:\n\nCurrent Salary/Wage: $[Current Amount]\nNew Salary/Wage: $[New Amount]\nPay Frequency: [Hourly / Weekly / Biweekly / Monthly / Annually]\n\nBonus Eligibility: [Details]\nCommission Structure: [Details]\nBenefits Changes: [Details or 'No Change']\n\nAll other terms and conditions of employment not specifically modified by this letter shall remain unchanged.\n\nPERFORMANCE EXPECTATIONS AND DEVELOPMENT\n\nOur goal is to support your success in this role. The following expectations will apply moving forward:\n\n- Meet all responsibilities outlined in the attached job description.\n- Maintain satisfactory performance standards.\n- Participate in required training and coaching sessions.\n- Demonstrate consistent adherence to company policies and procedures.\n- Successfully complete performance reviews and development goals.\n\nTo assist with this transition, the company will provide:\n\n- [Training Program]\n- [Mentorship or Coaching]\n- [Additional Resources]\n- [Performance Review Schedule]\n\nCHECK-IN SCHEDULE\n\nWe will conduct formal transition reviews on:\n\n- 30-Day Review: [Date]\n- 60-Day Review: [Date]\n- 90-Day Review: [Date]\n\nThese meetings will provide an opportunity to discuss progress, answer questions, and address any support needs.\n\nQUESTIONS OR CONCERNS\n\nIf you have any questions regarding this transition, please contact:\n\nHR Representative: [Name]\nTitle: [Title]\nEmail: [Email]\nPhone: [Phone]\n\nWe appreciate your contributions to [Company Name] and remain committed to supporting your success in this new position. We believe this transition provides an opportunity for continued growth and contribution within the organization.\n\nSincerely,\n\n[Manager Name]\n[Title]\n[Company Name]\n\n[HR Representative Name]\n[Title]\n[Company Name]\n\n----------------------------------------\nEMPLOYEE ACKNOWLEDGMENT\n----------------------------------------\n\nI acknowledge that I have received this Demotion Letter and have had the opportunity to discuss its contents with management and/or Human Resources. My signature acknowledges receipt of this notice and does not necessarily indicate agreement with its contents.\n\nEmployee Name: ______________________________\n\nEmployee Signature: __________________________\n\nDate: ______________________________________\n\nCompany Representative: _____________________\n\nDate: ______________________________________",
+  "example": "An Operations Manager is reassigned to Senior Operations Coordinator following a departmental restructuring. The letter explains the new role, revised reporting structure, updated compensation, expected responsibilities, and a 90-day support plan that includes coaching and monthly performance reviews.",
+  "tips": [
+    "Always communicate the demotion in a private meeting before delivering the letter.",
+    "Keep the tone factual, professional, and respectful.",
+    "Clearly explain the business or performance reason for the decision.",
+    "Provide a detailed description of the new role and reporting structure.",
+    "Document all compensation changes accurately.",
+    "Offer training, mentoring, or coaching resources when appropriate.",
+    "Have HR and legal counsel review the letter before issuance.",
+    "Maintain confidentiality throughout the process.",
+    "Focus on future success rather than solely on past shortcomings.",
+    "Retain a signed copy in the employee's personnel file."
+  ],
+  "faqs": [
+    {
+      "question": "What should be included in a demotion letter?",
+      "answer": "A demotion letter should include the effective date, new position title, reason for the change, revised responsibilities, compensation changes, reporting structure, support resources, and employee acknowledgment."
     },
-    "intro": "This employee demotion letter template helps you create professional documentation effectively.",
-    "whenToUse": "Use this template for your professional needs and documentation.",
-    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
-    "example": "[Example content demonstrating proper usage]",
-    "tips": [
-      "Customize the template to fit your specific needs",
-      "Review all details before finalizing",
-      "Keep copies for your records",
-      "Follow any legal requirements in your jurisdiction",
-      "Seek professional advice if needed"
-    ],
-    "faqs": [
-      {
-        "question": "Can I customize this template?",
-        "answer": "Yes, templates are meant to be customized for your specific situation."
-      },
-      {
-        "question": "Is this legally binding?",
-        "answer": "Templates provide structure; consult legal counsel for legal documents."
-      },
-      {
-        "question": "Can I use this for commercial purposes?",
-        "answer": "Check your local laws and usage rights for commercial use."
-      }
-    ],
-    "tags": [
-      "employment",
-      "template",
-      "professional"
-    ]
-  },
+    {
+      "question": "Can an employee's salary be reduced after a demotion?",
+      "answer": "In many jurisdictions, salary adjustments are permitted if properly communicated and compliant with employment laws, contracts, and company policies."
+    },
+    {
+      "question": "Should a demotion be communicated before the letter is delivered?",
+      "answer": "Yes. Best practice is to discuss the decision privately with the employee before providing formal written documentation."
+    },
+    {
+      "question": "Can an employee refuse a demotion?",
+      "answer": "Depending on the circumstances, employment agreements, and local laws, an employee may refuse a demotion, which could result in separation of employment."
+    },
+    {
+      "question": "How should employers handle demotions professionally?",
+      "answer": "Employers should communicate clearly, document the reasons, maintain confidentiality, offer support resources, and treat employees with dignity and respect throughout the process."
+    },
+    {
+      "question": "Does an employee's signature mean they agree with the demotion?",
+      "answer": "No. The acknowledgment section generally confirms receipt of the letter, not agreement with its contents."
+    }
+  ],
+  "tags": [
+    "demotion-letter",
+    "career",
+"workplace",
+    "employee-demotion-notice",
+    "job-title-change",
+    "hr-template",
+    "employment",
+    "human-resources",
+    "employee-status-change",
+    "role-change-letter",
+    "performance-management",
+    "workplace-documentation",
+    "employment-template"
+  ]
+},
   {
     "slug": "employee-suspension-letter",
     "title": "Employee Suspension Letter Template",
@@ -288,44 +316,67 @@
     ]
   },
   {
-    "slug": "employee-termination-cause-letter",
-    "title": "Employee Termination Cause Letter Template",
-    "description": "Free employee termination cause letter template for professional use.",
-    "category": {
-      "name": "Employment",
-      "slug": "employment"
-    },
-    "intro": "This employee termination cause letter template helps you create professional documentation effectively.",
-    "whenToUse": "Use this template for your professional needs and documentation.",
-    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
-    "example": "[Example content demonstrating proper usage]",
-    "tips": [
-      "Customize the template to fit your specific needs",
-      "Review all details before finalizing",
-      "Keep copies for your records",
-      "Follow any legal requirements in your jurisdiction",
-      "Seek professional advice if needed"
-    ],
-    "faqs": [
-      {
-        "question": "Can I customize this template?",
-        "answer": "Yes, templates are meant to be customized for your specific situation."
-      },
-      {
-        "question": "Is this legally binding?",
-        "answer": "Templates provide structure; consult legal counsel for legal documents."
-      },
-      {
-        "question": "Can I use this for commercial purposes?",
-        "answer": "Check your local laws and usage rights for commercial use."
-      }
-    ],
-    "tags": [
-      "employment",
-      "template",
-      "professional"
-    ]
-  },
+"slug": "employee-termination-letter-template",
+"qualityTier": "hand-polished",
+"title": "Employee Termination Letter Template",
+"description": "Professional employee termination letter template for employers, HR teams, managers, and small businesses to formally document employment termination, final pay, benefits, company property return, and offboarding next steps.",
+"category": {
+"name": "Human Resources",
+"slug": "human-resources"
+},
+"intro": "An Employee Termination Letter is a formal document used to notify an employee that their employment is ending. It creates a written record of the decision, confirms the effective termination date, and explains important offboarding details such as final pay, benefits, company property, confidentiality obligations, and HR contact information. A well-written termination letter should be factual, respectful, concise, and aligned with company policy and applicable employment laws.",
+"whenToUse": "Use this template when ending an employment relationship due to performance issues, misconduct, policy violations, layoffs, restructuring, role elimination, at-will termination, or the end of a fixed-term employment agreement.",
+"template": "EMPLOYEE TERMINATION LETTER\n\n[Company Letterhead]\n\nDate: [Date]\n\nEmployee Name: [Employee Full Name]\nEmployee Job Title: [Job Title]\nDepartment: [Department]\nEmployee Address: [Address]\nCity, State, ZIP: [City, State, ZIP]\n\nSubject: Notice of Employment Termination\n\nDear [Employee Name],\n\nThis letter serves as formal notice that your employment with [Company Name] is terminated, effective [Effective Date].\n\nThis decision is based on [brief factual reason, such as performance concerns, violation of company policy, organizational restructuring, position elimination, or end of contract].\n\n[Optional Detail Section]\nThis decision follows prior discussions, written warnings, performance reviews, or corrective actions dated [Dates], during which expectations and required improvements were communicated. Unfortunately, the required improvement was not achieved.\n\nFINAL PAY AND COMPENSATION\n\nYou will receive your final paycheck in accordance with applicable law and company policy. Your final payment will include compensation for all hours worked through your final date of employment.\n\nFinal Pay Date: [Date]\nPayment Method: [Direct Deposit / Check / Other]\nAccrued PTO or Vacation Payout: [Details]\nSeverance: [If Applicable]\n\nBENEFITS\n\nYour benefits will end on [Benefits End Date], subject to applicable plan terms and law.\n\nInformation regarding continuation of health coverage, retirement benefits, or other applicable benefits will be provided separately by [HR Department / Benefits Administrator].\n\nCOMPANY PROPERTY\n\nYou are required to return all company-owned property by [Return Deadline], including but not limited to:\n\n- Laptop or computer equipment;\n- Mobile phone or tablet;\n- Access badge or keys;\n- Company credit card;\n- Documents, records, or files;\n- Confidential information;\n- Any other company-owned equipment or materials.\n\nPlease return these items to [Return Location / Contact Person].\n\nSYSTEM ACCESS\n\nAccess to company systems, email, software, files, and facilities will end on [Date / Immediately].\n\nCONFIDENTIALITY AND CONTINUING OBLIGATIONS\n\nPlease remember that any confidentiality, non-disclosure, non-solicitation, intellectual property, data security, or restrictive covenant agreements you previously signed remain in effect according to their terms.\n\nYou are expected to maintain the confidentiality of company information, customer information, employee information, trade secrets, and proprietary business materials.\n\nHR CONTACT\n\nIf you have questions about final pay, benefits, property return, severance, or other administrative matters, please contact:\n\nHR Contact Name: [Name]\nTitle: [Title]\nEmail: [Email]\nPhone: [Phone]\n\nWe appreciate your contributions during your time with [Company Name] and wish you success in your future endeavors.\n\nSincerely,\n\n[Manager or HR Representative Name]\n[Title]\n[Company Name]\n[Email]\n[Phone]\n\n----------------------------------------\nACKNOWLEDGEMENT OF RECEIPT\n----------------------------------------\n\nI acknowledge that I received this Notice of Employment Termination. My signature confirms receipt only and does not necessarily indicate agreement with the contents of this letter.\n\nEmployee Name: ______________________________\n\nEmployee Signature: _________________________\n\nDate: ______________________________________\n\nEmployer Representative: ____________________\n\nDate: ______________________________________",
+"example": "A company terminates an employee after repeated attendance policy violations documented through prior counseling and written warnings. The termination letter states the effective date, briefly references the attendance policy issue, explains the final paycheck timeline, lists the laptop and access badge that must be returned, and provides an HR contact for benefits questions.",
+"tips": [
+"Keep the letter factual, concise, and professional.",
+"Have HR or legal counsel review the letter before delivery.",
+"Make sure the termination reason matches internal records and prior documentation.",
+"Avoid emotional language, jokes, sarcasm, blame, or unnecessary details.",
+"Include clear instructions for final pay, benefits, and company property return.",
+"Provide one HR contact for administrative follow-up.",
+"Keep a signed copy of the letter in the employee personnel file.",
+"Check state, local, union, contract, and company policy requirements before issuing the letter."
+],
+"faqs": [
+{
+"question": "What should be included in an employee termination letter?",
+"answer": "An employee termination letter should include the employee's name, job title, effective termination date, reason for termination if appropriate, final pay details, benefits information, company property return instructions, continuing obligations, and HR contact information."
+},
+{
+"question": "Is a termination letter legally required?",
+"answer": "Termination letter requirements depend on the jurisdiction, employment agreement, company policy, and reason for separation. Even when not required, many employers use termination letters for clear documentation."
+},
+{
+"question": "Should the reason for termination be included?",
+"answer": "Often yes, but the reason should be brief, factual, and consistent with internal documentation. Employers should avoid speculative, emotional, or unsupported statements."
+},
+{
+"question": "Can a termination letter be sent by email?",
+"answer": "In some situations, yes, but many employers provide a printed or signed copy for official records. The best delivery method depends on company policy and applicable law."
+},
+{
+"question": "What should not be included in a termination letter?",
+"answer": "Avoid emotional language, personal opinions, jokes, threats, unnecessary details, inconsistent explanations, discriminatory language, or statements not supported by documentation."
+},
+{
+"question": "Should company property be listed in the termination letter?",
+"answer": "Yes. Listing company property such as laptops, phones, keys, badges, credit cards, and documents helps make the offboarding process clear."
+}
+],
+"tags": [
+"employee-termination-letter",
+"termination-letter-template",
+"employment-termination-notice",
+"hr-termination-template",
+"letter-of-dismissal",
+"employee-separation-letter",
+"offboarding-template",
+"human-resources-template",
+"final-pay-notice",
+"workplace-documentation"
+]
+},
   {
     "slug": "employee-layoff-letter",
     "title": "Employee Layoff Letter Template",
