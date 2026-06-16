@@ -29,10 +29,14 @@ export default function FreelanceStarterKitPage() {
         </h2>
 
         <ul className="list-disc pl-5 space-y-2 text-gray-700">
-          <li>Freelance contract templates</li>
-          <li>Creator collaboration agreements</li>
-          <li>Business proposal templates</li>
-          <li>Freelance invoice template</li>
+          <li>Freelance Services Contract</li>
+<li>Freelance Writing Contract</li>
+<li>Freelance Design Contract</li>
+<li>Social Media Management Contract</li>
+<li>Influencer Brand Collaboration Agreement</li>
+<li>Content Creator Brand Sponsorship Agreement</li>
+<li>Project Proposal Templates</li>
+<li>Professional Invoice Template</li>
           <li>Scope, payment, revision, and deliverable sections</li>
         </ul>
       </div>
@@ -50,10 +54,10 @@ export default function FreelanceStarterKitPage() {
       </div>
 
       <div className="bg-gray-50 border rounded p-6 text-center">
-        <p className="text-2xl font-bold mb-4">$29</p>
+        <p className="text-2xl font-bold mb-4">$19</p>
 
         <a
-          href="PASTE_LEMON_SQUEEZY_CHECKOUT_LINK_HERE"
+          href="https://mangogranola.lemonsqueezy.com/checkout/buy/5f8ac327-dc6a-4e55-af6c-85da39564fa8"
           className="inline-block rounded bg-black px-6 py-3 text-white font-semibold hover:bg-gray-800"
         >
           Buy Freelance Starter Kit

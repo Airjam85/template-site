@@ -277,44 +277,69 @@
   ]
 },
   {
-    "slug": "employee-suspension-letter",
-    "title": "Employee Suspension Letter Template",
-    "description": "Free employee suspension letter template for professional use.",
-    "category": {
-      "name": "Employment",
-      "slug": "employment"
-    },
-    "intro": "This employee suspension letter template helps you create professional documentation effectively.",
-    "whenToUse": "Use this template for your professional needs and documentation.",
-    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
-    "example": "[Example content demonstrating proper usage]",
-    "tips": [
-      "Customize the template to fit your specific needs",
-      "Review all details before finalizing",
-      "Keep copies for your records",
-      "Follow any legal requirements in your jurisdiction",
-      "Seek professional advice if needed"
-    ],
-    "faqs": [
-      {
-        "question": "Can I customize this template?",
-        "answer": "Yes, templates are meant to be customized for your specific situation."
-      },
-      {
-        "question": "Is this legally binding?",
-        "answer": "Templates provide structure; consult legal counsel for legal documents."
-      },
-      {
-        "question": "Can I use this for commercial purposes?",
-        "answer": "Check your local laws and usage rights for commercial use."
-      }
-    ],
-    "tags": [
-      "employment",
-      "template",
-      "professional"
-    ]
-  },
+"slug": "employee-suspension-letter-template",
+"qualityTier": "hand-polished",
+"title": "Employee Suspension Letter Template",
+"description": "Professional employee suspension letter template for HR teams, managers, and employers to formally document disciplinary suspensions, investigatory suspensions, pay status, workplace access restrictions, cooperation requirements, and next steps.",
+"category": {
+"name": "Human Resources",
+"slug": "human-resources"
+},
+"intro": "An Employee Suspension Letter is a formal notice used to temporarily remove an employee from work duties either as a disciplinary action or while an investigation is pending. A strong suspension letter clearly states the reason for the suspension, effective dates, pay status, workplace access rules, communication restrictions, and next steps while maintaining fairness and professionalism.",
+"whenToUse": "Use this template when suspending an employee pending an investigation, after a policy violation, during a disciplinary process, for workplace safety reasons, or when temporarily removing an employee from duties while facts are reviewed.",
+"template": "EMPLOYEE SUSPENSION LETTER\n\n[Company Letterhead]\n\nDate: [Date]\n\nEmployee Name: [Employee Full Name]\nJob Title: [Job Title]\nDepartment: [Department]\nEmployee Address: [Address]\n\nSubject: Notice of [Investigatory / Disciplinary] Suspension\n\nDear [Employee Name],\n\nThis letter serves as formal notice that you are being placed on [paid / unpaid] suspension from your position as [Job Title] with [Company Name], effective [Start Date and Time].\n\nYour suspension is expected to remain in effect until [End Date / Further Notice / Completion of Investigation]. You are expected to return to work on [Return Date], unless otherwise notified in writing by Human Resources or management.\n\nREASON FOR SUSPENSION\n\nThis suspension is being issued because of [brief factual reason].\n\n[For investigatory suspension: This suspension is not a final disciplinary determination. It is being implemented while the company investigates allegations involving [brief description of issue]. You will be given an opportunity to provide information as part of the investigation before any final decision is made.]\n\n[For disciplinary suspension: This suspension is being issued as a disciplinary action due to violation of [Company Policy Name / Code of Conduct / Attendance Policy / Safety Policy]. The relevant incident occurred on [Date] and involved [brief factual description]. This follows prior counseling, warning, or corrective action dated [Dates], if applicable.]\n\nPAY STATUS\n\nDuring this suspension, your pay status will be as follows:\n\n[ ] Suspension with pay\n[ ] Suspension without pay\n[ ] Administrative leave with pay pending investigation\n[ ] Other: [Describe]\n\nIf applicable, your benefits will continue according to company policy and applicable law during the suspension period.\n\nWORKPLACE ACCESS AND COMPANY SYSTEMS\n\nDuring the suspension period, you are not permitted to:\n\n- Report to the workplace unless specifically authorized in writing;\n- Access company systems, email, files, software, or databases;\n- Contact clients, customers, vendors, or business partners on behalf of the company;\n- Perform work duties unless expressly instructed by Human Resources;\n- Remove, alter, delete, or access company records or property.\n\nCompany system access may be temporarily suspended during this period.\n\nCOMMUNICATION RESTRICTIONS\n\nDuring the suspension period, all work-related communication should be directed to:\n\nHR Contact Name: [Name]\nEmail: [Email]\nPhone: [Phone]\n\nYou should not contact coworkers, clients, vendors, or other company representatives regarding this matter unless instructed or authorized by Human Resources.\n\nCOOPERATION REQUIREMENT\n\nYou may be required to participate in meetings, interviews, or requests for information during the suspension period. You are expected to cooperate fully and remain available during normal business hours unless otherwise agreed.\n\nEMPLOYEE RESPONSE\n\nYou may submit a written response or clarification regarding this matter to [HR Contact Name] by [Deadline Date]. Any information you provide will be reviewed as part of the company's process.\n\nNEXT STEPS\n\nThe company will review the matter and determine appropriate next steps. These may include:\n\n- Return to work;\n- Further investigation;\n- Corrective action;\n- Final written warning;\n- Extended suspension;\n- Termination of employment;\n- Other action consistent with company policy and applicable law.\n\nIf this is an investigatory suspension, no final conclusion has been reached at this time.\n\nCONFIDENTIALITY\n\nYou are expected to maintain confidentiality regarding this matter and avoid discussing the suspension or investigation with coworkers, clients, vendors, or third parties, except as permitted by law or company policy.\n\nQUESTIONS\n\nIf you have questions about this suspension, your pay status, benefits, workplace access, or the process moving forward, please contact:\n\nHR Contact Name: [Name]\nTitle: [Title]\nEmail: [Email]\nPhone: [Phone]\n\nSincerely,\n\n[Manager or HR Representative Name]\n[Title]\n[Company Name]\n\n----------------------------------------\nACKNOWLEDGMENT OF RECEIPT\n----------------------------------------\n\nI acknowledge that I have received this Employee Suspension Letter. My signature confirms receipt only and does not necessarily indicate agreement with its contents.\n\nEmployee Name: ______________________________\n\nEmployee Signature: __________________________\n\nDate: ______________________________________\n\nCompany Representative: _____________________\n\nDate: ______________________________________",
+"example": "An employee is placed on paid investigatory suspension after a workplace safety incident. The suspension letter explains that the suspension is not a final disciplinary decision, states that the employee may not access company systems or enter the workplace during the investigation, provides an HR contact, and confirms that the employee must remain available to participate in interviews.",
+"tips": [
+"Clearly state whether the suspension is investigatory or disciplinary.",
+"Specify whether the suspension is paid or unpaid.",
+"Include exact start dates, expected end dates, and return-to-work instructions.",
+"Avoid opinions, assumptions, or inflammatory language.",
+"Reference the specific policy or incident when appropriate.",
+"Explain workplace access, system access, and communication restrictions.",
+"Give the employee a clear HR contact for questions.",
+"State that an investigatory suspension is not a final finding of misconduct.",
+"Keep a signed copy in the employee's personnel file.",
+"Have HR or legal counsel review suspension letters before issuance."
+],
+"faqs": [
+{
+"question": "What is an employee suspension letter?",
+"answer": "An employee suspension letter is a formal notice temporarily removing an employee from work duties either as a disciplinary measure or while an investigation is pending."
+},
+{
+"question": "Should a suspension letter say whether the employee is paid?",
+"answer": "Yes. The letter should clearly state whether the suspension is with pay, without pay, or administrative leave with pay."
+},
+{
+"question": "Does suspension mean the employee is guilty?",
+"answer": "No. An investigatory suspension does not mean guilt has been determined. It gives the employer time to review facts before deciding what action, if any, is appropriate."
+},
+{
+"question": "Can an employee enter the workplace during suspension?",
+"answer": "Usually no. Most suspension letters restrict workplace access unless Human Resources or management gives written permission."
+},
+{
+"question": "Can an employee appeal a suspension?",
+"answer": "Many companies allow employees to submit a written response or use a grievance process. The suspension letter should explain how the employee can respond or ask questions."
+},
+{
+"question": "How long can an employee suspension last?",
+"answer": "The length depends on company policy, the reason for suspension, and applicable law. Investigatory suspensions should generally last only as long as reasonably necessary to complete the review."
+}
+],
+"tags": [
+"employee-suspension-letter",
+"suspension-letter-template",
+"disciplinary-suspension",
+"investigatory-suspension",
+"hr-template",
+"employee-discipline",
+"workplace-investigation",
+"employee-relations",
+"human-resources-template",
+"workplace-documentation"
+]
+},
   {
 "slug": "employee-termination-letter-template",
 "qualityTier": "hand-polished",
@@ -378,83 +403,121 @@
 ]
 },
   {
-    "slug": "employee-layoff-letter",
-    "title": "Employee Layoff Letter Template",
-    "description": "Free employee layoff letter template for professional use.",
-    "category": {
-      "name": "Employment",
-      "slug": "employment"
-    },
-    "intro": "This employee layoff letter template helps you create professional documentation effectively.",
-    "whenToUse": "Use this template for your professional needs and documentation.",
-    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
-    "example": "[Example content demonstrating proper usage]",
-    "tips": [
-      "Customize the template to fit your specific needs",
-      "Review all details before finalizing",
-      "Keep copies for your records",
-      "Follow any legal requirements in your jurisdiction",
-      "Seek professional advice if needed"
-    ],
-    "faqs": [
-      {
-        "question": "Can I customize this template?",
-        "answer": "Yes, templates are meant to be customized for your specific situation."
-      },
-      {
-        "question": "Is this legally binding?",
-        "answer": "Templates provide structure; consult legal counsel for legal documents."
-      },
-      {
-        "question": "Can I use this for commercial purposes?",
-        "answer": "Check your local laws and usage rights for commercial use."
-      }
-    ],
-    "tags": [
-      "employment",
-      "template",
-      "professional"
-    ]
+  "slug": "employee-layoff-letter-template",
+      "qualityTier": "hand-polished",
+  "title": "Employee Layoff Letter Template",
+  "description": "Professional employee layoff letter template for workforce reductions, restructurings, downsizing, budget cuts, department closures, and position eliminations. Includes severance details, final pay information, benefits guidance, company property return instructions, and transition support resources.",
+  "category": {
+    "name": "Human Resources",
+    "slug": "human-resources"
   },
+  "intro": "An Employee Layoff Letter is a formal document used to notify an employee that their position is being eliminated due to business-related circumstances. A well-written layoff letter provides clear communication, outlines compensation and benefits information, explains next steps, and demonstrates empathy while protecting the organization legally.",
+  "whenToUse": "Use this template when eliminating positions due to restructuring, downsizing, budget reductions, mergers, acquisitions, economic conditions, department closures, automation initiatives, workforce reductions, or other business-related decisions unrelated to employee performance.",
+  "template": "EMPLOYEE LAYOFF LETTER\n\n[Company Letterhead]\n\nDate: [Date]\n\nTo:\n[Employee Name]\n[Employee Address]\n[Employee Email]\n\nSubject: Notice of Layoff and Employment Separation\n\nDear [Employee Name],\n\nThis letter is to formally notify you that your position of [Job Title] with [Company Name] is being eliminated effective [Termination Date].\n\nThis layoff is the result of [business restructuring, economic conditions, departmental reorganization, reduction in workforce, budget constraints, merger, acquisition, or other business reason]. This decision is based solely on business needs and organizational circumstances and is not a reflection of your performance, dedication, work quality, or contributions to the company.\n\nWe recognize that this news is difficult, and we sincerely appreciate everything you have contributed during your time with our organization.\n\n========================================\nLAYOFF DETAILS\n========================================\n\nEmployee Name: [Employee Name]\nPosition: [Job Title]\nDepartment: [Department]\nManager: [Manager Name]\nLast Day of Employment: [Date]\nEffective Layoff Date: [Date]\n\nReason for Layoff:\n\n[Provide concise business-related explanation]\n\nExamples:\n- Company restructuring\n- Reduction in force\n- Department elimination\n- Financial challenges\n- Business reorganization\n- Market conditions\n- Operational consolidation\n\n========================================\nFINAL COMPENSATION\n========================================\n\nYour final compensation will include:\n\n☐ Regular wages through your final day of employment\n☐ Accrued unused vacation or PTO (if applicable)\n☐ Approved expense reimbursements\n☐ Other compensation owed under company policy\n\nFinal Paycheck Date:\n\n[Date]\n\nPayment Method:\n\n☐ Direct Deposit\n☐ Check\n☐ Other: ___________________\n\nAdditional Compensation Notes:\n\n[Insert applicable information]\n\n========================================\nSEVERANCE PACKAGE\n========================================\n\n☐ No severance package is being offered.\n\nOR\n\n☐ You are eligible for the following severance package:\n\nSeverance Amount: [Amount]\nPayment Schedule: [Lump Sum / Installments]\nSeverance Period: [Number of Weeks or Months]\n\nTo receive severance benefits, you must review, sign, and return the enclosed Severance Agreement by:\n\n[Deadline Date]\n\nThe Severance Agreement contains important information regarding eligibility, payment terms, and any applicable release provisions.\n\n========================================\nBENEFITS INFORMATION\n========================================\n\nHealth Insurance Coverage Ends:\n\n[Date]\n\nAdditional Benefits:\n\n[Describe continuation or termination of benefits]\n\nRetirement Plans:\n\nYour retirement plan benefits remain yours in accordance with the terms of the plan and applicable law.\n\nCOBRA Information:\n\nIf applicable, you will receive separate information regarding your eligibility to continue health coverage through COBRA or other continuation programs.\n\nBenefits Contact:\n\nName: [Benefits Representative]\nEmail: [Email]\nPhone: [Phone Number]\n\n========================================\nCOMPANY PROPERTY RETURN\n========================================\n\nPlease return all company property no later than [Return Date].\n\nItems may include:\n\n☐ Laptop Computer\n☐ Mobile Phone\n☐ Security Badge\n☐ Keys or Access Cards\n☐ Credit Cards\n☐ Equipment\n☐ Documents\n☐ Other Company Property\n\nReturn Instructions:\n\n[Provide return instructions]\n\nCompany Contact for Returns:\n\nName: [Contact Name]\nEmail: [Email]\nPhone: [Phone]\n\n========================================\nTRANSITION ASSISTANCE\n========================================\n\nTo support your transition, the company is offering the following resources:\n\n☐ Career Transition Services\n☐ Resume Assistance\n☐ Outplacement Services\n☐ Job Search Support\n☐ Professional Coaching\n☐ Employee Assistance Program Access\n☐ Financial Planning Resources\n☐ Reference Letter Upon Request\n\nDetails:\n\n[Describe available services]\n\n========================================\nUNEMPLOYMENT INFORMATION\n========================================\n\nYou may be eligible to apply for unemployment benefits through your state or local employment agency.\n\nInformation regarding eligibility and application procedures can be found through the appropriate government employment services website.\n\n========================================\nFUTURE COMMUNICATIONS\n========================================\n\nPlease ensure we have your current mailing address, email address, and phone number for future communications regarding:\n\n- Tax forms\n- Benefits documentation\n- Retirement plan information\n- Severance payments\n- Other employment records\n\nUpdated Contact Information:\n\nAddress: __________________________\nEmail: ____________________________\nPhone: ____________________________\n\n========================================\nQUESTIONS AND SUPPORT\n========================================\n\nIf you have questions regarding this layoff, your benefits, final compensation, severance package, or any administrative matters, please contact:\n\nName: [HR Representative]\nTitle: [Title]\nEmail: [Email]\nPhone: [Phone Number]\n\n========================================\nCLOSING\n========================================\n\nWe sincerely thank you for your service, dedication, and contributions to [Company Name]. This decision was not made lightly and reflects business circumstances rather than individual performance.\n\nWe appreciate the impact you have made during your employment and wish you continued success in your future professional endeavors.\n\nSincerely,\n\n[Authorized Representative Name]\n[Title]\n[Company Name]\n[Email]\n[Phone Number]\n\n========================================\nACKNOWLEDGMENT OF RECEIPT\n========================================\n\nI acknowledge receipt of this Layoff Notification Letter.\n\nMy signature confirms receipt only and does not indicate agreement with the contents.\n\nEmployee Name: __________________________\n\nSignature: ______________________________\n\nDate: __________________________________",
+  "example": "A company undergoes a workforce reduction due to declining revenue and eliminates several positions. Each affected employee receives a layoff letter explaining the business reason for the separation, final pay date, severance package details, COBRA information, equipment return procedures, and available career transition resources.",
+  "tips": [
+    "Deliver layoff notifications in person or by video call whenever possible before providing the written letter.",
+    "Clearly state that the layoff is due to business circumstances and not employee performance.",
+    "Avoid apologizing excessively or making statements that could imply legal liability.",
+    "Provide detailed information about final pay, benefits, and severance.",
+    "Offer transition resources such as outplacement assistance when available.",
+    "Use clear, direct language and avoid corporate jargon.",
+    "Have legal counsel review layoff communications before distribution.",
+    "Ensure consistency across all layoff communications and documentation."
+  ],
+  "faqs": [
+    {
+      "question": "What is the difference between a layoff and termination for cause?",
+      "answer": "A layoff occurs because of business-related reasons such as restructuring or budget reductions, while termination for cause results from employee misconduct, policy violations, or performance issues."
+    },
+    {
+      "question": "Should a layoff letter explain the reason for the layoff?",
+      "answer": "Yes. The letter should provide a concise business-related explanation while making clear that the decision is unrelated to employee performance."
+    },
+    {
+      "question": "Should severance details be included in the letter?",
+      "answer": "Yes. The letter should either summarize severance benefits or reference an attached severance agreement containing complete terms."
+    },
+    {
+      "question": "Should employees sign a layoff letter?",
+      "answer": "If used, acknowledgment signatures should confirm receipt only and not indicate acceptance of terms or waiver of rights."
+    },
+    {
+      "question": "Should the letter include COBRA and benefits information?",
+      "answer": "Yes. Employees should be informed about benefit termination dates and any continuation options available to them."
+    }
+  ],
+  "tags": [
+    "layoff-letter",
+    "employee-layoff-notice",
+    "reduction-in-force",
+    "downsizing-letter",
+    "position-elimination",
+    "workforce-reduction",
+    "termination-without-cause",
+    "human-resources",
+    "employee-separation",
+    "severance-letter"
+  ]
+},
   {
-    "slug": "return-to-work-agreement",
-    "title": "Return To Work Agreement Template",
-    "description": "Free return to work agreement template for professional use.",
-    "category": {
-      "name": "Employment",
-      "slug": "employment"
-    },
-    "intro": "This return to work agreement template helps you create professional documentation effectively.",
-    "whenToUse": "Use this template for your professional needs and documentation.",
-    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
-    "example": "[Example content demonstrating proper usage]",
-    "tips": [
-      "Customize the template to fit your specific needs",
-      "Review all details before finalizing",
-      "Keep copies for your records",
-      "Follow any legal requirements in your jurisdiction",
-      "Seek professional advice if needed"
-    ],
-    "faqs": [
-      {
-        "question": "Can I customize this template?",
-        "answer": "Yes, templates are meant to be customized for your specific situation."
-      },
-      {
-        "question": "Is this legally binding?",
-        "answer": "Templates provide structure; consult legal counsel for legal documents."
-      },
-      {
-        "question": "Can I use this for commercial purposes?",
-        "answer": "Check your local laws and usage rights for commercial use."
-      }
-    ],
-    "tags": [
-      "employment",
-      "template",
-      "professional"
-    ]
+  "slug": "return-to-work-agreement-template",
+    "qualityTier": "hand-polished",
+  "title": "Return to Work Agreement Template",
+  "description": "Professional Return to Work Agreement template for employees returning from medical leave, injury, disability accommodation, parental leave, rehabilitation, remote work arrangements, or other extended absences. Includes phased return schedules, accommodations, responsibilities, compliance provisions, and acknowledgment sections.",
+  "category": {
+    "name": "Human Resources",
+    "slug": "human-resources"
   },
+  "intro": "A Return to Work Agreement is a formal document used to outline expectations, accommodations, responsibilities, and timelines when an employee returns to work after an absence. It helps ensure a smooth transition, promotes employee well-being, establishes accountability, and documents compliance with company policies and applicable employment laws.",
+  "whenToUse": "Use this template when an employee is returning from medical leave, injury, disability accommodation, workers' compensation leave, parental leave, rehabilitation, military service, extended personal leave, remote work arrangements, or any situation requiring a structured transition back into the workplace.",
+  "template": "RETURN TO WORK AGREEMENT\n\n========================================\nEMPLOYEE INFORMATION\n========================================\n\nEmployee Name: [Employee Name]\nEmployee ID: [Employee ID]\nJob Title: [Job Title]\nDepartment: [Department]\nSupervisor: [Manager Name]\nAgreement Date: [Date]\n\n========================================\nPURPOSE OF AGREEMENT\n========================================\n\nThis Return to Work Agreement outlines the expectations, accommodations, responsibilities, and conditions associated with the employee's return to work.\n\nReason for Return to Work Agreement:\n\n☐ Medical Leave\n☐ Injury Recovery\n☐ Disability Accommodation\n☐ Workers' Compensation Return\n☐ Family or Parental Leave\n☐ Rehabilitation Program Completion\n☐ Remote-to-Office Transition\n☐ Performance Improvement Return Plan\n☐ Policy Compliance Agreement\n☐ Other: _____________________\n\nThe purpose of this agreement is to support a successful, safe, and productive return to work while ensuring clear expectations for all parties involved.\n\n========================================\nRETURN TO WORK DETAILS\n========================================\n\nOfficial Return Date:\n\n[Date]\n\nWork Location:\n\n[Office Location / Remote / Hybrid]\n\nWork Schedule:\n\n[Hours and Days]\n\nReporting Manager:\n\n[Manager Name]\n\nReview Period:\n\n[30 Days / 60 Days / 90 Days]\n\n========================================\nPHASED RETURN SCHEDULE\n========================================\n\nIf applicable, the employee will follow the phased return schedule below:\n\nPhase 1:\n\nStart Date: __________\nEnd Date: __________\nSchedule: __________\nHours Per Week: __________\nDuties: __________\n\nPhase 2:\n\nStart Date: __________\nEnd Date: __________\nSchedule: __________\nHours Per Week: __________\nDuties: __________\n\nPhase 3:\n\nStart Date: __________\nEnd Date: __________\nSchedule: __________\nHours Per Week: __________\nDuties: __________\n\nTarget Full Return Date:\n\n[Date]\n\n========================================\nACCOMMODATIONS & SUPPORT\n========================================\n\nApproved Workplace Accommodations:\n\n☐ Modified Schedule\n☐ Flexible Start/End Times\n☐ Reduced Workload\n☐ Light Duty Assignment\n☐ Ergonomic Equipment\n☐ Remote Work Arrangement\n☐ Additional Break Periods\n☐ Modified Workstation\n☐ Medical Appointment Flexibility\n☐ Other: _____________________\n\nAccommodation Details:\n\n[Describe approved accommodations]\n\nAccommodation Review Date:\n\n[Date]\n\n========================================\nEMPLOYEE RESPONSIBILITIES\n========================================\n\nThe employee agrees to:\n\n- Attend work according to the agreed schedule.\n- Communicate any concerns affecting job performance.\n- Follow all workplace policies and procedures.\n- Participate in required meetings and reviews.\n- Notify management promptly of any work limitations.\n- Cooperate with approved accommodation plans.\n- Maintain professional conduct and performance standards.\n\nAdditional Employee Commitments:\n\n[Insert specific commitments if applicable]\n\n========================================\nMANAGEMENT RESPONSIBILITIES\n========================================\n\nThe Manager agrees to:\n\n- Support the employee's transition back to work.\n- Monitor progress and provide regular feedback.\n- Maintain confidentiality where required.\n- Facilitate approved accommodations.\n- Address concerns promptly and professionally.\n- Conduct scheduled review meetings.\n\n========================================\nHUMAN RESOURCES RESPONSIBILITIES\n========================================\n\nHuman Resources will:\n\n- Maintain required documentation.\n- Coordinate accommodation requests.\n- Monitor compliance with company policy.\n- Provide guidance regarding benefits and leave matters.\n- Support communication among stakeholders.\n\n========================================\nPERFORMANCE EXPECTATIONS\n========================================\n\nDuring the review period, success will be evaluated using:\n\n- Attendance and punctuality.\n- Completion of assigned duties.\n- Productivity expectations.\n- Quality of work.\n- Compliance with workplace policies.\n- Communication and teamwork.\n\nSpecific Performance Goals:\n\n1. [Goal]\n2. [Goal]\n3. [Goal]\n\n========================================\nCHECK-IN & REVIEW SCHEDULE\n========================================\n\n30-Day Review Date:\n\n[Date]\n\n60-Day Review Date:\n\n[Date]\n\n90-Day Review Date:\n\n[Date]\n\nAdditional Review Dates:\n\n[Dates]\n\n========================================\nCOMMUNICATION PLAN\n========================================\n\nPrimary Contact:\n\nName: _____________________\nTitle: _____________________\nPhone: _____________________\nEmail: _____________________\n\nSecondary Contact:\n\nName: _____________________\nTitle: _____________________\nPhone: _____________________\nEmail: _____________________\n\nThe employee should immediately report any issues impacting their ability to comply with this agreement.\n\n========================================\nCONFIDENTIALITY\n========================================\n\nAny medical information, accommodation documentation, treatment records, or related health information shall remain confidential and maintained separately from standard personnel records in accordance with applicable laws and company policy.\n\n========================================\nAGREEMENT TERM\n========================================\n\nThis agreement shall remain in effect from [Start Date] until [End Date] or until modified in writing by mutual agreement.\n\nThe company reserves the right to review, modify, or discontinue accommodations based on changing business needs, updated medical documentation, legal requirements, or operational considerations.\n\n========================================\nPOLICY COMPLIANCE\n========================================\n\nThe employee acknowledges that all company policies, procedures, performance standards, attendance expectations, and workplace conduct requirements remain in effect unless specifically modified by this agreement.\n\nFailure to comply with the terms of this agreement may result in further review, corrective action, or other actions consistent with company policy and applicable law.\n\n========================================\nACKNOWLEDGMENT\n========================================\n\nBy signing below, the parties acknowledge that they have reviewed, discussed, and understand the terms outlined in this Return to Work Agreement.\n\nEmployee:\n\nName: __________________________\nSignature: _____________________\nDate: __________________________\n\nManager:\n\nName: __________________________\nSignature: _____________________\nDate: __________________________\n\nHuman Resources Representative:\n\nName: __________________________\nSignature: _____________________\nDate: __________________________\n\nAdditional Stakeholder (If Applicable):\n\nName: __________________________\nSignature: _____________________\nDate: __________________________",
+  "example": "An employee returns after a 12-week medical leave. During the first two weeks they work four-hour days remotely, followed by four weeks of hybrid work with reduced duties. The agreement outlines accommodations, review dates, performance expectations, and manager support responsibilities.",
+  "tips": [
+    "Use a phased return schedule whenever practical.",
+    "Document all approved accommodations clearly.",
+    "Establish review dates before the employee returns.",
+    "Focus on measurable performance expectations.",
+    "Maintain strict confidentiality of medical information.",
+    "Provide a dedicated HR or management contact.",
+    "Review accommodations regularly and adjust when necessary.",
+    "Ensure compliance with all applicable employment laws."
+  ],
+  "faqs": [
+    {
+      "question": "What is a Return to Work Agreement?",
+      "answer": "A Return to Work Agreement is a formal document outlining expectations, accommodations, responsibilities, and timelines for an employee returning after an absence."
+    },
+    {
+      "question": "When should a Return to Work Agreement be used?",
+      "answer": "It is commonly used following medical leave, injury recovery, disability accommodation, parental leave, rehabilitation, workers' compensation leave, or extended absences."
+    },
+    {
+      "question": "Should accommodations be included in the agreement?",
+      "answer": "Yes. Any approved accommodations, schedule modifications, or workplace adjustments should be clearly documented."
+    },
+    {
+      "question": "How long should a Return to Work Agreement remain in effect?",
+      "answer": "The duration varies depending on the circumstances but often includes review periods of 30, 60, or 90 days."
+    },
+    {
+      "question": "Should medical information be included in the agreement?",
+      "answer": "Only necessary accommodation information should be documented. Specific medical diagnoses and confidential health information should be maintained separately."
+    }
+  ],
+  "tags": [
+    "return-to-work-agreement",
+    "return-to-work-template",
+    "medical-leave",
+    "employee-accommodation",
+    "workers-compensation",
+    "human-resources",
+    "employee-relations",
+    "workplace-compliance",
+    "leave-management",
+    "hr-template"
+  ]
+},
   {
 "slug": "medical-assistant-job-offer-letter",
 "qualityTier": "hand-polished",
@@ -669,6 +732,7 @@
 },
   {
     "slug": "job-description-update",
+    "qualityTier": "hand-polished",
     "title": "Job Description Update Template",
     "description": "Free job description update template for professional use.",
     "category": {
@@ -707,83 +771,124 @@
     ]
   },
   {
-    "slug": "role-change-letter",
-    "title": "Role Change Letter Template",
-    "description": "Free role change letter template for professional use.",
-    "category": {
-      "name": "Employment",
-      "slug": "employment"
-    },
-    "intro": "This role change letter template helps you create professional documentation effectively.",
-    "whenToUse": "Use this template for your professional needs and documentation.",
-    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
-    "example": "[Example content demonstrating proper usage]",
-    "tips": [
-      "Customize the template to fit your specific needs",
-      "Review all details before finalizing",
-      "Keep copies for your records",
-      "Follow any legal requirements in your jurisdiction",
-      "Seek professional advice if needed"
-    ],
-    "faqs": [
-      {
-        "question": "Can I customize this template?",
-        "answer": "Yes, templates are meant to be customized for your specific situation."
-      },
-      {
-        "question": "Is this legally binding?",
-        "answer": "Templates provide structure; consult legal counsel for legal documents."
-      },
-      {
-        "question": "Can I use this for commercial purposes?",
-        "answer": "Check your local laws and usage rights for commercial use."
-      }
-    ],
-    "tags": [
-      "employment",
-      "template",
-      "professional"
-    ]
+  "slug": "job-description-update-template",
+  "title": "Job Description Update Template",
+  "description": "Professional job description update template for managers, HR teams, and business leaders to revise role expectations, responsibilities, qualifications, success metrics, reporting relationships, and compensation details while aligning positions with current business needs.",
+  "category": {
+    "name": "Human Resources",
+    "slug": "human-resources"
   },
+  "intro": "A Job Description Update is used to formally review and revise an existing role to reflect current business needs, organizational goals, technology changes, reporting structures, and employee responsibilities. A well-written update helps improve hiring outcomes, performance management, career development, and organizational alignment.",
+  "whenToUse": "Use this template when reviewing existing positions, restructuring departments, updating responsibilities, introducing new technology, hiring for an existing role, improving recruitment outcomes, or aligning positions with current business objectives.",
+  "template": "JOB DESCRIPTION UPDATE TEMPLATE\n\nPosition Title: [Job Title]\nDepartment: [Department Name]\nReports To: [Manager Title]\nLocation: [Remote / Hybrid / On-Site]\nEmployment Type: [Full-Time / Part-Time / Contract]\nLast Updated: [Date]\n\n========================================\nWHY THIS ROLE MATTERS\n========================================\n\nRole Purpose:\n\n[Provide a concise 2-4 sentence summary explaining why this role exists and how it contributes to company success.]\n\nExample:\n\nThis position plays a critical role in supporting the company's growth strategy by driving operational excellence, delivering high-quality work, and collaborating across departments to achieve organizational goals.\n\n========================================\nPOSITION OVERVIEW\n========================================\n\nThe [Job Title] is responsible for:\n\n- [Primary responsibility]\n- [Primary responsibility]\n- [Primary responsibility]\n- [Primary responsibility]\n\nThis role works closely with [Departments/Stakeholders] to support [Business Objective].\n\n========================================\nWHAT SUCCESS LOOKS LIKE\n========================================\n\nFirst 30 Days:\n\n- Complete onboarding and required training.\n- Understand team goals, workflows, and key systems.\n- Build relationships with stakeholders.\n\nFirst 90 Days:\n\n- Independently manage core responsibilities.\n- Contribute to team objectives and projects.\n- Identify opportunities for process improvement.\n\nFirst 180 Days:\n\n- Consistently achieve performance expectations.\n- Demonstrate ownership of key initiatives.\n- Deliver measurable business impact.\n\nAnnual Success Metrics:\n\n- [Metric]\n- [Metric]\n- [Metric]\n- [Metric]\n\n========================================\nCORE RESPONSIBILITIES\n========================================\n\nThe following responsibilities represent the primary duties of this position:\n\n1. [Responsibility]\n2. [Responsibility]\n3. [Responsibility]\n4. [Responsibility]\n5. [Responsibility]\n6. [Responsibility]\n7. [Responsibility]\n8. [Responsibility]\n\n========================================\nKEY PERFORMANCE INDICATORS (KPIs)\n========================================\n\nPerformance may be measured using:\n\n- Productivity targets\n- Quality metrics\n- Customer satisfaction scores\n- Revenue or cost-saving goals\n- Project completion rates\n- Team collaboration measures\n- Compliance standards\n\nSpecific KPIs:\n\n- [KPI]\n- [KPI]\n- [KPI]\n\n========================================\nREQUIRED QUALIFICATIONS (MUST-HAVES)\n========================================\n\nEducation:\n\n- [Degree, certification, or equivalent experience]\n\nExperience:\n\n- [Years of experience]\n- [Industry experience]\n\nTechnical Skills:\n\n- [Skill]\n- [Skill]\n- [Skill]\n\nCore Competencies:\n\n- Communication\n- Problem-solving\n- Time management\n- Collaboration\n- Professional judgment\n\n========================================\nPREFERRED QUALIFICATIONS (NICE-TO-HAVES)\n========================================\n\n- [Preferred certification]\n- [Additional software experience]\n- [Industry specialization]\n- [Leadership experience]\n\n========================================\nTOOLS & TECHNOLOGY\n========================================\n\nRequired Systems:\n\n- [Software]\n- [Software]\n- [Software]\n\nPreferred Systems:\n\n- [Software]\n- [Software]\n\n========================================\nREPORTING STRUCTURE\n========================================\n\nReports To:\n\n[Manager Title]\n\nDirect Reports:\n\n[Number or N/A]\n\nKey Internal Stakeholders:\n\n- [Department]\n- [Department]\n- [Department]\n\n========================================\nWORK ENVIRONMENT\n========================================\n\nWork Arrangement:\n\n[Remote / Hybrid / On-Site]\n\nSchedule:\n\n[Hours and schedule]\n\nTravel Requirements:\n\n[Percentage or N/A]\n\nPhysical Requirements:\n\n- [Requirement if essential]\n- [Requirement if essential]\n\n========================================\nCOMPENSATION & BENEFITS\n========================================\n\nSalary Range:\n\n[$Minimum] - [$Maximum]\n\nBonus Eligibility:\n\n[Details]\n\nBenefits:\n\n- Health Insurance\n- Retirement Plan\n- Paid Time Off\n- Professional Development Support\n- Additional Benefits\n\n========================================\nCHANGE SUMMARY\n========================================\n\nUpdated Job Title:\n\n[If applicable]\n\nUpdated Responsibilities:\n\n- [Change]\n- [Change]\n\nUpdated Reporting Structure:\n\n- [Change]\n\nUpdated Skills Requirements:\n\n- [Change]\n\nUpdated Technology Requirements:\n\n- [Change]\n\nBusiness Reason For Update:\n\n[Growth, restructuring, technology modernization, strategic alignment, hiring optimization, etc.]\n\n========================================\nAPPROVALS\n========================================\n\nPrepared By:\n\nName: __________________________\nTitle: __________________________\nDate: __________________________\n\nManager Approval:\n\nName: __________________________\nTitle: __________________________\nDate: __________________________\n\nHuman Resources Approval:\n\nName: __________________________\nTitle: __________________________\nDate: __________________________",
+  "example": "A Marketing Manager position is updated to reflect new AI-assisted marketing tools, responsibility for managing a larger content team, ownership of quarterly pipeline targets, and a revised reporting relationship to the Director of Growth Marketing.",
+  "tips": [
+    "Focus on outcomes instead of task lists whenever possible.",
+    "Limit core responsibilities to the highest-impact duties.",
+    "Separate required qualifications from preferred qualifications.",
+    "Review job descriptions annually to maintain accuracy.",
+    "Remove outdated software and technology requirements.",
+    "Include measurable success metrics for the first 30, 90, and 180 days.",
+    "Use clear, inclusive language free of jargon and buzzwords.",
+    "Align the role with current business goals and future growth plans."
+  ],
+  "faqs": [
+    {
+      "question": "Why should job descriptions be updated regularly?",
+      "answer": "Regular updates ensure responsibilities, technology requirements, reporting structures, and business objectives accurately reflect the current role."
+    },
+    {
+      "question": "How often should job descriptions be reviewed?",
+      "answer": "Most organizations review job descriptions annually or whenever significant organizational changes occur."
+    },
+    {
+      "question": "What should be removed during a job description update?",
+      "answer": "Outdated software, obsolete responsibilities, unnecessary requirements, and vague corporate jargon should be removed."
+    },
+    {
+      "question": "Should salary information be included?",
+      "answer": "Including salary ranges improves transparency, candidate trust, and recruitment outcomes."
+    },
+    {
+      "question": "What makes a modern job description effective?",
+      "answer": "Modern job descriptions focus on business impact, measurable outcomes, clear qualifications, inclusivity, and employee success rather than lengthy task lists."
+    }
+  ],
+  "tags": [
+    "job-description-template",
+    "job-description-update",
+    "human-resources",
+    "position-description",
+    "role-update",
+    "employee-management",
+    "talent-acquisition",
+    "hiring-template",
+    "workforce-planning",
+    "hr-document"
+  ]
+},
   {
-    "slug": "salary-increase-notification",
-    "title": "Salary Increase Notification Template",
-    "description": "Free salary increase notification template for professional use.",
-    "category": {
-      "name": "Employment",
-      "slug": "employment"
-    },
-    "intro": "This salary increase notification template helps you create professional documentation effectively.",
-    "whenToUse": "Use this template for your professional needs and documentation.",
-    "template": "[Your content here]\n\n[Additional details]\n\n[Signatures/Approvals]",
-    "example": "[Example content demonstrating proper usage]",
-    "tips": [
-      "Customize the template to fit your specific needs",
-      "Review all details before finalizing",
-      "Keep copies for your records",
-      "Follow any legal requirements in your jurisdiction",
-      "Seek professional advice if needed"
-    ],
-    "faqs": [
-      {
-        "question": "Can I customize this template?",
-        "answer": "Yes, templates are meant to be customized for your specific situation."
-      },
-      {
-        "question": "Is this legally binding?",
-        "answer": "Templates provide structure; consult legal counsel for legal documents."
-      },
-      {
-        "question": "Can I use this for commercial purposes?",
-        "answer": "Check your local laws and usage rights for commercial use."
-      }
-    ],
-    "tags": [
-      "employment",
-      "template",
-      "professional"
-    ]
-  },
+"slug": "salary-increase-letter-template",
+"qualityTier": "hand-polished",
+"title": "Salary Increase Letter Template",
+"description": "Professional salary increase letter template for employers, HR teams, managers, and small businesses to formally notify employees of a raise, compensation adjustment, promotion-based increase, market adjustment, or merit increase.",
+"category": {
+"name": "Human Resources",
+"slug": "human-resources"
+},
+"intro": "A Salary Increase Letter is a formal document used to notify an employee that their compensation is being increased. It confirms the new salary, effective date, reason for the adjustment, payroll timing, and any related changes to role, benefits, or responsibilities. A strong salary increase letter should be clear, positive, specific, and easy for both the employee and payroll team to reference.",
+"whenToUse": "Use this template when confirming a salary increase due to strong performance, annual review, promotion, market adjustment, cost-of-living adjustment, additional responsibilities, retention efforts, certification, or role change.",
+"template": "SALARY INCREASE LETTER\n\n[Company Letterhead]\n\nDate: [Date]\n\nEmployee Name: [Employee Full Name]\nJob Title: [Employee Title]\nDepartment: [Department]\n\nSubject: Salary Increase Notification\n\nDear [Employee Name],\n\nWe are pleased to inform you that, in recognition of your [exceptional performance / promotion / expanded responsibilities / market adjustment / annual merit review / continued contributions], your compensation will be increased.\n\nThis adjustment reflects the value you bring to [Company Name] and our appreciation for your continued commitment, professionalism, and contributions to the team.\n\nUPDATED COMPENSATION DETAILS\n\nEffective Date: [Effective Date]\nPrevious Base Salary: $[Previous Salary] per [Year / Month / Hour]\nNew Base Salary: $[New Salary] per [Year / Month / Hour]\nAbsolute Increase: $[Increase Amount]\nPercentage Increase: [Percentage]%\n\nThis salary adjustment will be reflected in your paycheck dated [Paycheck Date].\n\nREASON FOR INCREASE\n\nThis increase recognizes [briefly describe reason, such as your leadership during a major project, consistent performance, promotion to a new role, increased responsibilities, market-based adjustment, or completion of a key certification].\n\n[Optional Personalized Note]\nYour work on [specific project, goal, or responsibility] has made a meaningful impact on [team, department, customers, or company outcome]. We appreciate the dedication and care you bring to your role.\n\nROLE OR RESPONSIBILITY CHANGES\n\n[Choose one:]\n\nNo change is being made to your current title, reporting structure, or primary responsibilities at this time.\n\nOR\n\nIn connection with this salary adjustment, your role will also include the following updated responsibilities:\n\n- [Responsibility 1]\n- [Responsibility 2]\n- [Responsibility 3]\n\nBENEFITS AND ADDITIONAL COMPENSATION\n\n[Choose one:]\n\nYour benefits and bonus eligibility will remain unchanged.\n\nOR\n\nThe following compensation or benefit changes will also apply:\n\n- Bonus Eligibility: [Details]\n- Commission Structure: [Details]\n- Equity / Stock Options: [Details]\n- Benefits: [Details]\n\nCONFIDENTIALITY\n\nPlease treat compensation information as confidential and direct any questions to Human Resources or your manager.\n\nQUESTIONS\n\nIf you have any questions about your updated compensation, payroll timing, benefits, or related administrative details, please contact:\n\nHR Contact Name: [Name]\nEmail: [Email]\nPhone: [Phone]\n\nWe sincerely appreciate your hard work and the value you continue to bring to [Company Name]. We look forward to your continued success and growth with the organization.\n\nSincerely,\n\n[Manager or HR Representative Name]\n[Title]\n[Company Name]\n\n----------------------------------------\nACKNOWLEDGMENT OF RECEIPT\n----------------------------------------\n\nI acknowledge that I have received this salary increase notification.\n\nEmployee Name: ______________________________\n\nEmployee Signature: __________________________\n\nDate: ______________________________________\n\nCompany Representative: _____________________\n\nDate: ______________________________________",
+"example": "A company gives a Senior Account Manager a 7% merit increase after an annual performance review. The letter confirms the employee's previous salary of $72,000, new salary of $77,040, effective date of July 1, and first paycheck date reflecting the increase. It also thanks the employee for leading a successful client retention initiative.",
+"tips": [
+"State the new salary, previous salary, increase amount, and effective date clearly.",
+"Connect the raise to a specific reason such as performance, promotion, market adjustment, or added responsibilities.",
+"Have the manager deliver the news in person or by video before sending the formal letter.",
+"Confirm the payroll date when the increase will first appear.",
+"Avoid vague praise and mention specific achievements when possible.",
+"Have HR or payroll review all numbers before sending.",
+"Keep a signed copy in the employee's personnel file.",
+"Mention any related changes to title, responsibilities, benefits, bonus, or commission."
+],
+"faqs": [
+{
+"question": "What should be included in a salary increase letter?",
+"answer": "A salary increase letter should include the employee's name, current salary, new salary, increase amount or percentage, effective date, payroll date, reason for the raise, and HR contact information."
+},
+{
+"question": "Is a salary increase letter legally required?",
+"answer": "A salary increase letter is not always legally required, but it is useful for documentation, payroll accuracy, transparency, and employee records."
+},
+{
+"question": "Who should send a salary increase letter?",
+"answer": "The employee's manager or HR department usually sends the letter. Best practice is for the manager to discuss the raise first, followed by written confirmation."
+},
+{
+"question": "Should the letter include the reason for the salary increase?",
+"answer": "Yes. Including the reason helps the employee understand whether the increase is based on performance, promotion, market adjustment, cost of living, retention, or expanded responsibilities."
+},
+{
+"question": "Should an employee sign a salary increase letter?",
+"answer": "Many employers ask employees to sign an acknowledgment of receipt so the company has documentation that the employee received the updated compensation information."
+},
+{
+"question": "Can this letter be used for a promotion?",
+"answer": "Yes. If the increase is tied to a promotion, the letter should also include the new title, reporting structure, responsibilities, and effective date."
+}
+],
+"tags": [
+"salary-increase-letter",
+"pay-raise-letter",
+"salary-adjustment-letter",
+"raise-notification-template",
+"employee-compensation-letter",
+"merit-increase-letter",
+"promotion-salary-increase",
+"hr-template",
+"pay-increase-template",
+"human-resources-template"
+]
+},
   {
     "slug": "benefits-change-letter",
     "title": "Benefits Change Letter Template",

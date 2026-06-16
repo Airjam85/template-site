@@ -62,27 +62,20 @@ export default async function TemplatePage({ params }) {
 
 const breadcrumbSchema = generateBreadcrumbSchema(template);
 const webpageSchema = generateWebPageSchema(template);
-const faqSchema = generateFAQSchema(template.faqs || []);
 
-const combinedSchema = [
-  breadcrumbSchema,
-  webpageSchema,
-  faqSchema,
-].filter(Boolean);
-
-if (template.faqs?.length > 0) {
-  combinedSchema.push(generateFAQSchema(template.faqs));
-}
+console.log("breadcrumb", breadcrumbSchema);
+console.log("webpage", webpageSchema);
+console.log(
+  "faq",
+  template.faqs?.length > 0
+    ? generateFAQSchema(template.faqs)
+    : null
+);
 
   return (
     <main className="max-w-3xl mx-auto p-10">
 
-      <script
-  type="application/ld+json"
-  dangerouslySetInnerHTML={{
-    __html: JSON.stringify(combinedSchema),
-  }}
-/>
+     
 
       <h1 className="text-4xl font-bold mb-4">
         {template.title}
@@ -139,16 +132,15 @@ if (template.faqs?.length > 0) {
 
 <TemplateActions templateContent={template.template} />
 
-{template.tags?.some((tag) =>
-  [
-    "freelance",
-    "creator",
-    "contract",
-    "proposal",
-    "invoice",
-    "small-business",
-  ].includes(tag)
-) && (
+{[
+  "freelance-services-contract-template",
+  "freelance-writing-contract-template",
+  "freelance-design-contract-template",
+  "social-media-management-contract-template",
+  "influencer-brand-collaboration-contract-template",
+  "content-creator-brand-sponsorship-agreement-template",
+  "professional-invoice-template"
+].includes(template.slug) && (
   <div className="mt-8 border rounded p-5 bg-gray-50">
     <h2 className="text-xl font-semibold mb-2">
       Want the complete freelance pack?
