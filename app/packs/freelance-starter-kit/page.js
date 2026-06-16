@@ -54,12 +54,17 @@ export default function FreelanceStarterKitPage() {
       </div>
 
       <div className="bg-gray-50 border rounded p-6 text-center">
-        <p className="text-2xl font-bold mb-4">$19</p>
+  <p className="text-4xl font-extrabold text-black mb-2">
+    $19.99
+  </p>
 
+  <p className="text-sm text-gray-600 mb-4">
+    One-time purchase • Instant download
+  </p>
         <a
           href="https://mangogranola.lemonsqueezy.com/checkout/buy/5f8ac327-dc6a-4e55-af6c-85da39564fa8"
-          className="inline-block rounded bg-black px-6 py-3 text-white font-semibold hover:bg-gray-800"
-        >
+          className="inline-block rounded-lg bg-black px-8 py-4 text-lg font-bold text-white hover:bg-gray-800 transition"
+>
           Buy Freelance Starter Kit
         </a>
 
