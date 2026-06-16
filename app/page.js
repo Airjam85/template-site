@@ -8,6 +8,23 @@ export default function HomePage() {
         Free Document Templates
       </h1>
 
+      <div className="mt-6 mb-8 border rounded-lg p-4 bg-gray-50">
+  <h2 className="font-extrabold text-black mb-2">
+    New: Freelance Starter Kit
+  </h2>
+
+  <p className="text-gray-600 mb-3">
+    Contracts, creator agreements, proposal templates, and invoice templates in one downloadable bundle.
+  </p>
+
+  <Link
+    href="/packs/freelance-starter-kit"
+    className="font-semibold text-black underline"
+  >
+    View the Freelance Starter Kit →
+  </Link>
+</div>
+
       <div className="grid gap-4">
         {templates.map((t) => (
           <div key={t.slug} className="border p-4 rounded">

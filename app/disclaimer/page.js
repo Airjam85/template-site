@@ -45,6 +45,12 @@ export default function DisclaimerPage() {
           templates or information provided on this
           site.
         </p>
+
+        <p>
+  By using this website, downloading any template,
+  or purchasing any digital product, you agree
+  that use of the materials is at your own risk.
+</p>
       </div>
     </main>
   );
