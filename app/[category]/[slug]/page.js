@@ -142,7 +142,8 @@ console.log(
   "professional-invoice-template"
 ].includes(template.slug) && (
   <div className="mt-8 border rounded p-5 bg-gray-50">
-    <h2 className="text-xl font-semibold mb-2">
+    <h2 className="text-xl font-semibold text-black mb-2">
+
       Want the complete freelance pack?
     </h2>
 

@@ -69,8 +69,9 @@ export default function FreelanceStarterKitPage() {
         </a>
 
         <p className="text-sm text-gray-500 mt-4">
-          Instant download after purchase.
-        </p>
+  Includes contracts, creator agreements, proposal templates,
+  and invoice templates.
+</p>
       </div>
     </main>
   );
