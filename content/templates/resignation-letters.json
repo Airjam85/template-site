@@ -1,114 +1,149 @@
 [
   {
     "slug": "simple-resignation-letter",
+    "qualityTier": "hand-polished",
     "title": "Simple Resignation Letter Template",
-    "description": "Free professional resignation letter template you can copy, edit, and use for leaving a job professionally.",
+    "description": "Free professional resignation letter template for employees leaving a job. Copy, customize, and submit your formal resignation with this straightforward, respectful resignation letter.",
     "category": {
       "name": "Resignation Letters",
       "slug": "resignation-letters"
     },
-    "intro": "This simple resignation letter template helps employees formally resign from a position while keeping communication professional and respectful.",
-    "whenToUse": "Use this template when leaving a job and providing formal written notice.",
-    "template": "Dear [Manager Name],\n\nI am writing to formally resign from my position at [Company Name], effective [Last Working Day].\n\nThank you for the opportunities and support during my time with the company.\n\nSincerely,\n[Your Name]",
-    "example": "Dear Mr. Smith,\n\nI am writing to formally resign from my position at ABC Corp, effective March 30, 2026.\n\nSincerely,\nJohn Doe",
+    "intro": "A Simple Resignation Letter is a brief, professional document used to formally notify your employer of your intent to leave a position. This template provides a straightforward, respectful format that maintains professionalism while clearly communicating your resignation effective date. It is suitable for most employment situations and can be customized for various industries and seniority levels.",
+    "whenToUse": "Use this template when leaving a job and providing formal written notice of resignation. It works well for straightforward departures, career changes, relocations, or other standard resignation situations where you want to keep the letter concise and professional.",
+    "template": "Dear [Manager Name],\n\nI am writing to formally resign from my position as [Your Job Title] at [Company Name], effective [Last Working Day, MM/DD/YYYY].\n\nI have valued my time working with the team and appreciate the opportunities for professional growth and development. Your guidance and support have contributed to my professional development.\n\nDuring my remaining time, I am committed to ensuring a smooth transition. I am available to assist with knowledge transfer, training my replacement, or addressing any outstanding projects as needed.\n\nThank you for the opportunities and experiences I have gained during my tenure. I wish you and the company continued success.\n\nSincerely,\n[Your Full Name]\n[Your Contact Information]",
+    "example": "Dear Mr. Smith,\n\nI am writing to formally resign from my position as Marketing Coordinator at ABC Corp, effective March 30, 2026.\n\nI have valued my time working with the team and appreciate the professional development opportunities. Your guidance has been instrumental in my career growth.\n\nDuring my remaining two weeks, I am committed to ensuring a smooth transition. I am available to train my replacement and complete current projects as needed.\n\nThank you for the opportunities and experiences during my time at ABC Corp. I wish you and the company continued success.\n\nSincerely,\nJohn Doe\n(555) 123-4567\njohn.doe@email.com",
+    "tips": [
+      "Keep the tone professional, grateful, and positive—avoid complaining about your job or company.",
+      "Provide a specific last working day (typically two weeks from submission) to allow for transition planning.",
+      "Offer to help with the transition and knowledge transfer to demonstrate professionalism.",
+      "Deliver the letter in person first if possible, then follow up with email or formal submission.",
+      "Mention specific skills or experiences you gained rather than generic praise.",
+      "Keep the letter to one page and maintain a respectful tone throughout.",
+      "Double-check spelling and grammar before submitting.",
+      "Keep a copy of your resignation letter for your personal employment records."
+    ],
     "faqs": [
       {
-        "question": "Should a resignation letter be formal?",
-        "answer": "Yes. Professional resignation letters help maintain positive relationships with employers."
+        "question": "How much notice should I give when resigning?",
+        "answer": "Two weeks' notice is standard in most industries. However, check your employment contract or company policy for specific requirements. Some positions, especially senior roles, may require more notice."
       },
       {
-        "question": "Can I resign by email?",
-        "answer": "Yes. Many employers accept resignation notices by email."
+        "question": "Should a resignation letter be formal?",
+        "answer": "Yes. Professional resignation letters help maintain positive relationships with employers, protect your professional reputation, and ensure proper documentation of your departure."
+      },
+      {
+        "question": "Can I resign by email instead of a formal letter?",
+        "answer": "While many employers accept resignation notices by email, it's best practice to deliver a formal letter in person first and then follow up via email. Check your company's HR policies."
+      },
+      {
+        "question": "What if I'm being forced to resign?",
+        "answer": "If you're being pressured to resign under unfavorable circumstances, consult an employment attorney or labor board before submitting a resignation. Document all communications."
+      },
+      {
+        "question": "Should I include reasons for leaving in my resignation letter?",
+        "answer": "It's optional to include reasons. A simple resignation letter can focus purely on the fact and date of resignation. Longer letters can briefly mention new opportunities or personal circumstances if desired."
+      },
+      {
+        "question": "What happens after I submit a resignation letter?",
+        "answer": "Your employer will typically acknowledge receipt, discuss your transition, outline your final responsibilities, and begin the knowledge transfer process. Your final paycheck and benefits information should also be addressed."
+      },
+      {
+        "question": "Can I resign verbally without a written letter?",
+        "answer": "While verbal resignation is sometimes acceptable, always follow up with a written letter. Written documentation protects both you and your employer and provides a clear record of your resignation date."
+      },
+      {
+        "question": "Is it ever appropriate to resign immediately without notice?",
+        "answer": "Immediate resignation should only occur in situations of severe harassment, unsafe working conditions, or breach of employment agreement. Provide notice when possible to maintain professional relationships."
       }
     ],
     "tags": [
-      "employment",
-      "resignation",
-      "career"
+      "resignation-letter-template",
+      "professional-resignation-letter",
+      "formal-resignation-letter",
+      "quit-a-job",
+      "employment-resignation",
+      "employee-resignation",
+      "how-to-resign",
+      "resignation-notice",
+      "leaving-a-job",
+      "formal-notice",
+      "career-transition",
+      "employment-templates",
+      "business-communication"
     ]
   },
   {
     "slug": "two-weeks-notice-letter",
+    "qualityTier": "hand-polished",
     "title": "Two Weeks Notice Letter Template",
-    "description": "Free two weeks notice letter template for professionally resigning from a job.",
+    "description": "Free two weeks notice letter template for professionally resigning from a job with proper advance notice. Includes formal resignation letter format and resignation procedures.",
     "category": {
       "name": "Resignation Letters",
       "slug": "resignation-letters"
     },
-    "intro": "This template helps employees formally communicate a resignation while providing a standard two weeks notice period.",
-    "whenToUse": "Use this template when resigning from a job and giving advance notice.",
-    "template": "Dear [Manager Name],\n\nPlease accept this letter as formal notice of my resignation from [Company Name]. My final working day will be [Last Working Day].\n\nThank you for the opportunity.\n\nSincerely,\n[Your Name]",
-    "example": "Dear Ms. Johnson,\n\nPlease accept this letter as formal notice of my resignation from Bright Solutions. My final working day will be April 14, 2026.\n\nSincerely,\nSarah Lee",
+    "intro": "A Two Weeks Notice Letter is the standard professional way to inform your employer that you're resigning while giving them adequate time to prepare for your departure. This template provides a formal, respectful resignation letter that clearly communicates your final working day and demonstrates your commitment to a smooth transition. The two-week notice period is the industry standard and allows employers time to post your position, interview candidates, and manage the transition of your responsibilities.",
+    "whenToUse": "Use this template when resigning from a job with the intention of providing the standard two weeks of advance notice. It is appropriate for most employment situations, particularly when you want to leave on good terms and maintain professional relationships.",
+    "template": "Dear [Manager Name],\n\nPlease accept this letter as formal notice of my resignation from my position as [Your Job Title] at [Company Name]. My final working day will be [Last Working Day, MM/DD/YYYY], providing two weeks' notice as of today.\n\nI have truly appreciated the opportunities for professional growth and the collaborative relationships I have built during my tenure. Working with the team has been valuable, and I am grateful for the experiences and skills I have developed here.\n\nDuring my two weeks' notice period, I am committed to ensuring a smooth and professional transition. I am available to:\n\n- Document my current projects and ongoing responsibilities\n- Train my replacement or other team members\n- Complete critical deliverables and hand off work appropriately\n- Organize files and transfer necessary documentation\n\nThank you for the opportunity to contribute to the organization. I wish you and the team continued success.\n\nSincerely,\n[Your Full Name]\n[Your Phone Number]\n[Your Email Address]",
+    "example": "Dear Ms. Johnson,\n\nPlease accept this letter as formal notice of my resignation from my position as Project Manager at Bright Solutions. My final working day will be April 14, 2026, providing two weeks' notice as of today.\n\nI have truly appreciated the opportunities for professional development and the collaborative relationships I have built here. Working with this team has been a rewarding experience.\n\nDuring my notice period, I am committed to:\n\n- Documenting all current projects and timelines\n- Training the team on critical processes\n- Completing the quarterly report deliverables\n- Transferring all client relationships documentation\n\nThank you for the opportunity to contribute to Bright Solutions. I wish you and the team continued success.\n\nSincerely,\nSarah Lee\n(555) 987-6543\nsarah.lee@email.com",
+    "tips": [
+      "Submit your two-week notice letter in person first whenever possible, followed by email documentation.",
+      "Calculate exactly two weeks from the submission date and verify this date before writing the letter.",
+      "Be specific about your final working day rather than using vague language.",
+      "Offer concrete ways you will help with the transition rather than generic statements.",
+      "Maintain a professional, grateful tone even if you're leaving due to negative circumstances.",
+      "Proofread carefully and avoid typos, grammatical errors, or emotional language.",
+      "Keep a copy for your personal records and request written acknowledgment from your employer.",
+      "Discuss benefits continuation, final paycheck timing, and reference policies separately with HR."
+    ],
     "faqs": [
       {
         "question": "What is a two weeks notice letter?",
-        "answer": "A two weeks notice letter informs an employer that you plan to leave your role in two weeks."
+        "answer": "A two weeks notice letter is a formal document informing your employer of your resignation with 14 days' advance notice, allowing time for transition planning and replacement recruitment."
       },
       {
         "question": "Do all jobs require two weeks notice?",
-        "answer": "Policies vary depending on the employer and employment agreement."
-      }
-    ],
-    "tags": [
-      "notice",
-      "resignation",
-      "employment"
-    ]
-  },
-  {
-    "slug": "cover-letter-template",
-    "title": "Cover Letter Template",
-    "description": "Professional cover letter template for job applications.",
-    "category": {
-      "name": "Resignation Letters",
-      "slug": "resignation-letters"
-    },
-    "intro": "This cover letter template helps job applicants introduce themselves professionally and highlight qualifications.",
-    "whenToUse": "Use when applying for jobs and submitting resumes.",
-    "template": "Dear Hiring Manager,\n\nI am excited to apply for the [Position Name] role at [Company Name].\n\nThank you for your consideration.\n\nSincerely,\n[Your Name]",
-    "example": "Dear Hiring Manager,\n\nI am excited to apply for the Marketing Coordinator role at Bright Media.\n\nSincerely,\nJane Smith",
-    "faqs": [
-      {
-        "question": "Should every resume include a cover letter?",
-        "answer": "Many employers prefer cover letters because they provide additional context about your experience."
+        "answer": "Policies vary by employer and employment agreement. Check your contract or employee handbook. Some positions require more notice, and some states have specific notice requirements. However, two weeks is the professional standard."
       },
       {
-        "question": "How long should a cover letter be?",
-        "answer": "Most cover letters should remain concise and fit on one page."
-      }
-    ],
-    "tags": [
-      "cover-letter",
-      "application",
-      "employment"
-    ]
-  },
-  {
-    "slug": "recommendation-letter-template",
-    "title": "Recommendation Letter Template",
-    "description": "Professional recommendation letter template for employees and students.",
-    "category": {
-      "name": "Resignation Letters",
-      "slug": "resignation-letters"
-    },
-    "intro": "This recommendation letter template helps employers, teachers, and mentors write strong references.",
-    "whenToUse": "Use when writing references for jobs, schools, or applications.",
-    "template": "To Whom It May Concern,\n\nI highly recommend [Name] for [Position or Program].\n\nSincerely,\n[Your Name]",
-    "example": "To Whom It May Concern,\n\nI highly recommend Sarah Lee for your graduate program.\n\nSincerely,\nProfessor Adams",
-    "faqs": [
-      {
-        "question": "What should recommendation letters include?",
-        "answer": "Recommendation letters should include qualifications, strengths, and professional observations."
+        "question": "What should I include in a two weeks notice letter?",
+        "answer": "Include your position title, the exact final working day, gratitude for the opportunity, a commitment to transition assistance, and professional contact information. Keep it concise and positive."
       },
       {
-        "question": "Who can write recommendation letters?",
-        "answer": "Managers, teachers, mentors, and supervisors commonly write recommendation letters."
+        "question": "Can I resign immediately without providing two weeks notice?",
+        "answer": "You can resign immediately, but this may violate your employment agreement, impact severance or benefits, and damage professional relationships. Provide notice when possible."
+      },
+      {
+        "question": "Should I discuss my resignation verbally first before submitting a letter?",
+        "answer": "Best practice is to discuss your resignation in a private conversation with your manager first, then follow up with a formal written letter. This shows respect and professionalism."
+      },
+      {
+        "question": "What if my employer asks me to leave immediately after I give two weeks notice?",
+        "answer": "Some employers may ask you to leave sooner or offer severance. You can negotiate, but they may invoke an immediate termination clause in your employment agreement. Consult HR or an employment attorney if unsure."
+      },
+      {
+        "question": "Can my employer require more than two weeks notice?",
+        "answer": "Yes, if your employment contract specifies a longer notice period or if you're in a senior leadership position. Always check your contract before determining your notice period."
+      },
+      {
+        "question": "Should I mention where I'm going next in my resignation letter?",
+        "answer": "It's optional to mention your next employer, but keep it brief and professional. Focus on what you're grateful for rather than where you're going."
       }
     ],
     "tags": [
-      "recommendation",
-      "reference",
-      "nda"
+      "two-weeks-notice-letter",
+      "two-week-notice-template",
+      "two-week-resignation",
+      "resignation-letter-template",
+      "professional-resignation-notice",
+      "employment-resignation",
+      "employee-notice-letter",
+      "formal-resignation-notice",
+      "notice-of-resignation",
+      "resignation-procedures",
+      "leaving-a-job",
+      "career-change",
+      "employment-templates",
+      "business-communication"
     ]
   },
   {
@@ -379,50 +414,153 @@
   },
   {
     "slug": "resignation-short-notice-template",
-    "title": "Short Notice Resignation Letter",
-    "description": "A concise resignation letter template for providing short notice.",
+    "qualityTier": "hand-polished",
+    "title": "Short Notice Resignation Letter Template",
+    "description": "Free short notice resignation letter template for employees resigning with limited advance notice. Professional template for emergency departures, health issues, or sudden job changes.",
     "category": {
       "name": "Resignation Letters",
       "slug": "resignation-letters"
     },
-    "intro": "Use this short resignation template when you must leave with limited notice.",
-    "whenToUse": "When you need to resign quickly and provide a brief professional notice.",
-    "template": "Dear [Manager Name],\n\nPlease accept this letter as formal notice of my resignation from [Company Name], effective [Last Working Day].\n\nThank you for the opportunities provided during my time here.\n\nSincerely,\n[Your Name]",
-    "example": "Dear Mr. Evans,\n\nPlease accept this letter as formal notice of my resignation from Bright Services, effective May 20, 2026.\n\nSincerely,\nDana Lee",
+    "intro": "A Short Notice Resignation Letter is used when you must resign with less than the standard two-week notice period. This template provides a professional, concise format for situations requiring immediate or very short notice departures, such as health emergencies, family relocations, or unforeseen circumstances. While short notice can create challenges for employers, a professional letter demonstrates respect and may help preserve your professional reputation.",
+    "whenToUse": "Use this template when resigning with less than two weeks' notice due to emergencies, health issues, family matters, sudden opportunities, or unavoidable circumstances. It works for situations where providing standard notice is impossible or impractical.",
+    "template": "Dear [Manager Name],\n\nI am writing to formally notify you of my resignation from my position as [Your Job Title] at [Company Name], effective [Last Working Day, MM/DD/YYYY].\n\nI understand that short notice creates challenges for the team, and I sincerely regret any disruption this may cause. Unfortunately, [brief reason: unforeseen circumstances have made my immediate departure necessary / a family emergency requires my attention / urgent personal matters require my focus].\n\nI am committed to making this transition as smooth as possible given the circumstances. I am available to:\n\n- Brief team members on urgent projects and priorities\n- Provide documentation of critical information\n- Assist remotely if needed during the transition\n\nI appreciate the opportunities I have had during my time with [Company Name] and apologize for the short notice.\n\nSincerely,\n[Your Full Name]\n[Your Phone Number]\n[Your Email Address]",
+    "example": "Dear Mr. Evans,\n\nI am writing to formally notify you of my resignation from my position as Regional Sales Manager at Bright Services, effective immediately.\n\nI understand that short notice creates challenges for the team, and I sincerely regret any disruption this may cause. However, a family emergency requires my immediate attention and relocation.\n\nI am committed to making this transition as smooth as possible. I am available to brief my replacement on current accounts and can provide detailed documentation of client relationships and ongoing projects if needed.\n\nI appreciate the professional opportunities I have had and apologize for the abruptness of this departure.\n\nSincerely,\nDana Lee\n(555) 246-8135\ndana.lee@email.com",
+    "tips": [
+      "Only use short notice resignation when absolutely necessary—it can damage professional relationships.",
+      "Provide a brief, honest explanation for the urgency without oversharing personal details.",
+      "Offer specific assistance to help mitigate the impact on your team.",
+      "Call your manager before submitting the letter if possible to discuss the situation.",
+      "Document your resignation in writing even if you've had a verbal conversation.",
+      "Offer to provide important documentation, contact lists, or procedures remotely.",
+      "Be prepared that employers may escort you from the premises or ask you to leave immediately.",
+      "Follow up after your departure with any promised documentation or transition help."
+    ],
     "faqs": [
       {
         "question": "Is short notice acceptable?",
-        "answer": "It depends on your contract and employer policy; be professional and offer to help with transition."
+        "answer": "It depends on your employment agreement and employer policies. While not ideal, short notice may be acceptable in emergency situations. Be prepared for potential consequences regarding references, severance, or final pay."
+      },
+      {
+        "question": "Can an employer force me to stay longer than I want?",
+        "answer": "Employment is typically at-will, meaning you can resign anytime. However, breaching an employment contract's notice requirement may result in legal action or loss of benefits. Consult your contract."
+      },
+      {
+        "question": "How will short notice affect my final paycheck?",
+        "answer": "Your employer must pay all wages owed through your final date. Short notice doesn't typically affect payment, but unused vacation or benefits may be affected based on company policy."
+      },
+      {
+        "question": "Will short notice damage my professional reputation?",
+        "answer": "It can, depending on circumstances. If it's truly an emergency, most professionals understand. However, leaving suddenly without good reason may result in poor references or negative word-of-mouth in your industry."
+      },
+      {
+        "question": "What should I do if my employer gets angry about short notice?",
+        "answer": "Remain professional and calm. Offer to help with transition if possible. If your employer becomes abusive or hostile, it may be best to leave for your safety and well-being."
+      },
+      {
+        "question": "Can I resign verbally for short notice or do I need a written letter?",
+        "answer": "Always provide a written letter even with short notice. It creates an official record of your resignation date and reason, which protects both you and your employer."
+      },
+      {
+        "question": "What if my employer asks me to stay longer than my short notice period?",
+        "answer": "You can refuse. While they may ask you to stay, you are not obligated to remain. However, refusing may affect severance, final pay timing, or references depending on your agreement."
+      },
+      {
+        "question": "Should I offer to help with transition even if I have to leave immediately?",
+        "answer": "Yes, offering remote assistance or available documentation shows professionalism and may preserve your reputation despite the difficult circumstances."
       }
     ],
     "tags": [
-      "employment",
-      "resignation",
-      "career"
+      "short-notice-resignation-letter",
+      "immediate-resignation-letter",
+      "urgent-resignation-letter",
+      "emergency-resignation-letter",
+      "resignation-letter-template",
+      "professional-resignation",
+      "employee-resignation",
+      "emergency-departure",
+      "last-minute-resignation",
+      "employment-resignation",
+      "resignation-notice",
+      "leaving-a-job",
+      "employment-templates",
+      "business-communication"
     ]
   },
   {
     "slug": "resignation-long-form-template",
-    "title": "Long-Form Resignation Letter",
-    "description": "A detailed resignation letter template for explaining reasons and transition plans.",
+    "qualityTier": "hand-polished",
+    "title": "Long Form Resignation Letter Template",
+    "description": "Comprehensive resignation letter template for detailed departures. Professional long-form resignation letter with space for detailed explanation of departure, gratitude, and transition assistance.",
     "category": {
       "name": "Resignation Letters",
       "slug": "resignation-letters"
     },
-    "intro": "A longer resignation letter that offers context and outlines support during transition.",
-    "whenToUse": "When you want to provide explanation and assist with handover details.",
-    "template": "Dear [Manager Name],\n\nI am writing to inform you of my resignation from [Company Name], effective [Last Day]. I have accepted a position at [New Company] and appreciate the experience I gained here.\n\nI will complete [Tasks] and assist with handover materials.\n\nSincerely,\n[Your Name]",
-    "example": "Dear Karen,\n\nI am writing to resign from my role at Meadow Labs effective June 1, 2026. I will complete the current campaign and provide documentation for my successor.\n\nSincerely,\nLiam Harris",
+    "intro": "A Long Form Resignation Letter is a more detailed, comprehensive resignation document that goes beyond the basics to provide context, express gratitude, and outline transition plans. This template is ideal for employees in senior positions, those with significant tenure, or situations where a more thorough explanation benefits both the employee and employer. The longer format allows for expressing sincere appreciation and demonstrating commitment to a professional transition.",
+    "whenToUse": "Use this template when you are in a senior position, have worked at the company for many years, want to provide detailed transition planning, or when circumstances warrant a more comprehensive explanation of your departure.",
+    "template": "Dear [Manager Name and Company Leadership],\n\nI am writing to formally resign from my position as [Your Job Title] at [Company Name], effective [Last Working Day, MM/DD/YYYY].\n\nAfter careful consideration, I have decided that it is time for me to pursue a new opportunity / chapter in my career / personal goals. [Optional: briefly explain reason for departure - e.g., \"a role aligned with my long-term career objectives\" or \"the ability to relocate closer to family.\"]\n\nMy tenure at [Company Name] has been incredibly rewarding, and I am genuinely grateful for the professional growth and relationships I have developed. Specifically, I want to acknowledge:\n\n- The mentorship and leadership development I received from [Manager/Leadership]\n- The opportunity to lead [specific project/team] and contribute to [specific achievement]\n- The collaborative culture and the strong team I've had the privilege to work with\n- The professional skills and experiences that will serve me throughout my career\n\nDuring my final [two weeks / month / period], I am committed to ensuring the smoothest possible transition:\n\n- I will document all ongoing projects, timelines, and status updates\n- I am available to train my replacement or team members on critical processes\n- I will provide comprehensive handoff documentation of my responsibilities\n- I will assist in recruiting and onboarding my successor if possible\n- I am available for consultation after my departure if needed\n\nThe relationships and experiences I've gained here have been invaluable, and I carry these lessons forward. I have tremendous respect for [Company Name] and its mission, and I wish the organization continued success.\n\nThank you for the opportunity to contribute to this organization's success. Please let me know how I can best support the transition during my remaining time.\n\nSincerely,\n[Your Full Name]\n[Your Phone Number]\n[Your Email Address]\n[Your LinkedIn Profile - Optional]",
+    "example": "Dear Ms. Chen and Leadership Team,\n\nI am writing to formally resign from my position as Senior Marketing Manager at InnovateTech Solutions, effective June 30, 2026.\n\nAfter careful consideration, I have decided to accept a leadership position with a nonprofit organization focused on environmental sustainability. This role aligns with my long-term career goals and personal passion for making a social impact.\n\nMy six years at InnovateTech have been incredibly rewarding, and I am genuinely grateful for the professional growth and relationships. Specifically, I want to acknowledge:\n\n- The exceptional mentorship from you, Ms. Chen, which fundamentally shaped my leadership approach\n- The opportunity to lead the digital transformation project, which increased our market reach by 40%\n- The collaborative team environment and the talented professionals I've had the honor to work alongside\n- The professional skills in project management, team leadership, and strategic planning\n\nDuring my final month, I am committed to ensuring a smooth transition:\n\n- I will document all marketing initiatives, timelines, and campaign status\n- I am available to train my replacement on vendor relationships and platform management\n- I will provide comprehensive documentation of my responsibilities and processes\n- I am willing to assist in recruitment and onboarding if needed\n- I am available for consultation on current projects after my departure\n\nThe relationships and experiences here have been invaluable to my professional journey. I have tremendous respect for InnovateTech's mission and wish the organization and team continued success.\n\nThank you for investing in my development and for the incredible opportunity to contribute to this organization's success.\n\nSincerely,\nMichael Rodriguez\n(555) 789-1234\nmichael.rodriguez@email.com\nLinkedIn.com/in/michaelrodriguez",
+    "tips": [
+      "Keep the tone professional and grateful throughout, even if you're leaving due to dissatisfaction.",
+      "Acknowledge specific people, projects, or achievements rather than using generic gratitude.",
+      "Be specific about your transition plan and offer concrete ways to help during the handoff period.",
+      "Provide sufficient notice (typically one month for professional/senior positions) when using this format.",
+      "Briefly explain your reason for departure but focus on your future rather than criticisms of the company.",
+      "Mention specific skills you've gained that you'll take forward in your career.",
+      "Offer post-departure availability for questions or consultation on critical matters.",
+      "Proofread carefully and have a trusted colleague review before submitting to leadership.",
+      "Deliver in person first, then follow up with formal written submission.",
+      "Keep a copy in your personal records for future reference."
+    ],
     "faqs": [
       {
-        "question": "Should I include reasons?",
-        "answer": "Optional; keep it professional and brief."
+        "question": "Who should I send my long-form resignation letter to?",
+        "answer": "Address it to your direct manager, but also include your HR department or other relevant leadership. For senior positions, you may address company leadership directly."
+      },
+      {
+        "question": "How much detail should I include about my reasons for leaving?",
+        "answer": "Include enough to be respectful and transparent, but focus on your future rather than criticisms. For positive reasons (new opportunity, career growth), be specific. For negative reasons, keep it general."
+      },
+      {
+        "question": "Is a long-form resignation appropriate for all positions?",
+        "answer": "Long-form resignations are most appropriate for senior positions, those with significant tenure, or when additional context benefits the organization. For junior roles, shorter letters are usually sufficient."
+      },
+      {
+        "question": "Should I include personal achievements in my resignation letter?",
+        "answer": "Yes, mentioning specific projects or achievements you led helps the organization understand your contributions and can leave a positive lasting impression."
+      },
+      {
+        "question": "Can I mention specific people who mentored me?",
+        "answer": "Absolutely. Acknowledging mentors and leaders by name is appropriate and appreciated. It strengthens relationships and shows gratitude."
+      },
+      {
+        "question": "How long should a long-form resignation letter be?",
+        "answer": "Typically 250-400 words, roughly 3/4 to 1 full page. It should be comprehensive but not excessive."
+      },
+      {
+        "question": "What if I'm leaving under negative circumstances?",
+        "answer": "Even when leaving due to workplace issues, keep a long-form resignation professional. Focus on what you learned rather than complaints. Save detailed concerns for exit interviews if appropriate."
+      },
+      {
+        "question": "Should I discuss my new opportunity in detail?",
+        "answer": "You can mention your new role and why it appeals to you, but avoid going into excessive detail. Keep the focus on your transition and gratitude rather than the new position."
       }
     ],
     "tags": [
-      "employment",
-      "resignation",
-      "career"
+      "long-form-resignation-letter",
+      "detailed-resignation-letter",
+      "comprehensive-resignation-letter",
+      "professional-resignation-letter",
+      "senior-resignation-letter",
+      "resignation-letter-template",
+      "employee-resignation",
+      "formal-resignation-notice",
+      "resignation-with-explanation",
+      "career-transition",
+      "professional-departure",
+      "employment-resignation",
+      "resignation-notice",
+      "business-communication",
+      "employment-templates"
     ]
   },
   {

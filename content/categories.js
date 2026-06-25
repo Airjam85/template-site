@@ -22,4 +22,17 @@ export const categories = {
       "Formal workplace exits",
     ],
   },
+
+  "cover-letters": {
+    name: "Cover Letters",
+    intro:
+      "Professional cover letter templates for job applications, career transitions, and recommendations. Includes templates for entry-level positions, career changes, technical roles, and academic recommendations.",
+    useCases: [
+      "Job applications and cover letters",
+      "Career change applications",
+      "Industry-specific cover letters",
+      "Recommendation letters",
+      "Academic and professional references",
+    ],
+  },
 };
