@@ -62,19 +62,30 @@ export default async function TemplatePage({ params }) {
 
 const breadcrumbSchema = generateBreadcrumbSchema(template);
 const webpageSchema = generateWebPageSchema(template);
-
-console.log("breadcrumb", breadcrumbSchema);
-console.log("webpage", webpageSchema);
-console.log(
-  "faq",
-  template.faqs?.length > 0
+const combinedSchema = [
+  breadcrumbSchema,
+  webpageSchema,
+  template.faqs?.length
     ? generateFAQSchema(template.faqs)
-    : null
+    : null,
+].filter(
+  (schema) =>
+    schema &&
+    typeof schema === "object" &&
+    schema["@context"] &&
+    schema["@type"]
 );
 
   return (
     <main className="max-w-3xl mx-auto p-10">
-
+{combinedSchema.length > 0 && (
+  <script
+    type="application/ld+json"
+    dangerouslySetInnerHTML={{
+      __html: JSON.stringify(combinedSchema),
+    }}
+  />
+)}
      
 
       <h1 className="text-4xl font-bold mb-4">
