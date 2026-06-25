@@ -51,6 +51,12 @@ export default function DisclaimerPage() {
   or purchasing any digital product, you agree
   that use of the materials is at your own risk.
 </p>
+
+<p>
+  Questions regarding this policy may be directed to:
+mangogranolasupport@gmail.com
+</p>
+
       </div>
     </main>
   );

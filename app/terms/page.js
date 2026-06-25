@@ -39,6 +39,10 @@ export default function TermsPage() {
         <p>
           By using this website, you agree to these Terms of Use.
         </p>
+
+         <p>
+          Questions about these Terms of Use may be directed to mangogranolasupport@gmail.com.
+        </p>
       </div>
     </main>
   );

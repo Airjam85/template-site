@@ -33,8 +33,7 @@ export default function PrivacyPage() {
         </p>
 
         <p>
-          Questions about this Privacy Policy may be directed to the contact
-          information provided on the website.
+          Questions about this Privacy Policy may be directed to mangogranolasupport@gmail.com.
         </p>
       </div>
     </main>

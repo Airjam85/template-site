@@ -139,7 +139,31 @@ console.log(
   "social-media-management-contract-template",
   "influencer-brand-collaboration-contract-template",
   "content-creator-brand-sponsorship-agreement-template",
-  "professional-invoice-template"
+  "professional-invoice-template",
+  "expense-tracking-sheet-template",
+  "profit-and-loss-statement-template",
+  "simple-business-plan-template-for-freelancers",
+  "saas-business-plan-template",
+  "ugc-service-proposal-template",
+  "freelance-contract-website-design",
+  "freelance-scope-of-work-agreement-template",
+  "freelance-revision-policy-template",
+  "freelance-services-contract-template-basic",
+  "high-ticket-freelance-proposal-template",
+  "low-ticket-freelance-proposal-template",
+  "creator-non-disclosure-agreement-template",
+  "creator-invoice-template",
+  "freelance-content-marketing-invoice",
+  "copywriting-invoice",
+  "seo-services-invoice",
+  "social-media-manager-invoice",
+  "virtual-assistant-invoice",
+  "video-editing-invoice",
+  "ecommerce-services-invoice",
+  "non-disclosure-agreement-template",
+  "nda-template-for-freelancers",
+  "freelance-to-corporate-resignation"
+    
 ].includes(template.slug) && (
   <div className="mt-8 border rounded p-5 bg-gray-50">
     <h2 className="text-xl font-extrabold text-black mb-2">

@@ -27,3 +27,6 @@ For more free templates and resources, visit:
 https://mangogranola.com
 
 Thank you for supporting MangoGranola.
+
+Support:
+mangogranolasupport@gmail.com
