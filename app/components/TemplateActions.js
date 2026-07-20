@@ -2,9 +2,14 @@
 
 import { useState } from "react";
 
-export default function TemplateActions({ templateContent = "" }) {
+export default function TemplateActions({
+  templateContent = "",
+  templateSlug = "",
+}) {
   const [copied, setCopied] = useState(false);
   const [content, setContent] = useState(templateContent);
+  const isExpenseTemplate =
+    templateSlug === "expense-tracking-sheet-template";
 
   async function handleCopy() {
     try {
@@ -82,7 +87,24 @@ export default function TemplateActions({ templateContent = "" }) {
 >
   Share
 </button>
+
+        {isExpenseTemplate && (
+          <a
+            href="/downloads/expense-tracking-sheet-template.xlsx"
+            download
+            className="border px-4 py-2 rounded bg-white text-black hover:bg-gray-100 dark:bg-zinc-900 dark:text-white dark:hover:bg-zinc-800"
+          >
+            Download Editable Excel
+          </a>
+        )}
       </div>
+
+      {isExpenseTemplate && (
+        <p className="mt-4 text-sm text-gray-600 dark:text-gray-300">
+          Track transactions, compare spending with your budget, and review
+          financial trends in an editable Excel workbook.
+        </p>
+      )}
     </div>
   );
 }

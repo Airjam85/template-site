@@ -2032,5 +2032,57 @@
       "agency-billing",
       "invoices"
     ]
+  },
+  {
+    "slug": "seo-invoice-template",
+    "qualityTier": "editor-reviewed",
+    "title": "SEO Invoice Template",
+    "description": "SEO invoice template for audits, keyword research, technical fixes, on-page optimization, content support, and monthly retainers.",
+    "category": {
+      "name": "Invoices",
+      "slug": "invoices"
+    },
+    "intro": "This SEO invoice template helps consultants and agencies bill for search optimization work in a clear, professional format. It is designed for one-time projects and recurring monthly retainers.",
+    "whenToUse": "Use this template when invoicing SEO audits, ongoing optimization retainers, technical cleanup work, keyword research, or content optimization projects.",
+    "template": "SEO INVOICE\n\nInvoice Number: [INV-2027-XXX]\nInvoice Date: [Date]\nPayment Due Date: [Date]\nPayment Terms: [Net 15 / Net 30 / Monthly]\n\nFROM\n[SEO Consultant or Agency]\n[Address]\n[City, State, ZIP]\n[Phone Number]\n[Email Address]\n\nBILL TO\n[Client Name]\n[Company Name]\n[Address]\n[City, State, ZIP]\n[Email Address]\n\nSERVICE PERIOD\nService Period: [Month / Date Range]\nWebsite: [Domain]\n\nSERVICE BREAKDOWN\n\n| Description | Qty | Rate | Amount |\n|-------------|-----|------|--------|\n| SEO audit or strategic review | 1 | [$Amount] | [$Amount] |\n| Keyword research and mapping | 1 | [$Amount] | [$Amount] |\n| On-page optimization | [Qty] | [$Rate] | [$Amount] |\n| Technical SEO fixes or recommendations | [Qty] | [$Rate] | [$Amount] |\n| Reporting and analysis | 1 | [$Amount] | [$Amount] |\n\nSUBTOTAL: [$Amount]\nTAXES: [$Amount]\nTOTAL DUE: [$Amount]\n\nNOTES\n- Monthly SEO retainers are billed in advance unless otherwise agreed.\n- Development or implementation work may be billed separately.\n- Results depend on search engine behavior, competition, and site changes.\n\nPAYMENT METHODS\n- Bank transfer\n- Credit card\n- ACH\n\nTHANK YOU\nThank you for partnering on your SEO growth.",
+    "example": "SEO Invoice\n\nInvoice Number: INV-2027-208\nInvoice Date: May 31, 2027\nPayment Due Date: June 15, 2027\nPayment Terms: Net 15\n\nFROM\nSignal Search Co.\n88 Market Street\nAustin, TX 78701\n(512) 555-0149\nbilling@signalsearch.co\n\nBILL TO\nIronwood Plumbing\n504 Commerce Blvd\nAustin, TX 78701\n\nSERVICE PERIOD\nService Period: May 2027\nWebsite: ironwoodplumbing.com\n\nSERVICE BREAKDOWN\n\n| Description | Qty | Rate | Amount |\n|-------------|-----|------|--------|\n| SEO audit | 1 | $900 | $900 |\n| Keyword research | 1 | $400 | $400 |\n| On-page optimization | 8 pages | $90 | $720 |\n| Reporting | 1 | $250 | $250 |\n\nSUBTOTAL: $2,270\nTAXES: $0\nTOTAL DUE: $2,270",
+    "tips": [
+      "Include the website domain and billing period.",
+      "Separate audit, optimization, and reporting lines when possible.",
+      "State whether implementation work is included or billed separately.",
+      "Use clear payment terms for retainers and one-time projects.",
+      "Avoid implying guaranteed search performance.",
+      "List payment methods prominently so clients can pay quickly."
+    ],
+    "faqs": [
+      {
+        "question": "What should an SEO invoice include?",
+        "answer": "Include the website, service period, work performed, line-item pricing, payment terms, and any notes about implementation or retainers."
+      },
+      {
+        "question": "Should SEO invoices be monthly?",
+        "answer": "Ongoing SEO work is commonly billed monthly, especially when the work is retained and recurring."
+      },
+      {
+        "question": "Can audit and implementation be billed separately?",
+        "answer": "Yes. Separating diagnostic work from implementation helps clients understand what they are paying for."
+      },
+      {
+        "question": "What if results are not immediate?",
+        "answer": "SEO results can take time, so invoices should focus on completed work rather than ranking promises."
+      },
+      {
+        "question": "Is this invoice suitable for agencies and freelancers?",
+        "answer": "Yes. It works for solo SEO consultants, freelancers, and agencies billing project or retainer work."
+      }
+    ],
+    "tags": [
+      "seo-invoice",
+      "search-engine-optimization",
+      "marketing-invoice",
+      "monthly-retainer",
+      "digital-marketing",
+      "invoices"
+    ]
   }
 ]

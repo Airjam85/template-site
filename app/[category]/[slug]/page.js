@@ -141,7 +141,10 @@ const combinedSchema = [
   Template
 </h2>
 
-<TemplateActions templateContent={template.template} />
+<TemplateActions
+  templateContent={template.template}
+  templateSlug={template.slug}
+/>
 
 {[
   "freelance-services-contract-template",

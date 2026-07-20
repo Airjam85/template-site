@@ -3301,5 +3301,213 @@
 "accounting-support",
 "contracts"
 ]
-}
+  },
+  {
+    "slug": "seo-retainer-agreement-template",
+    "qualityTier": "editor-reviewed",
+    "title": "SEO Retainer Agreement Template",
+    "description": "SEO retainer agreement template for ongoing search optimization, reporting, strategy, and monthly execution work.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "This SEO retainer agreement template helps agencies and consultants define an ongoing search optimization relationship. It keeps scope, fees, reporting cadence, and responsibilities clear so clients understand what monthly SEO support includes.",
+    "whenToUse": "Use this template when you are selling monthly SEO services, recurring optimization support, or a retained search strategy engagement.",
+    "template": "SEO RETAINER AGREEMENT\n\nThis SEO Retainer Agreement (\"Agreement\") is entered into on [Date] by and between:\n\nSEO Provider:\nName: [Agency or Consultant Name]\nAddress: [Address]\nEmail: [Email]\n\nClient:\nName: [Client Name or Company]\nAddress: [Address]\nEmail: [Email]\n\n1. SERVICES\nProvider will perform the monthly SEO services listed below:\n- Keyword research and refinement\n- On-page optimization\n- Technical issue review\n- Content guidance\n- Performance reporting\n- [Optional: local SEO or link building]\n\n2. TERM\nStart Date: [Start Date]\nInitial Term: [Months]\nAuto-Renewal: [Yes/No]\n\n3. FEES\nMonthly Retainer: [$Amount]\nPayment Due Date: [Due Date]\nLate Fee: [Late fee terms]\n\n4. CLIENT RESPONSIBILITIES\nClient will provide timely access to CMS, analytics, search console, and relevant decision-makers. Delays in access may delay deliverables.\n\n5. NO GUARANTEE\nProvider does not guarantee rankings, traffic, or sales because search engine algorithms and competitor activity are outside Provider control.\n\n6. REPORTING\nProvider will share reporting on a [weekly / monthly] basis covering completed work, priorities, and performance trends.\n\n7. CHANGE MANAGEMENT\nWork outside the monthly scope must be approved in writing before execution.\n\n8. TERMINATION\nEither party may terminate this Agreement with [Number] days written notice. Fees for work completed through the termination date remain due.\n\n9. CONFIDENTIALITY\nEach party agrees to protect confidential information, including keyword plans, strategy notes, access credentials, and business data.\n\n10. SIGNATURES\nProvider Signature: _______________________\nClient Signature: _________________________",
+    "example": "SEO Retainer Agreement\n\nClient: Green Pine Pediatrics\nMonthly Fee: $2,500\nTerm: 6 months\nServices: Content optimization, technical fixes, local SEO updates, and monthly reporting\n\nThis agreement establishes a monthly optimization cadence and clarifies that additional development work is billed separately.",
+    "tips": [
+      "Define the monthly deliverables in plain language.",
+      "State how often reporting will happen and what it covers.",
+      "Clarify which tasks count as implementation versus strategy.",
+      "Make the access and approval requirements explicit.",
+      "Include termination and renewal terms before work starts.",
+      "Note that ranking outcomes cannot be guaranteed."
+    ],
+    "faqs": [
+      {
+        "question": "What is an SEO retainer agreement?",
+        "answer": "It is a recurring services agreement that defines monthly SEO work, payment timing, reporting, and responsibilities."
+      },
+      {
+        "question": "Why use a retainer instead of a one-time project?",
+        "answer": "SEO often requires ongoing optimization, so retainers provide continuity for strategy, implementation, and reporting."
+      },
+      {
+        "question": "Should implementation be included in the retainer?",
+        "answer": "Only if you clearly define it. Otherwise, implementation can be billed separately or handled by the client team."
+      },
+      {
+        "question": "Can this agreement auto-renew?",
+        "answer": "Yes, if both parties want monthly continuity, auto-renewal language can be added."
+      },
+      {
+        "question": "Should the contract mention access requirements?",
+        "answer": "Yes. Access to analytics, search console, and CMS tools is usually necessary for ongoing SEO work."
+      }
+    ],
+    "tags": [
+      "seo-retainer",
+      "monthly-retainer",
+      "search-engine-optimization",
+      "digital-marketing-contract",
+      "organic-growth",
+      "contracts"
+    ]
+  },
+  {
+    "slug": "seo-audit-agreement-template",
+    "qualityTier": "editor-reviewed",
+    "title": "SEO Audit Agreement Template",
+    "description": "SEO audit agreement template for one-time technical audits, content reviews, keyword research, and strategic recommendations.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "This SEO audit agreement template is built for one-time diagnostic engagements. It clearly separates the audit deliverable from any later implementation work, which helps both sides avoid scope creep.",
+    "whenToUse": "Use this template when you are selling an SEO audit, site review, content gap analysis, technical assessment, or keyword opportunity assessment.",
+    "template": "SEO AUDIT AGREEMENT\n\nThis SEO Audit Agreement (\"Agreement\") is entered into on [Date] by and between:\n\nSEO Provider:\nName: [Agency or Consultant Name]\nAddress: [Address]\nEmail: [Email]\n\nClient:\nName: [Client Name or Company]\nAddress: [Address]\nEmail: [Email]\n\n1. AUDIT OBJECTIVE\nProvider will evaluate the website and produce a written audit covering the agreed focus areas.\n\n2. AUDIT SCOPE\nIncluded:\n- Technical SEO review\n- Keyword and page mapping review\n- Content opportunity review\n- Internal linking review\n- Priority recommendations\n\nExcluded unless added in writing:\n- Development implementation\n- Content writing\n- Link building execution\n\n3. DELIVERABLES\nProvider will deliver:\n- Audit summary\n- Issue list ranked by priority\n- Recommendations and next steps\n- Optional implementation roadmap\n\n4. TIMELINE\nStart Date: [Start Date]\nDelivery Date: [Delivery Date]\nRevisions Included: [Number]\n\n5. FEES\nAudit Fee: [$Amount]\nDeposit: [$Amount]\nRemaining Balance Due: [Due Date]\n\n6. CLIENT RESPONSIBILITIES\nClient will provide access to analytics, search console, CMS, and any background information needed for the audit.\n\n7. NO GUARANTEE\nProvider does not guarantee search performance outcomes because implementation quality and market conditions affect results.\n\n8. IMPLEMENTATION\nAny implementation support beyond the audit must be approved separately.\n\n9. CONFIDENTIALITY\nBoth parties agree to protect confidential business and website information.\n\n10. SIGNATURES\nProvider Signature: _______________________\nClient Signature: _________________________",
+    "example": "SEO Audit Agreement\n\nClient: Cedar & Oak Wellness\nAudit Fee: $1,800\nDelivery Date: 10 business days after kickoff\nScope: Technical audit, keyword map, content gap review, and prioritized recommendations\n\nThe agreement makes clear that implementation and copywriting are separate services.",
+    "tips": [
+      "Spell out exactly what the audit covers.",
+      "State what is not included, especially implementation.",
+      "Give the client a clear due date and revision count.",
+      "Use a priority framework for recommendations.",
+      "Require access to the systems needed for the review.",
+      "Make it clear that the audit is diagnostic, not a guarantee."
+    ],
+    "faqs": [
+      {
+        "question": "What is an SEO audit agreement?",
+        "answer": "It is a written agreement for a one-time SEO diagnostic project that defines scope, deliverables, timing, and payment."
+      },
+      {
+        "question": "Should implementation be included?",
+        "answer": "Only if the agreement explicitly says so. In many cases, the audit and implementation are separate engagements."
+      },
+      {
+        "question": "How long should an audit take?",
+        "answer": "That depends on site size and scope, but a clear delivery date should always be included."
+      },
+      {
+        "question": "Do I need client access for an audit?",
+        "answer": "Yes. Access to analytics, search console, and the CMS usually improves the accuracy of the audit."
+      },
+      {
+        "question": "Can the audit include content recommendations?",
+        "answer": "Yes. Content gaps and page-level recommendations are common parts of an SEO audit."
+      }
+    ],
+    "tags": [
+      "seo-audit",
+      "technical-seo",
+      "keyword-research",
+      "content-gap-analysis",
+      "search-engine-optimization",
+      "contracts"
+    ]
+  },
+  {
+    "slug": "seo-scope-of-work-template",
+    "qualityTier": "editor-reviewed",
+    "title": "SEO Scope of Work Template",
+    "description": "SEO scope of work template for defining deliverables, milestones, responsibilities, and out-of-scope items for SEO projects.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "This SEO scope of work template keeps project deliverables specific and easy to review. It is useful when you need to define what an SEO engagement includes before work begins or when you want a clean document to attach to a proposal or agreement.",
+    "whenToUse": "Use this template for project-based SEO engagements, site migrations, content optimization projects, and any campaign that needs clear deliverables and acceptance criteria.",
+    "template": "SEO SCOPE OF WORK\n\nProject Name: [Project Name]\nWebsite: [Domain]\nPrepared By: [Agency or Consultant]\nPrepared For: [Client Name]\n\n1. PROJECT OBJECTIVE\n[Describe the business goal this SEO project supports]\n\n2. SCOPE INCLUDED\nThe following work is included:\n- SEO discovery and review\n- Keyword research and page mapping\n- On-page recommendations or implementation\n- Technical issue review\n- Internal linking recommendations\n- Reporting and status updates\n\n3. DELIVERABLES\nDeliverables:\n- [Deliverable 1]\n- [Deliverable 2]\n- [Deliverable 3]\n- [Deliverable 4]\n\n4. TIMELINE\nMilestone 1: [Date]\nMilestone 2: [Date]\nMilestone 3: [Date]\nFinal Delivery: [Date]\n\n5. RESPONSIBILITIES\nProvider Responsibilities:\n- [List]\nClient Responsibilities:\n- [List]\n\n6. OUT OF SCOPE\nNot included unless added in writing:\n- Development work\n- Content creation\n- Link building execution\n- Paid advertising\n\n7. ACCEPTANCE CRITERIA\nWork is considered complete when the deliverables are submitted and any included revisions are finished.\n\n8. CHANGE REQUESTS\nAdditional work must be documented and approved before execution.\n\n9. INVESTMENT\nProject Fee: [$Amount]\nPayment Schedule: [Deposit / milestones / final balance]\n\n10. NOTES\nSEO performance depends on implementation quality, competition, and site authority.\n\n11. SIGNATURES\nProvider Signature: _______________________\nClient Signature: _________________________",
+    "example": "SEO Scope of Work\n\nProject: Ecommerce category page optimization\nClient: Everwild Outfitters\nDeliverables: Keyword map, on-page copy recommendations, internal linking plan, and 2 review rounds\nTimeline: 3 weeks\nFee: $4,200\n\nThe scope separates recommendations from optional development implementation.",
+    "tips": [
+      "Tie each deliverable to a specific page or task.",
+      "Define what counts as completion and acceptance.",
+      "List out-of-scope work to prevent surprise requests.",
+      "Include milestone dates so the project feels manageable.",
+      "State how changes will be handled and billed.",
+      "Use this document alongside the proposal or agreement."
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a scope of work and a proposal?",
+        "answer": "A proposal sells the project; a scope of work defines the specific tasks, deliverables, and boundaries of the work."
+      },
+      {
+        "question": "Should a scope of work include pricing?",
+        "answer": "It can, especially if you want the scope and investment documented in one place."
+      },
+      {
+        "question": "Can this template be used for implementation projects?",
+        "answer": "Yes. You can include content updates, technical fixes, or other implementation tasks if they are clearly defined."
+      },
+      {
+        "question": "Why list out-of-scope work?",
+        "answer": "Listing exclusions reduces scope creep and makes future change requests easier to manage."
+      },
+      {
+        "question": "Is this suitable for monthly SEO work?",
+        "answer": "Yes, but it works best when paired with a retainer agreement or monthly services contract."
+      }
+    ],
+    "tags": [
+      "seo-scope-of-work",
+      "project-scope",
+      "search-engine-optimization",
+      "deliverables",
+      "acceptance-criteria",
+      "contracts"
+    ]
+  },
+  {
+    "slug": "seo-nda-template",
+    "qualityTier": "editor-reviewed",
+    "title": "SEO NDA Template",
+    "description": "SEO NDA template for protecting keyword research, strategy notes, analytics, logins, and confidential marketing data.",
+    "category": {
+      "name": "Contracts",
+      "slug": "contracts"
+    },
+    "intro": "This SEO NDA template helps protect the private information that often appears in search projects, including keyword plans, analytics access, revenue data, and unpublished strategy notes.",
+    "whenToUse": "Use this template before sharing SEO strategy details, website credentials, research notes, or performance data with a consultant, contractor, agency, or partner.",
+    "template": "SEO NON-DISCLOSURE AGREEMENT\n\nThis Non-Disclosure Agreement (\"Agreement\") is entered into on [Date] by and between:\n\nDisclosing Party:\nName: [Name or Company]\nAddress: [Address]\nEmail: [Email]\n\nReceiving Party:\nName: [Name or Company]\nAddress: [Address]\nEmail: [Email]\n\n1. PURPOSE\nThe parties wish to exchange confidential information related to SEO services, strategy, and performance.\n\n2. CONFIDENTIAL INFORMATION\nConfidential information may include:\n- Keyword research\n- Search performance data\n- Analytics access\n- Search Console data\n- Content plans\n- Link building strategy\n- Login credentials\n- Conversion data\n- Business and revenue information\n\n3. EXCLUSIONS\nConfidential information does not include information that is public, independently developed, or lawfully received from a third party.\n\n4. USE RESTRICTIONS\nThe Receiving Party may use confidential information only for the agreed SEO evaluation or project.\n\n5. PROTECTION\nThe Receiving Party will use reasonable care to protect confidential information from unauthorized disclosure.\n\n6. RETURN OR DESTRUCTION\nUpon request, confidential materials must be returned or destroyed, except for records required by law.\n\n7. TERM\nThis Agreement begins on the date above and remains in effect for [Number] years unless terminated earlier in writing.\n\n8. NO LICENSE\nNo ownership rights are transferred by this Agreement.\n\n9. REMEDIES\nUnauthorized disclosure may cause irreparable harm and may justify injunctive relief or other legal remedies.\n\n10. GOVERNING LAW\nThis Agreement shall be governed by the laws of [State/Country].\n\n11. SIGNATURES\nDisclosing Party Signature: __________________\nReceiving Party Signature: __________________",
+    "example": "SEO NDA\n\nParties: Harbor Search Studio and Riverline Home Services\nPurpose: Share keyword research, site access, and lead data for an organic growth project\nTerm: 3 years\n\nThis agreement protects unpublished strategy notes, login credentials, and reporting data before the SEO project begins.",
+    "tips": [
+      "Include access credentials and analytics data in the confidential information list.",
+      "Keep the purpose narrow so the information can only be used for the project.",
+      "State how long confidentiality lasts.",
+      "Add a return-or-destroy requirement for shared files.",
+      "Use the NDA before strategy discussions begin.",
+      "Coordinate the NDA with your service agreement or scope document."
+    ],
+    "faqs": [
+      {
+        "question": "Why use an NDA for SEO work?",
+        "answer": "SEO projects often involve private keywords, analytics data, business priorities, and login credentials that should be protected."
+      },
+      {
+        "question": "Does the NDA cover website access credentials?",
+        "answer": "Yes, if you include them in the confidential information section."
+      },
+      {
+        "question": "Can the NDA limit the use of strategy notes?",
+        "answer": "Yes. The agreement should say the information can only be used for the agreed project or evaluation."
+      },
+      {
+        "question": "Should an NDA be signed before discovery calls?",
+        "answer": "If sensitive data will be discussed, signing before sharing details is the safer option."
+      },
+      {
+        "question": "Is an NDA the same as a contract for services?",
+        "answer": "No. An NDA protects confidentiality, while a service contract defines the work, fees, and responsibilities."
+      }
+    ],
+    "tags": [
+      "seo-nda",
+      "confidentiality-agreement",
+      "search-engine-optimization",
+      "strategy-protection",
+      "access-credentials",
+      "contracts"
+    ]
+  }
 ]

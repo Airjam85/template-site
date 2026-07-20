@@ -112,6 +112,62 @@
     ]
   },
   {
+    "slug": "seo-proposal-template",
+    "qualityTier": "editor-reviewed",
+    "title": "SEO Proposal Template",
+    "description": "SEO proposal template for audits, keyword research, on-page optimization, technical fixes, content strategy, and monthly growth retainers.",
+    "category": {
+      "name": "Business Proposals",
+      "slug": "business-proposals"
+    },
+    "intro": "This SEO proposal template helps agencies and consultants present a clear plan for improving organic visibility. It is structured to show current search opportunities, recommended work, deliverables, timelines, and expected business outcomes without making unrealistic ranking guarantees.",
+    "whenToUse": "Use this template when pitching SEO work to a new client, preparing a website optimization estimate, proposing a local SEO campaign, or outlining an ongoing search growth engagement.",
+    "template": "SEO PROPOSAL\n\n1. Executive Summary\nClient: [Client Name]\nWebsite: [Domain]\nPrepared By: [Agency or Consultant]\nProposal Date: [Date]\nPrimary Goal: [Increase organic traffic, leads, sales, or local visibility]\n\n2. Current SEO Snapshot\nCurrent Challenges: [Low visibility, technical issues, weak content, poor local rankings]\nOpportunity Areas: [Pages, keywords, technical fixes, internal links, content gaps]\nBaseline Metrics: [Traffic, impressions, rankings, conversions]\n\n3. Recommended Strategy\nCore Workstreams:\n- Technical SEO\n- On-page optimization\n- Keyword research and mapping\n- Content strategy\n- Local SEO or link building if relevant\n\n4. Scope of Work\nDeliverables:\n[ ] SEO audit\n[ ] Keyword map\n[ ] Priority fixes list\n[ ] On-page recommendations\n[ ] Content brief plan\n[ ] Monthly reporting\n[ ] Implementation support\n\n5. Timeline\nPhase 1: Discovery and audit\nPhase 2: Keyword and page mapping\nPhase 3: Fixes and optimization\nPhase 4: Reporting and iteration\n\n6. Investment\nOne-Time Audit Fee: [$Amount]\nMonthly Retainer: [$Amount]\nOptional Add-Ons: [Content writing, development support, local SEO]\n\n7. Measurement\nSuccess Metrics:\n- Organic traffic growth\n- Keyword movement\n- Leads or revenue from organic search\n- Indexed pages\n- Technical issue reduction\n\n8. Assumptions\nThis proposal assumes timely access to analytics, search console, CMS access, and stakeholder feedback. Rankings cannot be guaranteed because search engines and competitors control external variables.\n\n9. Next Steps\n[Review proposal]\n[Confirm scope]\n[Approve budget]\n[Schedule kickoff]",
+    "example": "SEO Proposal\n\nClient: Northstar Dental\nWebsite: northstardental.com\nGoal: Increase local leads from organic search\n\nRecommended Work\n- Technical SEO audit\n- Keyword mapping for 12 service pages\n- On-page optimization for homepage and treatments\n- Local SEO cleanup and reporting\n\nInvestment\nAudit: $1,500\nRetainer: $2,400/month\n\nExpected Outcomes\nHigher visibility for local service keywords, stronger Google Business Profile engagement, and more qualified appointment requests.",
+    "tips": [
+      "Lead with business impact, not just keyword rankings.",
+      "Separate diagnostic work from implementation work.",
+      "Call out the data and access you need before work starts.",
+      "Use a phased timeline so clients can see progress clearly.",
+      "Include realistic assumptions instead of guaranteeing outcomes.",
+      "Tie deliverables to specific pages, sections, or keyword groups.",
+      "Offer a one-time audit plus a follow-on retainer option.",
+      "Keep measurement simple and focused on organic revenue or leads."
+    ],
+    "faqs": [
+      {
+        "question": "What should an SEO proposal include?",
+        "answer": "A strong SEO proposal should include the current state, recommended workstreams, deliverables, timeline, pricing, access needs, and measurement approach."
+      },
+      {
+        "question": "Should an SEO proposal promise rankings?",
+        "answer": "No. It is safer and more professional to describe expected work and likely business impact without guaranteeing exact rankings."
+      },
+      {
+        "question": "How detailed should the scope be?",
+        "answer": "The scope should be detailed enough that the client understands what is included, what is excluded, and what requires an extra fee."
+      },
+      {
+        "question": "Can this proposal be used for local SEO?",
+        "answer": "Yes. You can adapt the deliverables for local SEO, ecommerce SEO, B2B SEO, or content-led organic growth."
+      },
+      {
+        "question": "What makes an SEO proposal persuasive?",
+        "answer": "A persuasive proposal connects search work to revenue, leads, or another meaningful business result and shows a practical execution plan."
+      }
+    ],
+    "tags": [
+      "seo-proposal",
+      "search-engine-optimization",
+      "seo-strategy",
+      "organic-growth",
+      "marketing-proposal",
+      "keyword-research",
+      "technical-seo",
+      "local-seo"
+    ]
+  },
+  {
     "slug": "project-proposal-event-planning",
     "title": "Event Planning Proposal",
     "description": "A proposal template for planning events and conferences.",

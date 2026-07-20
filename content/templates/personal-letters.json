@@ -904,5 +904,57 @@
       "template",
       "professional"
     ]
+  },
+  {
+    "slug": "seo-cancellation-letter-template",
+    "qualityTier": "editor-reviewed",
+    "title": "SEO Cancellation Letter Template",
+    "description": "SEO cancellation letter template for ending an SEO retainer, project, or service agreement professionally.",
+    "category": {
+      "name": "Personal Letters",
+      "slug": "personal-letters"
+    },
+    "intro": "This SEO cancellation letter template helps clients or providers end an SEO engagement in a clear, professional way. It keeps the communication direct while requesting confirmation, a final invoice, and any handoff details needed to close the project cleanly.",
+    "whenToUse": "Use this template when ending an SEO retainer, pausing monthly optimization work, canceling a search marketing service, or notifying a provider that the agreement will not be renewed.",
+    "template": "SEO CANCELLATION LETTER\n\n[Date]\n\n[SEO Provider or Client Name]\n[Company Name]\n[Address]\n\nSubject: Cancellation of SEO Services\n\nDear [Name],\n\nPlease accept this letter as formal notice that I am canceling the SEO services currently provided for [Website / Company Name].\n\nThe cancellation will be effective on [Effective Date], which satisfies the notice period in our agreement. Until that date, I request that any remaining deliverables, reports, or handoff materials be completed or transferred as agreed.\n\nPlease also provide a final invoice and confirm the following:\n- Outstanding tasks or deliverables\n- Access and files that will be returned or transferred\n- Any final billing amount\n- Confirmation that recurring services will stop on the effective date\n\nI appreciate the work completed to date and request written confirmation of this cancellation for my records.\n\nSincerely,\n\n[Your Name]\n[Your Title or Company]\n[Email Address]\n[Phone Number]",
+    "example": "SEO Cancellation Letter\n\nDate: June 3, 2027\n\nDear SearchLift Agency,\n\nPlease accept this letter as formal notice that we are canceling monthly SEO services for riverstonefurniture.com effective June 30, 2027. Please send a final invoice and confirm that all recurring work will end on that date.\n\nThank you,\nJordan Lee",
+    "tips": [
+      "Use the effective date rather than vague language.",
+      "Reference the website or account being canceled.",
+      "Request confirmation in writing for your records.",
+      "Ask for final invoices and any needed handoff files.",
+      "Keep the tone professional, even if the relationship is ending.",
+      "Align the letter with the notice period in the agreement."
+    ],
+    "faqs": [
+      {
+        "question": "What is an SEO cancellation letter?",
+        "answer": "It is a formal letter used to end an SEO retainer, project, or ongoing service agreement."
+      },
+      {
+        "question": "Should I include the effective date?",
+        "answer": "Yes. The effective date makes it clear when work should stop and helps avoid billing confusion."
+      },
+      {
+        "question": "Can a provider use this to end services too?",
+        "answer": "Yes. Either party can adapt the template to notify the other side of cancellation or non-renewal."
+      },
+      {
+        "question": "Should I ask for final access handoff?",
+        "answer": "Yes. If the provider has access to analytics, search console, or CMS tools, the handoff should be addressed in writing."
+      },
+      {
+        "question": "Is this a legal termination notice?",
+        "answer": "It is a professional notice letter. If the agreement requires specific legal wording, use the contract terms as the final authority."
+      }
+    ],
+    "tags": [
+      "seo-cancellation-letter",
+      "service-cancellation",
+      "retainer-termination",
+      "client-notice",
+      "business-letter",
+      "personal-letters"
+    ]
   }
 ]
