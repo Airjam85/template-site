@@ -1,0 +1,77 @@
+SEO SERVICES CONTRACT
+
+This SEO Services Contract ("Agreement") is entered into on [Date] by and between:
+
+SEO Provider:
+Name: [Provider Name or Agency]
+Address: [Address]
+Email: [Email]
+
+Client:
+Name: [Client Name or Company]
+Address: [Address]
+Email: [Email]
+
+1. PURPOSE
+The parties agree to the following arrangement:
+[Describe the purpose of the agreement]
+
+2. SCOPE
+The agreement includes:
+- SEO audit
+- Keyword research
+- Technical recommendations
+- Content strategy
+- On-page optimization
+- Monthly reporting
+- Backlink or outreach strategy if included
+
+Items not listed above are excluded unless approved in writing.
+
+3. TERM
+Start Date: [Start Date]
+End Date: [End Date]
+Renewal Terms: [Renewal or extension terms]
+
+4. PAYMENT
+Total Fee or Rate: [$Amount]
+Deposit: [$Amount]
+Payment Due Date: [Due Date]
+Late Fee: [Late fee terms]
+
+The provider may pause services or withhold final deliverables until overdue payments are resolved.
+
+5. RESPONSIBILITIES
+Each party agrees to provide accurate information, respond promptly, and complete their assigned responsibilities in good faith.
+
+6. CHANGES
+Any material change to scope, schedule, pricing, or deliverables must be approved in writing before additional work begins.
+
+7. NO GUARANTEE OF RANKINGS
+SEO Provider does not guarantee specific rankings, traffic levels, or search engine results because search algorithms and competitor activity are outside Provider control.
+
+8. CLIENT ACCESS
+Client will provide access to analytics, search console, website CMS, and relevant business information.
+
+9. IMPLEMENTATION
+Recommendations may require developer, content, or platform support. Unless included, implementation is billed separately.
+
+10. CONFIDENTIALITY
+Both parties agree to protect private business, client, financial, technical, and operational information received during the engagement.
+
+11. TERMINATION
+Either party may terminate this Agreement with [Number] days written notice. Fees for completed work remain due through the termination date.
+
+12. GOVERNING LAW
+This Agreement shall be governed by the laws of [State/Country].
+
+13. SIGNATURES
+By signing below, both parties agree to the terms of this Agreement.
+
+Party 1 Signature: __________________________
+Printed Name: ______________________________
+Date: _____________________________________
+
+Party 2 Signature: __________________________
+Printed Name: ______________________________
+Date: _____________________________________

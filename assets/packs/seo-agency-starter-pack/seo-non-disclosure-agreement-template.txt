@@ -1,0 +1,56 @@
+SEO NON-DISCLOSURE AGREEMENT
+
+This Non-Disclosure Agreement ("Agreement") is entered into on [Date] by and between:
+
+Disclosing Party:
+Name: [Name or Company]
+Address: [Address]
+Email: [Email]
+
+Receiving Party:
+Name: [Name or Company]
+Address: [Address]
+Email: [Email]
+
+1. PURPOSE
+The parties wish to exchange confidential information related to SEO services, strategy, and performance.
+
+2. CONFIDENTIAL INFORMATION
+Confidential information may include:
+- Keyword research
+- Search performance data
+- Analytics access
+- Search Console data
+- Content plans
+- Link building strategy
+- Login credentials
+- Conversion data
+- Business and revenue information
+
+3. EXCLUSIONS
+Confidential information does not include information that is public, independently developed, or lawfully received from a third party.
+
+4. USE RESTRICTIONS
+The Receiving Party may use confidential information only for the agreed SEO evaluation or project.
+
+5. PROTECTION
+The Receiving Party will use reasonable care to protect confidential information from unauthorized disclosure.
+
+6. RETURN OR DESTRUCTION
+Upon request, confidential materials must be returned or destroyed, except for records required by law.
+
+7. TERM
+This Agreement begins on the date above and remains in effect for [Number] years unless terminated earlier in writing.
+
+8. NO LICENSE
+No ownership rights are transferred by this Agreement.
+
+9. REMEDIES
+Unauthorized disclosure may cause irreparable harm and may justify injunctive relief or other legal remedies.
+
+10. GOVERNING LAW
+This Agreement shall be governed by the laws of [State/Country].
+
+11. SIGNATURES
+Disclosing Party Signature: __________________
+Receiving Party Signature: __________________

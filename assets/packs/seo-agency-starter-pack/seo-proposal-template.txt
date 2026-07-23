@@ -1,0 +1,59 @@
+SEO PROPOSAL
+
+1. Executive Summary
+Client: [Client Name]
+Website: [Domain]
+Prepared By: [Agency or Consultant]
+Proposal Date: [Date]
+Primary Goal: [Increase organic traffic, leads, sales, or local visibility]
+
+2. Current SEO Snapshot
+Current Challenges: [Low visibility, technical issues, weak content, poor local rankings]
+Opportunity Areas: [Pages, keywords, technical fixes, internal links, content gaps]
+Baseline Metrics: [Traffic, impressions, rankings, conversions]
+
+3. Recommended Strategy
+Core Workstreams:
+- Technical SEO
+- On-page optimization
+- Keyword research and mapping
+- Content strategy
+- Local SEO or link building if relevant
+
+4. Scope of Work
+Deliverables:
+[ ] SEO audit
+[ ] Keyword map
+[ ] Priority fixes list
+[ ] On-page recommendations
+[ ] Content brief plan
+[ ] Monthly reporting
+[ ] Implementation support
+
+5. Timeline
+Phase 1: Discovery and audit
+Phase 2: Keyword and page mapping
+Phase 3: Fixes and optimization
+Phase 4: Reporting and iteration
+
+6. Investment
+One-Time Audit Fee: [$Amount]
+Monthly Retainer: [$Amount]
+Optional Add-Ons: [Content writing, development support, local SEO]
+
+7. Measurement
+Success Metrics:
+- Organic traffic growth
+- Keyword movement
+- Leads or revenue from organic search
+- Indexed pages
+- Technical issue reduction
+
+8. Assumptions
+This proposal assumes timely access to analytics, search console, CMS access, and stakeholder feedback. Rankings cannot be guaranteed because search engines and competitors control external variables.
+
+9. Next Steps
+[Review proposal]
+[Confirm scope]
+[Approve budget]
+[Schedule kickoff]

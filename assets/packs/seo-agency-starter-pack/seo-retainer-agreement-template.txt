@@ -1,0 +1,54 @@
+SEO RETAINER AGREEMENT
+
+This SEO Retainer Agreement ("Agreement") is entered into on [Date] by and between:
+
+SEO Provider:
+Name: [Agency or Consultant Name]
+Address: [Address]
+Email: [Email]
+
+Client:
+Name: [Client Name or Company]
+Address: [Address]
+Email: [Email]
+
+1. SERVICES
+Provider will perform the monthly SEO services listed below:
+- Keyword research and refinement
+- On-page optimization
+- Technical issue review
+- Content guidance
+- Performance reporting
+- [Optional: local SEO or link building]
+
+2. TERM
+Start Date: [Start Date]
+Initial Term: [Months]
+Auto-Renewal: [Yes/No]
+
+3. FEES
+Monthly Retainer: [$Amount]
+Payment Due Date: [Due Date]
+Late Fee: [Late fee terms]
+
+4. CLIENT RESPONSIBILITIES
+Client will provide timely access to CMS, analytics, search console, and relevant decision-makers. Delays in access may delay deliverables.
+
+5. NO GUARANTEE
+Provider does not guarantee rankings, traffic, or sales because search engine algorithms and competitor activity are outside Provider control.
+
+6. REPORTING
+Provider will share reporting on a [weekly / monthly] basis covering completed work, priorities, and performance trends.
+
+7. CHANGE MANAGEMENT
+Work outside the monthly scope must be approved in writing before execution.
+
+8. TERMINATION
+Either party may terminate this Agreement with [Number] days written notice. Fees for work completed through the termination date remain due.
+
+9. CONFIDENTIALITY
+Each party agrees to protect confidential information, including keyword plans, strategy notes, access credentials, and business data.
+
+10. SIGNATURES
+Provider Signature: _______________________
+Client Signature: _________________________

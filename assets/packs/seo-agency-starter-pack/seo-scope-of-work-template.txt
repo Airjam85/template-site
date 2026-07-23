@@ -1,0 +1,61 @@
+SEO SCOPE OF WORK
+
+Project Name: [Project Name]
+Website: [Domain]
+Prepared By: [Agency or Consultant]
+Prepared For: [Client Name]
+
+1. PROJECT OBJECTIVE
+[Describe the business goal this SEO project supports]
+
+2. SCOPE INCLUDED
+The following work is included:
+- SEO discovery and review
+- Keyword research and page mapping
+- On-page recommendations or implementation
+- Technical issue review
+- Internal linking recommendations
+- Reporting and status updates
+
+3. DELIVERABLES
+Deliverables:
+- [Deliverable 1]
+- [Deliverable 2]
+- [Deliverable 3]
+- [Deliverable 4]
+
+4. TIMELINE
+Milestone 1: [Date]
+Milestone 2: [Date]
+Milestone 3: [Date]
+Final Delivery: [Date]
+
+5. RESPONSIBILITIES
+Provider Responsibilities:
+- [List]
+Client Responsibilities:
+- [List]
+
+6. OUT OF SCOPE
+Not included unless added in writing:
+- Development work
+- Content creation
+- Link building execution
+- Paid advertising
+
+7. ACCEPTANCE CRITERIA
+Work is considered complete when the deliverables are submitted and any included revisions are finished.
+
+8. CHANGE REQUESTS
+Additional work must be documented and approved before execution.
+
+9. INVESTMENT
+Project Fee: [$Amount]
+Payment Schedule: [Deposit / milestones / final balance]
+
+10. NOTES
+SEO performance depends on implementation quality, competition, and site authority.
+
+11. SIGNATURES
+Provider Signature: _______________________
+Client Signature: _________________________

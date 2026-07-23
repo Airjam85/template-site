@@ -1,0 +1,62 @@
+SEO AUDIT AGREEMENT
+
+This SEO Audit Agreement ("Agreement") is entered into on [Date] by and between:
+
+SEO Provider:
+Name: [Agency or Consultant Name]
+Address: [Address]
+Email: [Email]
+
+Client:
+Name: [Client Name or Company]
+Address: [Address]
+Email: [Email]
+
+1. AUDIT OBJECTIVE
+Provider will evaluate the website and produce a written audit covering the agreed focus areas.
+
+2. AUDIT SCOPE
+Included:
+- Technical SEO review
+- Keyword and page mapping review
+- Content opportunity review
+- Internal linking review
+- Priority recommendations
+
+Excluded unless added in writing:
+- Development implementation
+- Content writing
+- Link building execution
+
+3. DELIVERABLES
+Provider will deliver:
+- Audit summary
+- Issue list ranked by priority
+- Recommendations and next steps
+- Optional implementation roadmap
+
+4. TIMELINE
+Start Date: [Start Date]
+Delivery Date: [Delivery Date]
+Revisions Included: [Number]
+
+5. FEES
+Audit Fee: [$Amount]
+Deposit: [$Amount]
+Remaining Balance Due: [Due Date]
+
+6. CLIENT RESPONSIBILITIES
+Client will provide access to analytics, search console, CMS, and any background information needed for the audit.
+
+7. NO GUARANTEE
+Provider does not guarantee search performance outcomes because implementation quality and market conditions affect results.
+
+8. IMPLEMENTATION
+Any implementation support beyond the audit must be approved separately.
+
+9. CONFIDENTIALITY
+Both parties agree to protect confidential business and website information.
+
+10. SIGNATURES
+Provider Signature: _______________________
+Client Signature: _________________________

@@ -1,0 +1,50 @@
+SEO SERVICES INVOICE
+
+Invoice Number: [INV-2027-019]
+Invoice Date: [Date]
+Payment Due Date: [Date]
+Payment Terms: [Net 15 / Net 30 / Monthly]
+
+FROM
+[SEO Consultant or Agency]
+[Address]
+[City, State, ZIP]
+[Phone Number]
+[Email Address]
+
+BILL TO
+[Client Name]
+[Company Name]
+[Address]
+[City, State, ZIP]
+[Email Address]
+
+SERVICE PERIOD
+Service Period: [Month / Date Range]
+Website: [Domain]
+
+SERVICE BREAKDOWN
+
+| Description | Qty | Rate | Amount |
+|-------------|-----|------|--------|
+| SEO audit and recommendations | 1 | [$Amount] | [$Amount] |
+| Keyword research | 1 | [$Amount] | [$Amount] |
+| On-page optimization | [Qty] | [$Rate] | [$Amount] |
+| Link building outreach | [Qty] | [$Rate] | [$Amount] |
+| Reporting and analytics | 1 | [$Amount] | [$Amount] |
+
+SUBTOTAL: [$Amount]
+TAXES: [$Amount]
+TOTAL DUE: [$Amount]
+
+NOTES
+- Monthly SEO retainers are billed in advance.
+- Additional website development is billed separately.
+- Results may vary based on competition and budget.
+
+PAYMENT METHODS
+- Bank transfer
+- Credit card
+
+THANK YOU
+Thank you for partnering on your SEO growth.
