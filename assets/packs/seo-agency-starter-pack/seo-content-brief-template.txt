@@ -1,0 +1,1497 @@
+SEO CONTENT BRIEF
+
+Client or Brand: [Client or Brand Name]
+Website: [Website URL]
+Project or Campaign: [Campaign Name]
+Brief Created By: [Strategist Name]
+Brief Date: [Date]
+Last Updated: [Date]
+
+========================================
+1. ASSIGNMENT AND WORKFLOW DETAILS
+========================================
+
+Content Title or Topic:
+
+[Working Content Title]
+
+Assigned Writer:
+
+[Writer Name]
+
+Editor or Reviewer:
+
+[Editor Name]
+
+Subject-Matter Expert:
+
+[Name and Role, if applicable]
+
+Content Format:
+
+☐ Blog Post
+☐ Pillar Page
+☐ Service Page
+☐ Product Page
+☐ Landing Page
+☐ Comparison Article
+☐ How-To Guide
+☐ Listicle
+☐ Case Study
+☐ FAQ Collection
+☐ Thought Leadership Article
+☐ Other: [Describe]
+
+Content Status:
+
+☐ Brief in Progress
+☐ Brief Approved
+☐ Assigned
+☐ Drafting
+☐ Editorial Review
+☐ Client Review
+☐ Revision Requested
+☐ Approved for Publication
+☐ Published
+☐ Monitoring
+
+Draft Deadline:
+
+[Date]
+
+Editorial Review Deadline:
+
+[Date]
+
+Client Approval Deadline:
+
+[Date]
+
+Target Publication Date:
+
+[Date]
+
+Content Brief Link:
+
+[Link]
+
+Draft Document Link:
+
+[Link]
+
+Project Management Task:
+
+[Link]
+
+Style Guide:
+
+[Link]
+
+Brand Guidelines:
+
+[Link]
+
+Related Campaign or Content Cluster:
+
+[Campaign or Cluster Name]
+
+========================================
+2. BUSINESS GOAL AND CONTENT OBJECTIVE
+========================================
+
+PRIMARY BUSINESS GOAL
+
+What business outcome should this content support?
+
+☐ Generate Qualified Leads
+☐ Increase Product Sales
+☐ Increase Service Inquiries
+☐ Drive Demo Requests
+☐ Increase Trial Signups
+☐ Build Brand Awareness
+☐ Support Customer Education
+☐ Earn Backlinks
+☐ Build Topical Authority
+☐ Improve Existing Rankings
+☐ Support Sales Enablement
+☐ Reduce Customer Support Requests
+☐ Other: [Describe]
+
+Business Goal Statement:
+
+[Example: Generate qualified consultation requests from small business owners actively comparing local SEO providers.]
+
+CORE POST OBJECTIVE
+
+By the end of this content, the reader should understand or be able to:
+
+[Write one specific sentence describing what the reader must know, decide, or accomplish after reading.]
+
+Example:
+
+By the end of this guide, the reader should be able to create a complete SEO content brief that aligns search intent, business goals, competitive gaps, and writer instructions.
+
+PRIMARY CONVERSION GOAL
+
+[Describe the desired reader action.]
+
+Examples:
+
+- Request a consultation
+- Start a free trial
+- Download a template
+- Subscribe to a newsletter
+- View a related service page
+- Purchase a product
+- Book a demonstration
+
+PRIMARY CALL TO ACTION
+
+CTA Text:
+
+[CTA Copy]
+
+CTA Destination:
+
+[URL]
+
+CTA Placement:
+
+☐ Introduction
+☐ Mid-Article
+☐ Conclusion
+☐ Sidebar or Callout
+☐ Multiple Locations
+
+SECONDARY CALL TO ACTION
+
+CTA Text:
+
+[CTA Copy]
+
+CTA Destination:
+
+[URL]
+
+========================================
+3. PRIMARY KEYWORD AND SEO TARGETING
+========================================
+
+Primary Keyword:
+
+[Primary Keyword]
+
+Monthly Search Volume:
+
+[Search Volume]
+
+Keyword Difficulty:
+
+[Difficulty Score]
+
+Cost Per Click:
+
+[Amount]
+
+Primary Market:
+
+[Country, Region, or City]
+
+Language:
+
+[Language]
+
+Target Device:
+
+☐ Desktop
+☐ Mobile
+☐ Both
+
+Keyword Data Source:
+
+[Google Search Console / Semrush / Ahrefs / Keyword Planner / Other]
+
+Keyword Metrics Date:
+
+[Date]
+
+SECONDARY KEYWORDS
+
+Include only closely related terms that share the same or compatible search intent.
+
+1. [Secondary Keyword]
+2. [Secondary Keyword]
+3. [Secondary Keyword]
+4. [Secondary Keyword]
+5. [Secondary Keyword]
+
+SEMANTIC AND CONTEXTUAL TERMS
+
+Use these naturally where relevant. Do not force every term into the draft.
+
+- [Semantic Term]
+- [Semantic Term]
+- [Semantic Term]
+- [Related Entity]
+- [Related Concept]
+- [Industry Term]
+
+QUESTIONS TO TARGET
+
+- [Question]
+- [Question]
+- [Question]
+- [Question]
+- [Question]
+
+BRANDED OR NON-BRANDED TARGET
+
+☐ Branded
+☐ Non-Branded
+☐ Mixed
+
+KEYWORD PLACEMENT REQUIREMENTS
+
+The primary keyword should appear naturally in:
+
+☐ H1
+☐ SEO Title
+☐ Meta Description
+☐ URL Slug
+☐ First 100–150 Words
+☐ At Least One H2
+☐ Image Alt Text, if relevant
+☐ Conclusion, if natural
+
+Avoid keyword stuffing. Readability, accuracy, and intent satisfaction take priority over exact-match repetition.
+
+========================================
+4. URL AND METADATA SPECIFICATIONS
+========================================
+
+Existing or New Page:
+
+☐ New Content
+☐ Existing Page Update
+☐ Content Consolidation
+☐ Replacement Page
+
+Current URL, if applicable:
+
+[Current URL]
+
+Recommended URL Slug:
+
+/[short-keyword-focused-slug]
+
+Canonical URL:
+
+[Canonical URL]
+
+WORKING H1
+
+[Primary Page Heading]
+
+The page should contain only one H1 unless the publishing platform requires otherwise.
+
+WORKING SEO TITLE
+
+[SEO Title]
+
+Recommended Length:
+
+50–60 characters, while prioritizing clarity and relevance over rigid character counting.
+
+SEO Title Requirements:
+
+- Include the primary keyword naturally.
+- Communicate the article's value or differentiator.
+- Avoid misleading clickbait.
+- Avoid duplicating another title on the website.
+- Match the page's actual content and intent.
+
+WORKING META DESCRIPTION
+
+[Meta Description]
+
+Recommended Length:
+
+120–160 characters.
+
+Meta Description Requirements:
+
+- Include the primary keyword naturally.
+- Explain the benefit of reading the page.
+- Include a relevant action or value proposition.
+- Accurately represent the content.
+
+SOCIAL SHARING TITLE
+
+[Optional Open Graph Title]
+
+SOCIAL SHARING DESCRIPTION
+
+[Optional Open Graph Description]
+
+========================================
+5. SEARCH INTENT AND FUNNEL ALIGNMENT
+========================================
+
+PRIMARY SEARCH INTENT
+
+☐ Informational
+☐ Commercial
+☐ Transactional
+☐ Navigational
+☐ Mixed
+
+SEARCHER'S IMMEDIATE GOAL
+
+[Describe what the searcher is trying to learn, compare, find, purchase, or complete.]
+
+Example:
+
+The searcher wants a reusable SEO content brief format that can be assigned directly to writers without building a new brief from scratch.
+
+INTENT EVIDENCE
+
+Describe the evidence supporting the assigned intent:
+
+- Dominant ranking page type: [Guide / Product Page / Listicle / Tool / Video / Other]
+- Common title pattern: [Pattern]
+- Common content format: [Format]
+- Prominent SERP features: [Features]
+- Common calls to action: [CTA Pattern]
+
+BUYER JOURNEY STAGE
+
+☐ Awareness
+☐ Consideration
+☐ Decision
+☐ Retention
+
+READER'S STAGE OF AWARENESS
+
+☐ Unaware of the Problem
+☐ Problem Aware
+☐ Solution Aware
+☐ Product or Service Aware
+☐ Ready to Act
+
+INTENT ALIGNMENT INSTRUCTION
+
+The draft must satisfy the query by:
+
+[Explain the content format, depth, sequence, and answer style needed to meet search expectations.]
+
+FORMAT EXPECTED BY SEARCHERS
+
+☐ Definition or Explanation
+☐ Step-by-Step Guide
+☐ Template or Download
+☐ Checklist
+☐ Comparison
+☐ Product or Service Page
+☐ List of Options
+☐ Case Study
+☐ Data or Research
+☐ Video-Supported Article
+☐ Other: [Describe]
+
+========================================
+6. TARGET AUDIENCE PROFILE
+========================================
+
+PRIMARY AUDIENCE
+
+[Specific role, customer type, industry, or user segment]
+
+Example:
+
+Content managers at small and midsize SEO agencies who assign articles to freelance writers and need to reduce revisions.
+
+SECONDARY AUDIENCE
+
+[Optional Secondary Audience]
+
+CURRENT KNOWLEDGE LEVEL
+
+☐ Beginner
+☐ Intermediate
+☐ Advanced
+☐ Mixed
+
+WHAT THE READER ALREADY KNOWS
+
+[Describe baseline knowledge that can be assumed.]
+
+WHAT THE READER DOES NOT YET KNOW
+
+[Describe the knowledge or capability gap this content must address.]
+
+PRIMARY PAIN POINTS
+
+1. [Pain Point]
+2. [Pain Point]
+3. [Pain Point]
+4. [Pain Point]
+
+COMMON OBJECTIONS OR CONCERNS
+
+- [Objection]
+- [Concern]
+- [Misconception]
+
+DECISION-MAKING FACTORS
+
+- [Factor]
+- [Factor]
+- [Factor]
+
+DESIRED READER OUTCOME
+
+[Describe the practical or emotional outcome the reader wants.]
+
+AUDIENCE LANGUAGE
+
+Use terminology such as:
+
+- [Term]
+- [Term]
+- [Term]
+
+Avoid unexplained terminology such as:
+
+- [Term]
+- [Term]
+- [Term]
+
+========================================
+7. BRAND VOICE AND EDITORIAL GUIDANCE
+========================================
+
+DESIRED VOICE
+
+☐ Professional
+☐ Conversational
+☐ Authoritative
+☐ Educational
+☐ Technical
+☐ Friendly
+☐ Direct
+☐ Empathetic
+☐ Premium
+☐ Other: [Describe]
+
+TONE DESCRIPTION
+
+[Describe how the article should sound.]
+
+Example:
+
+Write like an experienced content strategist giving practical instructions to a capable colleague. Be direct and evidence-based without sounding rigid, academic, or promotional.
+
+VOICE EXAMPLE
+
+Write like this:
+
+[Example Sentence or Paragraph]
+
+Do not write like this:
+
+[Example Sentence or Paragraph]
+
+STYLE REQUIREMENTS
+
+- Use plain, precise language.
+- Keep paragraphs concise and readable.
+- Prefer active voice where practical.
+- Define technical terms when first introduced.
+- Use examples to clarify abstract recommendations.
+- Avoid filler introductions and generic statements.
+- Avoid unsupported superlatives.
+- Avoid repeating the same point in multiple sections.
+
+PROHIBITED OR RESTRICTED LANGUAGE
+
+- [Prohibited Word or Phrase]
+- [Prohibited Claim]
+- [Competitor Reference Restriction]
+- [Regulatory Restriction]
+
+LEGAL OR COMPLIANCE REQUIREMENTS
+
+[Describe any review, disclaimer, sourcing, or claim-substantiation requirements.]
+
+========================================
+8. CONTENT SCOPE AND WORD COUNT
+========================================
+
+TARGET WORD COUNT RANGE
+
+Minimum: [Number]
+Maximum: [Number]
+
+COMPETITOR WORD COUNT RANGE
+
+Lowest Relevant Ranking Page: [Number]
+Average Relevant Ranking Page: [Number]
+Highest Relevant Ranking Page: [Number]
+
+WORD COUNT RATIONALE
+
+[Explain why the selected range is sufficient to satisfy intent without unnecessary expansion.]
+
+SCOPE BOUNDARIES
+
+Must Cover:
+
+- [Required Topic]
+- [Required Topic]
+- [Required Topic]
+
+May Cover Briefly:
+
+- [Optional Topic]
+- [Optional Topic]
+
+Do Not Cover:
+
+- [Out-of-Scope Topic]
+- [Out-of-Scope Topic]
+- [Topic Reserved for Another Page]
+
+RELATED CONTENT THAT SHOULD REMAIN SEPARATE
+
+Topic: [Related Topic]
+Target Page: [URL or Planned URL]
+Reason: [Different intent / separate funnel stage / cannibalization risk / excessive scope]
+
+========================================
+9. SERP AND COMPETITOR ANALYSIS
+========================================
+
+SERP REVIEW DATE
+
+[Date]
+
+SEARCH LOCATION AND DEVICE
+
+Location: [Location]
+Device: [Desktop / Mobile]
+
+TOP-RANKING CONTENT
+
+COMPETITOR 1
+
+Page Title: [Title]
+URL: [URL]
+Content Type: [Guide / Product Page / Listicle / Other]
+Approximate Word Count: [Number]
+Primary Strengths:
+
+- [Strength]
+- [Strength]
+
+Weaknesses or Gaps:
+
+- [Gap]
+- [Gap]
+
+Notable Sections:
+
+- [Section]
+- [Section]
+
+COMPETITOR 2
+
+Page Title: [Title]
+URL: [URL]
+Content Type: [Type]
+Approximate Word Count: [Number]
+Primary Strengths:
+
+- [Strength]
+- [Strength]
+
+Weaknesses or Gaps:
+
+- [Gap]
+- [Gap]
+
+Notable Sections:
+
+- [Section]
+- [Section]
+
+COMPETITOR 3
+
+Page Title: [Title]
+URL: [URL]
+Content Type: [Type]
+Approximate Word Count: [Number]
+Primary Strengths:
+
+- [Strength]
+- [Strength]
+
+Weaknesses or Gaps:
+
+- [Gap]
+- [Gap]
+
+Notable Sections:
+
+- [Section]
+- [Section]
+
+ADDITIONAL RELEVANT RESULTS
+
+- [URL and Reason for Inclusion]
+- [URL and Reason for Inclusion]
+- [URL and Reason for Inclusion]
+
+COMMON TOPICS COVERED ACROSS COMPETITORS
+
+- [Common Topic]
+- [Common Topic]
+- [Common Topic]
+
+COMMON CONTENT WEAKNESSES
+
+- [Weakness]
+- [Weakness]
+- [Weakness]
+
+SERP FORMAT OBSERVATIONS
+
+- Dominant content format: [Format]
+- Typical introduction style: [Style]
+- Common heading structure: [Structure]
+- Visual content commonly used: [Visuals]
+- Typical calls to action: [CTA]
+- Freshness or date sensitivity: [High / Medium / Low]
+
+========================================
+10. DIFFERENTIATOR AND CONTENT GAP STRATEGY
+========================================
+
+PRIMARY DIFFERENTIATOR
+
+[State exactly how this page will be more useful, credible, current, specific, or actionable than competing content.]
+
+Example:
+
+Competing articles explain what belongs in a content brief but do not provide a complete production-ready template with metadata, SERP analysis, E-E-A-T, internal linking, AEO, approval, and post-publication tracking sections.
+
+GAPS THIS CONTENT MUST FILL
+
+☐ Missing Original Data
+☐ Missing Expert Commentary
+☐ Missing Downloadable Template
+☐ Missing Examples
+☐ Missing Visuals
+☐ Missing Step-by-Step Instructions
+☐ Missing Industry-Specific Guidance
+☐ Missing Current Information
+☐ Missing Case Study
+☐ Missing Comparison Table
+☐ Missing Implementation Details
+☐ Missing Risks or Limitations
+☐ Other: [Describe]
+
+UNIQUE INFORMATION TO INCLUDE
+
+- [Original Data]
+- [Proprietary Framework]
+- [Expert Quote]
+- [Brand Case Study]
+- [Process Screenshot]
+- [Downloadable Asset]
+- [Original Example]
+
+ANGLE STATEMENT
+
+[Write one or two sentences describing the specific editorial angle.]
+
+WRITER INSTRUCTION
+
+Do not merely summarize competing pages. Use them to identify baseline expectations, then create an original article that improves clarity, evidence, usefulness, specificity, and implementation value.
+
+========================================
+11. CONTENT STRUCTURE AND HEADING OUTLINE
+========================================
+
+H1: [Working H1]
+
+Purpose:
+
+[Explain what promise the H1 should communicate.]
+
+INTRODUCTION
+
+Required Length:
+
+[Approximate Length]
+
+The introduction must:
+
+- Confirm the reader is in the right place.
+- State the problem or goal directly.
+- Explain what the article will help the reader accomplish.
+- Avoid a long history, generic trend statement, or unnecessary definition.
+- Include the primary keyword naturally within the opening section.
+
+Opening Hook or Context:
+
+[Instruction]
+
+H2: [Section Heading]
+
+Section Goal:
+
+[Explain what the reader must learn from this section.]
+
+Required Points:
+
+- [Point]
+- [Point]
+- [Point]
+
+Evidence or Example Required:
+
+[Instruction]
+
+H3: [Subheading]
+
+Purpose:
+
+[Instruction]
+
+H3: [Subheading]
+
+Purpose:
+
+[Instruction]
+
+H2: [Section Heading]
+
+Section Goal:
+
+[Explain what this section must accomplish.]
+
+Required Points:
+
+- [Point]
+- [Point]
+- [Point]
+
+H3: [Subheading]
+
+Purpose:
+
+[Instruction]
+
+H3: [Subheading]
+
+Purpose:
+
+[Instruction]
+
+H2: [Section Heading]
+
+Section Goal:
+
+[Instruction]
+
+Required Example, Table, or Visual:
+
+[Instruction]
+
+H2: [Section Heading]
+
+Section Goal:
+
+[Instruction]
+
+H3: [Subheading]
+
+Purpose:
+
+[Instruction]
+
+H3: [Subheading]
+
+Purpose:
+
+[Instruction]
+
+H2: Frequently Asked Questions
+
+Include concise, self-contained answers to the following questions:
+
+H3: [Question]
+
+Answer Requirement:
+
+[Instruction]
+
+H3: [Question]
+
+Answer Requirement:
+
+[Instruction]
+
+H3: [Question]
+
+Answer Requirement:
+
+[Instruction]
+
+CONCLUSION
+
+The conclusion must:
+
+- Summarize the practical takeaway without repeating the entire article.
+- Reinforce the reader's next step.
+- Include the primary CTA naturally.
+- Avoid introducing major new concepts.
+
+Suggested Conclusion Heading:
+
+[Heading]
+
+========================================
+12. TLDR AND ANSWER ENGINE OPTIMIZATION
+========================================
+
+TOP-LEVEL SUMMARY REQUIRED
+
+☐ Yes
+☐ No
+
+Placement:
+
+☐ Directly Below Introduction
+☐ Before Table of Contents
+☐ Summary Callout Near Top
+
+TLDR REQUIREMENTS
+
+Provide a concise summary that:
+
+- Answers the primary query directly.
+- Uses approximately [Number] words or [Number] bullet points.
+- Can be understood without reading the full article.
+- Includes the primary recommendation or definition.
+- Avoids promotional language.
+
+DIRECT ANSWER BLOCK
+
+Question to Answer:
+
+[Primary Question]
+
+Recommended Answer Length:
+
+[Approximately 40–70 words, or another suitable range]
+
+Formatting:
+
+☐ Paragraph
+☐ Numbered List
+☐ Bulleted List
+☐ Table
+☐ Definition
+
+FEATURED SNIPPET OPPORTUNITY
+
+Current Snippet Type:
+
+☐ Paragraph
+☐ List
+☐ Table
+☐ Video
+☐ None Identified
+
+Snippet Instruction:
+
+[Explain how the writer should structure the relevant answer.]
+
+PEOPLE ALSO ASK QUESTIONS
+
+- [Question]
+- [Question]
+- [Question]
+- [Question]
+
+AI AND ANSWER-ENGINE READABILITY REQUIREMENTS
+
+- Use descriptive headings that clearly state each section's topic.
+- Answer important questions immediately before expanding.
+- Keep factual statements precise and attributable.
+- Use consistent terminology for key entities and concepts.
+- Include concise definitions for specialized terms.
+- Use tables or lists when they improve comparison or extraction.
+- Avoid vague references such as “this,” “it,” or “they” when the subject may be unclear.
+- Include publication and update dates when freshness matters.
+
+========================================
+13. E-E-A-T AND EVIDENCE REQUIREMENTS
+========================================
+
+EXPERIENCE REQUIREMENTS
+
+Include first-hand or practical experience through:
+
+☐ Original Process Description
+☐ Screenshots
+☐ Real Workflow Example
+☐ First-Person Observation
+☐ Proprietary Case Study
+☐ Before-and-After Example
+☐ Product Demonstration
+☐ Other: [Describe]
+
+Required Experience Element:
+
+[Instruction]
+
+EXPERTISE REQUIREMENTS
+
+Author or Contributor Qualifications:
+
+[Describe relevant expertise that should be disclosed.]
+
+Subject-Matter Expert Review Required:
+
+☐ Yes
+☐ No
+
+Reviewer:
+
+[Name and Credentials]
+
+EXPERT QUOTES
+
+Expert Name: [Name]
+Role or Credentials: [Role]
+Topic to Address: [Topic]
+Source or Interview Link: [Link]
+
+AUTHORITATIVE SOURCES
+
+Use primary sources whenever available.
+
+Required Sources:
+
+1. [Government, Academic, Standards, Platform, or Original Research Source]
+2. [Primary Source]
+3. [Primary Source]
+
+Acceptable Secondary Sources:
+
+- [Source]
+- [Source]
+
+Sources to Avoid:
+
+- Anonymous or unattributed claims
+- Low-quality content farms
+- Unsupported statistics
+- Outdated sources when current data is necessary
+- Competitor claims presented as independent evidence
+
+CLAIM SUBSTANTIATION
+
+The following claims require citations or documentation:
+
+- [Claim Type]
+- [Claim Type]
+- [Claim Type]
+
+DATE AND FRESHNESS REQUIREMENTS
+
+- Use data published or updated after: [Date]
+- Verify all statistics as of: [Date]
+- Include the year when referencing time-sensitive data.
+- Flag information likely to change after publication.
+
+AUTHOR INFORMATION
+
+Author Name: [Name]
+Author Role: [Role]
+Author Bio Page: [URL]
+Relevant Experience to Highlight: [Experience]
+
+TRUST ELEMENTS TO INCLUDE
+
+☐ Author Bio
+☐ Expert Review Disclosure
+☐ Editorial Policy Link
+☐ Methodology Section
+☐ Sources or References Section
+☐ Updated Date
+☐ Limitations or Caveats
+☐ Contact Information
+☐ Other: [Describe]
+
+========================================
+14. INTERNAL LINKING REQUIREMENTS
+========================================
+
+REQUIRED INTERNAL LINKS
+
+INTERNAL LINK 1
+
+Target Page: [URL]
+Exact or Preferred Anchor Text: [Anchor Text]
+Suggested Placement: [Section]
+Purpose: [Contextual relevance / funnel progression / topical support]
+
+INTERNAL LINK 2
+
+Target Page: [URL]
+Exact or Preferred Anchor Text: [Anchor Text]
+Suggested Placement: [Section]
+Purpose: [Purpose]
+
+INTERNAL LINK 3
+
+Target Page: [URL]
+Exact or Preferred Anchor Text: [Anchor Text]
+Suggested Placement: [Section]
+Purpose: [Purpose]
+
+LINKS TO ADD FROM EXISTING PAGES
+
+After publication, add links to this article from:
+
+Source Page: [URL]
+Recommended Anchor Text: [Anchor Text]
+
+Source Page: [URL]
+Recommended Anchor Text: [Anchor Text]
+
+INTERNAL LINKING RULES
+
+- Use descriptive anchor text that accurately represents the destination page.
+- Add links only where they help the reader.
+- Avoid repeatedly using identical exact-match anchor text across the site.
+- Do not link the primary keyword to a competing internal page.
+- Flag any possible cannibalization discovered during writing.
+
+========================================
+15. EXTERNAL SOURCES AND CITATIONS
+========================================
+
+REQUIRED EXTERNAL REFERENCES
+
+Source: [Organization or Publication]
+URL: [URL]
+Information to Use: [Data, Definition, Standard, or Quote]
+Recommended Section: [Section]
+
+Source: [Organization or Publication]
+URL: [URL]
+Information to Use: [Information]
+Recommended Section: [Section]
+
+EXTERNAL LINK REQUIREMENTS
+
+- Link to the original source of statistics whenever possible.
+- Do not cite a roundup when the underlying study is available.
+- Verify publication date and methodology.
+- Distinguish evidence from opinion.
+- Do not link to direct competitors unless necessary for comparison or attribution.
+- Do not copy competitor language or structure.
+
+========================================
+16. VISUAL AND MEDIA REQUIREMENTS
+========================================
+
+REQUIRED VISUALS
+
+☐ Hero Image
+☐ Original Diagram
+☐ Process Flow
+☐ Screenshot
+☐ Comparison Table
+☐ Checklist
+☐ Chart or Graph
+☐ Downloadable Template
+☐ Video
+☐ Infographic
+☐ Other: [Describe]
+
+VISUAL 1
+
+Type: [Visual Type]
+Purpose: [What it should explain]
+Placement: [Section]
+Source: [Original / Licensed / Provided Asset]
+Alt Text Guidance: [Description]
+
+VISUAL 2
+
+Type: [Visual Type]
+Purpose: [Purpose]
+Placement: [Section]
+Source: [Source]
+Alt Text Guidance: [Description]
+
+TABLE REQUIREMENT
+
+Table Topic:
+
+[Topic]
+
+Recommended Columns:
+
+- [Column]
+- [Column]
+- [Column]
+
+DOWNLOADABLE ASSET
+
+Asset Name:
+
+[Name]
+
+Asset Type:
+
+☐ PDF
+☐ Spreadsheet
+☐ Checklist
+☐ Document Template
+☐ Other
+
+Asset Link or Production Task:
+
+[Link]
+
+IMAGE GUIDANCE
+
+- Use informative visuals rather than decorative images where possible.
+- Do not use screenshots containing private or confidential information.
+- Add descriptive alt text for meaningful images.
+- Do not force the primary keyword into alt text when it does not describe the image.
+- Include image source attribution where required.
+
+========================================
+17. STRUCTURED DATA AND TECHNICAL REQUIREMENTS
+========================================
+
+RECOMMENDED SCHEMA MARKUP
+
+☐ Article
+☐ BlogPosting
+☐ FAQPage
+☐ HowTo
+☐ Product
+☐ Service
+☐ Review
+☐ BreadcrumbList
+☐ VideoObject
+☐ ImageObject
+☐ Organization
+☐ Person
+☐ Other: [Schema Type]
+
+SCHEMA IMPLEMENTATION NOTES
+
+[Describe which visible content should support the markup.]
+
+Do not add structured data for information that is not visible on the page. Confirm current search engine eligibility requirements before implementation.
+
+TECHNICAL REQUIREMENTS
+
+☐ Self-Referencing Canonical
+☐ Indexable Page
+☐ Included in XML Sitemap
+☐ Breadcrumbs
+☐ Table of Contents
+☐ Jump Links
+☐ Mobile-Friendly Tables
+☐ Optimized Images
+☐ Lazy Loading
+☐ Page-Speed Review
+☐ Other: [Describe]
+
+SPECIAL CMS INSTRUCTIONS
+
+[Describe formatting, component, block, or publishing requirements.]
+
+========================================
+18. CONVERSION AND PRODUCT INTEGRATION
+========================================
+
+PRODUCT OR SERVICE TO REFERENCE
+
+[Product or Service]
+
+Relevant Benefit:
+
+[Benefit Connected to Reader Need]
+
+Relevant Feature:
+
+[Feature]
+
+Approved Product Claim:
+
+[Claim]
+
+PRODUCT MENTION GUIDANCE
+
+[Explain how naturally and prominently the product or service should appear.]
+
+PROMOTIONAL INTENSITY
+
+☐ Educational Only
+☐ Light Product Mention
+☐ Product-Led Education
+☐ Strong Commercial Focus
+☐ Direct Transactional Focus
+
+PROOF ELEMENTS
+
+☐ Customer Quote
+☐ Case Study
+☐ Product Screenshot
+☐ Performance Metric
+☐ Review or Rating
+☐ Demonstration
+☐ Other: [Describe]
+
+OBJECTION TO ADDRESS
+
+[Objection]
+
+Approved Response:
+
+[Response]
+
+========================================
+19. WRITER RESEARCH RESOURCES
+========================================
+
+REQUIRED READING
+
+1. [Resource URL]
+Reason: [Why it matters]
+
+2. [Resource URL]
+Reason: [Why it matters]
+
+3. [Resource URL]
+Reason: [Why it matters]
+
+INTERNAL BRAND RESOURCES
+
+- [Product Documentation]
+- [Sales Deck]
+- [Customer Research]
+- [Case Study]
+- [Brand Messaging Guide]
+- [Previous Related Article]
+
+SUBJECT-MATTER EXPERT CONTACT
+
+Name: [Name]
+Role: [Role]
+Contact Method: [Email / Slack / Other]
+Questions to Ask:
+
+- [Question]
+- [Question]
+- [Question]
+
+RESEARCH LIMITATIONS
+
+[Describe unavailable data, prohibited sources, or areas requiring cautious language.]
+
+========================================
+20. CONTENT QUALITY AND SEO CHECKLIST
+========================================
+
+CONTENT ALIGNMENT
+
+☐ The draft fulfills the core post objective.
+☐ The content matches the assigned search intent.
+☐ The format matches the dominant SERP expectation.
+☐ The draft addresses the specified audience and pain points.
+☐ The scope remains within the assigned word-count range.
+☐ The differentiator is clearly present.
+☐ The article provides original value beyond competing pages.
+
+ON-PAGE SEO
+
+☐ The page contains one clear H1.
+☐ The primary keyword appears naturally in the H1.
+☐ The primary keyword appears naturally near the beginning.
+☐ The heading hierarchy follows H1, H2, and H3 structure logically.
+☐ The SEO title is accurate and compelling.
+☐ The meta description reflects the content and includes the primary keyword naturally.
+☐ The URL slug is concise and descriptive.
+☐ Secondary terms are used naturally without stuffing.
+☐ Images have appropriate alt text.
+
+EVIDENCE AND TRUST
+
+☐ Important claims are supported by credible sources.
+☐ Primary sources are used where available.
+☐ Statistics include dates and context.
+☐ Expert quotes are attributed correctly.
+☐ First-hand experience or proprietary evidence is included where required.
+☐ Limitations and uncertainty are disclosed where appropriate.
+☐ Author and reviewer information is complete.
+
+LINKING
+
+☐ All required internal links are included.
+☐ Anchor text is descriptive and natural.
+☐ External sources are authoritative and relevant.
+☐ Links open and lead to the intended destinations.
+☐ No unnecessary links to competing internal pages are present.
+
+READABILITY AND STYLE
+
+☐ The introduction is direct and useful.
+☐ Paragraphs are concise.
+☐ Technical terms are explained.
+☐ Examples support difficult concepts.
+☐ The draft follows the brand voice.
+☐ Repetitive or generic filler has been removed.
+☐ The conclusion includes the correct CTA.
+
+AEO AND STRUCTURE
+
+☐ A concise top-level answer or TLDR is included.
+☐ Important questions receive direct answers.
+☐ Lists and tables are used where useful.
+☐ FAQ questions are answered clearly.
+☐ Structured data recommendations match visible content.
+
+========================================
+21. APPROVAL AND REVISION NOTES
+========================================
+
+STRATEGIST APPROVAL
+
+Name: [Name]
+Status: [Approved / Revisions Required]
+Date: [Date]
+Notes: [Notes]
+
+EDITORIAL APPROVAL
+
+Name: [Name]
+Status: [Approved / Revisions Required]
+Date: [Date]
+Notes: [Notes]
+
+SUBJECT-MATTER EXPERT APPROVAL
+
+Name: [Name]
+Status: [Approved / Revisions Required / Not Required]
+Date: [Date]
+Notes: [Notes]
+
+CLIENT APPROVAL
+
+Name: [Name]
+Status: [Approved / Revisions Required / Not Required]
+Date: [Date]
+Notes: [Notes]
+
+REVISION ROUND 1
+
+Requested Changes:
+
+- [Change]
+- [Change]
+
+Due Date:
+
+[Date]
+
+REVISION ROUND 2
+
+Requested Changes:
+
+- [Change]
+- [Change]
+
+Due Date:
+
+[Date]
+
+========================================
+22. POST-PUBLICATION TRACKING
+========================================
+
+Published URL:
+
+[URL]
+
+Publication Date:
+
+[Date]
+
+Indexing Confirmed:
+
+☐ Yes
+☐ No
+
+Baseline Ranking Position:
+
+[Position]
+
+Baseline Organic Clicks:
+
+[Number]
+
+Baseline Organic Conversions:
+
+[Number]
+
+30-DAY REVIEW
+
+Ranking Position: [Position]
+Organic Clicks: [Number]
+Conversions: [Number]
+Observations: [Notes]
+Recommended Action: [Action]
+
+60-DAY REVIEW
+
+Ranking Position: [Position]
+Organic Clicks: [Number]
+Conversions: [Number]
+Observations: [Notes]
+Recommended Action: [Action]
+
+90-DAY REVIEW
+
+Ranking Position: [Position]
+Organic Clicks: [Number]
+Conversions: [Number]
+Observations: [Notes]
+Recommended Action: [Action]
+
+REFRESH TRIGGERS
+
+Review or update the content when:
+
+- Rankings decline materially.
+- Search intent or SERP composition changes.
+- Statistics or recommendations become outdated.
+- Competitors publish substantially stronger content.
+- Product features, pricing, or policies change.
+- Organic traffic increases but conversions remain weak.
+- New internal-link or content-cluster opportunities emerge.
+
+Next Scheduled Review:
+
+[Date]

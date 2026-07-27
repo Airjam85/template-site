@@ -1,0 +1,508 @@
+MONTHLY SEO PERFORMANCE REPORT
+
+Client: [Client or Company Name]
+Website: [Website URL]
+Reporting Period: [Month and Year]
+Prepared By: [Agency or Consultant Name]
+Report Date: [Date]
+Primary Contact: [Client Contact Name]
+
+========================================
+PAGE 1 — EXECUTIVE SUMMARY
+========================================
+
+OVERALL PERFORMANCE
+
+[Write one concise paragraph using this structure: traffic direction + most important business result + primary focus for next month.]
+
+Example Structure:
+
+Organic search performance [increased / decreased / remained stable] during [Reporting Period]. Organic traffic changed by [Percentage], while [qualified leads / purchases / bookings / sign-ups / revenue] changed by [Percentage or Number]. The most important result this month was [Key Business Win]. During the next reporting period, the primary focus will be [Next Strategic Priority].
+
+MONTH AT A GLANCE
+
+Organic Sessions: [Number]
+Change vs. Previous Month: [Percentage]
+Change vs. Same Month Last Year: [Percentage]
+
+Organic Conversions: [Number]
+Change vs. Previous Month: [Percentage]
+
+Organic Revenue or Estimated Lead Value: [Amount]
+Change vs. Previous Month: [Percentage]
+
+Priority Keywords in Top 10: [Number]
+Change vs. Previous Month: [Number]
+
+Technical Site Health: [Score or Status]
+
+KEY WIN
+
+[Describe the most important business or campaign achievement in one to three sentences.]
+
+Examples:
+
+- Qualified organic leads increased by [Percentage].
+- Organic revenue reached [Amount], representing a [Percentage] increase.
+- A priority service page entered the first page of Google.
+- A technical issue affecting important landing pages was resolved.
+- A new content cluster generated [Number] organic conversions.
+
+KEY CHALLENGE OR RISK
+
+[Describe one significant issue, decline, dependency, or risk and explain its likely impact.]
+
+NEXT MONTH'S PRIMARY FOCUS
+
+[Describe the most important strategic priority for the next reporting period.]
+
+========================================
+PAGE 2 — ORGANIC TRAFFIC OVERVIEW
+========================================
+
+DATA SOURCES
+
+Google Analytics 4: [Property Name]
+Google Search Console: [Property Name]
+Comparison Periods:
+
+- Current reporting period
+- Previous reporting period
+- Same period in the previous year
+
+ORGANIC TRAFFIC SUMMARY
+
+Metric: Organic Sessions
+Current Period: [Number]
+Previous Period: [Number]
+Month-over-Month Change: [Percentage]
+Year-over-Year Change: [Percentage]
+
+Metric: Organic Users
+Current Period: [Number]
+Previous Period: [Number]
+Month-over-Month Change: [Percentage]
+Year-over-Year Change: [Percentage]
+
+Metric: New Organic Users
+Current Period: [Number]
+Previous Period: [Number]
+Month-over-Month Change: [Percentage]
+
+Metric: Engaged Sessions
+Current Period: [Number]
+Previous Period: [Number]
+Month-over-Month Change: [Percentage]
+
+Metric: Organic Engagement Rate
+Current Period: [Percentage]
+Previous Period: [Percentage]
+
+RECOMMENDED VISUAL
+
+Insert a line chart showing organic sessions over time with:
+
+- Current month
+- Previous month
+- Same month last year
+
+TRAFFIC ANALYSIS
+
+What Changed:
+
+[Explain the primary increase, decrease, or stable trend.]
+
+Why It Changed:
+
+[Explain likely causes such as new content, ranking movement, seasonality, technical improvements, algorithm changes, brand demand, or campaign activity.]
+
+Business Impact:
+
+[Explain how the traffic trend affected leads, sales, engagement, or another business outcome.]
+
+TRAFFIC BY DEVICE
+
+Desktop Sessions: [Number and Percentage]
+Mobile Sessions: [Number and Percentage]
+Tablet Sessions: [Number and Percentage]
+
+Key Device Insight:
+
+[Explain any significant device trend or usability issue.]
+
+TRAFFIC BY LOCATION OR MARKET
+
+Location 1: [Sessions / Conversions]
+Location 2: [Sessions / Conversions]
+Location 3: [Sessions / Conversions]
+
+Geographic Insight:
+
+[Explain which locations grew, declined, or represent opportunities.]
+
+========================================
+PAGE 3 — SEARCH VISIBILITY AND KEYWORD PERFORMANCE
+========================================
+
+DATA SOURCES
+
+Rank Tracking Platform: [Semrush / Ahrefs / AgencyAnalytics / Nightwatch / Other]
+Google Search Console
+Tracked Market: [Country, Region, or City]
+Tracked Device: [Desktop / Mobile / Both]
+
+VISIBILITY SUMMARY
+
+Tracked Keywords: [Number]
+Keywords in Positions 1–3: [Number]
+Keywords in Positions 4–10: [Number]
+Keywords in Positions 11–20: [Number]
+Keywords in Positions 21–100: [Number]
+
+Search Visibility Score: [Score]
+Change vs. Previous Month: [Percentage or Points]
+
+PRIORITY KEYWORD GAINS
+
+Keyword: [Keyword]
+Previous Position: [Position]
+Current Position: [Position]
+Change: [Movement]
+Target Page: [URL]
+Business Relevance: [High / Medium / Low]
+Commentary: [Explain why this movement matters.]
+
+Keyword: [Keyword]
+Previous Position: [Position]
+Current Position: [Position]
+Change: [Movement]
+Target Page: [URL]
+Business Relevance: [High / Medium / Low]
+Commentary: [Explain why this movement matters.]
+
+Keyword: [Keyword]
+Previous Position: [Position]
+Current Position: [Position]
+Change: [Movement]
+Target Page: [URL]
+Business Relevance: [High / Medium / Low]
+Commentary: [Explain why this movement matters.]
+
+KEYWORDS REQUIRING ATTENTION
+
+Keyword: [Keyword]
+Previous Position: [Position]
+Current Position: [Position]
+Likely Cause: [Content gap / competitor movement / technical issue / search intent change / seasonality / other]
+Recommended Action: [Action]
+
+QUICK-WIN OPPORTUNITIES
+
+List priority keywords currently ranking between positions 4 and 20 that may improve with focused optimization.
+
+Keyword: [Keyword]
+Current Position: [Position]
+Target Page: [URL]
+Opportunity: [Content update / internal links / backlinks / title optimization / technical improvement]
+
+SEARCH CONSOLE VISIBILITY
+
+Organic Clicks: [Number]
+Change vs. Previous Month: [Percentage]
+
+Organic Impressions: [Number]
+Change vs. Previous Month: [Percentage]
+
+Average Click-Through Rate: [Percentage]
+Change vs. Previous Month: [Percentage Points]
+
+Average Position: [Position]
+Change vs. Previous Month: [Movement]
+
+VISIBILITY ANALYSIS
+
+[Explain which search themes, services, products, locations, or content groups gained or lost visibility and what the changes mean for the business.]
+
+========================================
+PAGE 4 — TOP PAGES, CONVERSIONS, AND BUSINESS IMPACT
+========================================
+
+ORGANIC CONVERSION SUMMARY
+
+Primary Conversion Type: [Lead / Sale / Booking / Sign-Up / Download / Other]
+
+Organic Conversions: [Number]
+Previous Period: [Number]
+Change: [Percentage]
+
+Organic Conversion Rate: [Percentage]
+Previous Period: [Percentage]
+Change: [Percentage Points]
+
+Organic Revenue: [Amount]
+Previous Period: [Amount]
+Change: [Percentage]
+
+Average Organic Order Value: [Amount]
+
+Qualified Organic Leads: [Number]
+Estimated Lead Value: [Amount]
+
+TOP ORGANIC LANDING PAGES
+
+Page: [Page Title]
+URL: [URL]
+Organic Sessions: [Number]
+Conversions: [Number]
+Conversion Rate: [Percentage]
+Revenue or Lead Value: [Amount]
+Change vs. Previous Month: [Percentage]
+
+Page: [Page Title]
+URL: [URL]
+Organic Sessions: [Number]
+Conversions: [Number]
+Conversion Rate: [Percentage]
+Revenue or Lead Value: [Amount]
+Change vs. Previous Month: [Percentage]
+
+Page: [Page Title]
+URL: [URL]
+Organic Sessions: [Number]
+Conversions: [Number]
+Conversion Rate: [Percentage]
+Revenue or Lead Value: [Amount]
+Change vs. Previous Month: [Percentage]
+
+TOP BUSINESS WIN
+
+[Identify the page, content group, location page, category, or product that produced the most meaningful business result.]
+
+HIGH-TRAFFIC, LOW-CONVERSION OPPORTUNITIES
+
+Page: [Page Title and URL]
+Organic Sessions: [Number]
+Conversion Rate: [Percentage]
+Issue or Hypothesis: [Describe]
+Recommended Action: [Describe]
+
+HIGH-IMPRESSION, LOW-CLICK OPPORTUNITIES
+
+Page or Query: [Page or Keyword]
+Impressions: [Number]
+CTR: [Percentage]
+Recommended Action: [Rewrite title / improve meta description / align intent / add structured data / other]
+
+CONVERSION ANALYSIS
+
+What Drove Results:
+
+[Explain which pages, keywords, campaigns, or improvements contributed to conversions.]
+
+What Needs Improvement:
+
+[Explain where traffic is not producing the desired business result.]
+
+Recommended Action:
+
+[Describe the next conversion-focused SEO action.]
+
+========================================
+PAGE 5 — TECHNICAL SEO HEALTH SNAPSHOT
+========================================
+
+DATA SOURCES
+
+Technical Audit Tool: [Ahrefs / Semrush / Screaming Frog / Sitebulb / Other]
+Google Search Console
+PageSpeed Insights or Chrome User Experience Report
+
+SITE HEALTH SUMMARY
+
+Site Health Score: [Score]
+Previous Score: [Score]
+Change: [Points]
+
+Critical Issues: [Number]
+High-Priority Issues: [Number]
+Medium-Priority Issues: [Number]
+
+Issues Resolved This Month: [Number]
+New Issues Identified: [Number]
+
+CRAWLING AND INDEXING
+
+Valid Indexed Pages: [Number]
+Pages Excluded from Index: [Number]
+Crawl Errors: [Number]
+Broken Internal Links: [Number]
+404 Errors: [Number]
+Redirect Chains or Loops: [Number]
+Duplicate Pages: [Number]
+Canonical Issues: [Number]
+
+CRITICAL TECHNICAL ISSUES
+
+Issue: [Issue Name]
+Affected Pages: [Number]
+Business or SEO Impact: [Explain]
+Status: [Open / In Progress / Resolved]
+Recommended Action: [Action]
+Owner: [Agency / Client / Developer]
+
+Issue: [Issue Name]
+Affected Pages: [Number]
+Business or SEO Impact: [Explain]
+Status: [Open / In Progress / Resolved]
+Recommended Action: [Action]
+Owner: [Agency / Client / Developer]
+
+CORE WEB VITALS
+
+Largest Contentful Paint (LCP): [Value]
+Status: [Good / Needs Improvement / Poor]
+
+Interaction to Next Paint (INP): [Value]
+Status: [Good / Needs Improvement / Poor]
+
+Cumulative Layout Shift (CLS): [Value]
+Status: [Good / Needs Improvement / Poor]
+
+Mobile Performance Score: [Score]
+Desktop Performance Score: [Score]
+
+CORE WEB VITALS COMMENTARY
+
+[Explain any meaningful performance changes in plain business language, including possible effects on user experience, conversions, and search visibility.]
+
+TECHNICAL WORK COMPLETED
+
+- [Technical task completed]
+- [Technical task completed]
+- [Technical task completed]
+
+TECHNICAL PRIORITY FOR NEXT MONTH
+
+[Describe the highest-priority technical action and its expected impact.]
+
+========================================
+PAGE 6 — DELIVERABLES, INSIGHTS, AND NEXT STEPS
+========================================
+
+WORK COMPLETED THIS MONTH
+
+STRATEGY AND RESEARCH
+
+- [Keyword research completed]
+- [Competitor analysis completed]
+- [Content plan created]
+- [Other strategic deliverable]
+
+CONTENT AND ON-PAGE SEO
+
+- [Number] new pages or articles published
+- [Number] pages optimized
+- [Number] titles and meta descriptions updated
+- [Number] internal links added
+- [Number] content briefs completed
+- [Other content deliverable]
+
+TECHNICAL SEO
+
+- [Technical issue resolved]
+- [Schema markup implemented]
+- [Redirects corrected]
+- [Indexing issue addressed]
+- [Core Web Vitals improvement completed]
+- [Other technical deliverable]
+
+OFF-PAGE SEO AND DIGITAL PR
+
+- [Number] new referring domains earned
+- [Number] outreach campaigns completed
+- [Number] citations or listings created or corrected
+- [Digital PR deliverable]
+- [Other authority-building activity]
+
+LOCAL SEO, IF APPLICABLE
+
+- [Google Business Profile optimization]
+- [Location page update]
+- [Citation correction]
+- [Review strategy activity]
+- [Other local SEO deliverable]
+
+KEY INSIGHTS
+
+1. [Most important insight from this month's data]
+
+2. [Second important insight]
+
+3. [Third important insight]
+
+NEXT MONTH'S PRIORITIES
+
+Priority 1: [Action]
+Reason: [Why the action matters]
+Expected Outcome: [Traffic / conversion / ranking / technical improvement]
+Owner: [Agency / Client / Shared]
+Target Date: [Date]
+
+Priority 2: [Action]
+Reason: [Why the action matters]
+Expected Outcome: [Outcome]
+Owner: [Agency / Client / Shared]
+Target Date: [Date]
+
+Priority 3: [Action]
+Reason: [Why the action matters]
+Expected Outcome: [Outcome]
+Owner: [Agency / Client / Shared]
+Target Date: [Date]
+
+CLIENT DEPENDENCIES
+
+The following items are needed from the client to maintain progress:
+
+- [Content approval]
+- [Developer access]
+- [Subject-matter expert review]
+- [Analytics or platform access]
+- [Brand assets]
+- [Other dependency]
+
+Requested By: [Date]
+
+RISKS OR BLOCKERS
+
+[Describe any issue that may affect timelines, implementation, reporting accuracy, or campaign results.]
+
+FINAL RECOMMENDATION
+
+[Close with a concise strategic recommendation connecting this month's results to the upcoming plan.]
+
+========================================
+OPTIONAL APPENDIX
+========================================
+
+Include only when relevant to the engagement:
+
+- Full keyword ranking table
+- Detailed backlink report
+- Content publication log
+- Technical issue export
+- Competitor visibility comparison
+- Local SEO location breakdown
+- E-commerce category performance
+- AI search visibility metrics
+- Definitions of reporting metrics
+
+========================================
+REPORTING NOTES
+========================================
+
+Data may differ slightly between platforms because each tool uses different attribution methods, update schedules, and measurement systems. Comparisons should use consistent sources and reporting periods whenever possible.
+
+Search rankings may fluctuate due to seasonality, competitor activity, search engine updates, location, device, personalization, and changes to search result layouts.
+
+SEO performance should be evaluated over meaningful periods rather than through isolated daily movements.

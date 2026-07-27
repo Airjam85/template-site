@@ -1,0 +1,711 @@
+SEO CLIENT ONBOARDING QUESTIONNAIRE
+
+Please complete this questionnaire as thoroughly as possible before our kickoff meeting. Your responses will help us understand your business, establish realistic goals, obtain the necessary access, and build an SEO strategy aligned with your priorities.
+
+Client or Company Name: [Company Name]
+Website URL: [Website URL]
+Date Completed: [Date]
+Completed By: [Name and Title]
+Primary Contact Email: [Email]
+Primary Contact Phone: [Phone]
+
+========================================
+1. BUSINESS OVERVIEW
+========================================
+
+1. How would you describe your business in two or three sentences?
+
+[Response]
+
+2. What products or services do you offer?
+
+[Response]
+
+3. What is your primary product, service, or revenue source?
+
+[Response]
+
+4. What is your unique selling proposition? Why do customers choose you instead of a competitor or doing nothing?
+
+[Response]
+
+5. What are your primary business goals for the next 12 months?
+
+[Response]
+
+6. Are there any major launches, expansions, events, or deadlines we should plan around?
+
+[Response]
+
+7. Is your business seasonal?
+
+☐ No
+☐ Yes
+
+If yes, describe your busiest and slowest periods:
+
+[Response]
+
+8. Which geographic markets do you currently serve?
+
+☐ Local
+☐ Regional
+☐ National
+☐ International
+
+Priority locations:
+
+[Response]
+
+========================================
+2. TARGET AUDIENCE
+========================================
+
+9. Who is your ideal customer?
+
+Please include any relevant details such as:
+
+- Age range
+- Location
+- Industry
+- Company size
+- Job title
+- Income or budget range
+- Interests
+- Buying behavior
+
+[Response]
+
+10. What problems, needs, or goals usually lead customers to search for your product or service?
+
+[Response]
+
+11. What are the most common questions customers ask before purchasing?
+
+[Response]
+
+12. What concerns, objections, or misconceptions commonly prevent customers from purchasing?
+
+[Response]
+
+13. Who is usually involved in the buying decision?
+
+[Response]
+
+14. How long is your typical sales cycle?
+
+[Response]
+
+15. What outcomes or benefits do customers receive from your product or service?
+
+[Response]
+
+========================================
+3. SEO GOALS AND SUCCESS METRICS
+========================================
+
+16. What is the primary objective of this SEO campaign?
+
+☐ Generate qualified leads
+☐ Increase e-commerce sales
+☐ Increase organic traffic
+☐ Improve local visibility
+☐ Build brand awareness
+☐ Improve rankings for priority keywords
+☐ Expand into new markets
+☐ Promote a specific product or service
+☐ Recover lost traffic or rankings
+☐ Other: [Describe]
+
+17. What is the single most important business outcome SEO should influence?
+
+[Response]
+
+18. Which conversions should we track?
+
+☐ Contact form submissions
+☐ Phone calls
+☐ Appointment bookings
+☐ Quote requests
+☐ Purchases
+☐ Subscription signups
+☐ Demo requests
+☐ Downloads
+☐ Store visits
+☐ Other: [Describe]
+
+19. What key performance indicators matter most to your team?
+
+☐ Organic traffic
+☐ Keyword rankings
+☐ Organic conversions
+☐ Revenue from organic search
+☐ Qualified leads
+☐ Cost per acquisition
+☐ Return on investment
+☐ Local visibility
+☐ Backlinks or referring domains
+☐ Other: [Describe]
+
+20. What measurable results would make this engagement successful?
+
+Please include target numbers where possible.
+
+[Response]
+
+21. What does success look like after:
+
+30 Days:
+
+[Response]
+
+90 Days:
+
+[Response]
+
+6 Months:
+
+[Response]
+
+12 Months:
+
+[Response]
+
+22. Are there internal forecasts, revenue targets, or lead targets we should understand?
+
+[Response]
+
+========================================
+4. COMPETITORS AND MARKET POSITION
+========================================
+
+23. List your three to five primary business competitors.
+
+Competitor 1: [Name and URL]
+Competitor 2: [Name and URL]
+Competitor 3: [Name and URL]
+Competitor 4: [Name and URL]
+Competitor 5: [Name and URL]
+
+24. Which websites compete with you most often in search results, even if they are not direct business competitors?
+
+[Response]
+
+25. What do your competitors do well?
+
+[Response]
+
+26. Where do you believe your business has a competitive advantage?
+
+[Response]
+
+27. Are there competitors, publishers, marketplaces, or directories you do not want used as strategic references?
+
+[Response]
+
+========================================
+5. PREVIOUS SEO AND MARKETING ACTIVITY
+========================================
+
+28. Have you previously worked with an SEO agency, consultant, or internal SEO team?
+
+☐ No
+☐ Yes
+
+If yes, describe the work completed and the results:
+
+[Response]
+
+29. What SEO tactics have previously been used?
+
+☐ Keyword research
+☐ Technical SEO
+☐ Content creation
+☐ Link building
+☐ Digital public relations
+☐ Local SEO
+☐ Conversion optimization
+☐ Website migration
+☐ Other: [Describe]
+
+30. What worked well in previous SEO or marketing campaigns?
+
+[Response]
+
+31. What did not work well?
+
+[Response]
+
+32. Can you provide previous SEO reports, keyword research, audits, content plans, or campaign deliverables?
+
+☐ No
+☐ Yes — attached or linked here: [Link]
+
+33. Has your website experienced a major decline in traffic, leads, revenue, or rankings?
+
+☐ No
+☐ Yes
+
+If yes, provide the approximate date and details:
+
+[Response]
+
+34. Has the website ever received a manual action, security warning, or other search engine penalty?
+
+☐ No
+☐ Yes
+☐ Not sure
+
+If yes, describe:
+
+[Response]
+
+35. Are you currently running other marketing campaigns?
+
+☐ Google Ads
+☐ Microsoft Ads
+☐ Meta Ads
+☐ Email Marketing
+☐ Social Media Marketing
+☐ Affiliate Marketing
+☐ Public Relations
+☐ Offline Advertising
+☐ Other: [Describe]
+
+36. Which marketing channels currently generate the most customers?
+
+[Response]
+
+========================================
+6. KEYWORDS, SERVICES, AND PRIORITY PAGES
+========================================
+
+37. Are there specific keywords or search phrases you want to target?
+
+[Response]
+
+38. Which products, services, or categories should receive the highest priority?
+
+[Response]
+
+39. Which website pages are most important to the business?
+
+[Response]
+
+40. Are there existing rankings, pages, or sources of traffic that must be protected?
+
+[Response]
+
+41. Are there products, services, topics, or geographic markets we should not promote?
+
+[Response]
+
+42. If you were searching for your own business, what phrases would you use?
+
+[Response]
+
+========================================
+7. WEBSITE AND TECHNICAL INFORMATION
+========================================
+
+43. What content management system or website platform do you use?
+
+☐ WordPress
+☐ Shopify
+☐ Webflow
+☐ Squarespace
+☐ Wix
+☐ Magento
+☐ BigCommerce
+☐ HubSpot CMS
+☐ Custom Website
+☐ Other: [Platform]
+
+44. Who manages website development and technical changes?
+
+Name or Team: [Name]
+Email: [Email]
+Typical Turnaround Time: [Timeframe]
+
+45. Is a website redesign, migration, domain change, or platform change planned within the next 12 months?
+
+☐ No
+☐ Yes
+☐ Possibly
+
+If yes, describe the project and estimated timeline:
+
+[Response]
+
+46. Are there technical limitations or internal policies that may affect website changes?
+
+[Response]
+
+47. Does the website have a staging or testing environment?
+
+☐ Yes
+☐ No
+☐ Not sure
+
+48. Who owns and manages the domain name and web hosting?
+
+[Response]
+
+49. Are there any existing website issues we should know about?
+
+☐ Slow loading times
+☐ Indexing problems
+☐ Broken pages
+☐ Mobile usability issues
+☐ Security issues
+☐ Duplicate content
+☐ Conversion tracking problems
+☐ Other: [Describe]
+
+========================================
+8. ANALYTICS AND ACCOUNT ACCESS
+========================================
+
+For security, please invite our team through each platform's user-access system. Do not enter passwords into this questionnaire.
+
+50. Is Google Analytics 4 installed?
+
+☐ Yes
+☐ No
+☐ Not sure
+
+Access Granted To: [Agency Email]
+
+51. Is Google Search Console configured?
+
+☐ Yes
+☐ No
+☐ Not sure
+
+Access Granted To: [Agency Email]
+
+52. Is Google Tag Manager installed?
+
+☐ Yes
+☐ No
+☐ Not sure
+
+Access Granted To: [Agency Email]
+
+53. Is a Google Business Profile used?
+
+☐ Yes
+☐ No
+☐ Not applicable
+
+Access Granted To: [Agency Email]
+
+54. Which additional platforms are currently used?
+
+☐ Google Ads
+☐ Microsoft Advertising
+☐ Merchant Center
+☐ Looker Studio
+☐ Ahrefs
+☐ Semrush
+☐ Moz
+☐ Call Tracking Platform
+☐ CRM
+☐ E-commerce Platform
+☐ Other: [Platform]
+
+55. What customer relationship management or lead-tracking system do you use?
+
+[Response]
+
+56. Are phone calls, forms, purchases, and other conversions currently tracked accurately?
+
+☐ Yes
+☐ No
+☐ Not sure
+
+57. Are there restrictions on the level of account access our team may receive?
+
+[Response]
+
+========================================
+9. CONTENT AND BRAND ASSETS
+========================================
+
+58. Do you have documented brand guidelines?
+
+☐ Yes — attached or linked here: [Link]
+☐ No
+
+59. How would you describe your preferred brand voice?
+
+☐ Professional
+☐ Conversational
+☐ Technical
+☐ Friendly
+☐ Authoritative
+☐ Educational
+☐ Premium
+☐ Other: [Describe]
+
+60. Do you have an internal writer or content team?
+
+☐ Yes
+☐ No
+☐ Limited availability
+
+61. Who will be responsible for content creation?
+
+☐ Client
+☐ Agency
+☐ Shared responsibility
+☐ To be determined
+
+62. Who can provide subject-matter expertise or review technical content?
+
+Name: [Name]
+Role: [Role]
+Availability: [Availability]
+
+63. What existing content assets can be shared?
+
+☐ Blog posts
+☐ Case studies
+☐ Customer testimonials
+☐ Sales presentations
+☐ Product documentation
+☐ Videos
+☐ Webinars
+☐ Research reports
+☐ Photography
+☐ Brand assets
+☐ Other: [Describe]
+
+64. Are there topics, claims, phrases, or brand messages we should avoid?
+
+[Response]
+
+65. Are there legal, compliance, regulatory, or industry-specific review requirements for content?
+
+[Response]
+
+66. How often would you realistically be able to review and approve content?
+
+[Response]
+
+========================================
+10. LINK BUILDING AND DIGITAL PR
+========================================
+
+67. Has the company previously conducted link-building or digital public relations campaigns?
+
+☐ No
+☐ Yes
+
+If yes, describe the approach:
+
+[Response]
+
+68. Do you have existing relationships with publications, associations, partners, or industry organizations?
+
+[Response]
+
+69. May our team conduct outreach on behalf of your brand?
+
+☐ Yes
+☐ No
+☐ Approval required before each outreach campaign
+
+70. Are there websites, industries, or outreach methods that should be avoided?
+
+[Response]
+
+71. Are company executives or subject-matter experts available for interviews, commentary, or media opportunities?
+
+[Response]
+
+========================================
+11. LOCAL SEO INFORMATION
+========================================
+
+Complete this section only if local SEO is included in the engagement.
+
+72. How many physical locations does the business operate?
+
+[Number]
+
+73. List the official name, address, and phone number for each location.
+
+[Response]
+
+74. Which cities, regions, or service areas should be prioritized?
+
+[Response]
+
+75. Are all Google Business Profiles verified and under company control?
+
+☐ Yes
+☐ No
+☐ Not sure
+
+76. Are business details consistent across major directories and listings?
+
+☐ Yes
+☐ No
+☐ Not sure
+
+77. How are customer reviews currently requested and managed?
+
+[Response]
+
+========================================
+12. E-COMMERCE INFORMATION
+========================================
+
+Complete this section only if e-commerce SEO is included in the engagement.
+
+78. What are your best-selling products or categories?
+
+[Response]
+
+79. Which products or categories have the highest profit margins?
+
+[Response]
+
+80. What is your approximate average order value?
+
+[Response]
+
+81. What is your approximate website conversion rate?
+
+[Response]
+
+82. Are products frequently added, removed, discontinued, or out of stock?
+
+[Response]
+
+83. Are there product-feed, inventory, fulfillment, or platform limitations we should understand?
+
+[Response]
+
+========================================
+13. COMMUNICATION AND APPROVALS
+========================================
+
+84. Who is the primary point of contact for this engagement?
+
+Name: [Name]
+Title: [Title]
+Email: [Email]
+Phone: [Phone]
+
+85. Who has final authority to approve SEO strategies, website changes, and content?
+
+Name: [Name]
+Title: [Title]
+
+86. Who else should receive project updates or reports?
+
+[Response]
+
+87. What is the preferred communication channel?
+
+☐ Email
+☐ Slack
+☐ Microsoft Teams
+☐ Project Management Platform
+☐ Phone
+☐ Other: [Channel]
+
+88. What reporting and meeting cadence do you prefer?
+
+☐ Weekly update
+☐ Biweekly update
+☐ Monthly report and meeting
+☐ Monthly report only
+☐ Quarterly strategy meeting
+☐ Other: [Cadence]
+
+89. What is the normal turnaround time for approvals?
+
+[Response]
+
+90. What should our team do if an approval deadline is missed?
+
+[Response]
+
+91. Are there any internal stakeholders who may influence the project later but are not currently involved?
+
+[Response]
+
+========================================
+14. EXPECTATIONS AND PROJECT RISKS
+========================================
+
+92. What results do you expect from SEO, and within what timeframe?
+
+[Response]
+
+93. What concerns do you have about this engagement?
+
+[Response]
+
+94. What was your experience with previous agencies or consultants?
+
+What worked well:
+
+[Response]
+
+What did not work well:
+
+[Response]
+
+95. What could delay or prevent implementation of SEO recommendations?
+
+[Response]
+
+96. Are there budget, staffing, development, approval, or compliance limitations we should plan around?
+
+[Response]
+
+97. Is there anything else we should understand before developing your SEO strategy?
+
+[Response]
+
+========================================
+15. ACCESS CHECKLIST
+========================================
+
+Please confirm access has been granted where applicable:
+
+☐ Google Analytics 4
+☐ Google Search Console
+☐ Google Tag Manager
+☐ Website CMS
+☐ Website Hosting
+☐ Domain Registrar
+☐ Google Business Profile
+☐ Google Ads
+☐ Merchant Center
+☐ CRM
+☐ Call Tracking Platform
+☐ SEO Tools
+☐ Shared Brand Assets
+☐ Previous SEO Reports
+☐ Other: [Platform]
+
+For account security, access should be granted using individual user invitations whenever possible. Passwords should not be entered into this questionnaire or sent through unsecured email.
+
+========================================
+CLIENT CONFIRMATION
+========================================
+
+I confirm that the information provided in this questionnaire is accurate to the best of my knowledge. I understand that incomplete information, delayed access, or delayed approvals may affect project timelines and results.
+
+Client Name: ______________________________
+
+Title: ___________________________________
+
+Signature: ________________________________
+
+Date: ____________________________________

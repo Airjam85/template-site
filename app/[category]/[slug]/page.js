@@ -76,6 +76,70 @@ const combinedSchema = [
     schema["@type"]
 );
 
+const packPromos = [
+  {
+    slugs: [
+      "seo-proposal-template",
+      "seo-services-contract-template",
+      "seo-retainer-agreement-template",
+      "seo-audit-agreement-template",
+      "seo-scope-of-work-template",
+      "seo-invoice-template",
+      "seo-services-invoice",
+      "seo-nda-template",
+      "seo-cancellation-letter-template",
+    ],
+    title: "Get the Complete SEO Agency Document Pack",
+    description:
+      "Save time with a reusable collection of SEO proposals, agreements, scopes of work, audit documents, invoices, and supporting client templates.",
+    href: "/packs/seo-agency-starter-pack",
+    buttonText: "View the SEO Agency Starter Pack",
+  },
+  {
+    slugs: [
+      "freelance-services-contract-template",
+      "freelance-writing-contract-template",
+      "freelance-design-contract-template",
+      "social-media-management-contract-template",
+      "influencer-brand-collaboration-contract-template",
+      "content-creator-brand-sponsorship-agreement-template",
+      "professional-invoice-template",
+      "expense-tracking-sheet-template",
+      "profit-and-loss-statement-template",
+      "simple-business-plan-template-for-freelancers",
+      "saas-business-plan-template",
+      "ugc-service-proposal-template",
+      "freelance-contract-website-design",
+      "freelance-scope-of-work-agreement-template",
+      "freelance-revision-policy-template",
+      "freelance-services-contract-template-basic",
+      "high-ticket-freelance-proposal-template",
+      "low-ticket-freelance-proposal-template",
+      "creator-non-disclosure-agreement-template",
+      "creator-invoice-template",
+      "freelance-content-marketing-invoice",
+      "copywriting-invoice",
+      "seo-services-invoice",
+      "social-media-manager-invoice",
+      "virtual-assistant-invoice",
+      "video-editing-invoice",
+      "ecommerce-services-invoice",
+      "non-disclosure-agreement-template",
+      "nda-template-for-freelancers",
+      "freelance-to-corporate-resignation",
+    ],
+    title: "Want the complete freelance pack?",
+    description:
+      "This template pairs well with the Freelance Starter Kit, which includes contracts, proposals, and invoice templates for freelancers and creators.",
+    href: "/packs/freelance-starter-kit",
+    buttonText: "View Freelance Starter Kit",
+  },
+];
+
+const packPromo = packPromos.find((pack) =>
+  pack.slugs.includes(template.slug)
+);
+
   return (
     <main className="max-w-3xl mx-auto p-10">
 {combinedSchema.length > 0 && (
@@ -146,55 +210,21 @@ const combinedSchema = [
   templateSlug={template.slug}
 />
 
-{[
-  "freelance-services-contract-template",
-  "freelance-writing-contract-template",
-  "freelance-design-contract-template",
-  "social-media-management-contract-template",
-  "influencer-brand-collaboration-contract-template",
-  "content-creator-brand-sponsorship-agreement-template",
-  "professional-invoice-template",
-  "expense-tracking-sheet-template",
-  "profit-and-loss-statement-template",
-  "simple-business-plan-template-for-freelancers",
-  "saas-business-plan-template",
-  "ugc-service-proposal-template",
-  "freelance-contract-website-design",
-  "freelance-scope-of-work-agreement-template",
-  "freelance-revision-policy-template",
-  "freelance-services-contract-template-basic",
-  "high-ticket-freelance-proposal-template",
-  "low-ticket-freelance-proposal-template",
-  "creator-non-disclosure-agreement-template",
-  "creator-invoice-template",
-  "freelance-content-marketing-invoice",
-  "copywriting-invoice",
-  "seo-services-invoice",
-  "social-media-manager-invoice",
-  "virtual-assistant-invoice",
-  "video-editing-invoice",
-  "ecommerce-services-invoice",
-  "non-disclosure-agreement-template",
-  "nda-template-for-freelancers",
-  "freelance-to-corporate-resignation"
-    
-].includes(template.slug) && (
+{packPromo && (
   <div className="mt-8 border rounded p-5 bg-gray-50">
     <h2 className="text-xl font-extrabold text-black mb-2">
-
-      Want the complete freelance pack?
+      {packPromo.title}
     </h2>
 
     <p className="text-gray-600 mb-4">
-      This template pairs well with the Freelance Starter Kit, which includes
-      contracts, proposals, and invoice templates for freelancers and creators.
+      {packPromo.description}
     </p>
 
     <Link
-      href="/packs/freelance-starter-kit"
+      href={packPromo.href}
       className="inline-block rounded bg-black px-4 py-2 text-white font-semibold hover:bg-gray-800"
     >
-      View Freelance Starter Kit
+      {packPromo.buttonText}
     </Link>
   </div>
 )}

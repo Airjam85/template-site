@@ -1,0 +1,738 @@
+KEYWORD RESEARCH SHEET
+
+Recommended Format: Google Sheets or Microsoft Excel
+
+Workbook Name: [Client Name] Keyword Research and Content Map
+Website: [Website URL]
+Primary Market: [Country, Region, or City]
+Language: [Language]
+Prepared By: [Agency or Consultant]
+Research Date: [Date]
+Last Updated: [Date]
+
+========================================
+WORKBOOK TAB 1 — INSTRUCTIONS & SOP
+========================================
+
+PURPOSE
+
+This workbook organizes keyword research from initial brainstorming through content mapping and implementation. It should serve as the shared source of truth for keyword selection, page targeting, content creation, and SEO prioritization.
+
+RECOMMENDED WORKFLOW
+
+Step 1: Review the client's products, services, audience, and business goals.
+
+Step 2: Add initial topics, customer pain points, product categories, and seed keywords to the Seed Brainstorming tab.
+
+Step 3: Expand the seed list using keyword research platforms, Google Search Console, Google Ads Keyword Planner, autocomplete suggestions, related searches, People Also Ask results, customer questions, and competitor research.
+
+Step 4: Import all relevant terms into the Master Keyword Database.
+
+Step 5: Remove exact duplicates, irrelevant terms, and keywords outside the client's target market.
+
+Step 6: Assign search intent, funnel stage, business priority, keyword role, and topic cluster.
+
+Step 7: Review current rankings and identify new-content opportunities, optimization opportunities, competitor gaps, and possible keyword cannibalization.
+
+Step 8: Assign each approved keyword cluster to one target URL or planned page.
+
+Step 9: Move actionable opportunities into the Content Map or Quick Wins tab.
+
+Step 10: Review rankings and implementation status regularly.
+
+SEARCH INTENT DEFINITIONS
+
+Informational:
+The searcher wants information, an explanation, instructions, or an answer to a question.
+
+Examples:
+- What is local SEO?
+- How to conduct keyword research
+- Benefits of content marketing
+
+Commercial:
+The searcher is comparing products, services, providers, or possible solutions before making a decision.
+
+Examples:
+- Best SEO agency for small businesses
+- Semrush vs. Ahrefs
+- Top payroll software
+
+Transactional:
+The searcher is ready to buy, book, subscribe, request a quote, download, or complete another conversion action.
+
+Examples:
+- Hire an SEO consultant
+- Buy accounting software
+- Book emergency plumber
+
+Navigational:
+The searcher wants to reach a particular website, brand, product, or online destination.
+
+Examples:
+- Google Search Console login
+- Semrush pricing
+- [Brand Name] customer support
+
+FUNNEL-STAGE DEFINITIONS
+
+Top of Funnel:
+Awareness-focused terms used by people learning about a problem or topic.
+
+Middle of Funnel:
+Evaluation-focused terms used by people researching possible solutions.
+
+Bottom of Funnel:
+High-intent terms used by people close to making a purchase or contacting a provider.
+
+KEYWORD ROLE DEFINITIONS
+
+Primary Keyword:
+The main search term assigned to a page. Each page should generally have one primary keyword.
+
+Secondary Keyword:
+A closely related phrase, variation, question, or subtopic that supports the primary keyword and may be targeted on the same page.
+
+Supporting Keyword:
+A related term that may inform headings, FAQs, examples, internal links, or supplemental content.
+
+BUSINESS PRIORITY DEFINITIONS
+
+High:
+Closely aligned with a primary product, service, revenue source, or strategic business objective.
+
+Medium:
+Relevant to the business and useful for attracting or educating potential customers but less directly tied to immediate revenue.
+
+Low:
+Topically relevant but less likely to influence qualified traffic, conversions, or current campaign priorities.
+
+DATA-ENTRY RULES
+
+- Use one keyword per row.
+- Use lowercase unless capitalization is required for a brand or proper noun.
+- Do not combine multiple keywords in one cell.
+- Record the source and date of every metric export.
+- Use the same country, language, database, and device settings when comparing keyword metrics.
+- Do not use search volume as the only prioritization factor.
+- Review actual search results before assigning intent or content type.
+- Map one keyword cluster to one preferred page whenever possible.
+- Flag multiple URLs targeting the same primary keyword as a possible cannibalization issue.
+- Never overwrite historical ranking data without preserving the prior measurement date.
+
+RECOMMENDED DROPDOWN VALUES
+
+Search Intent:
+Informational, Commercial, Transactional, Navigational, Mixed, Needs Review
+
+Business Priority:
+High, Medium, Low
+
+Keyword Role:
+Primary, Secondary, Supporting
+
+Funnel Stage:
+Top of Funnel, Middle of Funnel, Bottom of Funnel, Retention, Not Applicable
+
+Content Type:
+Service Page, Product Page, Category Page, Location Page, Blog Post, Pillar Page, Comparison Page, Landing Page, FAQ Page, Resource, Homepage, Other
+
+Recommended Action:
+Create New Page, Update Existing Page, Consolidate Pages, Redirect Page, Add Internal Links, Improve CTR, Build Links, Monitor, No Action, Needs Review
+
+Implementation Status:
+Researching, Approved, Brief Required, Brief Complete, Drafting, Client Review, Published, Optimized, Monitoring, On Hold, Rejected
+
+========================================
+WORKBOOK TAB 2 — SEED BRAINSTORMING
+========================================
+
+Use this tab before importing keyword-tool data. Capture how the client, customers, sales team, and subject-matter experts naturally describe the business.
+
+RECOMMENDED COLUMNS
+
+A. Seed Keyword or Topic
+B. Theme or Category
+C. Product or Service
+D. Customer Problem or Pain Point
+E. Customer Question
+F. Audience Segment
+G. Location or Service Area
+H. Search Modifier
+I. Suggested Search Intent
+J. Source
+K. Notes
+L. Approved for Expansion?
+
+SAMPLE ROW
+
+Seed Keyword or Topic: emergency plumbing
+Theme or Category: residential plumbing
+Product or Service: emergency repair
+Customer Problem or Pain Point: urgent water leak
+Customer Question: who can repair a leaking pipe today?
+Audience Segment: homeowners
+Location or Service Area: [City]
+Search Modifier: same day
+Suggested Search Intent: Transactional
+Source: Client kickoff interview
+Notes: High-value service with 24-hour availability
+Approved for Expansion?: Yes
+
+SEED RESEARCH PROMPTS
+
+- What products or services generate the most revenue?
+- Which services have the highest profit margins?
+- What terminology do customers use when contacting the business?
+- What questions are asked during sales calls?
+- What objections delay purchases?
+- What urgent problems lead customers to seek help?
+- Which industries, roles, or customer groups are most valuable?
+- Which cities, neighborhoods, or service areas should be targeted?
+- What alternatives or competitors do customers compare?
+- What product features, outcomes, or benefits matter most?
+- Which seasonal topics affect demand?
+- What branded terms already generate traffic?
+
+========================================
+WORKBOOK TAB 3 — MASTER KEYWORD DATABASE
+========================================
+
+This is the primary database containing all cleaned and qualified keyword opportunities.
+
+CORE KEYWORD COLUMNS
+
+A. Keyword
+B. Normalized Keyword
+C. Topic Cluster
+D. Subtopic
+E. Seed Theme
+F. Keyword Role
+G. Search Intent
+H. Funnel Stage
+I. Business Priority
+J. Relevance Score
+K. Search Volume
+L. Keyword Difficulty
+M. Cost Per Click
+N. Paid Competition
+O. Traffic Potential
+P. Search Trend
+Q. Seasonality
+R. SERP Features
+S. Location
+T. Language
+U. Device
+V. Data Source
+W. Metrics Date
+
+CURRENT PERFORMANCE COLUMNS
+
+X. Current Ranking Position
+Y. Previous Ranking Position
+Z. Position Change
+AA. Ranking URL
+AB. Organic Clicks
+AC. Impressions
+AD. Click-Through Rate
+AE. Current Organic Traffic Estimate
+AF. Branded or Non-Branded
+AG. Ranking Status
+
+STRATEGIC MAPPING COLUMNS
+
+AH. Assigned URL
+AI. Proposed URL Slug
+AJ. Existing or New Page
+AK. Content Type
+AL. Primary Conversion Goal
+AM. Recommended Action
+AN. Cannibalization Risk
+AO. Competing URL 1
+AP. Competing URL 2
+AQ. Internal Link Source
+AR. Supporting Keywords
+AS. Parent Topic or Pillar Page
+AT. Content Brief Link
+
+WORKFLOW COLUMNS
+
+AU. Opportunity Score
+AV. Expected Impact
+AW. Estimated Effort
+AX. Implementation Status
+AY. Owner
+AZ. Target Date
+BA. Publication or Optimization Date
+BB. Last Ranking Check
+BC. Notes
+BD. Approved?
+
+RECOMMENDED COLUMN GUIDANCE
+
+Keyword:
+Enter the exact query being evaluated.
+
+Normalized Keyword:
+Enter a cleaned version used for deduplication. Remove unnecessary capitalization, punctuation, and spacing without changing meaning.
+
+Topic Cluster:
+Group keywords that should be addressed by the same page or tightly related page set.
+
+Keyword Role:
+Mark the main term as Primary and related variations as Secondary or Supporting.
+
+Search Intent:
+Classify the dominant intent based on the current search results, not solely on the wording of the query.
+
+Business Priority:
+Evaluate how closely the keyword aligns with profitable products, services, customer segments, or campaign goals.
+
+Relevance Score:
+Use a consistent scale such as 1 to 5, where 5 means directly aligned with the client's core offering.
+
+Search Volume:
+Enter average monthly searches for the selected country and language.
+
+Keyword Difficulty:
+Enter the difficulty metric from the chosen research platform. Do not compare difficulty scores from different tools as though they use the same calculation.
+
+Cost Per Click:
+Enter the estimated average advertising cost per click. A higher CPC may indicate commercial value but should not be treated as a direct SEO ranking factor.
+
+Traffic Potential:
+Estimate the possible traffic from the entire topic rather than only the exact keyword where data is available.
+
+Search Trend:
+Record Growing, Stable, Declining, Seasonal, Emerging, or Unknown.
+
+SERP Features:
+Record applicable features such as Featured Snippet, People Also Ask, Local Pack, Images, Video, Shopping, Reviews, AI Overview, or Knowledge Panel.
+
+Current Ranking Position:
+Enter the current organic position for the selected device and location. Use Not Ranking when no position is found within the tracked range.
+
+Position Change:
+Use a formula comparing the current and previous ranking positions.
+
+Example Formula:
+==IF(OR(X2="",Y2=""),"",Y2-X2)
+
+Assigned URL:
+Enter the preferred existing or planned page that should rank for the keyword cluster.
+
+Proposed URL Slug:
+Enter a concise, descriptive proposed path for new content.
+
+Recommended Action:
+Choose the most appropriate implementation step based on current rankings, content quality, intent alignment, and business value.
+
+Cannibalization Risk:
+Mark Yes when multiple URLs compete for the same or nearly identical intent. Mark Possible when further review is needed.
+
+Opportunity Score:
+Use a consistent formula based on business priority, relevance, search demand, difficulty, intent, and current position.
+
+SAMPLE OPPORTUNITY SCORE MODEL
+
+Assign numeric values:
+
+Business Priority:
+High = 3
+Medium = 2
+Low = 1
+
+Relevance Score:
+1 to 5
+
+Intent Value:
+Transactional = 4
+Commercial = 3
+Informational = 2
+Navigational = 1
+
+Ranking Opportunity:
+Positions 4–10 = 4
+Positions 11–20 = 5
+Positions 21–30 = 4
+Positions 31–50 = 3
+Not Ranking = 2
+Positions 1–3 = 1
+
+Difficulty Opportunity:
+KD 0–20 = 5
+KD 21–40 = 4
+KD 41–60 = 3
+KD 61–80 = 2
+KD 81–100 = 1
+
+Example Weighted Formula:
+
+Opportunity Score =
+(Business Priority × 25%) +
+(Relevance × 20%) +
+(Intent Value × 20%) +
+(Ranking Opportunity × 20%) +
+(Difficulty Opportunity × 15%)
+
+Adjust weights according to the campaign's goals and available authority.
+
+========================================
+WORKBOOK TAB 4 — CONTENT MAP
+========================================
+
+Use this tab to translate approved keyword clusters into pages, content briefs, and production tasks.
+
+RECOMMENDED COLUMNS
+
+A. Topic Cluster
+B. Primary Keyword
+C. Secondary Keywords
+D. Search Intent
+E. Funnel Stage
+F. Business Priority
+G. Recommended Content Type
+H. Existing or New Page
+I. Current URL
+J. Proposed URL Slug
+K. Working Title
+L. Page Purpose
+M. Primary Audience
+N. Primary Conversion Goal
+O. Recommended Word Count or Depth
+P. Required Sections
+Q. Questions to Answer
+R. Internal Links to Add
+S. External Sources or References
+T. Structured Data Opportunity
+U. Content Brief Link
+V. Assigned Writer
+W. Reviewer
+X. Status
+Y. Target Draft Date
+Z. Target Publication Date
+AA. Final Published URL
+AB. Last Updated
+AC. Notes
+
+CONTENT MAPPING RULES
+
+- Assign one primary keyword to each page.
+- Add approximately three to five closely related secondary keywords where appropriate.
+- Do not force unrelated intents onto the same page.
+- Separate informational and transactional pages when the search results show clearly different expectations.
+- Use pillar pages for broad topics that require multiple supporting articles.
+- Map location-specific transactional terms to unique, useful location pages where appropriate.
+- Use existing pages when they already match the search intent and can be improved.
+- Create new content only when there is a genuine gap or the existing page cannot satisfy the query.
+- Consolidate overlapping pages where multiple URLs address the same intent.
+
+SAMPLE CONTENT MAP ENTRY
+
+Topic Cluster: small business keyword research
+Primary Keyword: keyword research for small business
+Secondary Keywords: small business keyword strategy; how to find keywords for small business; local business keyword research
+Search Intent: Informational
+Funnel Stage: Top of Funnel
+Business Priority: Medium
+Recommended Content Type: Pillar Page
+Existing or New Page: New
+Proposed URL Slug: /keyword-research-for-small-business
+Working Title: Keyword Research for Small Businesses: A Practical Guide
+Page Purpose: Teach small business owners how to identify specific, achievable, high-intent search terms.
+Primary Conversion Goal: Download SEO checklist
+Required Sections: Seed terms, long-tail research, local modifiers, commercial intent, competitor gaps, keyword mapping
+Status: Brief Required
+
+========================================
+WORKBOOK TAB 5 — COMPETITOR GAP
+========================================
+
+Use this tab to document relevant terms where one or more competitors rank but the client has limited or no visibility.
+
+RECOMMENDED COLUMNS
+
+A. Keyword
+B. Topic Cluster
+C. Search Intent
+D. Search Volume
+E. Keyword Difficulty
+F. Cost Per Click
+G. Client Position
+H. Client Ranking URL
+I. Competitor 1 Domain
+J. Competitor 1 Position
+K. Competitor 1 Ranking URL
+L. Competitor 2 Domain
+M. Competitor 2 Position
+N. Competitor 2 Ranking URL
+O. Competitor 3 Domain
+P. Competitor 3 Position
+Q. Competitor 3 Ranking URL
+R. Number of Competitors Ranking
+S. Content Format Ranking
+T. SERP Features
+U. Business Priority
+V. Content Gap Type
+W. Recommended Action
+X. Proposed Target URL
+Y. Opportunity Score
+Z. Status
+AA. Notes
+
+CONTENT GAP TYPE DROPDOWN
+
+- Missing Service Page
+- Missing Product or Category Page
+- Missing Blog Content
+- Weak Existing Page
+- Outdated Content
+- Intent Mismatch
+- Insufficient Depth
+- Missing Location Page
+- Missing Comparison Content
+- Missing Supporting Cluster
+- Authority or Backlink Gap
+- Needs Review
+
+COMPETITOR GAP REVIEW QUESTIONS
+
+- Is the keyword genuinely relevant to the client's products, services, or audience?
+- Does the ranking content match the client's intended search market?
+- Are competitors ranking with a service page, product page, guide, comparison, video, or another format?
+- Does the client already have a page that could compete after optimization?
+- Would creating this page introduce cannibalization?
+- Does the keyword have enough business value to justify the required effort?
+- What does the ranking competitor content include that the client currently lacks?
+
+========================================
+WORKBOOK TAB 6 — QUICK WINS
+========================================
+
+Use this tab to identify terms that may produce results faster through focused optimization rather than entirely new content.
+
+DEFAULT QUICK-WIN CRITERIA
+
+- Current ranking position between 11 and 30
+- High or medium business priority
+- Strong relevance to an existing page
+- Search intent matches the ranking page
+- Keyword difficulty is realistic for the website
+- Page is indexed and technically accessible
+- No unresolved cannibalization issue
+
+RECOMMENDED COLUMNS
+
+A. Keyword
+B. Topic Cluster
+C. Current Position
+D. Previous Position
+E. Position Change
+F. Search Volume
+G. Keyword Difficulty
+H. Search Intent
+I. Business Priority
+J. Ranking URL
+K. Page Type
+L. Organic Clicks
+M. Impressions
+N. Click-Through Rate
+O. Conversion Relevance
+P. Optimization Opportunity
+Q. Recommended Action
+R. Estimated Effort
+S. Expected Impact
+T. Owner
+U. Target Date
+V. Status
+W. Results After Optimization
+X. Notes
+
+QUICK-WIN ACTION DROPDOWN
+
+- Improve Title Tag
+- Rewrite Meta Description
+- Expand Page Content
+- Improve Search Intent Alignment
+- Add Internal Links
+- Add Supporting FAQs
+- Improve Headings
+- Add Structured Data
+- Refresh Statistics or Examples
+- Improve Page Speed
+- Add Relevant Backlinks
+- Consolidate Competing Pages
+- Strengthen Conversion Elements
+- Other
+
+OPTIONAL FILTER FORMULA
+
+Use a filter view or query that displays terms meeting selected criteria.
+
+Example Google Sheets Formula:
+
+=FILTER('Master Keyword Database'!A:BD,'Master Keyword Database'!X:X>=11,'Master Keyword Database'!X:X<=30,'Master Keyword Database'!I:I<>"Low")
+
+Adjust referenced columns to match the final workbook structure.
+
+========================================
+WORKBOOK TAB 7 — KEYWORD CLUSTERS
+========================================
+
+Use this optional tab to group semantically related terms by topic and intent before assigning pages.
+
+RECOMMENDED COLUMNS
+
+A. Cluster Name
+B. Primary Keyword
+C. Secondary Keyword
+D. Supporting Keyword
+E. Search Intent
+F. Combined Search Volume
+G. Average Keyword Difficulty
+H. Funnel Stage
+I. Business Priority
+J. Existing Target URL
+K. Recommended Target URL
+L. Content Type
+M. Pillar or Supporting Content
+N. Cannibalization Risk
+O. Notes
+
+CLUSTERING GUIDELINES
+
+- Group terms only when the same page can satisfy their search intent.
+- Review the current search results to determine whether Google treats keywords as equivalent.
+- Use the highest-value and most representative term as the primary keyword, not automatically the term with the highest volume.
+- Keep keywords with substantially different commercial intent in separate clusters.
+- Keep location-specific terms separate when unique local pages are justified.
+- Use secondary keywords naturally in headings, body content, examples, and FAQs.
+
+========================================
+WORKBOOK TAB 8 — RANK TRACKING
+========================================
+
+Use this optional tab to preserve historical ranking data for approved keywords.
+
+RECOMMENDED COLUMNS
+
+A. Keyword
+B. Assigned URL
+C. Search Intent
+D. Business Priority
+E. Tracking Location
+F. Device
+G. Baseline Position
+H. [Month 1 Position]
+I. [Month 2 Position]
+J. [Month 3 Position]
+K. Current Position
+L. Change from Baseline
+M. Best Position
+N. Ranking URL
+O. SERP Feature Present
+P. Organic Clicks
+Q. Conversions
+R. Last Updated
+S. Notes
+
+EXAMPLE CHANGE FORMULA
+
+=IF(OR(G2="",K2=""),"",G2-K2)
+
+A positive result indicates ranking improvement when lower position numbers represent stronger rankings.
+
+========================================
+FORMATTING AND VALIDATION RECOMMENDATIONS
+========================================
+
+FREEZE AND FILTER
+
+- Freeze the header row on every tab.
+- Turn on filters for all databases and workflow tabs.
+- Freeze the Keyword column where large horizontal datasets are used.
+
+DATA VALIDATION
+
+Add dropdown menus for:
+
+- Search Intent
+- Business Priority
+- Keyword Role
+- Funnel Stage
+- Content Type
+- Recommended Action
+- Implementation Status
+- Owner
+- Approved Status
+
+CONDITIONAL FORMATTING
+
+Suggested formatting rules:
+
+- Highlight High business priority keywords.
+- Highlight positions 1–3 as established wins.
+- Highlight positions 4–10 as first-page opportunities.
+- Highlight positions 11–30 as quick wins.
+- Highlight ranking declines greater than [Number] positions.
+- Highlight missing Assigned URL values for approved keywords.
+- Highlight duplicate primary keywords or duplicate target URLs.
+- Highlight overdue target dates.
+- Highlight rows marked as possible cannibalization.
+
+PROTECTED CELLS
+
+Protect:
+
+- Formula columns
+- Dropdown reference lists
+- Scoring calculations
+- Instruction tabs
+- Historical ranking columns
+
+SECURITY AND ACCESS
+
+- Do not store account passwords in the workbook.
+- Use platform invitation systems for tool access.
+- Limit editing permissions according to team responsibilities.
+- Use version history before large imports or bulk changes.
+- Create a backup before restructuring columns or formulas.
+
+========================================
+QUALITY-CONTROL CHECKLIST
+========================================
+
+Before Final Approval:
+
+☐ Duplicates have been removed or intentionally grouped.
+☐ Keywords are relevant to the client's audience and offering.
+☐ Market, device, and language settings are documented.
+☐ Search intent has been verified against live search results.
+☐ High-priority keywords align with business goals.
+☐ Primary and secondary keywords are clearly distinguished.
+☐ Each approved cluster has one preferred target URL.
+☐ Potential cannibalization has been reviewed.
+☐ Existing rankings have been checked.
+☐ Quick-win opportunities have been identified.
+☐ Competitor-gap terms have been reviewed for relevance.
+☐ New-page recommendations are supported by a real content gap.
+☐ Content types match the dominant search-result format.
+☐ Final keywords have an assigned owner and implementation status.
+☐ Metrics dates and data sources are recorded.
+
+========================================
+FINAL APPROVAL
+========================================
+
+Prepared By: [Name]
+Date: [Date]
+
+Reviewed By: [Name]
+Date: [Date]
+
+Client Approval Required: [Yes / No]
+
+Approved By: [Name]
+Date: [Date]
+
+Next Scheduled Review: [Date]
