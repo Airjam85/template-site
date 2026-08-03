@@ -11,7 +11,55 @@ import { generateWebPageSchema } from "../../../lib/schema/webpage";
 import { SITE_URL } from "../../../lib/constants";
 import { generateCanonical } from "../../../lib/seo";
 import { getRelatedTemplates } from "../../../lib/getRelatedTemplates";
+import { getTemplateFormatSnippet } from "../../../lib/templateFormats";
 import Footer from "../../components/Footer";
+
+const BRAND_SUFFIX = " | MangoGranola";
+const MAX_METADATA_TITLE_LENGTH = 60;
+
+function truncateTitle(title, maxLength) {
+  if (title.length <= maxLength) {
+    return title;
+  }
+
+  const truncated = title.slice(0, maxLength + 1);
+  const lastSpaceIndex = truncated.lastIndexOf(" ");
+
+  if (lastSpaceIndex <= 0) {
+    return title.slice(0, maxLength).trim();
+  }
+
+  return truncated.slice(0, lastSpaceIndex).trim();
+}
+
+function buildMetadataTitle(title) {
+  const candidates = [
+    `Free ${title} (Copy & Download)${BRAND_SUFFIX}`,
+    `Free ${title} (Download)${BRAND_SUFFIX}`,
+    `Free ${title}${BRAND_SUFFIX}`,
+  ];
+
+  const matchingCandidate = candidates.find(
+    (candidate) => candidate.length <= MAX_METADATA_TITLE_LENGTH
+  );
+
+  if (matchingCandidate) {
+    return matchingCandidate;
+  }
+
+  const truncatedTitle = truncateTitle(
+    title,
+    MAX_METADATA_TITLE_LENGTH - BRAND_SUFFIX.length - "Free ".length
+  );
+
+  return `Free ${truncatedTitle}${BRAND_SUFFIX}`;
+}
+
+function buildMetadataDescription(template) {
+  const formatSnippet = getTemplateFormatSnippet(template.slug);
+
+  return `Free ${template.title} in ${formatSnippet}. Edit online, copy the text, or download an editable file instantly.`;
+}
 
 export async function generateStaticParams() {
   return templates.map((template) => ({
@@ -29,16 +77,19 @@ if (!template) {
   notFound();
 }
 
+  const title = buildMetadataTitle(template.title);
+  const description = buildMetadataDescription(template);
+
   return {
-    title: `${template.title} | MangoGranola`,
-    description: template.description,
+    title,
+    description,
     alternates: {
       canonical: generateCanonical(`/${category}/${slug}`),
     },
     openGraph: {
-      title: template.title,
-      description: template.description,
-      url: `https://mangogranola.com/${category}/${slug}`,
+      title,
+      description,
+      url: `${SITE_URL}/${category}/${slug}`,
       siteName: "MangoGranola",
       type: "article",
     },
