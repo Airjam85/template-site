@@ -1,6 +1,11 @@
 "use client";
 
 import { useState } from "react";
+import {
+  downloadTemplateDocx,
+  downloadTemplatePdf,
+  downloadTemplateTxt,
+} from "../../lib/exportTemplateFiles";
 
 export default function TemplateActions({
   templateContent = "",
@@ -41,27 +46,40 @@ export default function TemplateActions({
           {copied ? "Copied!" : "Copy Template"}
         </button>
 
-       <button
-  onClick={() => {
-    const blob = new Blob([content], {
-      type: "text/plain",
-    });
+        <button
+          onClick={() => {
+            downloadTemplateTxt(content, templateSlug);
+          }}
+          className="border px-4 py-2 rounded bg-white text-black hover:bg-gray-100 dark:bg-zinc-900 dark:text-white dark:hover:bg-zinc-800"
+        >
+          Download TXT
+        </button>
 
-    const url = URL.createObjectURL(blob);
+        <button
+          onClick={async () => {
+            try {
+              await downloadTemplateDocx(content, templateSlug);
+            } catch (error) {
+              console.error(error);
+            }
+          }}
+          className="border px-4 py-2 rounded bg-white text-black hover:bg-gray-100 dark:bg-zinc-900 dark:text-white dark:hover:bg-zinc-800"
+        >
+          Download DOCX
+        </button>
 
-    const a = document.createElement("a");
-    a.href = url;
-    a.download = templateSlug
-      ? `${templateSlug}.txt`
-      : "mangogranola-template.txt";
-    a.click();
-
-    URL.revokeObjectURL(url);
-  }}
-  className="border px-4 py-2 rounded bg-white text-black hover:bg-gray-100 dark:bg-zinc-900 dark:text-white dark:hover:bg-zinc-800"
->
-  Download TXT
-</button>
+        <button
+          onClick={async () => {
+            try {
+              await downloadTemplatePdf(content, templateSlug);
+            } catch (error) {
+              console.error(error);
+            }
+          }}
+          className="border px-4 py-2 rounded bg-white text-black hover:bg-gray-100 dark:bg-zinc-900 dark:text-white dark:hover:bg-zinc-800"
+        >
+          Download PDF
+        </button>
 
         <button
   onClick={async () => {
