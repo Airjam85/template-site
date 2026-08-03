@@ -51,7 +51,9 @@ export default function TemplateActions({
 
     const a = document.createElement("a");
     a.href = url;
-    a.download = "mangogranola-template.txt";
+    a.download = templateSlug
+      ? `${templateSlug}.txt`
+      : "mangogranola-template.txt";
     a.click();
 
     URL.revokeObjectURL(url);
